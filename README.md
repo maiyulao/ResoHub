@@ -15,6 +15,7 @@
 - [GeoSpy AI 视觉定位指南：基于图像推理的地理溯源与隐私泄露检测](./ai-tool/geospy-ai-visual-geolocation-guide.md) — 2026-02-15
 - [低成本 AI 实践：基于 Go 语言重构的轻量级助手 PicoClaw，内存占用低于 10MB](./ai-tool/low-cost-ai-picoclaw-go-lightweight-assistant.md) — 2026-02-15
 - [基于 Python 与 Vue.js 的开源可视化看板：涵盖数据清洗、趋势分析与多模型对比实战](./ai-tool/python-vue-open-source-visualization-dashboard.md) — 2026-02-14
+- [OpenClaw 部署指南：快速构建集成多模型的微信、飞书与 Telegram AI 助理](./ai-tool/openclaw-deployment-guide-ai-assistant.md) — 2026-02-13
 
 ### Mac软件
 - [Open DroneLog：支持自托管的开源DJI飞行日志分析工具及部署指南](./mac/opendronelog-open-source-dji-flight-log-analysis-guide.md) — 2026-02-25
