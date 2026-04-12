@@ -14,6 +14,7 @@
 
 ### Mac软件
 - [Open DroneLog：支持自托管的开源DJI飞行日志分析工具及部署指南](./mac/opendronelog-open-source-dji-flight-log-analysis-guide.md) — 2026-02-25
+- [Accomplish 开源 AI 桌面代理：实现文件自动化整理与工作流替代方案](./mac/accomplish-open-source-ai-desktop-agent.md) — 2026-02-23
 
 ### 创意工具
 - [出国出差担心漫游费太贵或当地卡激活麻烦？实测 Roamless eSIM 是否能成为可靠的企业差旅备用方案](./creative-tools/roamless-esim-review-for-business-travel.md) — 2026-02-28
