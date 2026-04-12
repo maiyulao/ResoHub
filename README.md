@@ -19,6 +19,9 @@
 - [FeedCraft 开源自托管部署指南：实现 RSS 全文提取、翻译与 AI 摘要的中间件方案](./ai-tool/feedcraft-self-hosted-deployment-guide.md) — 2026-02-13
 - [利用 SimilarRepos 进行开源项目选型与竞品分析的操作指南](./ai-tool/similarrepos-open-source-selection-competitor-analysis-guide.md) — 2026-02-12
 
+### Android应用
+- [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
+
 ### Mac软件
 - [Open DroneLog：支持自托管的开源DJI飞行日志分析工具及部署指南](./mac/opendronelog-open-source-dji-flight-log-analysis-guide.md) — 2026-02-25
 - [Accomplish 开源 AI 桌面代理：实现文件自动化整理与工作流替代方案](./mac/accomplish-open-source-ai-desktop-agent.md) — 2026-02-23
