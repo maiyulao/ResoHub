@@ -17,6 +17,7 @@
 - [Accomplish 开源 AI 桌面代理：实现文件自动化整理与工作流替代方案](./mac/accomplish-open-source-ai-desktop-agent.md) — 2026-02-23
 - [开源替代 Superwhisper：FreeFlow 实现 macOS 全局低延迟语音转文字](./mac/freeflow-open-source-superwhisper-alternative-macos.md) — 2026-02-19
 - [开源替代 Screen Studio：CursorLens 实现 Mac 录屏与光标特效剪辑一体化](./mac/cursorlens-open-source-screen-studio-alternative.md) — 2026-02-19
+- [ClawX 桌面端下载：通过可视化界面部署 OpenClaw 生产级 AI 智能体](./mac/clawx-desktop-download-openclaw-ai-agents.md) — 2026-02-17
 
 ### 创意工具
 - [出国出差担心漫游费太贵或当地卡激活麻烦？实测 Roamless eSIM 是否能成为可靠的企业差旅备用方案](./creative-tools/roamless-esim-review-for-business-travel.md) — 2026-02-28
