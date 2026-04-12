@@ -20,4 +20,5 @@
 - [出国出差担心漫游费太贵或当地卡激活麻烦？实测 Roamless eSIM 是否能成为可靠的企业差旅备用方案](./creative-tools/roamless-esim-review-for-business-travel.md) — 2026-02-28
 - [如何精准计算申根签证90/180天停留期？Travel Visa Stack 2026版过境签与行前核对指南](./creative-tools/schengen-visa-90-180-day-calculator-guide-2026.md) — 2026-02-25
 - [2026 全球创作者平台抽成指南：33 个主流平台费率、入驻门槛及净收入对比分析](./creative-tools/2026-global-creator-platform-fees-comparison.md) — 2026-02-22
+- [PrintRelay 使用指南：无需登录、扫码即传的公用电脑临时文件传输方案](./creative-tools/printrelay-user-guide-temporary-file-transfer.md) — 2026-02-21
 <!-- LE_AUTOPOST_INDEX_END -->
