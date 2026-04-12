@@ -13,6 +13,7 @@
 - [MindPocket 实操指南：构建可私有部署的 RAG 开源 AI 书签知识库](./ai-tool/mindpocket-guide-private-rag-ai-bookmarks-knowledge-base.md) — 2026-02-24
 - [面对 2026 年 OpenClaw 繁多的分身版本，PicoClaw 的稳定性是否足以支撑生产环境？](./ai-tool/picoclaw-stability-vs-openclaw-forks-2026.md) — 2026-02-17
 - [GeoSpy AI 视觉定位指南：基于图像推理的地理溯源与隐私泄露检测](./ai-tool/geospy-ai-visual-geolocation-guide.md) — 2026-02-15
+- [低成本 AI 实践：基于 Go 语言重构的轻量级助手 PicoClaw，内存占用低于 10MB](./ai-tool/low-cost-ai-picoclaw-go-lightweight-assistant.md) — 2026-02-15
 
 ### Mac软件
 - [Open DroneLog：支持自托管的开源DJI飞行日志分析工具及部署指南](./mac/opendronelog-open-source-dji-flight-log-analysis-guide.md) — 2026-02-25
