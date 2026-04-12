@@ -10,6 +10,7 @@
 ### AI工具
 - [2026 AI 领域 X 核心影响力名单：涵盖 300 余位研究员、创始人及投资人（支持筛选）](./ai-tool/2026-ai-influence-list-300-experts.md) — 2026-02-27
 - [OpenClaw 私有化部署指南：企业级 AI 助手环境配置与自动化安装步骤](./ai-tool/openclaw-private-deployment-guide.md) — 2026-02-26
+- [MindPocket 实操指南：构建可私有部署的 RAG 开源 AI 书签知识库](./ai-tool/mindpocket-guide-private-rag-ai-bookmarks-knowledge-base.md) — 2026-02-24
 
 ### Mac软件
 - [Open DroneLog：支持自托管的开源DJI飞行日志分析工具及部署指南](./mac/opendronelog-open-source-dji-flight-log-analysis-guide.md) — 2026-02-25
