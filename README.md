@@ -11,6 +11,9 @@
 - [2026 AI 领域 X 核心影响力名单：涵盖 300 余位研究员、创始人及投资人（支持筛选）](./ai-tool/2026-ai-influence-list-300-experts.md) — 2026-02-27
 - [OpenClaw 私有化部署指南：企业级 AI 助手环境配置与自动化安装步骤](./ai-tool/openclaw-private-deployment-guide.md) — 2026-02-26
 
+### Mac软件
+- [Open DroneLog：支持自托管的开源DJI飞行日志分析工具及部署指南](./mac/opendronelog-open-source-dji-flight-log-analysis-guide.md) — 2026-02-25
+
 ### 创意工具
 - [出国出差担心漫游费太贵或当地卡激活麻烦？实测 Roamless eSIM 是否能成为可靠的企业差旅备用方案](./creative-tools/roamless-esim-review-for-business-travel.md) — 2026-02-28
 - [如何精准计算申根签证90/180天停留期？Travel Visa Stack 2026版过境签与行前核对指南](./creative-tools/schengen-visa-90-180-day-calculator-guide-2026.md) — 2026-02-25
