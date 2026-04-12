@@ -25,4 +25,5 @@
 - [如何精准计算申根签证90/180天停留期？Travel Visa Stack 2026版过境签与行前核对指南](./creative-tools/schengen-visa-90-180-day-calculator-guide-2026.md) — 2026-02-25
 - [2026 全球创作者平台抽成指南：33 个主流平台费率、入驻门槛及净收入对比分析](./creative-tools/2026-global-creator-platform-fees-comparison.md) — 2026-02-22
 - [PrintRelay 使用指南：无需登录、扫码即传的公用电脑临时文件传输方案](./creative-tools/printrelay-user-guide-temporary-file-transfer.md) — 2026-02-21
+- [Livabble 全球 1377 城宜居度对比：如何量化分析海外生活的成本与质量](./creative-tools/livabble-global-livability-comparison-cost-quality-analysis.md) — 2026-02-16
 <!-- LE_AUTOPOST_INDEX_END -->
