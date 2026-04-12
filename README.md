@@ -13,4 +13,5 @@
 
 ### 创意工具
 - [出国出差担心漫游费太贵或当地卡激活麻烦？实测 Roamless eSIM 是否能成为可靠的企业差旅备用方案](./creative-tools/roamless-esim-review-for-business-travel.md) — 2026-02-28
+- [如何精准计算申根签证90/180天停留期？Travel Visa Stack 2026版过境签与行前核对指南](./creative-tools/schengen-visa-90-180-day-calculator-guide-2026.md) — 2026-02-25
 <!-- LE_AUTOPOST_INDEX_END -->
