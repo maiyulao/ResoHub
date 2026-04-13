@@ -36,6 +36,7 @@
 - [深度学习训练任务无响应且显存不释放？尝试用 GPU Kill 一键清理僵尸进程](./mac/gpu-kill-clear-zombie-processes-deep-learning.md) — 2026-02-10
 - [不想让私密语音上传云端？试试 Voicebox：构建本地化开源语音生产环境的替代方案](./mac/voicebox-local-open-source-voice-production-alternative.md) — 2026-02-07
 - [dYm 抖音视频归档指南：利用 Grok AI 实现高效内容沉淀与结构化管理](./mac/dym-douyin-archive-guide-grok-ai.md) — 2026-02-07
+- [AppPorts 开源迁移指南：通过路径重定向解决 Mac 存储不足，实现 Xcode 与 Steam 应用高效搬家](./mac/appports-open-source-migration-guide-mac-storage-redirect.md) — 2026-02-06
 
 ### 创意工具
 - [出国出差担心漫游费太贵或当地卡激活麻烦？实测 Roamless eSIM 是否能成为可靠的企业差旅备用方案](./creative-tools/roamless-esim-review-for-business-travel.md) — 2026-02-28
