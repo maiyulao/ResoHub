@@ -25,6 +25,7 @@
 - [SlideBot 2.0 实测：从文档解析到自动化 PPT 生成的效率升级](./ai-tool/slidebot-2-review-automated-ppt-generation.md) — 2026-02-08
 - [OpenClaw 国内版部署指南：通过 Docker 快速构建飞书、钉钉及企微 AI 机器人](./ai-tool/openclaw-domestic-deployment-docker-ai-bot.md) — 2026-02-06
 - [如何使用开源构建器 Refly 快速创建并导出 Agent Skills 至 Cursor](./ai-tool/build-export-agent-skills-refly-to-cursor.md) — 2026-02-05
+- [面对海量音频文件乱序、命名混乱？试试用 yubal 打造高效的自建音乐库](./ai-tool/organize-music-library-with-yubal.md) — 2026-02-03
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
