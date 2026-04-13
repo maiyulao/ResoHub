@@ -28,6 +28,7 @@
 - [面对海量音频文件乱序、命名混乱？试试用 yubal 打造高效的自建音乐库](./ai-tool/organize-music-library-with-yubal.md) — 2026-02-03
 - [Resourify 资源库：全网开发者教育优惠汇总及领取指南](./ai-tool/resourify-developer-education-discounts-guide.md) — 2026-02-03
 - [利用本地显卡加速 Whisper 语音转文字：Auto-Subs 优化达芬奇字幕工作流的实践指南](./ai-tool/accelerate-whisper-stt-with-local-gpu-auto-subs-davinci-resolve-workflow.md) — 2026-02-03
+- [QuantDinger 开源量化工作台：通过 Docker 自托管打破数据孤岛，实现量化交易环境的完全掌控](./ai-tool/quantdinger-open-source-quant-workbench-docker-self-hosting.md) — 2026-01-29
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
