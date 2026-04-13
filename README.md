@@ -42,6 +42,9 @@
 - [dYm 抖音视频归档指南：利用 Grok AI 实现高效内容沉淀与结构化管理](./mac/dym-douyin-archive-guide-grok-ai.md) — 2026-02-07
 - [AppPorts 开源迁移指南：通过路径重定向解决 Mac 存储不足，实现 Xcode 与 Steam 应用高效搬家](./mac/appports-open-source-migration-guide-mac-storage-redirect.md) — 2026-02-06
 
+### Windows软件
+- [KOMA 指南：实现本地漫画自动去水印、压缩与标准化归档](./windows/koma-guide-manga-watermark-removal-compression-archiving.md) — 2026-02-05
+
 ### 创意工具
 - [出国出差担心漫游费太贵或当地卡激活麻烦？实测 Roamless eSIM 是否能成为可靠的企业差旅备用方案](./creative-tools/roamless-esim-review-for-business-travel.md) — 2026-02-28
 - [如何精准计算申根签证90/180天停留期？Travel Visa Stack 2026版过境签与行前核对指南](./creative-tools/schengen-visa-90-180-day-calculator-guide-2026.md) — 2026-02-25
