@@ -8,6 +8,7 @@
 ## 文章索引（自动维护）
 
 ### AI工具
+- [如何快速构建一个双链检索知识库？实测用 Claude Code 两天搭建巴菲特股东信站点](./ai-tool/build-bidirectional-knowledge-base-with-claude-code.md) — 2026-04-09
 - [2026 AI 领域 X 核心影响力名单：涵盖 300 余位研究员、创始人及投资人（支持筛选）](./ai-tool/2026-ai-influence-list-300-experts.md) — 2026-02-27
 - [OpenClaw 私有化部署指南：企业级 AI 助手环境配置与自动化安装步骤](./ai-tool/openclaw-private-deployment-guide.md) — 2026-02-26
 - [MindPocket 实操指南：构建可私有部署的 RAG 开源 AI 书签知识库](./ai-tool/mindpocket-guide-private-rag-ai-bookmarks-knowledge-base.md) — 2026-02-24
