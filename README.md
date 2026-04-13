@@ -37,4 +37,5 @@
 - [PrintRelay 使用指南：无需登录、扫码即传的公用电脑临时文件传输方案](./creative-tools/printrelay-user-guide-temporary-file-transfer.md) — 2026-02-21
 - [Livabble 全球 1377 城宜居度对比：如何量化分析海外生活的成本与质量](./creative-tools/livabble-global-livability-comparison-cost-quality-analysis.md) — 2026-02-16
 - [Topfeed 评测：如何通过一站式聚合高效管理 RSS 与 Newsletter 订阅](./creative-tools/topfeed-review-rss-newsletter-management.md) — 2026-02-11
+- [Howmuch.tax 跨国税后薪资计算指南：支持多国税率实时换算与到手薪资预估](./creative-tools/howmuch-tax-international-after-tax-salary-calculator.md) — 2026-02-11
 <!-- LE_AUTOPOST_INDEX_END -->
