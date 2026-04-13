@@ -21,6 +21,7 @@
 - [基于 ESP32 的低成本 AI 助手 MimiClaw：集成 Claude 与 Telegram 的开源实现方案](./ai-tool/esp32-low-cost-ai-assistant-mimiclaw-claude-telegram.md) — 2026-02-10
 - [Toonflow 开源实操：从剧本到 AI 短剧的全流程构建与避坑指南](./ai-tool/toonflow-open-source-ai-short-drama-guide.md) — 2026-02-09
 - [基于 Next.js 构建的轻量化基金实时估值开源方案：Real-time Fund 深度解析](./ai-tool/nextjs-real-time-fund-valuation-open-source.md) — 2026-02-08
+- [SlideBot 2.0 实测：从文档解析到自动化 PPT 生成的效率升级](./ai-tool/slidebot-2-review-automated-ppt-generation.md) — 2026-02-08
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
