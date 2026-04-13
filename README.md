@@ -34,6 +34,7 @@
 - [ClawX 桌面端下载：通过可视化界面部署 OpenClaw 生产级 AI 智能体](./mac/clawx-desktop-download-openclaw-ai-agents.md) — 2026-02-17
 - [Antify macOS 应用代理指南：实现 App 级分流与本地网络控制的 Proxifier 替代方案](./mac/antify-macos-app-proxy-guide-proxifier-alternative.md) — 2026-02-13
 - [深度学习训练任务无响应且显存不释放？尝试用 GPU Kill 一键清理僵尸进程](./mac/gpu-kill-clear-zombie-processes-deep-learning.md) — 2026-02-10
+- [不想让私密语音上传云端？试试 Voicebox：构建本地化开源语音生产环境的替代方案](./mac/voicebox-local-open-source-voice-production-alternative.md) — 2026-02-07
 
 ### 创意工具
 - [出国出差担心漫游费太贵或当地卡激活麻烦？实测 Roamless eSIM 是否能成为可靠的企业差旅备用方案](./creative-tools/roamless-esim-review-for-business-travel.md) — 2026-02-28
