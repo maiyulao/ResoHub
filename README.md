@@ -19,6 +19,7 @@
 - [FeedCraft 开源自托管部署指南：实现 RSS 全文提取、翻译与 AI 摘要的中间件方案](./ai-tool/feedcraft-self-hosted-deployment-guide.md) — 2026-02-13
 - [利用 SimilarRepos 进行开源项目选型与竞品分析的操作指南](./ai-tool/similarrepos-open-source-selection-competitor-analysis-guide.md) — 2026-02-12
 - [基于 ESP32 的低成本 AI 助手 MimiClaw：集成 Claude 与 Telegram 的开源实现方案](./ai-tool/esp32-low-cost-ai-assistant-mimiclaw-claude-telegram.md) — 2026-02-10
+- [Toonflow 开源实操：从剧本到 AI 短剧的全流程构建与避坑指南](./ai-tool/toonflow-open-source-ai-short-drama-guide.md) — 2026-02-09
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
