@@ -63,4 +63,5 @@
 - [Topfeed 评测：如何通过一站式聚合高效管理 RSS 与 Newsletter 订阅](./creative-tools/topfeed-review-rss-newsletter-management.md) — 2026-02-11
 - [Howmuch.tax 跨国税后薪资计算指南：支持多国税率实时换算与到手薪资预估](./creative-tools/howmuch-tax-international-after-tax-salary-calculator.md) — 2026-02-11
 - [找不到适合视频氛围的背景音乐？试试用 Samplette 在 YouTube 中挖掘冷门 BGM 灵感](./creative-tools/find-bgm-inspiration-with-samplette-youtube.md) — 2026-01-29
+- [2026 账号安全指南：泄露自检流程与抗撞库实操方案](./creative-tools/2026-account-security-guide-leak-check-anti-credential-stuffing.md) — 2026-01-27
 <!-- LE_AUTOPOST_INDEX_END -->
