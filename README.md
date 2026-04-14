@@ -300,6 +300,7 @@
 - [面对繁琐的重复性工作？试试这套AI办公实战方案，让效率实现量级提升](./practical-guides/ai-office-productivity-solution.md) — 2025-11-28
 - [TikTok中视频计划实操指南：从账号搭建到赚取美金的全流程步骤](./practical-guides/tiktok-creativity-program-guide.md) — 2025-11-27
 - [规模化爆单实操指南：20课时拆解月入万级增长路径](./practical-guides/scaling-sales-growth-guide.md) — 2025-11-26
+- [8天抖音快速起号实操指南：通过精准流量模型实现账号爆发式增长](./practical-guides/douyin-fast-growth-guide-8days.md) — 2025-11-26
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
