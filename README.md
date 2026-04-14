@@ -178,6 +178,7 @@
 - [M³ 模型实操指南：通过极简训练与营养方案实现科学瘦身与长寿](./creative-tools/m3-model-guide-weight-loss-and-longevity.md) — 2025-12-06
 - [Spotless 去渍指南：纯净、无追踪的专业污渍清除百科](./creative-tools/spotless-stain-removal-guide.md) — 2025-12-04
 - [隐私优先的 Twitter 轻量化前端：Nitter 开源镜像部署与实操指南](./creative-tools/nitter-deployment-guide.md) — 2025-12-04
+- [想快速下载视频却被繁琐步骤困扰？试试这款支持多任务并发的轻量级链接下载工具](./creative-tools/lightweight-multi-task-video-downloader.md) — 2025-12-03
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
