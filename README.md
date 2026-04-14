@@ -236,6 +236,7 @@
 - [从内容创作到商业变现：小红书博主成长路径与实操指南](./practical-guides/xiaohongshu-content-to-monetization-guide.md) — 2025-12-09
 - [手机自然光平铺摄影指南：从拍摄到修图剪辑的实操全流程](./practical-guides/mobile-natural-light-flat-lay-photography-guide.md) — 2025-12-08
 - [Blender三维建模基础视频课：从软件安装到核心操作实操指南](./practical-guides/blender-3d-modeling-basic-course.md) — 2025-12-08
+- [张小翼全能摄影进阶课程：系统化影像创作实战指南](./practical-guides/zhang-xiaoyi-photography-advanced-course.md) — 2025-12-07
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
