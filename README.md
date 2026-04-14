@@ -278,6 +278,7 @@
 - [李源《易经情商课》全集：深度解析人生格局与情绪管理](./practical-guides/yi-jing-eq-course-li-yuan.md) — 2025-12-01
 - [短视频全域投流实操指南：涵盖随心推全链路配置与策略思维导图](./practical-guides/short-video-traffic-guide-suixintui-strategy.md) — 2025-12-01
 - [深度解析人性逻辑：高效驾驭人际关系的底层实操指南](./practical-guides/human-nature-logic-interpersonal-skills-guide.md) — 2025-11-30
+- [小红书学科资料虚拟店实操指南：通过标准化获客与交付实现日均6单以上的稳定变现](./practical-guides/xiaohongshu-academic-digital-store-guide.md) — 2025-11-30
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
