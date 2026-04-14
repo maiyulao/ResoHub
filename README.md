@@ -42,6 +42,7 @@
 - [如何部署 Open Claude Cowork AI 桌面助理：集成 DeepSeek 与可视化 Agent 的操作步骤](./ai-tool/deploy-open-claude-cowork-ai-deepseek-agent.md) — 2026-01-20
 - [neTV Docker 部署指南：适用于 NAS 的轻量化 AI 直播流管理方案](./ai-tool/netv-docker-deployment-guide-nas-ai-live-stream.md) — 2026-01-15
 - [Claude Code 协同 Obsidian 可视化能力：实现 Excalidraw 与 Canvas 自动化绘图的实操指南](./ai-tool/claude-code-obsidian-excalidraw-canvas-automation-guide.md) — 2026-01-15
+- [Voice-Pro 部署指南：实现本地化语音克隆与视频翻译的开源方案](./ai-tool/voice-pro-deployment-guide-local-voice-cloning-video-translation.md) — 2026-01-15
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
