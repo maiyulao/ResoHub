@@ -99,6 +99,9 @@
 - [CutCut 2026 专业版实测：4K 素材管理与高精度剪辑流解析](./creative-tools/cutcut-2026-pro-review-4k-editing-workflow.md) — 2026-01-12
 - [Cook Lab实战：2026版厨房SOP构建指南，含个人饮食管理系统配置与ROI优化要点](./creative-tools/cook-lab-2026-kitchen-sop-guide.md) — 2026-01-12
 
+### 实战指南
+- [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
+
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
 - [利用 NotebookLM Web Importer 构建个人知识库：从碎片化阅读到结构化存储的 4 个步骤](./productivity-tools/build-personal-knowledge-base-with-notebooklm-web-importer.md) — 2026-01-12
