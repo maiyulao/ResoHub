@@ -130,6 +130,7 @@
 - [Food Compass 2.0：基于 Nature 研究的 9 000 余种食物营养量化评分系统](./creative-tools/food-compass-2-0-nutrition-scoring-system.md) — 2025-12-27
 - [如何使用 Galaxy Downloader 下载 B 站、抖音及小红书的音视频与图文内容](./creative-tools/how-to-use-galaxy-downloader-for-bilibili-douyin-xiaohongshu.md) — 2025-12-24
 - [冬日小说网使用指南：从注册到免费阅读热门网文的完整步骤](./creative-tools/dongri-novel-guide-registration-to-reading.md) — 2025-12-23
+- [如何使用 Convry Tools 在线工具箱提升工作效率：操作指南与功能清单](./creative-tools/convry-tools-productivity-guide.md) — 2025-12-22
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
