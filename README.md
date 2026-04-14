@@ -124,6 +124,7 @@
 - [幽默感修炼指南：20 讲掌握风趣表达的逻辑与技巧](./practical-guides/humor-skills-guide-20-lessons.md) — 2026-01-05
 - [想在2026年通过无货源电商起步但担心库存压力？详解费比低至10%的全链路实操打法](./practical-guides/dropshipping-guide-2026-low-cost-strategy.md) — 2026-01-05
 - [AI自媒体实操指南：从模式探索到高效产出的全流程干货解析](./practical-guides/ai-content-creation-guide-2.md) — 2026-01-05
+- [大龙AI设计实战教程：职场技能进阶指南及学习资源获取](./practical-guides/dalong-ai-design-tutorial-career-guide.md) — 2026-01-04
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
