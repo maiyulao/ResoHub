@@ -231,6 +231,7 @@
 - [想在小红书通过副业增加收入却不知从何起步？这份陪跑指南帮你完成从零到变现的博主进阶](./practical-guides/xiaohongshu-side-hustle-guide-zero-to-monetization.md) — 2025-12-09
 - [社交场合沟通技巧指南：适用场景分析与实操话术要点](./practical-guides/social-communication-skills-guide.md) — 2025-12-09
 - [从内容创作到商业变现：小红书博主成长路径与实操指南](./practical-guides/xiaohongshu-content-to-monetization-guide.md) — 2025-12-09
+- [手机自然光平铺摄影指南：从拍摄到修图剪辑的实操全流程](./practical-guides/mobile-natural-light-flat-lay-photography-guide.md) — 2025-12-08
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
