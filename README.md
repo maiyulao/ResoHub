@@ -77,4 +77,5 @@
 - [面对 2026 年的职场瓶颈，如何构建产品思维？这份“产品沉思录”能提供哪些进阶路径？](./creative-tools/product-thinking-career-growth-2026.md) — 2026-01-25
 - [2026全国IMAX与杜比影院规格数据库：屏幕尺寸查询及选座指南](./creative-tools/2026-imax-dolby-cinema-specs-guide.md) — 2026-01-25
 - [想找一款轻量且美观的 yt-dlp 客户端？带你上手基于 Tauri 构建的媒体归档工具 Youwee](./creative-tools/youwee-lightweight-yt-dlp-client-tauri.md) — 2026-01-24
+- [Situation Monitor 部署指南：构建开源 OSINT 实时信息监控仪表盘](./creative-tools/situation-monitor-deployment-guide-osint-dashboard.md) — 2026-01-20
 <!-- LE_AUTOPOST_INDEX_END -->
