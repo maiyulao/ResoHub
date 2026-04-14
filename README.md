@@ -83,6 +83,7 @@
 - [开源截图工具 SkreenPro 评测：替代 CleanShot X 的免费美化方案](./mac/skreenpro-review-cleanshot-x-alternative.md) — 2026-01-14
 - [自然语言驱动的安卓自动化助手 OMG-Agent：实现手机任务的开源操控方案](./mac/omg-agent-android-automation-open-source.md) — 2026-01-06
 - [如何使用 KeyStats 统计 macOS 每日键鼠输入量：安装与配置指南](./mac/keystats-macos-keyboard-mouse-stats-guide.md) — 2026-01-05
+- [如何使用 Port Guard 智能管理 macOS 端口：配置与操作全指南](./mac/port-guard-macos-guide.md) — 2026-01-01
 
 ### Windows软件
 - [KOMA 指南：实现本地漫画自动去水印、压缩与标准化归档](./windows/koma-guide-manga-watermark-removal-compression-archiving.md) — 2026-02-05
