@@ -178,4 +178,5 @@
 - [Markdown Viewer 深度指南：实现 Markdown 到 Word 的高质量转换与复杂图表自动化导出](./productivity-tools/markdown-viewer-guide-to-word-conversion-and-chart-export.md) — 2026-01-05
 - [配置 AI Captcha Solver 插件：集成 OpenAI、Claude 与 Gemini 实现验证码自动识别的步骤指南](./productivity-tools/configure-ai-captcha-solver-openai-claude-gemini-guide.md) — 2025-12-28
 - [如何配置 twitter-to-bsky 脚本实现 X 内容同步至 Bluesky 与 Mastodon](./productivity-tools/configure-twitter-to-bsky-sync-x-to-bluesky-mastodon.md) — 2025-12-24
+- [COSE多平台同步发布工具：支持一键分发至主流媒体，适用内容创作者高效同步场景](./productivity-tools/cose-multi-platform-distribution-tool.md) — 2025-12-22
 <!-- LE_AUTOPOST_INDEX_END -->
