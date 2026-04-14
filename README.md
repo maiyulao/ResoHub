@@ -42,6 +42,9 @@
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
 
+### GitHub项目
+- [Chrome 与 Edge 占用内存过高？尝试通过策略配置优化浏览器资源消耗的开源方案](./github-project/optimize-chrome-edge-memory-usage-open-source-solution.md) — 2026-01-22
+
 ### Mac软件
 - [macUSB 简化 macOS 启动盘制作流程：支持快速构建旧版系统安装介质，适配最新 Mac 硬件环境](./mac/macusb-macos-bootable-usb-creator.md) — 2026-04-12
 - [Open DroneLog：支持自托管的开源DJI飞行日志分析工具及部署指南](./mac/opendronelog-open-source-dji-flight-log-analysis-guide.md) — 2026-02-25
