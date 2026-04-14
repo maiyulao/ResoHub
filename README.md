@@ -86,6 +86,7 @@
 - [Situation Monitor 部署指南：构建开源 OSINT 实时信息监控仪表盘](./creative-tools/situation-monitor-deployment-guide-osint-dashboard.md) — 2026-01-20
 - [TierHive 按小时计费 VPS 实测：低成本构建 2026 版 Linux 学习环境的部署方案](./creative-tools/tierhive-hourly-vps-linux-learning-setup-2026.md) — 2026-01-19
 - [2026 零成本建站实操：从免费二级域名申请到 Cloudflare SSL 证书配置 (Stackryze)](./creative-tools/free-website-setup-2026-cloudflare-ssl.md) — 2026-01-17
+- [直播间补光没预算？试试用 DynamicScreen 把显示器变成氛围灯](./creative-tools/dynamicscreen-monitor-ambient-light.md) — 2026-01-15
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
