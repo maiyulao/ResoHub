@@ -90,6 +90,7 @@
 - [SmartHostsTool 指南：通过智能测速优化 Hosts 实现 GitHub 加速](./windows/smarthoststool-github-acceleration-guide.md) — 2026-01-03
 
 ### 创意工具
+- [中年失业财务压力测试：通过生存模拟器量化存款续航力](./creative-tools/middle-age-unemployment-financial-stress-test.md) — 2026-04-13
 - [出国出差担心漫游费太贵或当地卡激活麻烦？实测 Roamless eSIM 是否能成为可靠的企业差旅备用方案](./creative-tools/roamless-esim-review-for-business-travel.md) — 2026-02-28
 - [如何精准计算申根签证90/180天停留期？Travel Visa Stack 2026版过境签与行前核对指南](./creative-tools/schengen-visa-90-180-day-calculator-guide-2026.md) — 2026-02-25
 - [2026 全球创作者平台抽成指南：33 个主流平台费率、入驻门槛及净收入对比分析](./creative-tools/2026-global-creator-platform-fees-comparison.md) — 2026-02-22
