@@ -71,4 +71,5 @@
 - [2026 账号安全指南：泄露自检流程与抗撞库实操方案](./creative-tools/2026-account-security-guide-leak-check-anti-credential-stuffing.md) — 2026-01-27
 - [基于 Liveuamap 的全球风险监测实操：从 OSINT 基础到实时情报分析（2026版）](./creative-tools/liveuamap-global-risk-monitoring-osint-guide-2026.md) — 2026-01-27
 - [面对 2026 年的职场瓶颈，如何构建产品思维？这份“产品沉思录”能提供哪些进阶路径？](./creative-tools/product-thinking-career-growth-2026.md) — 2026-01-25
+- [2026全国IMAX与杜比影院规格数据库：屏幕尺寸查询及选座指南](./creative-tools/2026-imax-dolby-cinema-specs-guide.md) — 2026-01-25
 <!-- LE_AUTOPOST_INDEX_END -->
