@@ -199,6 +199,7 @@
 - [面对繁琐重复的日常办公，如何利用 DeepSeek 快速实现自动化与高效产出？](./practical-guides/deepseek-office-automation-efficiency.md) — 2025-12-16
 - [PPT进阶实操指南：从基础操作到高级视觉设计的学习路径与资源汇总](./practical-guides/ppt-advanced-guide-learning-path-resources.md) — 2025-12-16
 - [小红书电商起步指南：从零到一的实操运营全流程](./practical-guides/xiaohongshu-ecommerce-guide-step-by-step.md) — 2025-12-15
+- [60天速成PS与AI设计：从零基础到商业实战的进阶路径](./practical-guides/60-day-ps-ai-design-course.md) — 2025-12-15
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
