@@ -102,6 +102,7 @@
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
 - [iPad珠宝商业手绘：Procreate基础到钻石翡翠高定实战（含三视图透视）](./practical-guides/ipad-jewelry-painting-procreate-guide.md) — 2026-01-11
+- [抖音全链路增长指南：从算法建模到短视频、直播与私域的闭环实操](./practical-guides/douyin-growth-guide-algorithm-short-video-live-private-traffic.md) — 2026-01-11
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
