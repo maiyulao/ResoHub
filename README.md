@@ -143,6 +143,7 @@
 - [跨境电商财税合规实操指南：底层逻辑解析与分场景应用教程](./practical-guides/cross-border-ecommerce-tax-compliance-guide-2.md) — 2026-01-01
 - [普通人如何利用 AI 浪潮打破职场天花板？一套从工具上手到实现能力跨越的实用指南](./practical-guides/break-career-ceiling-with-ai-guide.md) — 2026-01-01
 - [TikTok开店后投流没效果？从基础配置到高阶操盘的实操全指南](./practical-guides/tiktok-shop-ads-guide-optimization.md) — 2025-12-30
+- [突破效能瓶颈：实现十倍速增长的底层执行逻辑](./practical-guides/break-efficiency-bottleneck-10x-growth-logic.md) — 2025-12-30
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
