@@ -197,6 +197,7 @@
 - [互联网公司财务分析实战指南：全流程要点解析](./practical-guides/internet-company-financial-analysis-guide.md) — 2025-12-16
 - [零基础PPT视频制作指南：通过模块化设计快速产出高质感自媒体内容](./practical-guides/ppt-video-production-guide-modular-design.md) — 2025-12-16
 - [面对繁琐重复的日常办公，如何利用 DeepSeek 快速实现自动化与高效产出？](./practical-guides/deepseek-office-automation-efficiency.md) — 2025-12-16
+- [PPT进阶实操指南：从基础操作到高级视觉设计的学习路径与资源汇总](./practical-guides/ppt-advanced-guide-learning-path-resources.md) — 2025-12-16
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
