@@ -58,6 +58,7 @@
 - [Agili Hacker Podcast：基于 AI 的 Hacker News 中文每日同步播客（获取途径与适用场景）](./ai-tool/agili-hacker-podcast-ai-hacker-news-chinese.md) — 2025-12-19
 - [想让 AI 自动操作网页却苦于编写复杂脚本？试试 BrowserWing：支持录制与 MCP 集成的开源浏览器 Agent 方案](./ai-tool/browserwing-open-source-browser-agent-mcp.md) — 2025-12-19
 - [如何利用金融K线技术将八字命理可视化：分步构建指南](./ai-tool/visualize-bazi-with-financial-k-line-guide.md) — 2025-12-17
+- [RSS-AIGC 安装与配置指南：利用 AI 驱动的内容聚合实现高效创作流](./ai-tool/rss-aigc-installation-configuration-guide.md) — 2025-12-17
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
