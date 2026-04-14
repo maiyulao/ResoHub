@@ -52,6 +52,7 @@
 - [不想让私密语音上传云端？试试 Voicebox：构建本地化开源语音生产环境的替代方案](./mac/voicebox-local-open-source-voice-production-alternative.md) — 2026-02-07
 - [dYm 抖音视频归档指南：利用 Grok AI 实现高效内容沉淀与结构化管理](./mac/dym-douyin-archive-guide-grok-ai.md) — 2026-02-07
 - [AppPorts 开源迁移指南：通过路径重定向解决 Mac 存储不足，实现 Xcode 与 Steam 应用高效搬家](./mac/appports-open-source-migration-guide-mac-storage-redirect.md) — 2026-02-06
+- [FineTune 配置指南：实现 macOS 独立应用音量控制的开源替代方案](./mac/finetune-macos-app-volume-control-guide.md) — 2026-01-26
 
 ### Windows软件
 - [KOMA 指南：实现本地漫画自动去水印、压缩与标准化归档](./windows/koma-guide-manga-watermark-removal-compression-archiving.md) — 2026-02-05
