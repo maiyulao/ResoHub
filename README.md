@@ -54,6 +54,7 @@
 - [Claude Skills 资源库：构建定制化 AI 工作流的实操指南与精选案例](./ai-tool/claude-skills-ai-workflow-guide.md) — 2025-12-30
 - [OpenSQT开源指南：构建永续合约高频做市系统，实现网格交易自动化策略落地](./ai-tool/opensqt-perpetual-futures-hft-market-making-grid-trading.md) — 2025-12-29
 - [从创意到产品：Vibe Coding 零基础 AI 编程实战指南](./ai-tool/vibe-coding-ai-programming-guide.md) — 2025-12-27
+- [如何使用 PPT Master 生成多格式 SVG 演示文稿：从 PPT 到社交媒体的发布全流程](./ai-tool/ppt-master-svg-presentation-workflow.md) — 2025-12-21
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
