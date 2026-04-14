@@ -118,6 +118,7 @@
 - [拆解美团商业模式：核心竞争力的演进与增长逻辑](./practical-guides/meituan-business-model-analysis.md) — 2026-01-07
 - [旅拍 Vlog 全流程实操：从器材选型到后期成片的保姆级教程](./practical-guides/travel-vlog-full-guide-tutorial.md) — 2026-01-07
 - [零基础快速上手 Python：从核心语法到实战应用的分层学习指南](./practical-guides/python-beginner-learning-guide.md) — 2026-01-06
+- [阿里国际站增长全攻略：通过AI工具与实战SOP实现精准引流，深度解析直通车及全站推广的高阶增长路径](./practical-guides/alibaba-international-growth-guide-ai-sop-traffic.md) — 2026-01-06
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
