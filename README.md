@@ -35,6 +35,7 @@
 - [CSS Grid 与原生 JS 实践：构建 3D 交互式元素周期表可视化项目](./ai-tool/css-grid-js-3d-periodic-table-visualization.md) — 2026-01-28
 - [面对海量AI资源不知如何筛选？这份数字资产检索Agent实操指南帮你快速定位并规避陷阱](./ai-tool/digital-asset-retrieval-agent-guide.md) — 2026-01-28
 - [LLM 与 RAG 协同实践：构建多模态个人数据 Agent 的技术路径 (CookHero)](./ai-tool/llm-rag-multimodal-personal-data-agent-cookhero.md) — 2026-01-27
+- [WebGPU 驱动的 Chrome 端侧 RPA：2026 本地 AI 网页自动化实战指南](./ai-tool/webgpu-chrome-edge-rpa-local-ai-automation-guide-2026.md) — 2026-01-27
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
