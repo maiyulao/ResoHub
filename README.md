@@ -52,6 +52,7 @@
 - [如何高效利用 AI 加速科研？这份 AI4Science 全流程资源库涵盖了从文献挖掘到数据分析的工具与数据集](./ai-tool/ai4science-research-workflow-resources.md) — 2026-01-06
 - [31 种 UI 设计风格提示词库：适用场景、Prompt 模版及 AI 绘图实操指南](./ai-tool/31-ui-design-style-prompts-guide.md) — 2026-01-03
 - [Claude Skills 资源库：构建定制化 AI 工作流的实操指南与精选案例](./ai-tool/claude-skills-ai-workflow-guide.md) — 2025-12-30
+- [OpenSQT开源指南：构建永续合约高频做市系统，实现网格交易自动化策略落地](./ai-tool/opensqt-perpetual-futures-hft-market-making-grid-trading.md) — 2025-12-29
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
