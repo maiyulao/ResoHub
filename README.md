@@ -95,6 +95,7 @@
 - [KOMA 指南：实现本地漫画自动去水印、压缩与标准化归档](./windows/koma-guide-manga-watermark-removal-compression-archiving.md) — 2026-02-05
 - [SmartHostsTool 指南：通过智能测速优化 Hosts 实现 GitHub 加速](./windows/smarthoststool-github-acceleration-guide.md) — 2026-01-03
 - [FlipSwitcher：采用 Fluent 2 设计语言的 Windows 任务切换增强方案](./windows/flipswitcher-fluent-2-windows-task-switcher.md) — 2025-12-26
+- [wechatVideoDownload：支持自动监听与 MP4 导出的微信视频号下载工具（含直播回放）](./windows/wechat-video-download-tool-mp4-exporter.md) — 2025-12-22
 
 ### 创意工具
 - [中年失业财务压力测试：通过生存模拟器量化存款续航力](./creative-tools/middle-age-unemployment-financial-stress-test.md) — 2026-04-13
