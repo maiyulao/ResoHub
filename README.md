@@ -175,6 +175,7 @@
 - [NekoGAL：专业 Galgame 资源库与玩家交流中心](./creative-tools/nekogal-galgame-resource-community.md) — 2025-12-07
 - [无需下载的 TI-84 在线图形计算器：通过浏览器实现全功能仿真，提供永久免费且无广告的纯净学术环境](./creative-tools/ti-84-online-graphing-calculator-free-simulator.md) — 2025-12-06
 - [M³ 模型实操指南：通过极简训练与营养方案实现科学瘦身与长寿](./creative-tools/m3-model-guide-weight-loss-and-longevity.md) — 2025-12-06
+- [Spotless 去渍指南：纯净、无追踪的专业污渍清除百科](./creative-tools/spotless-stain-removal-guide.md) — 2025-12-04
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
