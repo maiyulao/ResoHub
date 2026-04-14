@@ -189,6 +189,7 @@
 - [从认知到实践：幽默感习得与社交应用指南](./practical-guides/learning-humor-and-social-application.md) — 2025-12-18
 - [Snapseed进阶指南：从基础设置到大片调色的实操步骤](./practical-guides/snapseed-advanced-guide-color-grading-tutorial.md) — 2025-12-17
 - [互联网公司财务分析实战指南：全流程要点解析](./practical-guides/internet-company-financial-analysis-guide.md) — 2025-12-16
+- [零基础PPT视频制作指南：通过模块化设计快速产出高质感自媒体内容](./practical-guides/ppt-video-production-guide-modular-design.md) — 2025-12-16
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
