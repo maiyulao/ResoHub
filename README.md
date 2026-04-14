@@ -134,6 +134,7 @@
 
 ### 兴趣爱好
 - [家里东西总是在整理后迅速回潮？掌握这套收纳逻辑，让空间持久有序](./e585b4e8b6a3e788b1e5a5bd/home-organization-logic-for-lasting-order.md) — 2025-12-07
+- [易欢算命实战指南：从基础理论到预测逻辑的系统化学习路径](./e585b4e8b6a3e788b1e5a5bd/yihuan-fortune-telling-guide.md) — 2025-11-28
 
 ### 创意工具
 - [中年失业财务压力测试：通过生存模拟器量化存款续航力](./creative-tools/middle-age-unemployment-financial-stress-test.md) — 2026-04-13
