@@ -216,6 +216,7 @@
 - [Midjourney 亚马逊产品图实操：从商业落地到跨境电商出图全流程指南](./practical-guides/midjourney-amazon-product-photography-guide.md) — 2025-12-12
 - [全场景AI视频实战指南：通过113节深度课程，掌握从创意绘画、电商带货到职场增效的商业化应用技巧](./practical-guides/ai-video-practical-guide-commercial-applications.md) — 2025-12-12
 - [Notion人生管理系统构建方案：从基础配置到高级工作流实操指南](./practical-guides/notion-life-management-system-guide.md) — 2025-12-12
+- [从核心竞争力到商业溢价：品牌管理线上实战指南](./practical-guides/brand-management-online-guide-core-competency-premium.md) — 2025-12-11
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
