@@ -211,6 +211,7 @@
 - [LinkedIn外贸获客实操指南：从精准定位到高效开发客户的五个步骤](./practical-guides/linkedin-lead-generation-guide-2.md) — 2025-12-13
 - [打造差异化个人IP及流量变现的实操指南：从定位到盈利的执行步骤](./practical-guides/personal-ip-monetization-guide-2.md) — 2025-12-13
 - [抖音小店财务实操指南：电商会计账务处理与核算教程下载](./practical-guides/douyin-shop-accounting-guide.md) — 2025-12-13
+- [Midjourney 亚马逊产品图实操：从商业落地到跨境电商出图全流程指南](./practical-guides/midjourney-amazon-product-photography-guide.md) — 2025-12-12
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
