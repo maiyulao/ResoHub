@@ -156,6 +156,7 @@
 - [TikTok 命理赛道出海实操指南：从内容本土化到精准获客的双语变现路径](./practical-guides/tiktok-astrology-monetization-guide.md) — 2025-12-26
 - [如何利用谷歌搜索精准锁定海外大客户？外贸主动开发实战指南](./practical-guides/google-search-for-overseas-b2b-clients.md) — 2025-12-24
 - [高效销售的人际沟通与成交逻辑](./practical-guides/high-efficiency-sales-communication-logic.md) — 2025-12-24
+- [短视频与直播电商8天全能实操课：从零构建账号矩阵，打通拍摄剪辑与直播变现全链路](./practical-guides/short-video-livestream-ecommerce-course.md) — 2025-12-24
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
