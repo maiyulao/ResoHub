@@ -189,6 +189,7 @@
 - [高效网页转 EPUB 指南：支持多格式兼容的免费在线转换工具](./creative-tools/free-online-web-to-epub-converter-guide.md) — 2025-12-01
 - [Compare2Word：支持本地比对 Word、PDF 与 Excel 的免费在线文档差异分析工具](./creative-tools/compare2word-free-document-diff-tool.md) — 2025-12-01
 - [MyTube：基于 yt-dlp 的开源视频下载与本地库管理方案（兼容 YouTube 与 Bilibili）](./creative-tools/mytube-yt-dlp-video-downloader-manager.md) — 2025-11-30
+- [SearchGal：开源Galgame多源实时搜索工具，支持免登录标签检索与私有化部署](./creative-tools/searchgal-open-source-galgame-search-tool.md) — 2025-11-29
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
