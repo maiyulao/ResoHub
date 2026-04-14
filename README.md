@@ -119,6 +119,7 @@
 - [SmartHostsTool 指南：通过智能测速优化 Hosts 实现 GitHub 加速](./windows/smarthoststool-github-acceleration-guide.md) — 2026-01-03
 - [FlipSwitcher：采用 Fluent 2 设计语言的 Windows 任务切换增强方案](./windows/flipswitcher-fluent-2-windows-task-switcher.md) — 2025-12-26
 - [wechatVideoDownload：支持自动监听与 MP4 导出的微信视频号下载工具（含直播回放）](./windows/wechat-video-download-tool-mp4-exporter.md) — 2025-12-22
+- [如何使用开源工具 Inkeys 在 Windows 上实现高效屏幕批注与智能绘图](./windows/how-to-use-inkeys-for-screen-annotation-on-windows.md) — 2025-12-07
 
 ### 创意工具
 - [中年失业财务压力测试：通过生存模拟器量化存款续航力](./creative-tools/middle-age-unemployment-financial-stress-test.md) — 2026-04-13
