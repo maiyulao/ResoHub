@@ -121,6 +121,7 @@
 - [零基础快速上手 Python：从核心语法到实战应用的分层学习指南](./practical-guides/python-beginner-learning-guide.md) — 2026-01-06
 - [阿里国际站增长全攻略：通过AI工具与实战SOP实现精准引流，深度解析直通车及全站推广的高阶增长路径](./practical-guides/alibaba-international-growth-guide-ai-sop-traffic.md) — 2026-01-06
 - [幽默感修炼指南：20 讲掌握风趣表达的逻辑与技巧](./practical-guides/humor-skills-guide-20-lessons.md) — 2026-01-05
+- [想在2026年通过无货源电商起步但担心库存压力？详解费比低至10%的全链路实操打法](./practical-guides/dropshipping-guide-2026-low-cost-strategy.md) — 2026-01-05
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
