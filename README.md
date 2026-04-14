@@ -248,6 +248,7 @@
 - [小红书广告投放实操指南：从账户搭建到精准获客的全流程链路](./practical-guides/xiaohongshu-ads-guide-setup-to-acquisition.md) — 2025-12-06
 - [无人机航拍运镜指南：从基础操作到高级视角的进阶技巧](./practical-guides/drone-cinematic-camera-movement-guide.md) — 2025-12-06
 - [认知重构：高净值人群的思维进阶指南](./practical-guides/cognitive-reconstruction-high-net-worth-guide.md) — 2025-12-04
+- [烟酒茶实体店短视频矩阵获客实操指南：从账号搭建到营收增长的5个核心步骤](./practical-guides/liquor-tobacco-tea-store-short-video-marketing-guide.md) — 2025-12-04
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
