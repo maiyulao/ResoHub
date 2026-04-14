@@ -128,4 +128,5 @@
 - [利用 NotebookLM Web Importer 构建个人知识库：从碎片化阅读到结构化存储的 4 个步骤](./productivity-tools/build-personal-knowledge-base-with-notebooklm-web-importer.md) — 2026-01-12
 - [想把推文碎片转化为可检索的知识库？试试用 ThatTweet 实现 AI 自动化保存](./productivity-tools/thattweet-ai-twitter-knowledge-base.md) — 2026-01-10
 - [xianyu-chat-exporter：支持HTML/Markdown格式的闲鱼聊天记录导出工具（含多媒体资源保留）](./productivity-tools/xianyu-chat-exporter.md) — 2026-01-05
+- [Markdown Viewer 深度指南：实现 Markdown 到 Word 的高质量转换与复杂图表自动化导出](./productivity-tools/markdown-viewer-guide-to-word-conversion-and-chart-export.md) — 2026-01-05
 <!-- LE_AUTOPOST_INDEX_END -->
