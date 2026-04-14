@@ -97,6 +97,7 @@
 - [2026 零成本建站实操：从免费二级域名申请到 Cloudflare SSL 证书配置 (Stackryze)](./creative-tools/free-website-setup-2026-cloudflare-ssl.md) — 2026-01-17
 - [直播间补光没预算？试试用 DynamicScreen 把显示器变成氛围灯](./creative-tools/dynamicscreen-monitor-ambient-light.md) — 2026-01-15
 - [CutCut 2026 专业版实测：4K 素材管理与高精度剪辑流解析](./creative-tools/cutcut-2026-pro-review-4k-editing-workflow.md) — 2026-01-12
+- [Cook Lab实战：2026版厨房SOP构建指南，含个人饮食管理系统配置与ROI优化要点](./creative-tools/cook-lab-2026-kitchen-sop-guide.md) — 2026-01-12
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
