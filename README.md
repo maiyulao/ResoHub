@@ -246,6 +246,7 @@
 - [Blender三维建模基础视频课：从软件安装到核心操作实操指南](./practical-guides/blender-3d-modeling-basic-course.md) — 2025-12-08
 - [张小翼全能摄影进阶课程：系统化影像创作实战指南](./practical-guides/zhang-xiaoyi-photography-advanced-course.md) — 2025-12-07
 - [小红书广告投放实操指南：从账户搭建到精准获客的全流程链路](./practical-guides/xiaohongshu-ads-guide-setup-to-acquisition.md) — 2025-12-06
+- [无人机航拍运镜指南：从基础操作到高级视角的进阶技巧](./practical-guides/drone-cinematic-camera-movement-guide.md) — 2025-12-06
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
