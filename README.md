@@ -295,6 +295,7 @@
 - [中文性别偏见与污名化词汇库：开源数据集获取及适用场景指南](./practical-guides/chinese-gender-bias-stigma-dataset-guide.md) — 2025-11-29
 - [抖音AI美女跳舞直播实操课：手机端部署流程与环境配置指南](./practical-guides/douyin-ai-beauty-dance-live-setup-guide.md) — 2025-11-29
 - [面对繁琐的重复性工作？试试这套AI办公实战方案，让效率实现量级提升](./practical-guides/ai-office-productivity-solution.md) — 2025-11-28
+- [TikTok中视频计划实操指南：从账号搭建到赚取美金的全流程步骤](./practical-guides/tiktok-creativity-program-guide.md) — 2025-11-27
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
