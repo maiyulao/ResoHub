@@ -45,6 +45,7 @@
 - [Voice-Pro 部署指南：实现本地化语音克隆与视频翻译的开源方案](./ai-tool/voice-pro-deployment-guide-local-voice-cloning-video-translation.md) — 2026-01-15
 - [AI 驱动的自动化股市分析实战：从零构建免费私人投研系统，实现多维数据监控与智能研报生成](./ai-tool/ai-automated-stock-analysis-system.md) — 2026-01-13
 - [想通过AI自动化内容获利却卡在环境搭建？手把手教你部署ALwrity写作助手](./ai-tool/deploy-alwrity-ai-writing-assistant.md) — 2026-01-13
+- [面对2026年房贷利率波动，该提前还贷还是持有资产？通过LPR与NPV模型量化你的最优选择](./ai-tool/mortgage-repayment-vs-holding-2026-lpr-npv-model.md) — 2026-01-12
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
