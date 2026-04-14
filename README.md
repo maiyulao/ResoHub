@@ -140,6 +140,7 @@
 - [冬瓜TV MAX：基于 TMDb 智能刮削的开源私有流媒体聚合方案](./creative-tools/donggua-tv-max-tmdb-media-aggregator.md) — 2025-12-19
 - [WordToTime使用指南：针对创作者的文字转朗读时长计算工具及参数配置](./creative-tools/wordtotime-guide-text-to-speech-duration-calculator.md) — 2025-12-19
 - [DiscordHunt 指南：高效检索并加入高质量 Discord 兴趣社群](./creative-tools/discordhunt-guide-find-quality-communities.md) — 2025-12-19
+- [Unicode 符号在线检索库：支持 Emoji 与特殊字符快速复制及编码查询](./creative-tools/unicode-symbol-search-library.md) — 2025-12-17
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
