@@ -43,6 +43,7 @@
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
+- [独居安全增强方案：利用 Keep Alive 机制构建手机自动报警系统的操作步骤](./android/solo-living-security-keep-alive-auto-alarm-system.md) — 2026-01-17
 
 ### GitHub项目
 - [Chrome 与 Edge 占用内存过高？尝试通过策略配置优化浏览器资源消耗的开源方案](./github-project/optimize-chrome-edge-memory-usage-open-source-solution.md) — 2026-01-22
