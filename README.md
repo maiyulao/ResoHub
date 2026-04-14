@@ -264,6 +264,7 @@
 - [TikTok美区跨境实操指南：从零起步的全流程视频教学与运营经验分享](./practical-guides/tiktok-us-cross-border-guide.md) — 2025-12-03
 - [Python 高阶爬虫实战：分布式架构搭建与逆向分析指南](./practical-guides/python-advanced-crawler-distributed-architecture-reverse-analysis.md) — 2025-12-02
 - [品牌独立站从理论学习到实操落地的推广路径指南](./practical-guides/brand-independent-site-promotion-guide.md) — 2025-12-02
+- [社媒独立站快速启动指南：3日从零构建闭环，实现从基础搭建到流量变现的0-1跑通](./practical-guides/social-media-shopify-quick-start-guide.md) — 2025-12-02
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
