@@ -166,6 +166,7 @@
 - [玉桃文飨轩：将 Markdown 快速转化为高美感图片的工具指南](./creative-tools/yutaowen-markdown-to-image-guide.md) — 2025-12-09
 - [VIPCalendar 全球节假日日历：支持 ICS 导入与自定义打印的免费工具指南](./creative-tools/vipcalendar-global-holiday-calendar-ics-import-printing-guide.md) — 2025-12-08
 - [Hummingbirdspot：通过全天候直播与全球摄影社区，构建一个实时记录蜂鸟生态的数字化图鉴](./creative-tools/hummingbirdspot-realtime-digital-encyclopedia.md) — 2025-12-08
+- [NekoGAL：专业 Galgame 资源库与玩家交流中心](./creative-tools/nekogal-galgame-resource-community.md) — 2025-12-07
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
