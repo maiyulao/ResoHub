@@ -183,6 +183,7 @@
 - [AI视频创作入门指南：从零起步掌握生成式视频技术](./practical-guides/ai-video-creation-guide-for-beginners-2.md) — 2025-12-19
 - [珠宝行业小红书全链路增长指南：从0到1构建多维度账号矩阵与变现模型](./practical-guides/jewelry-xiaohongshu-growth-guide.md) — 2025-12-19
 - [图文带货全流程：从零基础上手到快速实现变现的实操指南](./practical-guides/guide-to-graphic-commerce-monetization.md) — 2025-12-19
+- [从认知到实践：幽默感习得与社交应用指南](./practical-guides/learning-humor-and-social-application.md) — 2025-12-18
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
