@@ -154,6 +154,7 @@
 - [新人主播快速上手指南：20 节实操培训课及其能力构建路径](./practical-guides/new-streamer-training-guide-20-lessons.md) — 2025-12-28
 - [TikTok电商千万级GMV增长全链路指南：从起号逻辑到规模化营收的实战拆解](./practical-guides/tiktok-ecommerce-gmv-growth-guide.md) — 2025-12-27
 - [TikTok 命理赛道出海实操指南：从内容本土化到精准获客的双语变现路径](./practical-guides/tiktok-astrology-monetization-guide.md) — 2025-12-26
+- [如何利用谷歌搜索精准锁定海外大客户？外贸主动开发实战指南](./practical-guides/google-search-for-overseas-b2b-clients.md) — 2025-12-24
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
