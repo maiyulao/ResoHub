@@ -194,6 +194,7 @@
 - [SearchGal：开源Galgame多源实时搜索工具，支持免登录标签检索与私有化部署](./creative-tools/searchgal-open-source-galgame-search-tool.md) — 2025-11-29
 - [如何使用全球品牌数据库（GBD）进行商标检索与品牌查询：分步操作指南](./creative-tools/global-brand-database-trademark-search-guide.md) — 2025-11-29
 - [找不到想看的网盘资源？试试小云搜索，一次性检索七大主流云盘](./creative-tools/xiaoyun-search-cloud-drive-resource.md) — 2025-11-29
+- [想绕过登录直接下载 123 网盘文件？试试这款免费的直链解析工具](./creative-tools/123pan-direct-download-tool.md) — 2025-11-28
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
