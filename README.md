@@ -184,6 +184,7 @@
 - [珠宝行业小红书全链路增长指南：从0到1构建多维度账号矩阵与变现模型](./practical-guides/jewelry-xiaohongshu-growth-guide.md) — 2025-12-19
 - [图文带货全流程：从零基础上手到快速实现变现的实操指南](./practical-guides/guide-to-graphic-commerce-monetization.md) — 2025-12-19
 - [从认知到实践：幽默感习得与社交应用指南](./practical-guides/learning-humor-and-social-application.md) — 2025-12-18
+- [Snapseed进阶指南：从基础设置到大片调色的实操步骤](./practical-guides/snapseed-advanced-guide-color-grading-tutorial.md) — 2025-12-17
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
