@@ -185,6 +185,7 @@
 - [隐私优先的 Twitter 轻量化前端：Nitter 开源镜像部署与实操指南](./creative-tools/nitter-deployment-guide.md) — 2025-12-04
 - [想快速下载视频却被繁琐步骤困扰？试试这款支持多任务并发的轻量级链接下载工具](./creative-tools/lightweight-multi-task-video-downloader.md) — 2025-12-03
 - [寻找高质量EPUB或多格式电子书？试试这个资源丰富的阡陌居社区](./creative-tools/qianmoju-high-quality-epub-ebooks-community.md) — 2025-12-02
+- [高效网页转 EPUB 指南：支持多格式兼容的免费在线转换工具](./creative-tools/free-online-web-to-epub-converter-guide.md) — 2025-12-01
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
