@@ -84,6 +84,7 @@
 
 ### Windows软件
 - [KOMA 指南：实现本地漫画自动去水印、压缩与标准化归档](./windows/koma-guide-manga-watermark-removal-compression-archiving.md) — 2026-02-05
+- [SmartHostsTool 指南：通过智能测速优化 Hosts 实现 GitHub 加速](./windows/smarthoststool-github-acceleration-guide.md) — 2026-01-03
 
 ### 创意工具
 - [出国出差担心漫游费太贵或当地卡激活麻烦？实测 Roamless eSIM 是否能成为可靠的企业差旅备用方案](./creative-tools/roamless-esim-review-for-business-travel.md) — 2026-02-28
