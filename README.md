@@ -120,6 +120,7 @@
 - [利用 Cloudflare Workers 构建 MoveCar：一套兼顾隐私与实时性的智能挪车通知方案](./creative-tools/movecar-cloudflare-workers-smart-parking-notification.md) — 2026-01-01
 - [想找 PS4 游戏攻略或交流心得？V5PS 社区为你提供专业资讯与玩家讨论空间](./creative-tools/v5ps-ps4-guides-community.md) — 2026-01-01
 - [YearCompass年度复盘指南：通过结构化问卷实现自我认知与新年规划（含获取途径与使用要点）](./creative-tools/yearcompass-annual-review-guide.md) — 2025-12-30
+- [DailyWallpaperHub 部署指南：集成 Bing 与 Unsplash 自动归档及 AI 故事生成功能](./creative-tools/dailywallpaperhub-deployment-guide-bing-unsplash-ai-stories.md) — 2025-12-28
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
