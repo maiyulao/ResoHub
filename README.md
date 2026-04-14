@@ -68,6 +68,7 @@
 - [独居安全增强方案：利用 Keep Alive 机制构建手机自动报警系统的操作步骤](./android/solo-living-security-keep-alive-auto-alarm-system.md) — 2026-01-17
 - [Google Translate AI 新功能实测：能否替代付费口语课？](./android/google-translate-ai-oral-english-test.md) — 2026-01-17
 - [安装 Twitter X v11.49.1-release.0 APK 的详细步骤指南](./android/install-twitter-x-v11-49-1-apk-guide.md) — 2025-12-23
+- [不想让输入法上传打字记录？试试 Urik：一个支持本地处理与加密词库的开源 Android 键盘替代方案](./android/urik-open-source-android-keyboard-privacy.md) — 2025-12-16
 
 ### GitHub项目
 - [Chrome 与 Edge 占用内存过高？尝试通过策略配置优化浏览器资源消耗的开源方案](./github-project/optimize-chrome-edge-memory-usage-open-source-solution.md) — 2026-01-22
