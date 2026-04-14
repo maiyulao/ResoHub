@@ -162,6 +162,7 @@
 - [短视频与直播电商8天全能实操课：从零构建账号矩阵，打通拍摄剪辑与直播变现全链路](./practical-guides/short-video-livestream-ecommerce-course.md) — 2025-12-24
 - [小红书零门槛带货实操指南：从手机起号到月入万元的具体步骤](./practical-guides/xiaohongshu-ecommerce-guide-for-beginners-7.md) — 2025-12-24
 - [AI短视频获客实战指南：从内容生成到精准流量转化的全流程实操](./practical-guides/ai-short-video-customer-acquisition-guide-3.md) — 2025-12-23
+- [电商AI模特实操指南：从零构建高仿真商业视觉，详解高效出图全流程](./practical-guides/ecommerce-ai-model-guide-workflow.md) — 2025-12-23
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
