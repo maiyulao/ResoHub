@@ -43,6 +43,7 @@
 - [neTV Docker 部署指南：适用于 NAS 的轻量化 AI 直播流管理方案](./ai-tool/netv-docker-deployment-guide-nas-ai-live-stream.md) — 2026-01-15
 - [Claude Code 协同 Obsidian 可视化能力：实现 Excalidraw 与 Canvas 自动化绘图的实操指南](./ai-tool/claude-code-obsidian-excalidraw-canvas-automation-guide.md) — 2026-01-15
 - [Voice-Pro 部署指南：实现本地化语音克隆与视频翻译的开源方案](./ai-tool/voice-pro-deployment-guide-local-voice-cloning-video-translation.md) — 2026-01-15
+- [AI 驱动的自动化股市分析实战：从零构建免费私人投研系统，实现多维数据监控与智能研报生成](./ai-tool/ai-automated-stock-analysis-system.md) — 2026-01-13
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
