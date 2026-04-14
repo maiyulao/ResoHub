@@ -219,6 +219,7 @@
 - [Notion人生管理系统构建方案：从基础配置到高级工作流实操指南](./practical-guides/notion-life-management-system-guide.md) — 2025-12-12
 - [从核心竞争力到商业溢价：品牌管理线上实战指南](./practical-guides/brand-management-online-guide-core-competency-premium.md) — 2025-12-11
 - [LinkedIn 获客全指南：从账号权重到精准开发的高效实操路径](./practical-guides/linkedin-lead-generation-guide.md) — 2025-12-11
+- [普通投资者摆脱亏损陷阱的实操指南：从心态重塑到策略执行的五个步骤](./practical-guides/stop-investing-losses-guide.md) — 2025-12-10
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
