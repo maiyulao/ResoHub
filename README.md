@@ -62,6 +62,7 @@
 - [企业级 AI 工作流如何兼顾隐私与效率？尝试用 Eigent 构建本地化智能体方案](./github-project/enterprise-ai-workflow-privacy-efficiency-eigent-local-agents.md) — 2026-01-17
 - [OutRay 实战指南：构建零成本、高安全的开源内网穿透方案（ngrok 替代实践）](./github-project/outray-open-source-intranet-penetration-guide.md) — 2026-01-13
 - [Medium Unlocker 使用指南：绕过付费墙访问文章（支持 Web 与 Android 端）](./github-project/medium-unlocker-guide.md) — 2026-01-07
+- [2026届软件工程校招与实习岗位实时追踪：获取最新职位的操作指南](./github-project/software-engineering-campus-recruitment-2026-guide.md) — 2026-01-01
 
 ### Mac软件
 - [macUSB 简化 macOS 启动盘制作流程：支持快速构建旧版系统安装介质，适配最新 Mac 硬件环境](./mac/macusb-macos-bootable-usb-creator.md) — 2026-04-12
