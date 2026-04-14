@@ -93,6 +93,7 @@
 - [开源书摘卡片生成器：从配置到导出高颜值图片的具体操作步骤](./github-project/open-source-book-excerpt-card-generator-guide.md) — 2025-12-13
 - [利用 Cloudflare Workers 零成本构建微信推送服务：WXPush 的实现原理与部署指南](./github-project/build-wechat-push-service-with-cloudflare-workers-wxpush.md) — 2025-12-10
 - [CloudMeet 详解：利用 Cloudflare 构建的 Calendly 开源替代方案](./github-project/cloudmeet-cloudflare-calendly-open-source-alternative.md) — 2025-12-09
+- [SubsTracker：基于 Cloudflare Workers 的开源订阅管理方案，实现多渠道到期实时提醒](./github-project/substracker-cloudflare-workers-subscription-manager.md) — 2025-12-03
 
 ### Mac软件
 - [macUSB 简化 macOS 启动盘制作流程：支持快速构建旧版系统安装介质，适配最新 Mac 硬件环境](./mac/macusb-macos-bootable-usb-creator.md) — 2026-04-12
