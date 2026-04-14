@@ -38,6 +38,7 @@
 - [WebGPU 驱动的 Chrome 端侧 RPA：2026 本地 AI 网页自动化实战指南](./ai-tool/webgpu-chrome-edge-rpa-local-ai-automation-guide-2026.md) — 2026-01-27
 - [Claude Code 驱动的自动化剪辑实操：2026 生产力工作流构建指南](./ai-tool/claude-code-automated-video-editing-workflow-2026.md) — 2026-01-26
 - [Claude Code Humanizer 实战指南：通过内容去 AI 化提升 2026 年文章可读性](./ai-tool/claude-code-humanizer-guide-2026.md) — 2026-01-26
+- [构建 Agent 安全隔离环境：OpenSandbox 部署全流程详解](./ai-tool/opensandbox-deployment-guide-agent-security-isolation.md) — 2026-01-20
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
