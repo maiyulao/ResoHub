@@ -98,6 +98,7 @@
 - [直播间补光没预算？试试用 DynamicScreen 把显示器变成氛围灯](./creative-tools/dynamicscreen-monitor-ambient-light.md) — 2026-01-15
 - [CutCut 2026 专业版实测：4K 素材管理与高精度剪辑流解析](./creative-tools/cutcut-2026-pro-review-4k-editing-workflow.md) — 2026-01-12
 - [Cook Lab实战：2026版厨房SOP构建指南，含个人饮食管理系统配置与ROI优化要点](./creative-tools/cook-lab-2026-kitchen-sop-guide.md) — 2026-01-12
+- [如何使用 Velvetyne 开源字体库：从资源检索到商用 Webfont 部署的完整流程](./creative-tools/velvetyne-open-source-fonts-guide-webfont-deployment.md) — 2026-01-11
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
