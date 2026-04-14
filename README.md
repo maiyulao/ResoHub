@@ -97,6 +97,7 @@
 - [CloudMeet 详解：利用 Cloudflare 构建的 Calendly 开源替代方案](./github-project/cloudmeet-cloudflare-calendly-open-source-alternative.md) — 2025-12-09
 - [SubsTracker：基于 Cloudflare Workers 的开源订阅管理方案，实现多渠道到期实时提醒](./github-project/substracker-cloudflare-workers-subscription-manager.md) — 2025-12-03
 - [本地邮件备份太乱且搜索缓慢？试试用 Rust 构建的开源归档系统 Bichon](./github-project/bichon-rust-open-source-email-archiving-system.md) — 2025-12-02
+- [F1 Race Replay：通过赛事数据可视化还原赛道超车细节的重放工具](./github-project/f1-race-replay-data-visualization-tool.md) — 2025-11-30
 
 ### Mac软件
 - [macUSB 简化 macOS 启动盘制作流程：支持快速构建旧版系统安装介质，适配最新 Mac 硬件环境](./mac/macusb-macos-bootable-usb-creator.md) — 2026-04-12
