@@ -254,6 +254,7 @@
 - [烟酒茶实体店短视频矩阵获客实操指南：从账号搭建到营收增长的5个核心步骤](./practical-guides/liquor-tobacco-tea-store-short-video-marketing-guide.md) — 2025-12-04
 - [商业实战 AI 应用指南：从工具获取到场景部署的落地教程](./practical-guides/business-ai-application-guide.md) — 2025-12-04
 - [抖音电商带货全流程实操指南：从选品策略到转化技巧](./practical-guides/douyin-ecommerce-guide-selection-to-conversion.md) — 2025-12-04
+- [Go 语言全栈开发指南：从核心语法机制到工业级项目实践](./practical-guides/go-fullstack-development-guide.md) — 2025-12-04
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
