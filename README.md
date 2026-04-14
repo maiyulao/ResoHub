@@ -107,6 +107,7 @@
 - [iPad珠宝商业手绘：Procreate基础到钻石翡翠高定实战（含三视图透视）](./practical-guides/ipad-jewelry-painting-procreate-guide.md) — 2026-01-11
 - [抖音全链路增长指南：从算法建模到短视频、直播与私域的闭环实操](./practical-guides/douyin-growth-guide-algorithm-short-video-live-private-traffic.md) — 2026-01-11
 - [AI自媒体全流程实操指南：通过拆解流量底层逻辑，实现从零起号到商业变现的闭环增长](./practical-guides/ai-social-media-growth-guide.md) — 2026-01-11
+- [短视频从起号到获客全流程：涵盖投流策略与ROI提升的操作指南](./practical-guides/short-video-growth-acquisition-roi-guide.md) — 2026-01-10
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
