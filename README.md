@@ -98,4 +98,5 @@
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
+- [利用 NotebookLM Web Importer 构建个人知识库：从碎片化阅读到结构化存储的 4 个步骤](./productivity-tools/build-personal-knowledge-base-with-notebooklm-web-importer.md) — 2026-01-12
 <!-- LE_AUTOPOST_INDEX_END -->
