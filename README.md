@@ -131,6 +131,7 @@
 - [30天跑姿纠正训练指南：分阶段练习方案与核心要点说明](./practical-guides/30-day-running-form-correction-guide.md) — 2026-01-03
 - [TikTok跨境电商全流程实操指南：从零搭建账号到实现规模化出海运营](./practical-guides/tiktok-cross-border-ecommerce-guide-4.md) — 2026-01-03
 - [在体制内缺乏人脉资源，普通年轻人该如何通过能力实现破局与晋升？](./practical-guides/career-growth-without-connections-for-young-professionals.md) — 2026-01-02
+- [想在 YouTube 开启副业却不知如何起步？这份全流程指南带你从零构建高效运营体系](./practical-guides/youtube-side-hustle-complete-guide.md) — 2026-01-02
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
