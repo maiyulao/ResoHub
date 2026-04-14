@@ -148,6 +148,7 @@
 - [突破效能瓶颈：实现十倍速增长的底层执行逻辑](./practical-guides/break-efficiency-bottleneck-10x-growth-logic.md) — 2025-12-30
 - [拆解大厂工作法：从谷歌、腾讯到阿里的效能提升操作指南](./practical-guides/big-company-productivity-guide-google-tencent-alibaba.md) — 2025-12-29
 - [内贸转外贸实操指南：针对企业主与管理层的0-1认知构建方案](./practical-guides/domestic-to-foreign-trade-guide.md) — 2025-12-28
+- [新人主播快速上手指南：20 节实操培训课及其能力构建路径](./practical-guides/new-streamer-training-guide-20-lessons.md) — 2025-12-28
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
