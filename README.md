@@ -61,6 +61,7 @@
 - [AppPorts 开源迁移指南：通过路径重定向解决 Mac 存储不足，实现 Xcode 与 Steam 应用高效搬家](./mac/appports-open-source-migration-guide-mac-storage-redirect.md) — 2026-02-06
 - [FineTune 配置指南：实现 macOS 独立应用音量控制的开源替代方案](./mac/finetune-macos-app-volume-control-guide.md) — 2026-01-26
 - [Mango Desk 开源方案：通过自然语言检索本地文件，重塑 2026 效率工具的搜索体验](./mac/mango-desk-open-source-local-file-search.md) — 2026-01-23
+- [开源方案：将 Mac 微信读书内存占用压至 5MB 的优化实践](./mac/optimize-mac-wechat-reading-memory-usage.md) — 2026-01-18
 
 ### Windows软件
 - [KOMA 指南：实现本地漫画自动去水印、压缩与标准化归档](./windows/koma-guide-manga-watermark-removal-compression-archiving.md) — 2026-02-05
