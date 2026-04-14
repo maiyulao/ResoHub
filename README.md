@@ -74,6 +74,7 @@
 - [如何利用 Agentic AI 驱动内容生产？本期 Agili AIGC 周刊为你拆解前沿实践](./ai-tool/agentic-ai-content-production-agili-aigc-weekly.md) — 2025-12-02
 - [梦呓像素：基于 AI 的动态壁纸生成引擎与桌面视觉重构指南](./ai-tool/dream-pixel-ai-dynamic-wallpaper-engine.md) — 2025-12-01
 - [GeekAI 开源指南：一站式集成主流大模型与绘画插件的 AI 助手方案](./ai-tool/geekai-open-source-guide-ai-assistant-integration.md) — 2025-11-29
+- [QuantAgent：构建基于 LangGraph 的多智能体量化交易系统，实现从市场分析到高频交易的自动化全链路闭环](./ai-tool/quantagent-langgraph-multi-agent-quant-trading-system.md) — 2025-11-29
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
