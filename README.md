@@ -125,6 +125,7 @@
 - [Mini Clipboard：一款主打轻量化与高效能的 macOS 开源剪贴板工具](./mac/mini-clipboard-macos-open-source.md) — 2025-12-13
 - [深度解析 DuckStation：实现 PS1 高精度模拟的跨平台方案](./mac/duckstation-ps1-emulator-guide.md) — 2025-12-12
 - [基于 SwiftUI 原生开发的 ClashMac：一款搭载 mihomo 内核的轻量级 macOS 菜单栏客户端](./mac/clashmac-swiftui-mihomo-macos-client.md) — 2025-12-03
+- [Caesium开源图片压缩指南：实现最高90%体积缩减的批量无损优化方案](./mac/caesium-image-compression-guide-batch-lossless-optimization.md) — 2025-11-27
 
 ### Windows软件
 - [KOMA 指南：实现本地漫画自动去水印、压缩与标准化归档](./windows/koma-guide-manga-watermark-removal-compression-archiving.md) — 2026-02-05
