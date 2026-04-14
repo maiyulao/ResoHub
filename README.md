@@ -48,6 +48,7 @@
 - [面对2026年房贷利率波动，该提前还贷还是持有资产？通过LPR与NPV模型量化你的最优选择](./ai-tool/mortgage-repayment-vs-holding-2026-lpr-npv-model.md) — 2026-01-12
 - [Vibe Kanban 开源项目：支持多 Agent 协作的代码编排管理平台部署与配置指南](./ai-tool/vibe-kanban-deployment-guide.md) — 2026-01-11
 - [量化人生起伏：通过AI八字命理将运势转化为K线图，实现生命走势的可视化分析](./ai-tool/ai-bazi-fortune-kline-visualization.md) — 2026-01-10
+- [Claude-Ally-Health：通过文件系统构建的个人健康AI管理方案，实现健康数据的本地化存储与智能分析](./ai-tool/claude-ally-health-local-ai-health-management.md) — 2026-01-08
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
