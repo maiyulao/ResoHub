@@ -79,6 +79,7 @@
 - [KVideo：采用 Next.js 16 构建的液态玻璃风视频聚合平台（支持 HLS、多源搜索与本地隐私）](./github-project/kvideo-nextjs-liquid-glass-video-aggregator.md) — 2025-12-23
 - [想在 Cloudflare 上搭建一个支持标签管理和格式转换的私有图床？试试开源的 CattoPic](./github-project/cattopic-cloudflare-private-image-hosting.md) — 2025-12-23
 - [开源软件导航：跨平台高效工具筛选与免费资源清单指南](./github-project/open-source-software-navigation-guide.md) — 2025-12-15
+- [利用 SheerID Doc Generator 模拟身份验证流程：通过快速生成测试文档优化 UI 验证链路](./github-project/sheerid-doc-generator-simulate-identity-verification-ui-optimization.md) — 2025-12-15
 
 ### Mac软件
 - [macUSB 简化 macOS 启动盘制作流程：支持快速构建旧版系统安装介质，适配最新 Mac 硬件环境](./mac/macusb-macos-bootable-usb-creator.md) — 2026-04-12
