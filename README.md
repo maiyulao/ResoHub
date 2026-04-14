@@ -176,6 +176,7 @@
 - [利用 Midjourney 辅助服装设计：企业降本实操指南与应用环境配置](./practical-guides/midjourney-clothing-design-cost-reduction-guide.md) — 2025-12-22
 - [面对外贸客户沟通冷场或回复率低？一套实战营销话术帮你突破沟通瓶颈](./practical-guides/foreign-trade-communication-scripts-to-boost-reply-rate.md) — 2025-12-21
 - [想做服装带货却没场地、没样品且不想出镜？尝试用AI打造一人单干的虚拟模特方案](./practical-guides/ai-virtual-model-for-clothing-ecommerce.md) — 2025-12-21
+- [财务从业者个人IP构建与知识变现实操指南](./practical-guides/financial-personal-branding-monetization-guide.md) — 2025-12-19
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
