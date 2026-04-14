@@ -162,6 +162,7 @@
 - [如何使用好歌汇：从全网歌词检索到流行音乐发现的操作指南](./creative-tools/how-to-use-haogehu-music-guide.md) — 2025-12-16
 - [如何利用 App Store 订阅比价工具追踪全球低价并完成省钱订阅](./creative-tools/app-store-subscription-price-comparison-guide.md) — 2025-12-12
 - [SteamUnderground：PC游戏评测、资讯与性能优化全攻略](./creative-tools/steamunderground-pc-gaming-reviews-news-optimization.md) — 2025-12-09
+- [玉桃文飨轩：将 Markdown 快速转化为高美感图片的工具指南](./creative-tools/yutaowen-markdown-to-image-guide.md) — 2025-12-09
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
