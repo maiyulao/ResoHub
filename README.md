@@ -111,6 +111,7 @@
 - [短视频从起号到获客全流程：涵盖投流策略与ROI提升的操作指南](./practical-guides/short-video-growth-acquisition-roi-guide.md) — 2026-01-10
 - [手机短片拍摄与剪辑：从零起步打造高级感视觉效果](./practical-guides/mobile-video-shooting-and-editing-guide.md) — 2026-01-09
 - [总觉得在公司努力却没结果？从情商管理到升职逻辑，拆解职场进阶的底层路径](./practical-guides/workplace-career-growth-logic.md) — 2026-01-08
+- [拆解美团商业模式：核心竞争力的演进与增长逻辑](./practical-guides/meituan-business-model-analysis.md) — 2026-01-07
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
