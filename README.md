@@ -60,6 +60,7 @@
 - [如何利用金融K线技术将八字命理可视化：分步构建指南](./ai-tool/visualize-bazi-with-financial-k-line-guide.md) — 2025-12-17
 - [RSS-AIGC 安装与配置指南：利用 AI 驱动的内容聚合实现高效创作流](./ai-tool/rss-aigc-installation-configuration-guide.md) — 2025-12-17
 - [Vibe Coding 实操手册：基于规划驱动与上下文管理的 AI 协同开发流程及维护要点](./ai-tool/vibe-coding-guide-ai-collaborative-development.md) — 2025-12-16
+- [Make It Heavy：通过开源多智能体框架实现类 Grok Heavy 的深度分析能力](./ai-tool/make-it-heavy-open-source-multi-agent-framework-grok-heavy-analysis.md) — 2025-12-16
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
