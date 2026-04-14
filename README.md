@@ -138,6 +138,7 @@
 - [在体制内缺乏人脉资源，普通年轻人该如何通过能力实现破局与晋升？](./practical-guides/career-growth-without-connections-for-young-professionals.md) — 2026-01-02
 - [想在 YouTube 开启副业却不知如何起步？这份全流程指南带你从零构建高效运营体系](./practical-guides/youtube-side-hustle-complete-guide.md) — 2026-01-02
 - [跨境电商财税合规实操指南：底层逻辑解析与分场景应用教程](./practical-guides/cross-border-ecommerce-tax-compliance-guide-2.md) — 2026-01-01
+- [普通人如何利用 AI 浪潮打破职场天花板？一套从工具上手到实现能力跨越的实用指南](./practical-guides/break-career-ceiling-with-ai-guide.md) — 2026-01-01
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
