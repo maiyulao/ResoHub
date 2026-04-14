@@ -68,6 +68,7 @@
 - [Medium Unlocker 使用指南：绕过付费墙访问文章（支持 Web 与 Android 端）](./github-project/medium-unlocker-guide.md) — 2026-01-07
 - [2026届软件工程校招与实习岗位实时追踪：获取最新职位的操作指南](./github-project/software-engineering-campus-recruitment-2026-guide.md) — 2026-01-01
 - [KVideo：采用 Next.js 16 构建的液态玻璃风视频聚合平台（支持 HLS、多源搜索与本地隐私）](./github-project/kvideo-nextjs-liquid-glass-video-aggregator.md) — 2025-12-23
+- [想在 Cloudflare 上搭建一个支持标签管理和格式转换的私有图床？试试开源的 CattoPic](./github-project/cattopic-cloudflare-private-image-hosting.md) — 2025-12-23
 
 ### Mac软件
 - [macUSB 简化 macOS 启动盘制作流程：支持快速构建旧版系统安装介质，适配最新 Mac 硬件环境](./mac/macusb-macos-bootable-usb-creator.md) — 2026-04-12
