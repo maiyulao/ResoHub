@@ -168,6 +168,7 @@
 - [AI短视频获客实战指南：从内容生成到精准流量转化的全流程实操](./practical-guides/ai-short-video-customer-acquisition-guide-3.md) — 2025-12-23
 - [电商AI模特实操指南：从零构建高仿真商业视觉，详解高效出图全流程](./practical-guides/ecommerce-ai-model-guide-workflow.md) — 2025-12-23
 - [财商进阶实操指南：从基础逻辑到赚钱模式的学习路径与资源获取](./practical-guides/financial-intelligence-guide-learning-path.md) — 2025-12-22
+- [利用 Midjourney 辅助服装设计：企业降本实操指南与应用环境配置](./practical-guides/midjourney-clothing-design-cost-reduction-guide.md) — 2025-12-22
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
