@@ -135,6 +135,7 @@
 - [如何使用 Convry Tools 在线工具箱提升工作效率：操作指南与功能清单](./creative-tools/convry-tools-productivity-guide.md) — 2025-12-22
 - [.ax 顶级域名注册商申请全攻略：实现零成本准入与低价域名持有（个人实操指南）](./creative-tools/ax-domain-registrar-application-guide.md) — 2025-12-21
 - [冬瓜TV MAX：基于 TMDb 智能刮削的开源私有流媒体聚合方案](./creative-tools/donggua-tv-max-tmdb-media-aggregator.md) — 2025-12-19
+- [WordToTime使用指南：针对创作者的文字转朗读时长计算工具及参数配置](./creative-tools/wordtotime-guide-text-to-speech-duration-calculator.md) — 2025-12-19
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
