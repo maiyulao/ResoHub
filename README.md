@@ -257,6 +257,7 @@
 - [Go 语言全栈开发指南：从核心语法机制到工业级项目实践](./practical-guides/go-fullstack-development-guide.md) — 2025-12-04
 - [2025企业财税与股权实操指南：合规避坑路径及资源获取方案](./practical-guides/2025-enterprise-tax-equity-guide.md) — 2025-12-04
 - [巴菲特与林奇的价值投资逻辑：构建长期获利的黄金准则](./practical-guides/buffett-lynch-value-investing-logic.md) — 2025-12-03
+- [TikTok美区跨境实操指南：从零起步的全流程视频教学与运营经验分享](./practical-guides/tiktok-us-cross-border-guide.md) — 2025-12-03
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
