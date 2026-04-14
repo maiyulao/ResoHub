@@ -121,6 +121,9 @@
 - [wechatVideoDownload：支持自动监听与 MP4 导出的微信视频号下载工具（含直播回放）](./windows/wechat-video-download-tool-mp4-exporter.md) — 2025-12-22
 - [如何使用开源工具 Inkeys 在 Windows 上实现高效屏幕批注与智能绘图](./windows/how-to-use-inkeys-for-screen-annotation-on-windows.md) — 2025-12-07
 
+### 兴趣爱好
+- [家里东西总是在整理后迅速回潮？掌握这套收纳逻辑，让空间持久有序](./e585b4e8b6a3e788b1e5a5bd/home-organization-logic-for-lasting-order.md) — 2025-12-07
+
 ### 创意工具
 - [中年失业财务压力测试：通过生存模拟器量化存款续航力](./creative-tools/middle-age-unemployment-financial-stress-test.md) — 2026-04-13
 - [出国出差担心漫游费太贵或当地卡激活麻烦？实测 Roamless eSIM 是否能成为可靠的企业差旅备用方案](./creative-tools/roamless-esim-review-for-business-travel.md) — 2026-02-28
