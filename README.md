@@ -204,6 +204,7 @@
 - [小红书电商起步指南：从零到一的实操运营全流程](./practical-guides/xiaohongshu-ecommerce-guide-step-by-step.md) — 2025-12-15
 - [60天速成PS与AI设计：从零基础到商业实战的进阶路径](./practical-guides/60-day-ps-ai-design-course.md) — 2025-12-15
 - [TikTok广告投放不知从何下手？这份入门指南帮你快速上手实操技巧](./practical-guides/tiktok-ads-beginner-guide.md) — 2025-12-15
+- [LinkedIn外贸获客实操指南：从精准定位到高效开发客户的五个步骤](./practical-guides/linkedin-lead-generation-guide-2.md) — 2025-12-13
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
