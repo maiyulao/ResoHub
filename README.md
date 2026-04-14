@@ -206,6 +206,7 @@
 - [TikTok广告投放不知从何下手？这份入门指南帮你快速上手实操技巧](./practical-guides/tiktok-ads-beginner-guide.md) — 2025-12-15
 - [LinkedIn外贸获客实操指南：从精准定位到高效开发客户的五个步骤](./practical-guides/linkedin-lead-generation-guide-2.md) — 2025-12-13
 - [打造差异化个人IP及流量变现的实操指南：从定位到盈利的执行步骤](./practical-guides/personal-ip-monetization-guide-2.md) — 2025-12-13
+- [抖音小店财务实操指南：电商会计账务处理与核算教程下载](./practical-guides/douyin-shop-accounting-guide.md) — 2025-12-13
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
