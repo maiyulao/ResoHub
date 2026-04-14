@@ -71,6 +71,7 @@
 - [想让AI深度研究与快速建站一步到位？尝试开源智能体系统 Craft-Agent](./ai-tool/craft-agent-ai-research-website-builder.md) — 2025-12-06
 - [ClipSketch AI 实测：将视频快速转化为 AI 手绘故事板的创作流程](./ai-tool/clipsketch-ai-video-to-storyboard-workflow.md) — 2025-12-04
 - [如何通过 SheerID 验证身份以获取一年免费 Gemini Advanced 学生权益](./ai-tool/get-free-gemini-advanced-student-sheerid-verification.md) — 2025-12-03
+- [如何利用 Agentic AI 驱动内容生产？本期 Agili AIGC 周刊为你拆解前沿实践](./ai-tool/agentic-ai-content-production-agili-aigc-weekly.md) — 2025-12-02
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
