@@ -271,6 +271,7 @@
 - [2025版运营型主播实操课：从零起步至金牌标准（含全套学习资源与环境配置）](./practical-guides/2025-operational-anchor-course-guide.md) — 2025-12-01
 - [B站金融与商业分析完结课程：全集下载及学习环境配置指南](./practical-guides/bilibili-finance-business-analysis-course-download-setup.md) — 2025-12-01
 - [李源《易经情商课》全集：深度解析人生格局与情绪管理](./practical-guides/yi-jing-eq-course-li-yuan.md) — 2025-12-01
+- [短视频全域投流实操指南：涵盖随心推全链路配置与策略思维导图](./practical-guides/short-video-traffic-guide-suixintui-strategy.md) — 2025-12-01
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
