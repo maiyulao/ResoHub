@@ -286,6 +286,7 @@
 - [小红书学科资料虚拟店实操指南：通过标准化获客与交付实现日均6单以上的稳定变现](./practical-guides/xiaohongshu-academic-digital-store-guide.md) — 2025-11-30
 - [破解成年人心累的认知盲区：通过拆解自我意识黑箱，重建心理能量管理机制](./practical-guides/mental-energy-management-cognitive-blind-spots.md) — 2025-11-29
 - [从基础到进阶：手机专业修图全流程实操指南](./practical-guides/professional-mobile-photo-editing-guide.md) — 2025-11-29
+- [中文性别偏见与污名化词汇库：开源数据集获取及适用场景指南](./practical-guides/chinese-gender-bias-stigma-dataset-guide.md) — 2025-11-29
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
