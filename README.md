@@ -112,6 +112,7 @@
 - [如何使用 IPTV神器Pro 获取每日更新的酒店组播直播源与稳定下载地址](./creative-tools/how-to-get-hotel-iptv-m3u-with-iptv-pro.md) — 2026-01-04
 - [如何通过三维可视化实时呈现东京复杂的公共交通网络？解析 Mini Tokyo 3D 的实现方案](./creative-tools/mini-tokyo-3d-realtime-transport-visualization.md) — 2026-01-03
 - [如何高效下载 X (Twitter) 热门视频？这份全时段热度榜单为你提供保存方案](./creative-tools/how-to-download-x-twitter-trending-videos.md) — 2026-01-02
+- [利用 Cloudflare Workers 构建 MoveCar：一套兼顾隐私与实时性的智能挪车通知方案](./creative-tools/movecar-cloudflare-workers-smart-parking-notification.md) — 2026-01-01
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
