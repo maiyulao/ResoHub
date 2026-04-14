@@ -79,6 +79,7 @@
 - [开源方案：将 Mac 微信读书内存占用压至 5MB 的优化实践](./mac/optimize-mac-wechat-reading-memory-usage.md) — 2026-01-18
 - [被 Logi Options+ 的 AI 推广和弹窗困扰？尝试通过 Mini 实现驱动精简与去冗余](./mac/logi-options-plus-mini-driver-bloatware-removal.md) — 2026-01-14
 - [开源截图工具 SkreenPro 评测：替代 CleanShot X 的免费美化方案](./mac/skreenpro-review-cleanshot-x-alternative.md) — 2026-01-14
+- [自然语言驱动的安卓自动化助手 OMG-Agent：实现手机任务的开源操控方案](./mac/omg-agent-android-automation-open-source.md) — 2026-01-06
 
 ### Windows软件
 - [KOMA 指南：实现本地漫画自动去水印、压缩与标准化归档](./windows/koma-guide-manga-watermark-removal-compression-archiving.md) — 2026-02-05
