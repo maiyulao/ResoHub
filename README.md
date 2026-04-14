@@ -107,6 +107,7 @@
 - [Cook Lab实战：2026版厨房SOP构建指南，含个人饮食管理系统配置与ROI优化要点](./creative-tools/cook-lab-2026-kitchen-sop-guide.md) — 2026-01-12
 - [如何使用 Velvetyne 开源字体库：从资源检索到商用 Webfont 部署的完整流程](./creative-tools/velvetyne-open-source-fonts-guide-webfont-deployment.md) — 2026-01-11
 - [美剧窝：支持高清在线播放的资源导航站（无广告、适用多端）](./creative-tools/meijuwo-hd-streaming-navigation.md) — 2026-01-07
+- [如何使用 IPTV神器Pro 获取每日更新的酒店组播直播源与稳定下载地址](./creative-tools/how-to-get-hotel-iptv-m3u-with-iptv-pro.md) — 2026-01-04
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
