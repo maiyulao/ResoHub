@@ -69,6 +69,7 @@
 - [Mango Desk 开源方案：通过自然语言检索本地文件，重塑 2026 效率工具的搜索体验](./mac/mango-desk-open-source-local-file-search.md) — 2026-01-23
 - [开源方案：将 Mac 微信读书内存占用压至 5MB 的优化实践](./mac/optimize-mac-wechat-reading-memory-usage.md) — 2026-01-18
 - [被 Logi Options+ 的 AI 推广和弹窗困扰？尝试通过 Mini 实现驱动精简与去冗余](./mac/logi-options-plus-mini-driver-bloatware-removal.md) — 2026-01-14
+- [开源截图工具 SkreenPro 评测：替代 CleanShot X 的免费美化方案](./mac/skreenpro-review-cleanshot-x-alternative.md) — 2026-01-14
 
 ### Windows软件
 - [KOMA 指南：实现本地漫画自动去水印、压缩与标准化归档](./windows/koma-guide-manga-watermark-removal-compression-archiving.md) — 2026-02-05
