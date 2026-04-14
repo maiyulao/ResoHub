@@ -68,6 +68,7 @@
 - [如何使用 Opinion Whale Tracker 监控预测市场巨鲸动态并可视化订单簿](./ai-tool/opinion-whale-tracker-prediction-market-monitoring-orderbook-visualization.md) — 2025-12-10
 - [开源 AI Web 构建器 Claudable：快速生成并部署可运行应用](./ai-tool/claudable-open-source-ai-web-builder.md) — 2025-12-09
 - [想要用自然语言直接修改 PDF？试试集成 Gemini 1.5 Pro 的命令行工具 Nano PDF](./ai-tool/nano-pdf-gemini-15-pro-cli.md) — 2025-12-08
+- [想让AI深度研究与快速建站一步到位？尝试开源智能体系统 Craft-Agent](./ai-tool/craft-agent-ai-research-website-builder.md) — 2025-12-06
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
