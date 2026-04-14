@@ -77,6 +77,7 @@
 - [QuantAgent：构建基于 LangGraph 的多智能体量化交易系统，实现从市场分析到高频交易的自动化全链路闭环](./ai-tool/quantagent-langgraph-multi-agent-quant-trading-system.md) — 2025-11-29
 - [如何部署 Glucose Buddy 糖小助：基于 Nightscout 的血糖监控与 AI 分析配置指南](./ai-tool/deploy-glucose-buddy-nightscout-ai-guide.md) — 2025-11-27
 - [如何使用 deface 实现视频与照片的自动人脸脱敏（支持模糊、马赛克及实时打码）](./ai-tool/how-to-use-deface-for-automatic-face-anonymization.md) — 2025-11-27
+- [AI短视频全链路生产工作站：实现从素材生成到项目管理的闭环高效协作](./ai-tool/ai-short-video-production-workstation.md) — 2025-11-26
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
