@@ -223,6 +223,7 @@
 - [LinkedIn 获客全指南：从账号权重到精准开发的高效实操路径](./practical-guides/linkedin-lead-generation-guide.md) — 2025-12-11
 - [普通投资者摆脱亏损陷阱的实操指南：从心态重塑到策略执行的五个步骤](./practical-guides/stop-investing-losses-guide.md) — 2025-12-10
 - [想在小红书开店却没产品且不愿出镜？尝试这种无需囤货的无货源电商模式](./practical-guides/xiaohongshu-dropshipping-no-inventory.md) — 2025-12-10
+- [WordPress外贸独立站搭建实操：从环境配置到正式上线的全步骤指南](./practical-guides/wordpress-foreign-trade-website-setup-guide.md) — 2025-12-10
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
