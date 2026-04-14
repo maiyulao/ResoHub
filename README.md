@@ -65,6 +65,7 @@
 - [如何通过 Telegram Bot 快速完成 SheerID 学生与教师身份验证？tgbot-verify 实操指南](./ai-tool/sheerid-telegram-bot-verification-guide.md) — 2025-12-13
 - [基于Gemini 1.5 Pro将42本电子书转化为互动网页的实现方案与技术细节](./ai-tool/gemini-15-pro-ebooks-to-interactive-webpages.md) — 2025-12-13
 - [Open-AutoGLM 开源：实现 50 多个主流 App 的手机自动化操控](./ai-tool/open-autoglm-mobile-automation.md) — 2025-12-11
+- [如何使用 Opinion Whale Tracker 监控预测市场巨鲸动态并可视化订单簿](./ai-tool/opinion-whale-tracker-prediction-market-monitoring-orderbook-visualization.md) — 2025-12-10
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
