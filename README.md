@@ -80,6 +80,7 @@
 - [如何使用 deface 实现视频与照片的自动人脸脱敏（支持模糊、马赛克及实时打码）](./ai-tool/how-to-use-deface-for-automatic-face-anonymization.md) — 2025-11-27
 - [AI短视频全链路生产工作站：实现从素材生成到项目管理的闭环高效协作](./ai-tool/ai-short-video-production-workstation.md) — 2025-11-26
 - [如何使用 AI-CodeNexus 聚合编程资讯与开发工具：操作指南](./ai-tool/ai-codenexus-guide-programming-news-tools.md) — 2025-11-26
+- [YTB2BILI 自动化视频迁移方案：实现 YouTube 到 B站的一键式搬运与处理](./ai-tool/ytb2bili-automation-video-migration.md) — 2025-11-23
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
