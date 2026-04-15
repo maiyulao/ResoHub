@@ -327,6 +327,7 @@
 - [想做淘宝无货源却不知如何起步？从精准选品到快速起店的精细化实操指南](./practical-guides/taobao-dropshipping-guide-product-selection-and-setup.md) — 2025-11-21
 - [短剧混剪与原创爆款实操指南：从账号起号、涨粉到变现的完整步骤](./practical-guides/short-drama-editing-guide-growth-monetization.md) — 2025-11-19
 - [想做出电影感视频却不知从何下手？这份剪映进阶指南带你攻克核心剪辑技巧](./practical-guides/capcut-advanced-cinematic-video-guide.md) — 2025-11-19
+- [AI短视频剪辑实操教程：零基础上手指南与工具配置说明](./practical-guides/ai-short-video-editing-tutorial-guide.md) — 2025-11-19
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
