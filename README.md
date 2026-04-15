@@ -312,6 +312,7 @@
 - [高效沟通实操指南：世界500强高管分享的情商社交技巧](./practical-guides/effective-communication-emotional-intelligence-guide.md) — 2025-11-24
 - [从单兵作战到商业闭环：小红书个人IP打造与高转化变现实操指南](./practical-guides/xiaohongshu-personal-ip-monetization-guide.md) — 2025-11-23
 - [个人IP商业闭环：从全案规划到双域落地的实操系统课](./practical-guides/personal-ip-business-closed-loop-system.md) — 2025-11-23
+- [生涯规划实操指南：从核心能力构建到分阶段路径规划的完整体系](./practical-guides/career-planning-practical-guide.md) — 2025-11-23
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
