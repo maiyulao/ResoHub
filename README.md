@@ -105,6 +105,7 @@
 - [本地邮件备份太乱且搜索缓慢？试试用 Rust 构建的开源归档系统 Bichon](./github-project/bichon-rust-open-source-email-archiving-system.md) — 2025-12-02
 - [F1 Race Replay：通过赛事数据可视化还原赛道超车细节的重放工具](./github-project/f1-race-replay-data-visualization-tool.md) — 2025-11-30
 - [Stacks：支持 Web 与 API 接口的 Anna’s Archive 电子书轻量化下载工具](./github-project/stacks-annas-archive-downloader.md) — 2025-11-26
+- [基于 ESP32 的 Watchy 开源墨水屏手表：硬件架构与自定义指南](./github-project/esp32-watchy-open-source-epaper-watch-guide.md) — 2025-11-25
 
 ### Mac软件
 - [macUSB 简化 macOS 启动盘制作流程：支持快速构建旧版系统安装介质，适配最新 Mac 硬件环境](./mac/macusb-macos-bootable-usb-creator.md) — 2026-04-12
