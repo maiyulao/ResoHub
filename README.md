@@ -113,6 +113,7 @@
 - [基于 ESP32 的 Watchy 开源墨水屏手表：硬件架构与自定义指南](./github-project/esp32-watchy-open-source-epaper-watch-guide.md) — 2025-11-25
 - [2025年黑五与网一折扣汇总：适用平台、领取路径及抢购要点指南](./github-project/black-friday-cyber-monday-2025-deals-guide.md) — 2025-11-25
 - [面对 1 小时 YouTube 长视频没时间看完？试试 TLDW 将其快速转化为结构化学习笔记](./github-project/tldw-youtube-video-to-notes.md) — 2025-11-21
+- [Ech0：支持联邦生态的轻量化开源自托管发布系统](./github-project/ech0-lightweight-open-source-self-hosted-publishing-system.md) — 2025-11-20
 
 ### Mac软件
 - [macUSB 简化 macOS 启动盘制作流程：支持快速构建旧版系统安装介质，适配最新 Mac 硬件环境](./mac/macusb-macos-bootable-usb-creator.md) — 2026-04-12
