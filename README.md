@@ -142,6 +142,7 @@
 - [FlipSwitcher：采用 Fluent 2 设计语言的 Windows 任务切换增强方案](./windows/flipswitcher-fluent-2-windows-task-switcher.md) — 2025-12-26
 - [wechatVideoDownload：支持自动监听与 MP4 导出的微信视频号下载工具（含直播回放）](./windows/wechat-video-download-tool-mp4-exporter.md) — 2025-12-22
 - [如何使用开源工具 Inkeys 在 Windows 上实现高效屏幕批注与智能绘图](./windows/how-to-use-inkeys-for-screen-annotation-on-windows.md) — 2025-12-07
+- [ZuUnlock 实测：通过 iPhone 实现 Windows 电脑的感应解锁与自动锁屏](./windows/zuunlock-iphone-windows-unlock-lock.md) — 2025-11-22
 
 ### 兴趣爱好
 - [家里东西总是在整理后迅速回潮？掌握这套收纳逻辑，让空间持久有序](./e585b4e8b6a3e788b1e5a5bd/home-organization-logic-for-lasting-order.md) — 2025-12-07
