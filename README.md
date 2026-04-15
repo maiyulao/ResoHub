@@ -307,6 +307,7 @@
 - [销售基础能力训练指南：实操课程获取、适用场景与核心能力构建点](./practical-guides/sales-fundamental-skills-training-guide.md) — 2025-11-25
 - [从个人起步到专业级配置：虚拟直播间的搭建全流程与实操指南](./practical-guides/virtual-livestreaming-studio-setup-guide.md) — 2025-11-25
 - [小红书电商全链路指南：从底层流量逻辑到实操转化闭环](./practical-guides/xiaohongshu-ecommerce-full-guide-2.md) — 2025-11-25
+- [高效沟通实操指南：世界500强高管分享的情商社交技巧](./practical-guides/effective-communication-emotional-intelligence-guide.md) — 2025-11-24
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
