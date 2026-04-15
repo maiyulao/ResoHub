@@ -325,6 +325,7 @@
 - [短视频带货操盘实战指南：从零基础素人到高转化达人的全链路进阶路径](./practical-guides/short-video-ecommerce-guide-for-beginners.md) — 2025-11-21
 - [职场生存实操指南：掌握核心潜规则，构建高效能工作模式](./practical-guides/workplace-survival-guide-efficiency-mode.md) — 2025-11-21
 - [想做淘宝无货源却不知如何起步？从精准选品到快速起店的精细化实操指南](./practical-guides/taobao-dropshipping-guide-product-selection-and-setup.md) — 2025-11-21
+- [短剧混剪与原创爆款实操指南：从账号起号、涨粉到变现的完整步骤](./practical-guides/short-drama-editing-guide-growth-monetization.md) — 2025-11-19
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
