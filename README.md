@@ -209,6 +209,7 @@
 - [找不到想看的网盘资源？试试小云搜索，一次性检索七大主流云盘](./creative-tools/xiaoyun-search-cloud-drive-resource.md) — 2025-11-29
 - [想绕过登录直接下载 123 网盘文件？试试这款免费的直链解析工具](./creative-tools/123pan-direct-download-tool.md) — 2025-11-28
 - [木工实操资源获取指南：从图纸下载到榫卯3D模型与材料选型（免注册）](./creative-tools/woodworking-resources-guide-blueprints-3d-models-materials.md) — 2025-11-28
+- [开源新概念英语交互学习系统 NCE Flow：集成四册点读与跟读功能](./creative-tools/nce-flow-open-source-interactive-learning-system.md) — 2025-11-21
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
