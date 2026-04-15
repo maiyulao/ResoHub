@@ -81,6 +81,7 @@
 - [AI短视频全链路生产工作站：实现从素材生成到项目管理的闭环高效协作](./ai-tool/ai-short-video-production-workstation.md) — 2025-11-26
 - [如何使用 AI-CodeNexus 聚合编程资讯与开发工具：操作指南](./ai-tool/ai-codenexus-guide-programming-news-tools.md) — 2025-11-26
 - [YTB2BILI 自动化视频迁移方案：实现 YouTube 到 B站的一键式搬运与处理](./ai-tool/ytb2bili-automation-video-migration.md) — 2025-11-23
+- [YPrompt：通过对话式交互优化 AI 提示词的生成与管理流程](./ai-tool/yprompt-conversational-ai-prompt-optimization.md) — 2025-11-22
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
