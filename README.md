@@ -8,6 +8,7 @@
 ## 文章索引（自动维护）
 
 ### AI工具
+- [如何配置开源 macOS 本地语音输入工具：从本地转录到自定义 LLM 润色全流程](./ai-tool/configure-macos-local-voice-input-with-llm-refinement.md) — 2026-04-15
 - [想在飞书文档中快速检索全网公开资源？试试支持 AI 接入的聚合搜索引擎 FeiSou](./ai-tool/feisou-ai-search-engine-for-feishu-docs.md) — 2026-04-14
 - [如何快速构建一个双链检索知识库？实测用 Claude Code 两天搭建巴菲特股东信站点](./ai-tool/build-bidirectional-knowledge-base-with-claude-code.md) — 2026-04-09
 - [2026 AI 领域 X 核心影响力名单：涵盖 300 余位研究员、创始人及投资人（支持筛选）](./ai-tool/2026-ai-influence-list-300-experts.md) — 2026-02-27
