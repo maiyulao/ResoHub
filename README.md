@@ -218,6 +218,7 @@
 - [开源新概念英语交互学习系统 NCE Flow：集成四册点读与跟读功能](./creative-tools/nce-flow-open-source-interactive-learning-system.md) — 2025-11-21
 - [Passnote：实现一次性、无痕迹的安全信息传递](./creative-tools/passnote-secure-one-time-secret-sharing.md) — 2025-11-19
 - [如何使用 WeLib 访问 4300 万本书籍与 9800 万篇论文（Anna’s Archive 镜像站操作指南）](./creative-tools/how-to-use-welib-annas-archive-mirror.md) — 2025-11-18
+- [野猫资源站：实用工具、学习资料及VIP权益获取指南与使用说明](./creative-tools/wildcat-resources-guide.md) — 2025-11-18
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
