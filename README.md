@@ -86,6 +86,7 @@
 - [Readdig：支持 OPML 导入与邮件提醒的开源 PWA 阅读器（兼顾 RSS 与播客管理）](./ai-tool/readdig-open-source-pwa-rss-podcast-reader.md) — 2025-11-21
 - [Mac 运行 Apple Intelligence 实操指南：突破中国大陆版区域限制的稳定配置方案](./ai-tool/mac-apple-intelligence-china-region-bypass-guide.md) — 2025-11-17
 - [想快速去水印或扩图却找不到好工具？这12款免费AI图像编辑器能帮你一键搞定](./ai-tool/12-best-free-ai-image-editors-for-watermark-removal-and-outpainting.md) — 2025-11-17
+- [基于 MCP 协议的 X 推文自动化监控与 AI 分析系统：实现开源自部署的实时抓取与数据服务](./ai-tool/mcp-x-twitter-automation-ai-analysis-system.md) — 2025-11-15
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
