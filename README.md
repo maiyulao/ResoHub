@@ -331,6 +331,7 @@
 - [想做出电影感视频却不知从何下手？这份剪映进阶指南带你攻克核心剪辑技巧](./practical-guides/capcut-advanced-cinematic-video-guide.md) — 2025-11-19
 - [AI短视频剪辑实操教程：零基础上手指南与工具配置说明](./practical-guides/ai-short-video-editing-tutorial-guide.md) — 2025-11-19
 - [YouTube高收益频道实操手册：从账号冷启动到商业变现的全流程路径](./practical-guides/youtube-high-income-channel-guide.md) — 2025-11-19
+- [小红书年度商业变现实操手册：从流量到收益的路径拆解](./practical-guides/xiaohongshu-monetization-guide-6.md) — 2025-11-18
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
