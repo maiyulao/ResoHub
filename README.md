@@ -84,6 +84,7 @@
 - [YTB2BILI 自动化视频迁移方案：实现 YouTube 到 B站的一键式搬运与处理](./ai-tool/ytb2bili-automation-video-migration.md) — 2025-11-23
 - [YPrompt：通过对话式交互优化 AI 提示词的生成与管理流程](./ai-tool/yprompt-conversational-ai-prompt-optimization.md) — 2025-11-22
 - [Readdig：支持 OPML 导入与邮件提醒的开源 PWA 阅读器（兼顾 RSS 与播客管理）](./ai-tool/readdig-open-source-pwa-rss-podcast-reader.md) — 2025-11-21
+- [Mac 运行 Apple Intelligence 实操指南：突破中国大陆版区域限制的稳定配置方案](./ai-tool/mac-apple-intelligence-china-region-bypass-guide.md) — 2025-11-17
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
