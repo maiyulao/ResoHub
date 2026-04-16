@@ -348,6 +348,7 @@
 - [利用 DeepSeek 快速起号的全流程：从工具实操到变现的 5 个步骤](./practical-guides/deepseek-quick-start-guide-monetization.md) — 2025-11-15
 - [AI写出的泛知识文案缺乏网感？尝试从实战者的逻辑出发优化指令](./practical-guides/ai-copywriting-optimization-practical-logic.md) — 2025-11-15
 - [如何通过搭建线上团队在降低社保成本的同时吸引顶尖人才并提升利润？](./practical-guides/build-online-team-reduce-cost-attract-talent-increase-profit.md) — 2025-11-15
+- [电商财务从零起步：认知构建、实操指南与进阶路径](./practical-guides/ecommerce-finance-guide-for-beginners.md) — 2025-11-15
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
