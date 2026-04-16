@@ -224,6 +224,7 @@
 - [如何使用 WeLib 访问 4300 万本书籍与 9800 万篇论文（Anna’s Archive 镜像站操作指南）](./creative-tools/how-to-use-welib-annas-archive-mirror.md) — 2025-11-18
 - [野猫资源站：实用工具、学习资料及VIP权益获取指南与使用说明](./creative-tools/wildcat-resources-guide.md) — 2025-11-18
 - [云听App下载与使用指南：总台官方音频资源获取及内容分类详解](./creative-tools/yunting-app-download-and-guide.md) — 2025-11-16
+- [如何使用 IMEI Checker 验证手机真伪与保修状态：操作步骤详解](./creative-tools/how-to-use-imei-checker-verify-phone-authenticity-warranty.md) — 2025-11-15
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
