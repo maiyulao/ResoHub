@@ -342,6 +342,7 @@
 - [TikTok跨境电商全流程实操指南：从店铺开通到运营实战教程](./practical-guides/tiktok-ecommerce-full-guide-setup-to-operation.md) — 2025-11-17
 - [2025年AI短视频剪辑全流程：从零开始的实操指南](./practical-guides/ai-short-video-editing-guide-2025.md) — 2025-11-17
 - [解构高手的认知黑箱：AI 时代的学习、思考与创作实践](./practical-guides/cognitive-black-box-ai-learning-thinking-creation.md) — 2025-11-17
+- [如何在小红书通过虚拟产品快速起步？详解14天从选品到变现的实操路径](./practical-guides/xiaohongshu-virtual-products-guide-14days.md) — 2025-11-16
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
