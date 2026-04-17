@@ -235,6 +235,7 @@
 - [全球63国地址证明自动生成指南：PDF与照片版快速出具方案](./creative-tools/global-address-proof-generation-guide.md) — 2025-11-14
 - [FC/NES 经典游戏 ROM 镜像与高画质资源存档库](./creative-tools/fc-nes-classic-game-roms-archive.md) — 2025-11-14
 - [如何使用 Wallpaper.fm 获取每小时更新的 AI 高质量手机壁纸：操作全指南](./creative-tools/wallpaper-fm-ai-phone-wallpapers-guide.md) — 2025-11-13
+- [Hack-Games：支持多端同步的聚合小游戏平台](./创意工具/hack-games-multi-platform-mini-game-hub.md) — 2025-11-13
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
