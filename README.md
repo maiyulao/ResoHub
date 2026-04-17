@@ -357,6 +357,7 @@
 - [电商财务从零起步：认知构建、实操指南与进阶路径](./practical-guides/ecommerce-finance-guide-for-beginners.md) — 2025-11-15
 - [AI驱动实体店获客：2025年批量化文案产出与创收实操指南](./practical-guides/ai-driven-offline-store-customer-acquisition-guide-2025.md) — 2025-11-14
 - [2026考研全科名师资料库：核心考点精讲与高频真题集，实时同步更新最新版](./practical-guides/2026-postgraduate-entrance-exam-study-materials.md) — 2025-11-13
+- [面对心仪岗位的竞争压力，如何通过策略性面试与谈判锁定理想 Offer？](./practical-guides/strategic-interview-negotiation-for-ideal-offer.md) — 2025-11-13
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
