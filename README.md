@@ -88,6 +88,7 @@
 - [想快速去水印或扩图却找不到好工具？这12款免费AI图像编辑器能帮你一键搞定](./ai-tool/12-best-free-ai-image-editors-for-watermark-removal-and-outpainting.md) — 2025-11-17
 - [基于 MCP 协议的 X 推文自动化监控与 AI 分析系统：实现开源自部署的实时抓取与数据服务](./ai-tool/mcp-x-twitter-automation-ai-analysis-system.md) — 2025-11-15
 - [AICoding基地：一站式AI编程工具索引与前沿开发者资讯聚合中心](./ai-tool/aicoding-base-ai-programming-tools-index.md) — 2025-11-15
+- [Edit Mind 实测：通过本地语义索引实现视频内容的精准检索与快速定位](./ai-tool/edit-mind-local-semantic-index-video-search.md) — 2025-11-13
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
