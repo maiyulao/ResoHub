@@ -230,6 +230,7 @@
 - [云听App下载与使用指南：总台官方音频资源获取及内容分类详解](./creative-tools/yunting-app-download-and-guide.md) — 2025-11-16
 - [如何使用 IMEI Checker 验证手机真伪与保修状态：操作步骤详解](./creative-tools/how-to-use-imei-checker-verify-phone-authenticity-warranty.md) — 2025-11-15
 - [全球63国地址证明自动生成指南：PDF与照片版快速出具方案](./creative-tools/global-address-proof-generation-guide.md) — 2025-11-14
+- [FC/NES 经典游戏 ROM 镜像与高画质资源存档库](./creative-tools/fc-nes-classic-game-roms-archive.md) — 2025-11-14
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
