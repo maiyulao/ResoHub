@@ -147,6 +147,7 @@
 - [iMessage Exporter 深度解析：实现跨平台消息导出与数据诊断的开源方案](./mac/imessage-exporter-open-source-guide.md) — 2025-11-19
 - [DTV开源直播聚合客户端：支持斗鱼、虎牙、抖音及B站的多平台轻量化部署方案](./mac/dtv-open-source-live-aggregator-client.md) — 2025-11-17
 - [DroidDock：基于 ADB 的 macOS 轻量化 Android 文件管理方案](./mac/droiddock-macos-adb-android-file-manager.md) — 2025-11-15
+- [AudioVisual：打破平台限制的跨平台视频聚合解析方案](./mac/audiovisual-cross-platform-video-aggregation-solution.md) — 2025-11-14
 
 ### Windows软件
 - [KOMA 指南：实现本地漫画自动去水印、压缩与标准化归档](./windows/koma-guide-manga-watermark-removal-compression-archiving.md) — 2026-02-05
