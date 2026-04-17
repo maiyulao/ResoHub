@@ -372,6 +372,7 @@
 - [小红书全域电商实操指南：通过直播带货、店铺管理与笔记运营构建闭环增长体系](./实战指南/xiaohongshu-ecommerce-growth-guide.md) — 2025-11-13
 - [应对精神内耗的12项实践方案：适用场景与执行要点](./实战指南/12-ways-to-stop-mental-exhaustion.md) — 2025-11-12
 - [亚马逊跟卖实操指南：从账号注册到选品上架的零基础入门教程](./实战指南/amazon-follower-selling-guide-for-beginners.md) — 2025-11-12
+- [高效自我管理实操指南：学习路径、适用场景与执行要点](./实战指南/self-management-practical-guide.md) — 2025-11-11
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
