@@ -366,6 +366,7 @@
 - [小红书全流程运营实战教程：从账号起步到商业变现的实操指南](./practical-guides/xiaohongshu-operation-guide-monetization.md) — 2025-11-13
 - [外贸获客实战：Snovio 工具应用与高转化开发信撰写指南](./practical-guides/snovio-guide-high-conversion-cold-emails.md) — 2025-11-13
 - [UI动效全流程实战指南：从基础理论到B站实操进阶方案](./practical-guides/ui-animation-practical-guide.md) — 2025-11-13
+- [小红书全域电商实操指南：通过直播带货、店铺管理与笔记运营构建闭环增长体系](./实战指南/xiaohongshu-ecommerce-growth-guide.md) — 2025-11-13
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
