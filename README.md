@@ -90,6 +90,7 @@
 - [AICoding基地：一站式AI编程工具索引与前沿开发者资讯聚合中心](./ai-tool/aicoding-base-ai-programming-tools-index.md) — 2025-11-15
 - [Edit Mind 实测：通过本地语义索引实现视频内容的精准检索与快速定位](./ai-tool/edit-mind-local-semantic-index-video-search.md) — 2025-11-13
 - [面对复杂的产品需求不知如何拆解？尝试用 VibeDoc 将 AI 转化为产品经理与架构师，快速输出可落地的开发方案](./AI工具/vibedoc-ai-product-manager-architect-solution.md) — 2025-11-12
+- [Docmd：基于 Markdown 快速构建极简静态文档站的部署指南](./AI工具/docmd-markdown-static-site-deployment-guide.md) — 2025-11-11
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
