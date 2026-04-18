@@ -389,6 +389,7 @@
 - [AI短视频自媒体实操指南：从创意工具应用到内容产出全流程教程](./实战指南/ai-short-video-guide-workflow.md) — 2025-11-09
 - [直播电商差异化运营实操课程：适用进阶阶段，含系统化操作流程与落地指南](./实战指南/live-commerce-differentiation-course.md) — 2025-11-09
 - [B2B外贸独立站构建与谷歌SEO获客全指南](./实战指南/b2b-website-google-seo-guide.md) — 2025-11-09
+- [Coze 扣子工作流实战指南：从逻辑构建到 AI Agent 部署全流程](./实战指南/coze-workflow-guide-ai-agent-deployment.md) — 2025-11-09
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
