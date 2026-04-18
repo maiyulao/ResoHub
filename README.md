@@ -165,6 +165,9 @@
 - [Wallpaper-generator：自动化构建个性化壁纸流，实现多平台智能图片聚合与定时更换](./windows/wallpaper-generator-automated-personalized-wallpaper-flow.md) — 2025-11-18
 - [如何使用 WX Channel Downloader 将微信视频号内容保存至本地：操作指南与管理流程](./Windows软件/wx-channel-downloader-guide.md) — 2025-11-11
 
+### 书籍
+- [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
+
 ### 兴趣爱好
 - [家里东西总是在整理后迅速回潮？掌握这套收纳逻辑，让空间持久有序](./e585b4e8b6a3e788b1e5a5bd/home-organization-logic-for-lasting-order.md) — 2025-12-07
 - [易欢算命实战指南：从基础理论到预测逻辑的系统化学习路径](./e585b4e8b6a3e788b1e5a5bd/yihuan-fortune-telling-guide.md) — 2025-11-28
