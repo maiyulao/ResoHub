@@ -94,6 +94,7 @@
 - [面对繁琐的课后作业没时间辅导？试试用开源AI工具 SkidHomework 自动化减轻学习压力](./AI工具/automate-homework-with-skidhomework-ai.md) — 2025-11-11
 - [AnyToCopy：支持 50+ 平台的免费视频文案提取与去水印工具（兼容抖音、小红书、快手）](./AI工具/anytocopy-free-video-transcript-extractor-and-watermark-remover.md) — 2025-11-10
 - [想在 AI 时代快速构建知识库？看 xAI 如何通过 Grokipedia 打造实时在线百科](./AI工具/xai-grokipedia-realtime-knowledge-base.md) — 2025-11-08
+- [想对比不同AI的回答质量？试试 ParallelChat，实现 ChatGPT、Kimi 与 DeepSeek 的同步对话与结果比对](./AI工具/parallelchat-compare-ai-chatgpt-kimi-deepseek.md) — 2025-11-07
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
