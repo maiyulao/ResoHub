@@ -128,6 +128,7 @@
 - [如何自动同步中国法定节假日与 24 节气？通过 iCal 和 JSON API 实现日历动态更新](./GitHub项目/sync-chinese-holidays-solar-terms-ical-json-api.md) — 2025-11-12
 - [想在不同设备上流畅观看 IPTV 却苦于找不到好软件？试试开源跨平台播放器 Open TV](./GitHub项目/open-tv-cross-platform-iptv-player.md) — 2025-11-10
 - [高效获取 X 视频资源并驱动推文增长：TwitterXDownload 视频下载与 AI 营销全攻略](./GitHub项目/twitterxdownload-video-downloader-ai-marketing-guide.md) — 2025-11-10
+- [想在本地快速检索海量电子书？试试用 Rust 编写的高性能搜索服务器 soushu-local](./GitHub项目/rust-high-performance-ebook-search-server-soushu-local.md) — 2025-11-09
 
 ### Mac软件
 - [macUSB 简化 macOS 启动盘制作流程：支持快速构建旧版系统安装介质，适配最新 Mac 硬件环境](./mac/macusb-macos-bootable-usb-creator.md) — 2026-04-12
