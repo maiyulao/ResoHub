@@ -387,6 +387,7 @@
 - [想让短视频产生收益却不知从何入手？一套从零开始的系统变现实操方案](./实战指南/short-video-monetization-guide-7.md) — 2025-11-10
 - [外贸SOHO低成本起步实操指南：从环境搭建到业务落地的执行路径](./实战指南/foreign-trade-soho-low-cost-startup-guide.md) — 2025-11-10
 - [AI短视频自媒体实操指南：从创意工具应用到内容产出全流程教程](./实战指南/ai-short-video-guide-workflow.md) — 2025-11-09
+- [直播电商差异化运营实操课程：适用进阶阶段，含系统化操作流程与落地指南](./实战指南/live-commerce-differentiation-course.md) — 2025-11-09
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
