@@ -405,6 +405,7 @@
 - [淘宝无货源实操指南：从选品逻辑到上架盈利的全流程教程下载与应用指南](./实战指南/taobao-dropshipping-guide-selection-and-profit.md) — 2025-11-08
 - [叔贵减脂训练方案：核心要点与实操指南](./实战指南/shugui-fat-loss-training-guide.md) — 2025-11-07
 - [解析巴菲特价值投资逻辑：从核心底层原则到实操分析体系的深度进阶](./实战指南/buffett-value-investing-logic-and-analysis-system.md) — 2025-11-06
+- [如何用 DeepSeek 优化论文选题与综述润色？从学术写作痛点到高质量产出的实操指南](./实战指南/deepseek-academic-writing-thesis-optimization-guide.md) — 2025-11-06
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
