@@ -257,6 +257,7 @@
 - [互联网离谱言论集锦：内容获取路径与价值观分析指南](./创意工具/internet-absurd-comments-analysis-guide.md) — 2025-11-12
 - [AppleWalls 官方原生壁纸库：一站式获取全系列 Apple 设备高清原厂背景图](./创意工具/applewalls-official-native-wallpapers.md) — 2025-11-09
 - [想快速制作多文本叠加的三色重叠图？试试这款支持自定义颜色并一键导出多种格式的在线生成器](./创意工具/tricolor-text-overlap-generator.md) — 2025-11-08
+- [如何使用 isPDF 将 PDF 快速转换为 Word：无水印操作指南](./创意工具/convert-pdf-to-word-with-ispdf-guide.md) — 2025-11-06
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
