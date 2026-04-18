@@ -402,6 +402,7 @@
 - [零代码构建AI智能体：从Coze扣子基础配置到复杂场景实战指南](./实战指南/build-ai-agents-with-coze-guide.md) — 2025-11-08
 - [想让公众号从纯记录转向商业变现？这套运营实操课教你构建高价值的内容体系](./实战指南/wechat-official-account-monetization-course.md) — 2025-11-08
 - [淘宝无货源实操指南：从选品逻辑到上架盈利的全流程教程下载与应用指南](./实战指南/taobao-dropshipping-guide-selection-and-profit.md) — 2025-11-08
+- [叔贵减脂训练方案：核心要点与实操指南](./实战指南/shugui-fat-loss-training-guide.md) — 2025-11-07
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
