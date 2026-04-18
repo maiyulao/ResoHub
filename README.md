@@ -393,6 +393,7 @@
 - [直播电商差异化运营实操课程：适用进阶阶段，含系统化操作流程与落地指南](./实战指南/live-commerce-differentiation-course.md) — 2025-11-09
 - [B2B外贸独立站构建与谷歌SEO获客全指南](./实战指南/b2b-website-google-seo-guide.md) — 2025-11-09
 - [Coze 扣子工作流实战指南：从逻辑构建到 AI Agent 部署全流程](./实战指南/coze-workflow-guide-ai-agent-deployment.md) — 2025-11-09
+- [曾国藩识人逻辑：通过严苛的标准筛选人才，以实操的机制实现高效用人](./实战指南/zeng-guofan-talent-selection-logic.md) — 2025-11-09
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
