@@ -92,6 +92,7 @@
 - [面对复杂的产品需求不知如何拆解？尝试用 VibeDoc 将 AI 转化为产品经理与架构师，快速输出可落地的开发方案](./AI工具/vibedoc-ai-product-manager-architect-solution.md) — 2025-11-12
 - [Docmd：基于 Markdown 快速构建极简静态文档站的部署指南](./AI工具/docmd-markdown-static-site-deployment-guide.md) — 2025-11-11
 - [面对繁琐的课后作业没时间辅导？试试用开源AI工具 SkidHomework 自动化减轻学习压力](./AI工具/automate-homework-with-skidhomework-ai.md) — 2025-11-11
+- [AnyToCopy：支持 50+ 平台的免费视频文案提取与去水印工具（兼容抖音、小红书、快手）](./AI工具/anytocopy-free-video-transcript-extractor-and-watermark-remover.md) — 2025-11-10
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
