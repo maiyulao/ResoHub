@@ -377,6 +377,7 @@
 - [亚马逊跟卖实操指南：从账号注册到选品上架的零基础入门教程](./实战指南/amazon-follower-selling-guide-for-beginners.md) — 2025-11-12
 - [高效自我管理实操指南：学习路径、适用场景与执行要点](./实战指南/self-management-practical-guide.md) — 2025-11-11
 - [电商财务核算与店铺运营：120套实操数据模板获取及使用指南](./实战指南/ecommerce-financial-accounting-and-operation-templates.md) — 2025-11-11
+- [想让短视频产生收益却不知从何入手？一套从零开始的系统变现实操方案](./实战指南/short-video-monetization-guide-7.md) — 2025-11-10
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
