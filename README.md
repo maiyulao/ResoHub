@@ -125,6 +125,7 @@
 - [Ech0：支持联邦生态的轻量化开源自托管发布系统](./github-project/ech0-lightweight-open-source-self-hosted-publishing-system.md) — 2025-11-20
 - [Netlib 域名续期自动化方案：基于 GitHub Actions 实现 netlib.re 免费二级域名的自动登录与保活](./github-project/netlib-domain-renewal-automation-github-actions.md) — 2025-11-13
 - [如何自动同步中国法定节假日与 24 节气？通过 iCal 和 JSON API 实现日历动态更新](./GitHub项目/sync-chinese-holidays-solar-terms-ical-json-api.md) — 2025-11-12
+- [想在不同设备上流畅观看 IPTV 却苦于找不到好软件？试试开源跨平台播放器 Open TV](./GitHub项目/open-tv-cross-platform-iptv-player.md) — 2025-11-10
 
 ### Mac软件
 - [macUSB 简化 macOS 启动盘制作流程：支持快速构建旧版系统安装介质，适配最新 Mac 硬件环境](./mac/macusb-macos-bootable-usb-creator.md) — 2026-04-12
