@@ -394,6 +394,7 @@
 - [B2B外贸独立站构建与谷歌SEO获客全指南](./实战指南/b2b-website-google-seo-guide.md) — 2025-11-09
 - [Coze 扣子工作流实战指南：从逻辑构建到 AI Agent 部署全流程](./实战指南/coze-workflow-guide-ai-agent-deployment.md) — 2025-11-09
 - [曾国藩识人逻辑：通过严苛的标准筛选人才，以实操的机制实现高效用人](./实战指南/zeng-guofan-talent-selection-logic.md) — 2025-11-09
+- [零代码构建AI智能体：从Coze扣子基础配置到复杂场景实战指南](./实战指南/build-ai-agents-with-coze-guide.md) — 2025-11-08
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
