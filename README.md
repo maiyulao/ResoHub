@@ -138,6 +138,7 @@
 - [想在本地快速检索海量电子书？试试用 Rust 编写的高性能搜索服务器 soushu-local](./GitHub项目/rust-high-performance-ebook-search-server-soushu-local.md) — 2025-11-09
 - [Blind Watermark：无需原图即可提取信息的图片盲水印工具](./GitHub项目/blind-watermark-tool.md) — 2025-11-09
 - [2025黑五与网一购物指南：高性价比优惠清单汇总](./GitHub项目/black-friday-cyber-monday-2025-deals-guide-2.md) — 2025-11-07
+- [One-KVM：基于 PiKVM 的低成本开源 BIOS 远程管理方案](./GitHub项目/one-kvm-low-cost-open-source-bios-remote-management.md) — 2025-11-04
 
 ### Mac软件
 - [macUSB 简化 macOS 启动盘制作流程：支持快速构建旧版系统安装介质，适配最新 Mac 硬件环境](./mac/macusb-macos-bootable-usb-creator.md) — 2026-04-12
