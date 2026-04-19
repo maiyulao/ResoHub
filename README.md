@@ -414,6 +414,7 @@
 - [如何用 DeepSeek 优化论文选题与综述润色？从学术写作痛点到高质量产出的实操指南](./实战指南/deepseek-academic-writing-thesis-optimization-guide.md) — 2025-11-06
 - [叔贵马甲线雕刻训练指南：核心动作与实操要点](./实战指南/shugui-abs-workout-guide.md) — 2025-11-06
 - [TikTok 电商增长全指南：从广告投流、达人矩阵到 GMV Max 规模化实操](./实战指南/tiktok-ecommerce-growth-guide-ads-affiliates-gmv-max.md) — 2025-11-05
+- [AIGC视频全流程实操指南：从零起步实现单人专业级影视创作](./实战指南/aigc-video-production-guide-professional-filmmaking.md) — 2025-11-04
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
