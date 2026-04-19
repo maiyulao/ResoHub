@@ -101,6 +101,7 @@
 - [如何利用 AI 调教抖音推荐算法：过滤低质内容并打破信息茧房的操作指南](./AI工具/how-to-optimize-douyin-algorithm-with-ai.md) — 2025-11-05
 - [ai-doctor：基于多智能体协同的 AI 医疗会诊与模拟诊断系统](./AI工具/ai-doctor-multi-agent-medical-consultation-simulation.md) — 2025-11-04
 - [想把照片变成手绘素描却没时间练习？试试 How to Sketch，上传图片即可快速生成艺术感作品](./AI工具/how-to-sketch-photo-to-sketch-generator.md) — 2025-11-03
+- [Brat Generator：在线制作 Charli XCX 风格绿底文字图（含兼容性说明）](./AI工具/brat-generator-charli-xcx-style.md) — 2025-11-03
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
