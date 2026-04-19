@@ -96,6 +96,7 @@
 - [想在 AI 时代快速构建知识库？看 xAI 如何通过 Grokipedia 打造实时在线百科](./AI工具/xai-grokipedia-realtime-knowledge-base.md) — 2025-11-08
 - [想对比不同AI的回答质量？试试 ParallelChat，实现 ChatGPT、Kimi 与 DeepSeek 的同步对话与结果比对](./AI工具/parallelchat-compare-ai-chatgpt-kimi-deepseek.md) — 2025-11-07
 - [Free News Agent：支持 RSS 订阅生成的开源新闻聚合工具部署指南](./AI工具/free-news-agent-deployment-guide.md) — 2025-11-06
+- [Claude 国内访问方案：直连入口与高效镜像站实测指南](./AI工具/claude-access-guide-direct-and-mirror-sites.md) — 2025-11-05
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
