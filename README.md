@@ -415,6 +415,7 @@
 - [叔贵马甲线雕刻训练指南：核心动作与实操要点](./实战指南/shugui-abs-workout-guide.md) — 2025-11-06
 - [TikTok 电商增长全指南：从广告投流、达人矩阵到 GMV Max 规模化实操](./实战指南/tiktok-ecommerce-growth-guide-ads-affiliates-gmv-max.md) — 2025-11-05
 - [AIGC视频全流程实操指南：从零起步实现单人专业级影视创作](./实战指南/aigc-video-production-guide-professional-filmmaking.md) — 2025-11-04
+- [单兵作战：利用AI高效创作并运营短视频自媒体的实操指南](./实战指南/ai-short-video-content-creation-guide.md) — 2025-11-04
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
