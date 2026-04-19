@@ -422,6 +422,7 @@
 - [单兵作战：利用AI高效创作并运营短视频自媒体的实操指南](./实战指南/ai-short-video-content-creation-guide.md) — 2025-11-04
 - [汇报PPT总在熬夜加班？教你用AI重构工作流，实现高效表达与快速产出](./实战指南/ai-workflow-for-efficient-ppt-creation.md) — 2025-11-04
 - [盲盒全域增长实操指南：通过起号、引流至私域的闭环链路，突破抖店订单量瓶颈](./实战指南/blind-box-growth-guide-tiktok-shop-private-traffic.md) — 2025-11-04
+- [青少年AI实操综合课程：零基础入门指南与全场景应用教程](./实战指南/teens-ai-practical-course-guide.md) — 2025-11-03
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
