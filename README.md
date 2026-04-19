@@ -424,6 +424,7 @@
 - [汇报PPT总在熬夜加班？教你用AI重构工作流，实现高效表达与快速产出](./实战指南/ai-workflow-for-efficient-ppt-creation.md) — 2025-11-04
 - [盲盒全域增长实操指南：通过起号、引流至私域的闭环链路，突破抖店订单量瓶颈](./实战指南/blind-box-growth-guide-tiktok-shop-private-traffic.md) — 2025-11-04
 - [青少年AI实操综合课程：零基础入门指南与全场景应用教程](./实战指南/teens-ai-practical-course-guide.md) — 2025-11-03
+- [Coze 扣子实战指南：从基础配置到复杂 AI 工作流的构建全流程](./实战指南/coze-guide-basic-config-to-ai-workflow.md) — 2025-11-03
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
