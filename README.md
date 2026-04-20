@@ -440,6 +440,7 @@
 - [小红书薯店开店与选品全流程指南：系统引流实操及变现技巧详解](./实战指南/xiaohongshu-shop-setup-product-selection-guide.md) — 2025-11-01
 - [小红书店铺开通与运营基础指南：涵盖后台配置、商品上架及实操流程](./实战指南/xiaohongshu-shop-setup-and-operation-guide.md) — 2025-11-01
 - [智能时代的双向沟通：技术迭代如何重塑人际连接的深度](./实战指南/ai-era-communication-and-human-connection.md) — 2025-11-01
+- [Midjourney AI绘画全流程实操课程：获取方式与环境配置指南](./实战指南/midjourney-ai-course-guide-setup.md) — 2025-11-01
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
