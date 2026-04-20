@@ -447,6 +447,7 @@
 - [21天轻食健身实操指南：每日8分钟高效塑形步骤详解](./实战指南/21-day-light-meal-fitness-guide.md) — 2025-11-01
 - [卢熠翎：21天吸引力法则实操指南](./实战指南/lu-yiling-21-day-law-of-attraction-guide.md) — 2025-10-30
 - [小红书电商全链路运营指南：从零基础起步至高级实操，通过案例拆解掌握高转化增长路径](./实战指南/xiaohongshu-ecommerce-operation-guide-2.md) — 2025-10-30
+- [手机摄影零基础入门指南：实用拍摄技巧与朋友圈出片实操教程](./实战指南/mobile-photography-beginner-guide.md) — 2025-10-30
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
