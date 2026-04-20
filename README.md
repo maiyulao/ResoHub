@@ -283,6 +283,7 @@
 - [Exportify 使用指南：将 Spotify 播放列表导出为 CSV 文件的备份方法](./创意工具/exportify-spotify-playlist-to-csv-guide.md) — 2025-10-30
 - [Job.Careers 平台指南：探索 5 万个全球远程岗位，构建灵活的数字化办公生活](./创意工具/job-careers-platform-guide-remote-jobs.md) — 2025-10-30
 - [学生身份怎么在开发工具和学习资源上省钱？这 35 项专属福利值得领取](./创意工具/student-developer-discounts-and-benefits.md) — 2025-10-30
+- [Text To Svg：实现文本到矢量图的快速转换，通过在线编辑将文字高效转化为可缩放的 SVG 格式](./创意工具/text-to-svg-converter.md) — 2025-10-29
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
