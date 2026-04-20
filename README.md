@@ -278,6 +278,7 @@
 - [自托管 ezBookkeeping：从环境部署到智能记账的配置全流程](./创意工具/self-hosted-ezbookkeeping-deployment-guide.md) — 2025-11-03
 - [如何使用 Emoji Directory 快速检索并对比全球主流表情符号设计方案](./创意工具/how-to-use-emoji-directory-compare-emoji-designs.md) — 2025-11-01
 - [微截图 Pro：高仿真微信聊天记录与账单凭证在线生成工具](./创意工具/wechat-screenshot-pro-generator.md) — 2025-11-01
+- [Exportify 使用指南：将 Spotify 播放列表导出为 CSV 文件的备份方法](./创意工具/exportify-spotify-playlist-to-csv-guide.md) — 2025-10-30
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
