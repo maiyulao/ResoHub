@@ -443,6 +443,7 @@
 - [智能时代的双向沟通：技术迭代如何重塑人际连接的深度](./实战指南/ai-era-communication-and-human-connection.md) — 2025-11-01
 - [Midjourney AI绘画全流程实操课程：获取方式与环境配置指南](./实战指南/midjourney-ai-course-guide-setup.md) — 2025-11-01
 - [本地生活短视频与直播实操指南：从精准流量获取到私域客户激活](./实战指南/local-life-short-video-livestreaming-guide.md) — 2025-11-01
+- [21天轻食健身实操指南：每日8分钟高效塑形步骤详解](./实战指南/21-day-light-meal-fitness-guide.md) — 2025-11-01
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
