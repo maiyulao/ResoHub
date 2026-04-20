@@ -146,6 +146,7 @@
 - [Oxylabs 免费美国代理指南：提供 5GB 月流量及 5 个多协议 IP，支持快速集成 HTTP/SOCKS5](./GitHub项目/oxylabs-free-us-proxy-guide.md) — 2025-11-01
 - [如何利用 Awesome-CS-OpenCourse 学习 MIT、斯坦福及哈佛大学计算机核心课程：操作指南](./GitHub项目/awesome-cs-opencourse-guide-mit-stanford-harvard.md) — 2025-11-01
 - [WeChat Multi-Instance Manager：实现 macOS 微信多账号独立运行与数据隔离的交互式方案](./GitHub项目/wechat-multi-instance-manager-macos.md) — 2025-10-30
+- [PrinterService：基于浏览器的内网打印方案部署指南与环境配置](./GitHub项目/printerservice-browser-intranet-printing-guide.md) — 2025-10-29
 
 ### Mac软件
 - [macUSB 简化 macOS 启动盘制作流程：支持快速构建旧版系统安装介质，适配最新 Mac 硬件环境](./mac/macusb-macos-bootable-usb-creator.md) — 2026-04-12
