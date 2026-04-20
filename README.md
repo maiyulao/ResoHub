@@ -436,6 +436,7 @@
 - [外贸独立站全流程实操指南：从建站、获客到内容营销的 3 步进阶法](./实战指南/foreign-trade-website-guide-setup-traffic-marketing.md) — 2025-11-02
 - [2025 AI 全域获客实训营：通过智能营销降低拓客成本，实现精准触达与高转化增长](./实战指南/2025-ai-customer-acquisition-bootcamp.md) — 2025-11-02
 - [小红书薯店开店与选品全流程指南：系统引流实操及变现技巧详解](./实战指南/xiaohongshu-shop-setup-product-selection-guide.md) — 2025-11-01
+- [小红书店铺开通与运营基础指南：涵盖后台配置、商品上架及实操流程](./实战指南/xiaohongshu-shop-setup-and-operation-guide.md) — 2025-11-01
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
