@@ -275,6 +275,7 @@
 - [尺度之境：探索从亚原子粒子到超星系团的可视化交互指南](./创意工具/scale-of-universe-visualization-guide.md) — 2025-11-04
 - [M3U8在线播放器：支持HLS流媒体实时观看与格式转换下载](./创意工具/m3u8-online-player-hls-streaming-converter.md) — 2025-11-03
 - [自托管 ezBookkeeping：从环境部署到智能记账的配置全流程](./创意工具/self-hosted-ezbookkeeping-deployment-guide.md) — 2025-11-03
+- [如何使用 Emoji Directory 快速检索并对比全球主流表情符号设计方案](./创意工具/how-to-use-emoji-directory-compare-emoji-designs.md) — 2025-11-01
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
