@@ -445,6 +445,7 @@
 - [Midjourney AI绘画全流程实操课程：获取方式与环境配置指南](./实战指南/midjourney-ai-course-guide-setup.md) — 2025-11-01
 - [本地生活短视频与直播实操指南：从精准流量获取到私域客户激活](./实战指南/local-life-short-video-livestreaming-guide.md) — 2025-11-01
 - [21天轻食健身实操指南：每日8分钟高效塑形步骤详解](./实战指南/21-day-light-meal-fitness-guide.md) — 2025-11-01
+- [卢熠翎：21天吸引力法则实操指南](./实战指南/lu-yiling-21-day-law-of-attraction-guide.md) — 2025-10-30
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
