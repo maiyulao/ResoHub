@@ -431,6 +431,7 @@
 - [全方位身体重塑指南：营养补给与高效训练的协同实践](./实战指南/full-body-remodeling-nutrition-and-training.md) — 2025-11-03
 - [总是习惯性含胸驼背？尝试这套21天体态矫正计划帮你重塑挺拔身姿](./实战指南/21-day-posture-correction-plan.md) — 2025-11-03
 - [外贸独立站全流程实操指南：从建站、获客到内容营销的 3 步进阶法](./实战指南/foreign-trade-website-guide-setup-traffic-marketing.md) — 2025-11-02
+- [2025 AI 全域获客实训营：通过智能营销降低拓客成本，实现精准触达与高转化增长](./实战指南/2025-ai-customer-acquisition-bootcamp.md) — 2025-11-02
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
