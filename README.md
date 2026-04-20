@@ -281,6 +281,7 @@
 - [微截图 Pro：高仿真微信聊天记录与账单凭证在线生成工具](./创意工具/wechat-screenshot-pro-generator.md) — 2025-11-01
 - [Exportify 使用指南：将 Spotify 播放列表导出为 CSV 文件的备份方法](./创意工具/exportify-spotify-playlist-to-csv-guide.md) — 2025-10-30
 - [Job.Careers 平台指南：探索 5 万个全球远程岗位，构建灵活的数字化办公生活](./创意工具/job-careers-platform-guide-remote-jobs.md) — 2025-10-30
+- [学生身份怎么在开发工具和学习资源上省钱？这 35 项专属福利值得领取](./创意工具/student-developer-discounts-and-benefits.md) — 2025-10-30
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
