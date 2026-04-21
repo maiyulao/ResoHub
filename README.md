@@ -104,6 +104,7 @@
 - [Brat Generator：在线制作 Charli XCX 风格绿底文字图（含兼容性说明）](./AI工具/brat-generator-charli-xcx-style.md) — 2025-11-03
 - [LivePhoto：支持视频、GIF 及图片转动态壁纸的在线转换工具](./AI工具/livephoto-online-wallpaper-converter.md) — 2025-11-02
 - [OpenNana 提示词资源库：覆盖 GPT-4o 与主流 AI 模型的 398 组实战案例分析](./AI工具/opennana-prompt-library-gpt4o-ai-cases.md) — 2025-11-01
+- [AITradingSimulator：利用 LLM 构建加密货币量化交易模拟环境，支持策略自定义与实时绩效分析](./AI工具/ai-trading-simulator-llm-crypto-quant-simulation.md) — 2025-10-28
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
