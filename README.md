@@ -150,6 +150,7 @@
 - [WeChat Multi-Instance Manager：实现 macOS 微信多账号独立运行与数据隔离的交互式方案](./GitHub项目/wechat-multi-instance-manager-macos.md) — 2025-10-30
 - [PrinterService：基于浏览器的内网打印方案部署指南与环境配置](./GitHub项目/printerservice-browser-intranet-printing-guide.md) — 2025-10-29
 - [想给 Android TV 盒子安装好用的应用和直播源？这份全能资源库帮你快速搭建家庭影音中心](./GitHub项目/android-tv-box-apps-and-iptv-resources-guide.md) — 2025-10-29
+- [Steam Log Visualizer：将游戏时长转化为可视化图表，量化你的数字娱乐足迹](./GitHub项目/steam-log-visualizer.md) — 2025-10-27
 
 ### Mac软件
 - [macUSB 简化 macOS 启动盘制作流程：支持快速构建旧版系统安装介质，适配最新 Mac 硬件环境](./mac/macusb-macos-bootable-usb-creator.md) — 2026-04-12
