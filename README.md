@@ -473,6 +473,7 @@
 - [21天超模私教瘦身训练方案全记录](./实战指南/21-day-supermodel-workout-plan.md) — 2025-10-27
 - [短视频全流程创作与商业变现实操指南：从内容构建到价值转化](./实战指南/short-video-creation-and-monetization-guide.md) — 2025-10-26
 - [中基层管理能力提升指南：21天实操训练计划](./实战指南/mid-level-management-skills-21day-plan.md) — 2025-10-26
+- [电商财税合规线下实操课：面向电商负责人与财务的涉税风险规避及低成本经营指南](./实战指南/ecommerce-tax-compliance-training-guide.md) — 2025-10-26
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
