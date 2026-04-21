@@ -471,6 +471,7 @@
 - [短视频电商变现全流程：从零起步到实现万级盈利的实操路径](./实战指南/short-video-ecommerce-monetization-guide.md) — 2025-10-27
 - [小红书从零起步的精细化运营指南：日均3小时高效实操路径](./实战指南/xiaohongshu-operational-guide-efficiency-path.md) — 2025-10-27
 - [21天超模私教瘦身训练方案全记录](./实战指南/21-day-supermodel-workout-plan.md) — 2025-10-27
+- [短视频全流程创作与商业变现实操指南：从内容构建到价值转化](./实战指南/short-video-creation-and-monetization-guide.md) — 2025-10-26
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
