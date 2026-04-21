@@ -457,6 +457,7 @@
 - [手机摄影零基础入门指南：实用拍摄技巧与朋友圈出片实操教程](./实战指南/mobile-photography-beginner-guide.md) — 2025-10-30
 - [无货源社交电商实操指南：跨平台交易流程与非传统电商运营要点](./实战指南/dropshipping-social-commerce-guide-operation-tips.md) — 2025-10-30
 - [高客单产品在小红书难以精准获客？尝试这套营销链路让转化率翻倍](./实战指南/high-ticket-product-xiaohongshu-marketing-conversion.md) — 2025-10-28
+- [Temu日本站半托管入驻指南：新手操作流程、环境要求及运营要点](./实战指南/temu-japan-semi-managed-guide.md) — 2025-10-28
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
