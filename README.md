@@ -480,4 +480,5 @@
 - [如何配置 twitter-to-bsky 脚本实现 X 内容同步至 Bluesky 与 Mastodon](./productivity-tools/configure-twitter-to-bsky-sync-x-to-bluesky-mastodon.md) — 2025-12-24
 - [COSE多平台同步发布工具：支持一键分发至主流媒体，适用内容创作者高效同步场景](./productivity-tools/cose-multi-platform-distribution-tool.md) — 2025-12-22
 - [B站评论区充斥广告与低俗内容？试试用 bilibili-block-extension 批量屏蔽异常账号](./效率工具/block-bilibili-ads-and-spam-extension.md) — 2025-11-11
+- [如何使用 Blazwitcher 插件：通过全键盘操作与 AI 分组快速检索标签、书签及历史记录](./效率工具/how-to-use-blazwitcher-plugin-keyboard-ai-search.md) — 2025-10-27
 <!-- LE_AUTOPOST_INDEX_END -->
