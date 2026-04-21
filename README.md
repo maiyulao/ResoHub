@@ -293,6 +293,7 @@
 - [ChartFromText 文本转饼图工具：支持环形图绘制与高清 PNG 导出](./创意工具/chartfromtext-text-to-pie-chart-tool.md) — 2025-10-28
 - [《空洞骑士：丝之歌》维基资源库：含交互地图、BOSS攻略及速通路线下载指南](./创意工具/hollow-knight-silksong-wiki-resources.md) — 2025-10-28
 - [想快速获取国际学生证用于申请优惠？教你如何在线生成可预览并下载的正反面身份证明](./创意工具/how-to-get-international-student-identity-card-online.md) — 2025-10-28
+- [Type Words：集成智能记忆曲线与默写练习的开源英语学习工具](./创意工具/type-words-open-source-english-learning-tool.md) — 2025-10-26
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
