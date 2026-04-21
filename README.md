@@ -467,6 +467,7 @@
 - [TikTok中视频实操指南：从账号搭建至月入1800美金的获利步骤](./实战指南/tiktok-mid-video-guide-earn-1800-dollars.md) — 2025-10-28
 - [短视频切片高效剪辑全流程：从内容拆解到流量变现的实操路径](./实战指南/short-video-clipping-workflow-guide.md) — 2025-10-28
 - [中小商家外卖运营实操课：从店铺搭建到盈利增长的执行指南](./实战指南/takeaway-operation-guide-for-small-businesses.md) — 2025-10-28
+- [短视频电商变现全流程：从零起步到实现万级盈利的实操路径](./实战指南/short-video-ecommerce-monetization-guide.md) — 2025-10-27
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
