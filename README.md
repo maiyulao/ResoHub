@@ -464,6 +464,7 @@
 - [Temu日本站半托管入驻指南：新手操作流程、环境要求及运营要点](./实战指南/temu-japan-semi-managed-guide.md) — 2025-10-28
 - [500套人力资源实操模版：涵盖招聘、绩效与薪酬的全流程管理工具集](./实战指南/500-hr-practical-templates-recruitment-performance-payroll.md) — 2025-10-28
 - [TikTok中视频实操指南：从账号搭建至月入1800美金的获利步骤](./实战指南/tiktok-mid-video-guide-earn-1800-dollars.md) — 2025-10-28
+- [短视频切片高效剪辑全流程：从内容拆解到流量变现的实操路径](./实战指南/short-video-clipping-workflow-guide.md) — 2025-10-28
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
