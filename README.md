@@ -8,6 +8,7 @@
 ## 文章索引（自动维护）
 
 ### AI工具
+- [SpokenType 使用指南：集成 API 的 AI 语音输入工具及其自动润色功能评测](./AI工具/spokentype-api-ai-voice-input-review.md) — 2026-04-21
 - [想搭建自动化内容站却苦于缺乏工具？尝试用开源自托管的 GEOFlow 构建 AI 生产流](./AI工具/geoflow-ai-content-automation-workflow.md) — 2026-04-18
 - [如何配置开源 macOS 本地语音输入工具：从本地转录到自定义 LLM 润色全流程](./ai-tool/configure-macos-local-voice-input-with-llm-refinement.md) — 2026-04-15
 - [想在飞书文档中快速检索全网公开资源？试试支持 AI 接入的聚合搜索引擎 FeiSou](./ai-tool/feisou-ai-search-engine-for-feishu-docs.md) — 2026-04-14
