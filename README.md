@@ -107,6 +107,7 @@
 - [AITradingSimulator：利用 LLM 构建加密货币量化交易模拟环境，支持策略自定义与实时绩效分析](./AI工具/ai-trading-simulator-llm-crypto-quant-simulation.md) — 2025-10-28
 - [28款AI编程助手深度评测：Copilot与Cursor等工具的价格、开源属性及用户规模对比](./AI工具/28-best-ai-coding-assistants-comparison-copilot-vs-cursor.md) — 2025-10-28
 - [如何快速将碎片化的财经新闻链接转化为专业长图？试试 Brief 财经简报生成器](./AI工具/convert-finance-news-to-long-image-brief-generator.md) — 2025-10-25
+- [小说写到一半卡文怎么办？尝试用 Arboris-Novel 优化你的 AI 创作流](./AI工具/solve-writer-block-with-arboris-novel-ai-workflow.md) — 2025-10-24
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
