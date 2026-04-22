@@ -492,6 +492,7 @@
 - [2025外贸全流程实操指南：涵盖出口退税、单证、TikTok获客与账务合规的资源合集](./实战指南/2025-foreign-trade-complete-guide-resources.md) — 2025-10-24
 - [AI 时代学习力重构：从应对异化到建立终身进化机制](./实战指南/ai-learning-power-reconstruction-lifelong-evolution.md) — 2025-10-24
 - [会计职称21天速成通关方案：从核心考点突破到拿证全流程实操指南](./实战指南/accounting-certification-21-day-pass-guide.md) — 2025-10-23
+- [塔罗牌专业进阶指南：从基础入门到构建个人占卜风格的实操步骤](./实战指南/tarot-professional-guide-mastery.md) — 2025-10-23
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
