@@ -478,6 +478,7 @@
 - [中基层管理能力提升指南：21天实操训练计划](./实战指南/mid-level-management-skills-21day-plan.md) — 2025-10-26
 - [电商财税合规线下实操课：面向电商负责人与财务的涉税风险规避及低成本经营指南](./实战指南/ecommerce-tax-compliance-training-guide.md) — 2025-10-26
 - [抖音直播带货全链路实操：从账号冷启动至规模化爆单的系统方法论](./实战指南/douyin-livestreaming-ecommerce-guide.md) — 2025-10-25
+- [Coze AI 商业化实战指南：通过掌握智能体构建能力，实现职场竞争力提升与多元化增收](./实战指南/coze-ai-commercialization-guide.md) — 2025-10-25
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
