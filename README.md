@@ -202,6 +202,7 @@
 ### 兴趣爱好
 - [家里东西总是在整理后迅速回潮？掌握这套收纳逻辑，让空间持久有序](./e585b4e8b6a3e788b1e5a5bd/home-organization-logic-for-lasting-order.md) — 2025-12-07
 - [易欢算命实战指南：从基础理论到预测逻辑的系统化学习路径](./e585b4e8b6a3e788b1e5a5bd/yihuan-fortune-telling-guide.md) — 2025-11-28
+- [魔方全阶学习指南：涵盖基础入门至高级技巧的教程资源与实践要点](./兴趣爱好/rubiks-cube-complete-learning-guide.md) — 2025-10-24
 
 ### 创意工具
 - [如何使用在线工具将 AVIF 批量转换为 PNG 并导出 ZIP 压缩包](./创意工具/batch-convert-avif-to-png-online.md) — 2026-04-20
