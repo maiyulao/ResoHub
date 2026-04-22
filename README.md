@@ -485,6 +485,7 @@
 - [抖音直播带货全链路实操：从账号冷启动至规模化爆单的系统方法论](./实战指南/douyin-livestreaming-ecommerce-guide.md) — 2025-10-25
 - [Coze AI 商业化实战指南：通过掌握智能体构建能力，实现职场竞争力提升与多元化增收](./实战指南/coze-ai-commercialization-guide.md) — 2025-10-25
 - [美国TikTok与小红书出海指南：从账号注册、银行开户到税务与结汇实操全流程](./实战指南/tiktok-xiaohongshu-us-guide-registration-banking-tax-payment.md) — 2025-10-24
+- [2025外贸全流程实操指南：涵盖出口退税、单证、TikTok获客与账务合规的资源合集](./实战指南/2025-foreign-trade-complete-guide-resources.md) — 2025-10-24
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
