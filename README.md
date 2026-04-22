@@ -494,6 +494,7 @@
 - [AI 时代学习力重构：从应对异化到建立终身进化机制](./实战指南/ai-learning-power-reconstruction-lifelong-evolution.md) — 2025-10-24
 - [会计职称21天速成通关方案：从核心考点突破到拿证全流程实操指南](./实战指南/accounting-certification-21-day-pass-guide.md) — 2025-10-23
 - [塔罗牌专业进阶指南：从基础入门到构建个人占卜风格的实操步骤](./实战指南/tarot-professional-guide-mastery.md) — 2025-10-23
+- [想在小红书通过内容变现却不知如何起步？这份从零到一的博主 IP 打造指南为你拆解赚钱路径](./实战指南/xiaohongshu-content-monetization-guide.md) — 2025-10-23
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
