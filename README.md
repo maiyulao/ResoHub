@@ -500,6 +500,7 @@
 - [想在小红书通过内容变现却不知如何起步？这份从零到一的博主 IP 打造指南为你拆解赚钱路径](./实战指南/xiaohongshu-content-monetization-guide.md) — 2025-10-23
 - [OZON跨境电商实操指南：从入驻流程到俄罗斯市场运营全链路解析](./实战指南/ozon-cross-border-ecommerce-guide-russia-market-operation.md) — 2025-10-22
 - [AI自媒体全流程实战指南：涵盖内容生成、剪映后期与涨粉运营的变现方案](./实战指南/ai-self-media-full-guide-content-editing-growth-monetization.md) — 2025-10-22
+- [梁晓玲：21天行动力强化训练营全记录与实操指南](./实战指南/liang-xiaoling-21-day-action-training-guide.md) — 2025-10-21
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
