@@ -501,6 +501,7 @@
 - [OZON跨境电商实操指南：从入驻流程到俄罗斯市场运营全链路解析](./实战指南/ozon-cross-border-ecommerce-guide-russia-market-operation.md) — 2025-10-22
 - [AI自媒体全流程实战指南：涵盖内容生成、剪映后期与涨粉运营的变现方案](./实战指南/ai-self-media-full-guide-content-editing-growth-monetization.md) — 2025-10-22
 - [梁晓玲：21天行动力强化训练营全记录与实操指南](./实战指南/liang-xiaoling-21-day-action-training-guide.md) — 2025-10-21
+- [TikTok 运营实战指南：通过 AI 内容创作实现跨境出海变现](./实战指南/tiktok-ai-content-monetization-guide.md) — 2025-10-21
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
