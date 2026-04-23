@@ -532,4 +532,5 @@
 - [B站评论区充斥广告与低俗内容？试试用 bilibili-block-extension 批量屏蔽异常账号](./效率工具/block-bilibili-ads-and-spam-extension.md) — 2025-11-11
 - [如何使用 Blazwitcher 插件：通过全键盘操作与 AI 分组快速检索标签、书签及历史记录](./效率工具/how-to-use-blazwitcher-plugin-keyboard-ai-search.md) — 2025-10-27
 - [KISS Translator 深度评测：支持多引擎同步与自定义配置的开源双语翻译工具](./效率工具/kiss-translator-review.md) — 2025-10-18
+- [如何使用微信公众号文章导出器批量备份历史数据：操作全流程指南](./效率工具/wechat-article-exporter-backup-guide.md) — 2025-10-18
 <!-- LE_AUTOPOST_INDEX_END -->
