@@ -157,6 +157,7 @@
 - [WeChat Selkies：支持 ARM64/AMD64 的 Linux Docker 版微信与 QQ 浏览器镜像（含中文输入方案）](./GitHub项目/wechat-selkies-linux-docker-arm64-amd64.md) — 2025-10-26
 - [户晨风 2023–2025 直播文字稿归档：如何通过 GitBook 与 GitHub 检索全文](./GitHub项目/huchenfeng-livestream-archive-gitbook-github.md) — 2025-10-23
 - [SyncTV 深度评测：实现 Bilibili、Emby 及直播流的开源远程同步观影方案](./GitHub项目/synctv-review-open-source-remote-watch-party.md) — 2025-10-22
+- [BKHTMLTOPDF 解析：支持多语言与复杂图表的高性能开源 HTML 转 PDF 方案](./GitHub项目/bkhtmltopdf-high-performance-html-to-pdf-solution.md) — 2025-10-18
 
 ### Mac软件
 - [macUSB 简化 macOS 启动盘制作流程：支持快速构建旧版系统安装介质，适配最新 Mac 硬件环境](./mac/macusb-macos-bootable-usb-creator.md) — 2026-04-12
