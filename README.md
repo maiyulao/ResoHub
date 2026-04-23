@@ -510,6 +510,7 @@
 - [想在小红书快速起号却不知从何开播？这份从0到1的直播运营实操指南为你拆解核心链路](./实战指南/xiaohongshu-livestreaming-guide-for-beginners.md) — 2025-10-21
 - [构建职场核心竞争力：通过21天系统训练实现个体不可替代性](./实战指南/build-core-competitiveness-21-day-training.md) — 2025-10-20
 - [想在小红书做图书带货却不知如何起步？从选书到爆单的10个实操步骤详解](./实战指南/xiaohongshu-book-selling-guide.md) — 2025-10-20
+- [AI提示词实战指南：构建从指令优化到自动化变现的创作体系](./实战指南/ai-prompt-engineering-guide-to-monetization.md) — 2025-10-20
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
