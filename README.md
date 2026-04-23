@@ -313,6 +313,7 @@
 - [如何使用免费在线工具反转音频：从上传到导出音质优化的操作指南](./创意工具/reverse-audio-free-online-guide.md) — 2025-10-21
 - [如何在 OZAGames 平台快速开始玩 HTML5 浏览器游戏：操作指南](./创意工具/how-to-play-html5-games-on-ozagames.md) — 2025-10-21
 - [总是感觉时间过得飞快？试着用 Reaxon 这种极简游戏来测试你的实时反应速度与时间感知力](./创意工具/test-reaction-time-and-time-perception-with-reaxon.md) — 2025-10-20
+- [想要构建可自定义扩展的 Web 思维导图？试试开源插件化方案 SimpleMindMap](./创意工具/simplemindmap-open-source-customizable-web-mindmap.md) — 2025-10-19
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
