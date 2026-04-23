@@ -515,6 +515,7 @@
 - [想在小红书做图书带货却不知如何起步？从选书到爆单的10个实操步骤详解](./实战指南/xiaohongshu-book-selling-guide.md) — 2025-10-20
 - [AI提示词实战指南：构建从指令优化到自动化变现的创作体系](./实战指南/ai-prompt-engineering-guide-to-monetization.md) — 2025-10-20
 - [7天掌握ComfyUI：从基础安装到AI视频工作流实操指南](./实战指南/master-comfyui-7-days-guide.md) — 2025-10-19
+- [数字永生实战指南：从数据采集到AI数字人复活的完整操作步骤](./实战指南/digital-immortality-guide-ai-digital-human.md) — 2025-10-18
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
