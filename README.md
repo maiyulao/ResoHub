@@ -190,6 +190,7 @@
 - [AudioVisual：打破平台限制的跨平台视频聚合解析方案](./mac/audiovisual-cross-platform-video-aggregation-solution.md) — 2025-11-14
 - [qView 开源图片查看器下载：支持多平台、轻量化快速预览的安装与配置指南](./Mac软件/qview-open-source-image-viewer-download-guide.md) — 2025-11-08
 - [TextGO 跨平台文本处理工具：安装部署、快捷键配置与使用要点](./Mac软件/textgo-installation-shortcuts-and-usage.md) — 2025-10-26
+- [Short Video Factory：支持跨平台批量混剪与一键成片的开源 AI 视频工作流](./Mac软件/short-video-factory-open-source-ai-video-workflow.md) — 2025-10-18
 
 ### Windows软件
 - [KOMA 指南：实现本地漫画自动去水印、压缩与标准化归档](./windows/koma-guide-manga-watermark-removal-compression-archiving.md) — 2026-02-05
