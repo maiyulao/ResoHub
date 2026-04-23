@@ -109,6 +109,7 @@
 - [28款AI编程助手深度评测：Copilot与Cursor等工具的价格、开源属性及用户规模对比](./AI工具/28-best-ai-coding-assistants-comparison-copilot-vs-cursor.md) — 2025-10-28
 - [如何快速将碎片化的财经新闻链接转化为专业长图？试试 Brief 财经简报生成器](./AI工具/convert-finance-news-to-long-image-brief-generator.md) — 2025-10-25
 - [小说写到一半卡文怎么办？尝试用 Arboris-Novel 优化你的 AI 创作流](./AI工具/solve-writer-block-with-arboris-novel-ai-workflow.md) — 2025-10-24
+- [BrowserAct 零代码自动化平台：通过 AI 驱动实现全网数据的快速提取与高效抓取](./AI工具/browseract-ai-no-code-web-scraping-automation.md) — 2025-10-18
 
 ### Android应用
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
