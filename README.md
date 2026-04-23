@@ -310,6 +310,7 @@
 - [如何使用 OfferNow 提升编程能力并高效求职：实操进阶指南](./创意工具/offernow-programming-skills-job-hunting-guide.md) — 2025-10-22
 - [如何使用 SoundCloud MP3 下载器将音频转换为 320kbps 高品质文件：操作指南](./创意工具/soundcloud-mp3-downloader-320kbps-guide.md) — 2025-10-21
 - [如何使用免费在线工具反转音频：从上传到导出音质优化的操作指南](./创意工具/reverse-audio-free-online-guide.md) — 2025-10-21
+- [如何在 OZAGames 平台快速开始玩 HTML5 浏览器游戏：操作指南](./创意工具/how-to-play-html5-games-on-ozagames.md) — 2025-10-21
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
