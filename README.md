@@ -521,6 +521,7 @@
 - [数字永生实战指南：从数据采集到AI数字人复活的完整操作步骤](./实战指南/digital-immortality-guide-ai-digital-human.md) — 2025-10-18
 - [想在自媒体领域拿结果却缺乏方向？拆解行业核心逻辑与高效实操路径](./实战指南/self-media-growth-strategy-and-guide.md) — 2025-10-18
 - [拼多多开店实操指南：从店铺搭建到单品流量运营的系统化配置方案](./实战指南/pinduoduo-store-setup-and-traffic-guide.md) — 2025-10-18
+- [AI驱动的小红书虚拟电商全流程实操：通过精准选品与爆款内容实现商业变现](./实战指南/ai-xiaohongshu-virtual-ecommerce-guide.md) — 2025-10-18
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
