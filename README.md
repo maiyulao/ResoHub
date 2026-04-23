@@ -209,6 +209,7 @@
 - [易欢算命实战指南：从基础理论到预测逻辑的系统化学习路径](./e585b4e8b6a3e788b1e5a5bd/yihuan-fortune-telling-guide.md) — 2025-11-28
 - [魔方全阶学习指南：涵盖基础入门至高级技巧的教程资源与实践要点](./兴趣爱好/rubiks-cube-complete-learning-guide.md) — 2025-10-24
 - [21天书法速成：从基础到实操的练字进阶指南](./兴趣爱好/21-day-calligraphy-guide.md) — 2025-10-22
+- [想通过瑜伽快速瘦身却不知如何起步？这份21天全方位塑形计划帮你打破身材焦虑](./兴趣爱好/21-day-yoga-weight-loss-plan.md) — 2025-10-18
 
 ### 创意工具
 - [如何使用在线工具将 AVIF 批量转换为 PNG 并导出 ZIP 压缩包](./创意工具/batch-convert-avif-to-png-online.md) — 2026-04-20
