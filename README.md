@@ -523,6 +523,7 @@
 - [拼多多开店实操指南：从店铺搭建到单品流量运营的系统化配置方案](./实战指南/pinduoduo-store-setup-and-traffic-guide.md) — 2025-10-18
 - [AI驱动的小红书虚拟电商全流程实操：通过精准选品与爆款内容实现商业变现](./实战指南/ai-xiaohongshu-virtual-ecommerce-guide.md) — 2025-10-18
 - [21天沟通力重塑计划：通过场景化训练将高情商转化为可复制的社交习惯](./实战指南/21-day-communication-skills-training-plan.md) — 2025-10-17
+- [小红书无货源电商指南：从店铺搭建至爆款笔记的变现全链路](./实战指南/xiaohongshu-dropshipping-guide-2.md) — 2025-10-17
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
