@@ -328,6 +328,7 @@
 - [想要构建可自定义扩展的 Web 思维导图？试试开源插件化方案 SimpleMindMap](./创意工具/simplemindmap-open-source-customizable-web-mindmap.md) — 2025-10-19
 - [ZhuangIt 全流程指南：高效实现 Windows 与 Mac 系统重装，涵盖从镜像下载到启动盘制作的完整技术链路](./创意工具/zhuangit-windows-mac-reinstall-guide.md) — 2025-10-19
 - [Fito.cc 多媒体托管方案：集成短链接与图床功能，统一支持音视频及图片分享](./创意工具/fito-multimedia-hosting-short-links-image-bed.md) — 2025-10-14
+- [iPhone 照片无法直接在电脑打开？试试这个高效的 HEIC 转 PDF 在线转换方案](./创意工具/heic-to-pdf-online-converter.md) — 2025-10-14
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
