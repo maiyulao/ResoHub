@@ -332,6 +332,7 @@
 - [Fito.cc 多媒体托管方案：集成短链接与图床功能，统一支持音视频及图片分享](./创意工具/fito-multimedia-hosting-short-links-image-bed.md) — 2025-10-14
 - [iPhone 照片无法直接在电脑打开？试试这个高效的 HEIC 转 PDF 在线转换方案](./创意工具/heic-to-pdf-online-converter.md) — 2025-10-14
 - [biliCut：高效提取B站视频片段的在线剪辑工具](./创意工具/bilicut-bilibili-video-cutter.md) — 2025-10-13
+- [想找某部剧里的一句台词却不记得具体集数？试试 YARN，通过关键词快速定位视频片段并跳转时间戳](./创意工具/find-movie-lines-with-yarn.md) — 2025-10-12
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
