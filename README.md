@@ -114,6 +114,7 @@
 - [Text-Well 部署指南：支持检查、评审及图文翻译的 AI 写作全流程工作站](./AI工具/text-well-deployment-guide.md) — 2025-10-17
 - [MineContext：支持截屏理解与主动推送的开源上下文感知AI助手](./AI工具/minecontext-open-source-context-aware-ai-assistant.md) — 2025-10-15
 - [News Minimalist：基于重要性权重的AI新闻聚合，破解信息过载困局](./AI工具/news-minimalist-ai-news-aggregator.md) — 2025-10-14
+- [全场景 AI 提示词工程指南：通过结构化提示词库优化文本、图像及视频生成质量](./AI工具/ai-prompt-engineering-guide-for-text-image-and-video.md) — 2025-10-13
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
