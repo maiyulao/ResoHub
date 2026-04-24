@@ -537,6 +537,7 @@
 - [AI编程出海实战指南：从快速构建产品到获取流量与实现商业变现的闭环路径](./实战指南/ai-programming-global-expansion-guide.md) — 2025-10-17
 - [Dify商业实战指南：通过掌握AI应用开发实现职场晋升与多元化增收](./实战指南/dify-commercial-guide-ai-app-development.md) — 2025-10-16
 - [AI数字人全流程实战指南：从零基础快速构建可商业化应用的虚拟数字分身](./实战指南/ai-digital-human-practical-guide.md) — 2025-10-15
+- [AI文案实战教程：面向写作场景的Prompt指令集与操作指南](./实战指南/ai-copywriting-prompt-guide.md) — 2025-10-13
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
