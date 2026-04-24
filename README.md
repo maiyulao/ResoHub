@@ -527,6 +527,7 @@
 - [21天沟通力重塑计划：通过场景化训练将高情商转化为可复制的社交习惯](./实战指南/21-day-communication-skills-training-plan.md) — 2025-10-17
 - [小红书无货源电商指南：从店铺搭建至爆款笔记的变现全链路](./实战指南/xiaohongshu-dropshipping-guide-2.md) — 2025-10-17
 - [AI编程出海实战指南：从快速构建产品到获取流量与实现商业变现的闭环路径](./实战指南/ai-programming-global-expansion-guide.md) — 2025-10-17
+- [Dify商业实战指南：通过掌握AI应用开发实现职场晋升与多元化增收](./实战指南/dify-commercial-guide-ai-app-development.md) — 2025-10-16
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
