@@ -545,6 +545,7 @@
 - [抖音与小红书饰品创业指南：从货源筛选到AI模特生成的实操全流程](./实战指南/douyin-xiaohongshu-jewelry-startup-guide.md) — 2025-10-13
 - [面对沟通受阻或难以说服他人的困境，如何通过21天刻意练习快速提升人际影响力？](./实战指南/21-day-interpersonal-influence-practice.md) — 2025-10-13
 - [TikTok全链路变现指南：从实操技巧到盈利能力的进阶路径](./实战指南/tiktok-monetization-guide-tips-to-profit.md) — 2025-10-13
+- [如何通过原创动画在TikTok中视频计划实现月入4000美金？全流程实操指南](./实战指南/make-4000-dollars-tiktok-creativity-program-animation-guide.md) — 2025-10-12
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
