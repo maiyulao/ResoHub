@@ -8,6 +8,7 @@
 ## 文章索引（自动维护）
 
 ### AI工具
+- [如何使用 Track Policy 追踪 AI 法案演进与数据中心分布：操作指南](./AI工具/track-policy-ai-act-data-centers-guide.md) — 2026-04-22
 - [SpokenType 使用指南：集成 API 的 AI 语音输入工具及其自动润色功能评测](./AI工具/spokentype-api-ai-voice-input-review.md) — 2026-04-21
 - [想搭建自动化内容站却苦于缺乏工具？尝试用开源自托管的 GEOFlow 构建 AI 生产流](./AI工具/geoflow-ai-content-automation-workflow.md) — 2026-04-18
 - [如何配置开源 macOS 本地语音输入工具：从本地转录到自定义 LLM 润色全流程](./ai-tool/configure-macos-local-voice-input-with-llm-refinement.md) — 2026-04-15
