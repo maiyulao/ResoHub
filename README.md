@@ -541,6 +541,7 @@
 - [AI实战创变营：从零构建AI应用能力，打通全场景商业变现路径](./实战指南/ai-practical-camp-build-ai-apps-commercialization.md) — 2025-10-13
 - [抖音与小红书饰品创业指南：从货源筛选到AI模特生成的实操全流程](./实战指南/douyin-xiaohongshu-jewelry-startup-guide.md) — 2025-10-13
 - [面对沟通受阻或难以说服他人的困境，如何通过21天刻意练习快速提升人际影响力？](./实战指南/21-day-interpersonal-influence-practice.md) — 2025-10-13
+- [TikTok全链路变现指南：从实操技巧到盈利能力的进阶路径](./实战指南/tiktok-monetization-guide-tips-to-profit.md) — 2025-10-13
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
