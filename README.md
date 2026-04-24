@@ -166,6 +166,7 @@
 - [BKHTMLTOPDF 解析：支持多语言与复杂图表的高性能开源 HTML 转 PDF 方案](./GitHub项目/bkhtmltopdf-high-performance-html-to-pdf-solution.md) — 2025-10-18
 - [Xget 开发者资源加速方案：多平台 URL 转换与 HTTP/3 边缘缓存实践](./GitHub项目/xget-developer-resource-acceleration-url-conversion-http3-cache.md) — 2025-10-17
 - [Quant Wiki 中文量化金融开源知识库：获取路径与实操指南](./GitHub项目/quant-wiki-chinese-guide.md) — 2025-10-14
+- [vYinn 开源指南：自定义生成古籍风格电子印章（支持阴阳文与透明背景）](./GitHub项目/vyinn-guide-custom-ancient-style-electronic-seal.md) — 2025-10-13
 
 ### Mac软件
 - [macUSB 简化 macOS 启动盘制作流程：支持快速构建旧版系统安装介质，适配最新 Mac 硬件环境](./mac/macusb-macos-bootable-usb-creator.md) — 2026-04-12
