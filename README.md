@@ -217,6 +217,7 @@
 - [想通过瑜伽快速瘦身却不知如何起步？这份21天全方位塑形计划帮你打破身材焦虑](./兴趣爱好/21-day-yoga-weight-loss-plan.md) — 2025-10-18
 
 ### 创意工具
+- [Mac 应用图标风格不统一？试试用 macOSicons 统一全平台视觉效果](./创意工具/unify-mac-app-icons-with-macosicons.md) — 2026-04-23
 - [如何使用在线工具将 AVIF 批量转换为 PNG 并导出 ZIP 压缩包](./创意工具/batch-convert-avif-to-png-online.md) — 2026-04-20
 - [担心视频上传到云端泄露隐私？试试 VideoCompressors，在浏览器本地完成视频压缩](./创意工具/videocompressors-local-video-compression-privacy.md) — 2026-04-17
 - [花快图在线生成器：支持无缝图案与万花筒效果的免费花纹制作工具](./创意工具/flower-pattern-generator.md) — 2026-04-16
