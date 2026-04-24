@@ -539,6 +539,7 @@
 - [AI数字人全流程实战指南：从零基础快速构建可商业化应用的虚拟数字分身](./实战指南/ai-digital-human-practical-guide.md) — 2025-10-15
 - [AI文案实战教程：面向写作场景的Prompt指令集与操作指南](./实战指南/ai-copywriting-prompt-guide.md) — 2025-10-13
 - [AI实战创变营：从零构建AI应用能力，打通全场景商业变现路径](./实战指南/ai-practical-camp-build-ai-apps-commercialization.md) — 2025-10-13
+- [抖音与小红书饰品创业指南：从货源筛选到AI模特生成的实操全流程](./实战指南/douyin-xiaohongshu-jewelry-startup-guide.md) — 2025-10-13
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
