@@ -361,6 +361,7 @@
 - [biliCut：高效提取B站视频片段的在线剪辑工具](./创意工具/bilicut-bilibili-video-cutter.md) — 2025-10-13
 - [想找某部剧里的一句台词却不记得具体集数？试试 YARN，通过关键词快速定位视频片段并跳转时间戳](./创意工具/find-movie-lines-with-yarn.md) — 2025-10-12
 - [MixBooze：解构全球鸡尾酒文化与创意调酒实践指南](./创意工具/mixbooze-cocktail-culture-and-creative-mixology-guide.md) — 2025-10-12
+- [Modern MD Editor：实现 Markdown 到公众号格式无损转换的轻量化编辑器，支持多平台桌面端部署](./创意工具/modern-md-editor-markdown-to-wechat-converter.md) — 2025-10-11
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
