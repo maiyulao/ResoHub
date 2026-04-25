@@ -17,6 +17,7 @@
 
 ### Ai Frameworks
 - [秒悟Meoo - 阿里对话式AI开发工具](./Ai Frameworks/meoo-ai-development-tool.md) — 2026-04-15
+- [gapp.so - AI 应用构建发布与托管平台](./Ai Frameworks/gapp-so-ai-app-builder.md) — 2026-04-13
 
 ### Ai Office Tools
 - [AiPPT插件 - AI驱动的自动化幻灯片制作工具](./Ai Office Tools/aippt-plugin.md) — 2026-04-14
