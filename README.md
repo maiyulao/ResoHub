@@ -551,6 +551,7 @@
 - [如何通过原创动画在TikTok中视频计划实现月入4000美金？全流程实操指南](./实战指南/make-4000-dollars-tiktok-creativity-program-animation-guide.md) — 2025-10-12
 - [孩子学习AI怎么起步？这份面向小学生的AI教育指南帮你快速上手](./实战指南/ai-education-guide-for-elementary-students.md) — 2025-10-12
 - [AI内容创作实操指南：从创意构思到商业变现的落地路径](./实战指南/ai-content-creation-guide-monetization.md) — 2025-10-12
+- [单机全流程AI电影制作指南：从核心工具链到实操落地全解析](./实战指南/local-ai-movie-production-guide.md) — 2025-10-11
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
