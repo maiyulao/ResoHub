@@ -25,6 +25,7 @@
 
 ### Ai Video Tools
 - [TagoMovie - 一站式 AI 漫剧与短剧创作平台](./Ai Video Tools/tagomovie-ai-video-creation.md) — 2026-04-17
+- [万镜一刻 - 阿里云AI视频创作平台](./Ai Video Tools/wanjing-yike-aliyun-ai-video.md) — 2026-04-13
 
 ### Ai Writing Tools
 - [丹青妙笔 - 体制内AI公文写作助手](./Ai Writing Tools/danqing-miaobi-ai-official-writing.md) — 2026-04-16
