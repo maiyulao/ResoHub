@@ -240,6 +240,7 @@
 - [Wallpaper-generator：自动化构建个性化壁纸流，实现多平台智能图片聚合与定时更换](./windows/wallpaper-generator-automated-personalized-wallpaper-flow.md) — 2025-11-18
 - [如何使用 WX Channel Downloader 将微信视频号内容保存至本地：操作指南与管理流程](./Windows软件/wx-channel-downloader-guide.md) — 2025-11-11
 - [ClassIsland：集成课表动态显示与多媒体信息管理的智能工具](./Windows软件/classisland-smart-timetable-multimedia-manager.md) — 2025-10-20
+- [Seelen UI 深度评测：通过开源平铺管理与自定义 Dock 打造 Windows 现代化桌面](./Windows软件/seelen-ui-review-windows-modern-desktop.md) — 2025-10-10
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
