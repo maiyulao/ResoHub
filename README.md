@@ -584,6 +584,7 @@
 - [如何利用DeepSeek结构化提示词与飞书多维表，解决AI内容创作缺乏体系且难以量产的难题？](./实战指南/deepseek-structured-prompts-feishu-base-ai-content-creation.md) — 2025-10-11
 - [AI空间设计实战课：涵盖室内、软装、建筑与景观的智能绘图及动画全流程](./实战指南/ai-space-design-course-interior-architecture-landscape.md) — 2025-10-11
 - [个体直播起步全流程：从账号搭建到实操落地的具体步骤](./实战指南/individual-livestreaming-startup-guide.md) — 2025-10-10
+- [电商AI工具实操课程：通过线上学习实现运营降本与效率提升](./实战指南/ecommerce-ai-tools-course-efficiency-optimization.md) — 2025-10-10
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
