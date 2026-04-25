@@ -10,6 +10,9 @@
 ### Ai Agent
 - [MaxHermes - MiniMax 全球首个云端沙箱 AI 智能体](./Ai Agent/maxhermes-minimax-cloud-sandbox.md) — 2026-04-16
 
+### Ai Frameworks
+- [秒悟Meoo - 阿里对话式AI开发工具](./Ai Frameworks/meoo-ai-development-tool.md) — 2026-04-15
+
 ### Ai Video Tools
 - [TagoMovie - 一站式 AI 漫剧与短剧创作平台](./Ai Video Tools/tagomovie-ai-video-creation.md) — 2026-04-17
 
