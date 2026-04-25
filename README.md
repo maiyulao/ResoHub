@@ -579,6 +579,7 @@
 - [AI内容创作实操指南：从创意构思到商业变现的落地路径](./实战指南/ai-content-creation-guide-monetization.md) — 2025-10-12
 - [单机全流程AI电影制作指南：从核心工具链到实操落地全解析](./实战指南/local-ai-movie-production-guide.md) — 2025-10-11
 - [如何利用DeepSeek结构化提示词与飞书多维表，解决AI内容创作缺乏体系且难以量产的难题？](./实战指南/deepseek-structured-prompts-feishu-base-ai-content-creation.md) — 2025-10-11
+- [AI空间设计实战课：涵盖室内、软装、建筑与景观的智能绘图及动画全流程](./实战指南/ai-space-design-course-interior-architecture-landscape.md) — 2025-10-11
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
