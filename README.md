@@ -9,6 +9,7 @@
 
 ### Ai Agent
 - [MaxHermes - MiniMax 全球首个云端沙箱 AI 智能体](./Ai Agent/maxhermes-minimax-cloud-sandbox.md) — 2026-04-16
+- [SingClaw - 具备记忆能力的 AI 数据桌面助手](./Ai Agent/singclaw-ai-data-desktop-assistant.md) — 2026-04-14
 
 ### Ai Document Tools
 - [Lantay - 面壁智能文档处理智能工作台](./Ai Document Tools/lantay-ai-document-workbench.md) — 2026-04-15
