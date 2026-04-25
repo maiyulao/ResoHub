@@ -7,6 +7,9 @@
 <!-- LE_AUTOPOST_INDEX_BEGIN -->
 ## 文章索引（自动维护）
 
+### Ai Video Tools
+- [TagoMovie - 一站式 AI 漫剧与短剧创作平台](./Ai Video Tools/tagomovie-ai-video-creation.md) — 2026-04-17
+
 ### AI工具
 - [如何使用 Track Policy 追踪 AI 法案演进与数据中心分布：操作指南](./AI工具/track-policy-ai-act-data-centers-guide.md) — 2026-04-22
 - [SpokenType 使用指南：集成 API 的 AI 语音输入工具及其自动润色功能评测](./AI工具/spokentype-api-ai-voice-input-review.md) — 2026-04-21
