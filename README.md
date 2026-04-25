@@ -7,6 +7,9 @@
 <!-- LE_AUTOPOST_INDEX_BEGIN -->
 ## 文章索引（自动维护）
 
+### Ai Agent
+- [MaxHermes - MiniMax 全球首个云端沙箱 AI 智能体](./Ai Agent/maxhermes-minimax-cloud-sandbox.md) — 2026-04-16
+
 ### Ai Video Tools
 - [TagoMovie - 一站式 AI 漫剧与短剧创作平台](./Ai Video Tools/tagomovie-ai-video-creation.md) — 2026-04-17
 
