@@ -10,6 +10,9 @@
 ### Ai Agent
 - [MaxHermes - MiniMax 全球首个云端沙箱 AI 智能体](./Ai Agent/maxhermes-minimax-cloud-sandbox.md) — 2026-04-16
 
+### Ai Document Tools
+- [Lantay - 面壁智能文档处理智能工作台](./Ai Document Tools/lantay-ai-document-workbench.md) — 2026-04-15
+
 ### Ai Frameworks
 - [秒悟Meoo - 阿里对话式AI开发工具](./Ai Frameworks/meoo-ai-development-tool.md) — 2026-04-15
 
