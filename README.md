@@ -13,6 +13,9 @@
 - [TuriX - 工业级通用 CUA 智能体助手](./Ai Agent/turix-industrial-cua-agent.md) — 2026-04-14
 - [Panofy - 全球首个可训练 AI 智能体平台](./Ai Agent/panofy-trainable-ai-agent-platform.md) — 2026-04-13
 
+### Ai Audio Tools
+- [逗哥配音 - 一站式AI配音工具](./Ai Audio Tools/douge-ai-voiceover.md) — 2026-04-10
+
 ### Ai Document Tools
 - [Lantay - 面壁智能文档处理智能工作台](./Ai Document Tools/lantay-ai-document-workbench.md) — 2026-04-15
 
