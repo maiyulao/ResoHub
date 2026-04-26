@@ -569,6 +569,7 @@
 - [利用 DeepSeek 打造图书账号：从起号实操、爆款选品到内容生产全流程](./实战指南/build-book-account-with-deepseek.md) — 2025-10-09
 - [21天英语口语突破：从零基础到流畅表达的实操训练计划](./实战指南/21-day-english-speaking-plan.md) — 2025-10-09
 - [即梦AI全流程实战指南：从基础功能掌握到高阶创作进阶](./实战指南/jimeng-ai-complete-guide.md) — 2025-10-09
+- [实体店转型指南：短视频与直播带货实操路径](./实战指南/offline-store-transformation-short-video-livestreaming-guide.md) — 2025-10-08
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
