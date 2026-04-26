@@ -350,6 +350,7 @@
 - [Call-Me 开源 WebRTC 视频通话组件：支持网站嵌入的一对一实时通信实现方案](./创意工具/call-me-open-source-webrtc-video-call-component.md) — 2025-10-10
 - [SMTP/IMAP/POP3 邮箱服务器配置一键查询指南](./创意工具/smtp-imap-pop3-server-settings-guide.md) — 2025-10-09
 - [NocoDB 开源部署指南：将现有数据库转换为类 Airtable 电子表格界面](./创意工具/nocodb-open-source-deployment-guide.md) — 2025-10-09
+- [使用 text2card 将网页文章转化为精美分享卡片的具体步骤](./创意工具/text2card-web-article-to-share-card-guide.md) — 2025-10-07
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
