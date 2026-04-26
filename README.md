@@ -578,6 +578,7 @@
 - [实体店转型指南：短视频与直播带货实操路径](./实战指南/offline-store-transformation-short-video-livestreaming-guide.md) — 2025-10-08
 - [想在三周内快速建立财务思维？这份21天财务进阶实操指南为你拆解](./实战指南/21-day-financial-mindset-guide.md) — 2025-10-08
 - [TikTok中视频计划实操指南：美金收益获取路径与万次播放结算标准](./实战指南/tiktok-creativity-program-guide-earnings-and-rpm.md) — 2025-10-08
+- [从零到一：AI实时语音交互数字人定制与核心开发实战指南](./实战指南/ai-realtime-voice-digital-human-development-guide.md) — 2025-10-08
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
