@@ -590,6 +590,7 @@
 - [个体直播起步全流程：从账号搭建到实操落地的具体步骤](./实战指南/individual-livestreaming-startup-guide.md) — 2025-10-10
 - [电商AI工具实操课程：通过线上学习实现运营降本与效率提升](./实战指南/ecommerce-ai-tools-course-efficiency-optimization.md) — 2025-10-10
 - [AI数字人矩阵实操指南：从账号搭建到电商带货的闭环路径](./实战指南/ai-digital-human-matrix-guide.md) — 2025-10-10
+- [利用 DeepSeek 打造图书账号：从起号实操、爆款选品到内容生产全流程](./实战指南/build-book-account-with-deepseek.md) — 2025-10-09
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
