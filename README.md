@@ -7,32 +7,6 @@
 <!-- LE_AUTOPOST_INDEX_BEGIN -->
 ## 文章索引（自动维护）
 
-### Ai Agent
-- [MaxHermes - MiniMax 全球首个云端沙箱 AI 智能体](./Ai Agent/maxhermes-minimax-cloud-sandbox.md) — 2026-04-16
-- [SingClaw - 具备记忆能力的 AI 数据桌面助手](./Ai Agent/singclaw-ai-data-desktop-assistant.md) — 2026-04-14
-- [TuriX - 工业级通用 CUA 智能体助手](./Ai Agent/turix-industrial-cua-agent.md) — 2026-04-14
-- [Panofy - 全球首个可训练 AI 智能体平台](./Ai Agent/panofy-trainable-ai-agent-platform.md) — 2026-04-13
-
-### Ai Audio Tools
-- [逗哥配音 - 一站式AI配音工具](./Ai Audio Tools/douge-ai-voiceover.md) — 2026-04-10
-
-### Ai Document Tools
-- [Lantay - 面壁智能文档处理智能工作台](./Ai Document Tools/lantay-ai-document-workbench.md) — 2026-04-15
-
-### Ai Frameworks
-- [秒悟Meoo - 阿里对话式AI开发工具](./Ai Frameworks/meoo-ai-development-tool.md) — 2026-04-15
-- [gapp.so - AI 应用构建发布与托管平台](./Ai Frameworks/gapp-so-ai-app-builder.md) — 2026-04-13
-
-### Ai Office Tools
-- [AiPPT插件 - AI驱动的自动化幻灯片制作工具](./Ai Office Tools/aippt-plugin.md) — 2026-04-14
-
-### Ai Video Tools
-- [TagoMovie - 一站式 AI 漫剧与短剧创作平台](./Ai Video Tools/tagomovie-ai-video-creation.md) — 2026-04-17
-- [万镜一刻 - 阿里云AI视频创作平台](./Ai Video Tools/wanjing-yike-aliyun-ai-video.md) — 2026-04-13
-
-### Ai Writing Tools
-- [丹青妙笔 - 体制内AI公文写作助手](./Ai Writing Tools/danqing-miaobi-ai-official-writing.md) — 2026-04-16
-
 ### AI工具
 - [如何使用 Track Policy 追踪 AI 法案演进与数据中心分布：操作指南](./AI工具/track-policy-ai-act-data-centers-guide.md) — 2026-04-22
 - [SpokenType 使用指南：集成 API 的 AI 语音输入工具及其自动润色功能评测](./AI工具/spokentype-api-ai-voice-input-review.md) — 2026-04-21
