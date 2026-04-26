@@ -583,6 +583,7 @@
 - [从零到一：AI实时语音交互数字人定制与核心开发实战指南](./实战指南/ai-realtime-voice-digital-human-development-guide.md) — 2025-10-08
 - [AI 驱动短剧创作全链路：从剧本生成到视觉实现的导演实操指南](./实战指南/ai-short-drama-creation-guide.md) — 2025-10-07
 - [AI驱动视频号爆款内容创作与带货变现实操指南](./实战指南/ai-video-channel-content-monetization-guide.md) — 2025-10-07
+- [AI绘画商业化实操教程：从工具应用到个人IP变现全流程指南](./实战指南/ai-art-commercialization-guide.md) — 2025-10-07
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
