@@ -118,6 +118,7 @@
 - [Hum to Search：通过AI哼唱识别歌曲，将模糊旋律快速转化为精准曲目信息](./AI工具/hum-to-search-ai-song-recognition.md) — 2025-10-12
 - [如何使用麦壳AI（VGO.PUB）实现多平台视频4K/8K下载及AI去水印操作](./AI工具/vgo-pub-video-download-ai-watermark-remover.md) — 2025-10-11
 - [开源AI虚假新闻检测系统部署指南：实现多语言事实核查与来源溯源](./AI工具/open-source-ai-fake-news-detection-deployment-guide.md) — 2025-10-10
+- [Edit0 实时对话生成 AI 图像：依托无限画布实现 5 秒极速出图，提供商用授权及永久免费额度](./AI工具/edit0-realtime-ai-image-generation-infinite-canvas.md) — 2025-10-08
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
