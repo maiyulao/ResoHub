@@ -354,6 +354,7 @@
 - [NocoDB 开源部署指南：将现有数据库转换为类 Airtable 电子表格界面](./创意工具/nocodb-open-source-deployment-guide.md) — 2025-10-09
 - [使用 text2card 将网页文章转化为精美分享卡片的具体步骤](./创意工具/text2card-web-article-to-share-card-guide.md) — 2025-10-07
 - [Teleprompter Online：支持镜像翻转与全屏快捷键的免费网页版提词工具](./创意工具/free-online-teleprompter-with-mirror-flip-and-fullscreen.md) — 2025-10-07
+- [SRI 计算器：基于心理学量表的性压抑程度量化评估指南](./创意工具/sri-sexual-repression-calculator-guide.md) — 2025-10-06
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
