@@ -570,6 +570,7 @@
 - [21天英语口语突破：从零基础到流畅表达的实操训练计划](./实战指南/21-day-english-speaking-plan.md) — 2025-10-09
 - [即梦AI全流程实战指南：从基础功能掌握到高阶创作进阶](./实战指南/jimeng-ai-complete-guide.md) — 2025-10-09
 - [实体店转型指南：短视频与直播带货实操路径](./实战指南/offline-store-transformation-short-video-livestreaming-guide.md) — 2025-10-08
+- [想在三周内快速建立财务思维？这份21天财务进阶实操指南为你拆解](./实战指南/21-day-financial-mindset-guide.md) — 2025-10-08
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
