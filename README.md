@@ -121,6 +121,7 @@
 - [Edit0 实时对话生成 AI 图像：依托无限画布实现 5 秒极速出图，提供商用授权及永久免费额度](./AI工具/edit0-realtime-ai-image-generation-infinite-canvas.md) — 2025-10-08
 - [多维心理映射：基于 AI 换位思考与雷达图的可视化自我认知实践](./AI工具/multi-dimensional-psychological-mapping-ai-empathy-radar-chart.md) — 2025-10-08
 - [如何利用AI高效创作百万字长篇小说？详解唐库1.0全自动系统的大纲与章摘校对流程](./AI工具/ai-long-novel-writing-tangku-system-workflow.md) — 2025-10-08
+- [LuoGen-agent 实测：全流程自动化 AI 数字人口播视频生成方案](./AI工具/luogen-agent-ai-digital-human-video-automation.md) — 2025-10-06
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
