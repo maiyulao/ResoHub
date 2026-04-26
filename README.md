@@ -367,6 +367,7 @@
 - [MixBooze：解构全球鸡尾酒文化与创意调酒实践指南](./创意工具/mixbooze-cocktail-culture-and-creative-mixology-guide.md) — 2025-10-12
 - [Modern MD Editor：实现 Markdown 到公众号格式无损转换的轻量化编辑器，支持多平台桌面端部署](./创意工具/modern-md-editor-markdown-to-wechat-converter.md) — 2025-10-11
 - [孩子想听不同语言的儿歌却找不到资源？试试 BeddySongs：覆盖千首多语种曲目且支持按年龄与主题筛选](./创意工具/beddysongs-multilingual-childrens-songs-resource.md) — 2025-10-10
+- [Call-Me 开源 WebRTC 视频通话组件：支持网站嵌入的一对一实时通信实现方案](./创意工具/call-me-open-source-webrtc-video-call-component.md) — 2025-10-10
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
