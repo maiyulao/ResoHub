@@ -215,6 +215,7 @@
 - [TextGO 跨平台文本处理工具：安装部署、快捷键配置与使用要点](./Mac软件/textgo-installation-shortcuts-and-usage.md) — 2025-10-26
 - [Short Video Factory：支持跨平台批量混剪与一键成片的开源 AI 视频工作流](./Mac软件/short-video-factory-open-source-ai-video-workflow.md) — 2025-10-18
 - [Platypus 下载与安装：将 macOS 命令行脚本转换为原生 App 的配置指南](./Mac软件/platypus-macos-download-install-guide.md) — 2025-10-06
+- [ytDownloader：支持百余站点的开源跨平台音视频下载工具（含4K与硬压加速）](./Mac软件/ytdownloader-open-source-video-downloader.md) — 2025-10-03
 
 ### Windows软件
 - [KOMA 指南：实现本地漫画自动去水印、压缩与标准化归档](./windows/koma-guide-manga-watermark-removal-compression-archiving.md) — 2026-02-05
