@@ -356,6 +356,7 @@
 - [Teleprompter Online：支持镜像翻转与全屏快捷键的免费网页版提词工具](./创意工具/free-online-teleprompter-with-mirror-flip-and-fullscreen.md) — 2025-10-07
 - [SRI 计算器：基于心理学量表的性压抑程度量化评估指南](./创意工具/sri-sexual-repression-calculator-guide.md) — 2025-10-06
 - [高效挖掘iOS限免精品：AppAdvice 每日应用推荐指南与使用技巧](./创意工具/appadvice-ios-free-apps-guide.md) — 2025-10-06
+- [MetroMan地铁通：一站式解决50余城线路规划与换乘需求，支持全平台同步访问](./创意工具/metroman-city-metro-planner.md) — 2025-10-05
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
