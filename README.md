@@ -239,6 +239,7 @@
 - [魔方全阶学习指南：涵盖基础入门至高级技巧的教程资源与实践要点](./兴趣爱好/rubiks-cube-complete-learning-guide.md) — 2025-10-24
 - [21天书法速成：从基础到实操的练字进阶指南](./兴趣爱好/21-day-calligraphy-guide.md) — 2025-10-22
 - [想通过瑜伽快速瘦身却不知如何起步？这份21天全方位塑形计划帮你打破身材焦虑](./兴趣爱好/21-day-yoga-weight-loss-plan.md) — 2025-10-18
+- [想在短时间内学会四种泳姿？这份零基础指南帮你快速掌握自由泳、仰泳、蛙泳与蝶泳的实操技巧](./兴趣爱好/learn-four-swimming-strokes-guide.md) — 2025-10-01
 
 ### 创意工具
 - [Mac 应用图标风格不统一？试试用 macOSicons 统一全平台视觉效果](./创意工具/unify-mac-app-icons-with-macosicons.md) — 2026-04-23
