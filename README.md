@@ -604,6 +604,7 @@
 - [想让孩子快速上手 AI 却不知从何教起？这份青少年人工智能实操指南帮你完成从启蒙到实践的跨越](./实战指南/ai-practical-guide-for-teens.md) — 2025-10-05
 - [AI短视频商业闭环实操：从赛道定位到矩阵增长的带货与引流指南](./实战指南/ai-short-video-business-growth-guide.md) — 2025-10-05
 - [想用手机做动画却不知从何下手？这套零基础课程带你快速上手](./实战指南/mobile-animation-beginner-course.md) — 2025-10-03
+- [TikTok 小店从零起步指南：全链路运营逻辑与实操环境配置详解](./实战指南/tiktok-shop-beginner-guide-operation-and-setup.md) — 2025-10-03
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
