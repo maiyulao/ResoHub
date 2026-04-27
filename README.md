@@ -594,6 +594,7 @@
 - [2100套销售财务库存Excel模板：支持多场景办公，含下载方式及使用要点](./实战指南/2100-sales-finance-inventory-excel-templates.md) — 2025-10-05
 - [快速上手AI视频创作：5分钟实操指南](./实战指南/ai-video-creation-guide-3.md) — 2025-10-05
 - [三步打造AI发光裙舞视频：从模型选择到效果渲染的全流程指南](./实战指南/ai-glowing-dress-dance-video-guide.md) — 2025-10-05
+- [利用 ChatGPT 高效编程的实操指南：从需求定义到代码实现](./实战指南/chatgpt-programming-practical-guide.md) — 2025-10-05
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
