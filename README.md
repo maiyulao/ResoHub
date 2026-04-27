@@ -363,6 +363,7 @@
 - [高效挖掘iOS限免精品：AppAdvice 每日应用推荐指南与使用技巧](./创意工具/appadvice-ios-free-apps-guide.md) — 2025-10-06
 - [MetroMan地铁通：一站式解决50余城线路规划与换乘需求，支持全平台同步访问](./创意工具/metroman-city-metro-planner.md) — 2025-10-05
 - [想要快速提取 YouTube 或 TikTok 的高画质封面图？试试这款多平台缩略图下载器](./创意工具/youtube-tiktok-thumbnail-downloader.md) — 2025-10-05
+- [想知道 Reddit 哪些子版块在快速增长？用 FreeSubStats 实时追踪社区趋势，无需注册且无广告干扰](./创意工具/track-fastest-growing-reddit-subreddits-with-freesubstats.md) — 2025-10-03
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
