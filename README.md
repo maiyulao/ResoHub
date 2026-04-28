@@ -620,6 +620,7 @@
 - [331款Xmind思维导图模板下载：涵盖多场景应用及导入指南](./实战指南/331-xmind-mind-map-templates-download.md) — 2025-09-30
 - [少儿AI启蒙实操指南：从基础概念到创作实践的进阶教程](./实战指南/kids-ai-learning-guide.md) — 2025-09-30
 - [拼多多开店没流量、增长遇瓶颈？一套从入门到精通的全阶运营实战方案](./实战指南/pinduoduo-store-growth-guide.md) — 2025-09-29
+- [AI自媒体实操教程：从工具配置到内容产出的全流程学习资源](./实战指南/ai-self-media-tutorial-workflow.md) — 2025-09-29
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
