@@ -187,6 +187,7 @@
 - [2Camera内购限免：支持前后摄像头同步拍摄与画中画分屏，适用于双视角视频创作](./iOS应用/2camera-dual-camera-recording-free.md) — 2025-10-08
 
 ### Mac软件
+- [想监控网络流量但觉得 Wireshark 太复杂？试试轻量级开源工具 Sniffnet](./Mac软件/sniffnet-lightweight-wireshark-alternative.md) — 2026-04-25
 - [macUSB 简化 macOS 启动盘制作流程：支持快速构建旧版系统安装介质，适配最新 Mac 硬件环境](./mac/macusb-macos-bootable-usb-creator.md) — 2026-04-12
 - [Open DroneLog：支持自托管的开源DJI飞行日志分析工具及部署指南](./mac/opendronelog-open-source-dji-flight-log-analysis-guide.md) — 2026-02-25
 - [Accomplish 开源 AI 桌面代理：实现文件自动化整理与工作流替代方案](./mac/accomplish-open-source-ai-desktop-agent.md) — 2026-02-23
