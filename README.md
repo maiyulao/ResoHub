@@ -377,6 +377,7 @@
 - [WheelPage 随机转盘：自定义决策工具的免费使用指南](./创意工具/wheelpage-random-spinner-free-guide.md) — 2025-10-01
 - [需要纯白背景来测试屏幕坏点、清洁显示器或充当临时摄影补光灯？试试这款在线纯白背景生成工具](./创意工具/online-white-background-generator.md) — 2025-09-29
 - [想快速确认老款 Mac 或 iPhone 的详细硬件参数与支持状态？试试离线查询工具 Mactracker](./创意工具/mactracker-offline-hardware-specs-checker.md) — 2025-09-29
+- [个性化书单构建指南：实现在线创建与高效分享](./创意工具/guide-to-personalized-book-lists.md) — 2025-09-29
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
