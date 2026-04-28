@@ -616,6 +616,7 @@
 - [抖音快手短视频入门指南：零基础实操路径](./实战指南/short-video-beginner-guide.md) — 2025-10-01
 - [剪辑特效实战就业营：从一对一专项指导到职场能力转化](./实战指南/video-editing-effects-career-camp.md) — 2025-10-01
 - [21天深度休息实践指南：从疲劳恢复到精力管理](./实战指南/21-day-deep-rest-guide.md) — 2025-09-30
+- [331款Xmind思维导图模板下载：涵盖多场景应用及导入指南](./实战指南/331-xmind-mind-map-templates-download.md) — 2025-09-30
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
