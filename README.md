@@ -8,6 +8,7 @@
 ## 文章索引（自动维护）
 
 ### AI工具
+- [VisionCull Pro 实测：利用本地 AI 快速剔除模糊与闭眼废片](./AI工具/visioncull-pro-review-ai-photo-culling.md) — 2026-04-27
 - [如何使用 Track Policy 追踪 AI 法案演进与数据中心分布：操作指南](./AI工具/track-policy-ai-act-data-centers-guide.md) — 2026-04-22
 - [SpokenType 使用指南：集成 API 的 AI 语音输入工具及其自动润色功能评测](./AI工具/spokentype-api-ai-voice-input-review.md) — 2026-04-21
 - [想搭建自动化内容站却苦于缺乏工具？尝试用开源自托管的 GEOFlow 构建 AI 生产流](./AI工具/geoflow-ai-content-automation-workflow.md) — 2026-04-18
