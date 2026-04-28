@@ -379,6 +379,7 @@
 - [想快速确认老款 Mac 或 iPhone 的详细硬件参数与支持状态？试试离线查询工具 Mactracker](./创意工具/mactracker-offline-hardware-specs-checker.md) — 2025-09-29
 - [个性化书单构建指南：实现在线创建与高效分享](./创意工具/guide-to-personalized-book-lists.md) — 2025-09-29
 - [跨游戏灵敏度精准换算：支持70余款FPS游戏的DPI与eDPI同步转换工具](./创意工具/fps-sensitivity-converter-dpi-edpi.md) — 2025-09-29
+- [在百万男性中能筛选出多少符合条件的伴侣？通过 hermatch_svelte 择偶数据实验室量化分析](./创意工具/partner-selection-quant-analysis-hermatch-svelte.md) — 2025-09-28
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
