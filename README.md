@@ -634,6 +634,7 @@
 - [AI 商业化实战指南：从创意原型到百万用户增长的变现全流程教程](./实战指南/ai-commercialization-guide-prototype-to-growth.md) — 2025-09-29
 - [DeepSeek实战赋能电商增长：从AI工具应用到线上陪跑全链路实操指南](./实战指南/deepseek-ecommerce-growth-guide.md) — 2025-09-28
 - [抖音小店无货源起店指南：从零配置到爆单的操作流程与关键避坑点](./实战指南/douyin-shop-dropshipping-guide-2.md) — 2025-09-28
+- [利用 AI 捕捉社会热点：从指令调优到高流量内容产出的实操指南](./实战指南/ai-social-hotspots-content-guide.md) — 2025-09-27
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
