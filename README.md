@@ -630,6 +630,7 @@
 - [拼多多开店没流量、增长遇瓶颈？一套从入门到精通的全阶运营实战方案](./实战指南/pinduoduo-store-growth-guide.md) — 2025-09-29
 - [AI自媒体实操教程：从工具配置到内容产出的全流程学习资源](./实战指南/ai-self-media-tutorial-workflow.md) — 2025-09-29
 - [AI 商业化实战指南：从创意原型到百万用户增长的变现全流程教程](./实战指南/ai-commercialization-guide-prototype-to-growth.md) — 2025-09-29
+- [DeepSeek实战赋能电商增长：从AI工具应用到线上陪跑全链路实操指南](./实战指南/deepseek-ecommerce-growth-guide.md) — 2025-09-28
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
