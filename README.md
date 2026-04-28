@@ -244,6 +244,7 @@
 - [想在短时间内学会四种泳姿？这份零基础指南帮你快速掌握自由泳、仰泳、蛙泳与蝶泳的实操技巧](./兴趣爱好/learn-four-swimming-strokes-guide.md) — 2025-10-01
 
 ### 创意工具
+- [Scanned Maker：通过浏览器本地处理实现 PDF 伪扫描效果，无需打印复扫即可生成真实扫描件](./创意工具/scanned-maker-browser-local-pdf-fake-scan.md) — 2026-04-26
 - [Mac 应用图标风格不统一？试试用 macOSicons 统一全平台视觉效果](./创意工具/unify-mac-app-icons-with-macosicons.md) — 2026-04-23
 - [如何使用在线工具将 AVIF 批量转换为 PNG 并导出 ZIP 压缩包](./创意工具/batch-convert-avif-to-png-online.md) — 2026-04-20
 - [担心视频上传到云端泄露隐私？试试 VideoCompressors，在浏览器本地完成视频压缩](./创意工具/videocompressors-local-video-compression-privacy.md) — 2026-04-17
