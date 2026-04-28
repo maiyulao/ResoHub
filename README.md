@@ -369,6 +369,7 @@
 - [面对大量电子发票难以手动录入？试试用 airegex 快速批量提取并导出至 Excel](./创意工具/airegex-batch-extract-electronic-invoices-to-excel.md) — 2025-10-01
 - [KHInsider 游戏原声资源库：涵盖 9 万+ 专辑的免费下载指南与使用要点](./创意工具/khinsider-game-ost-download-guide.md) — 2025-10-01
 - [想在陌生城市找一家不落俗套的秘密酒吧或顶层酒廊？这份全球有趣酒吧指南教你如何按城市精准探索](./创意工具/guide-to-finding-unique-bars-and-lounges-worldwide.md) — 2025-10-01
+- [WheelPage 随机转盘：自定义决策工具的免费使用指南](./创意工具/wheelpage-random-spinner-free-guide.md) — 2025-10-01
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
