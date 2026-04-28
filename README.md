@@ -370,6 +370,7 @@
 - [KHInsider 游戏原声资源库：涵盖 9 万+ 专辑的免费下载指南与使用要点](./创意工具/khinsider-game-ost-download-guide.md) — 2025-10-01
 - [想在陌生城市找一家不落俗套的秘密酒吧或顶层酒廊？这份全球有趣酒吧指南教你如何按城市精准探索](./创意工具/guide-to-finding-unique-bars-and-lounges-worldwide.md) — 2025-10-01
 - [WheelPage 随机转盘：自定义决策工具的免费使用指南](./创意工具/wheelpage-random-spinner-free-guide.md) — 2025-10-01
+- [需要纯白背景来测试屏幕坏点、清洁显示器或充当临时摄影补光灯？试试这款在线纯白背景生成工具](./创意工具/online-white-background-generator.md) — 2025-09-29
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
