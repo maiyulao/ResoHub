@@ -612,6 +612,7 @@
 - [TikTok 小店从零起步指南：全链路运营逻辑与实操环境配置详解](./实战指南/tiktok-shop-beginner-guide-operation-and-setup.md) — 2025-10-03
 - [短视频快速变现指南：从高效剪辑到商业转化的全流程实操](./实战指南/short-video-monetization-guide-6.md) — 2025-10-03
 - [AI 短视频获客实操指南：利用人工智能实现精准流量转化](./实战指南/ai-short-video-customer-acquisition-guide-2.md) — 2025-10-03
+- [抖音快手短视频入门指南：零基础实操路径](./实战指南/short-video-beginner-guide.md) — 2025-10-01
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
