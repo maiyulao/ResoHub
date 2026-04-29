@@ -640,6 +640,7 @@
 - [抖音小店无货源起店指南：从零配置到爆单的操作流程与关键避坑点](./实战指南/douyin-shop-dropshipping-guide-2.md) — 2025-09-28
 - [利用 AI 捕捉社会热点：从指令调优到高流量内容产出的实操指南](./实战指南/ai-social-hotspots-content-guide.md) — 2025-09-27
 - [实体店盈利实操指南：从引流到变现的36个具体执行步骤](./实战指南/physical-store-profit-guide-36-steps.md) — 2025-09-27
+- [手绘配色全流程实操指南：从色彩理论到场景应用的高效进阶方案](./实战指南/hand-drawn-color-palette-guide.md) — 2025-09-26
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
