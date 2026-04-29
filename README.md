@@ -239,6 +239,7 @@
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
+- [想在国内自由行却不知如何规划？这份驴友实战旅游攻略PDF帮你理清路线](./书籍/china-travel-guide-pdf-planning.md) — 2025-09-27
 
 ### 兴趣爱好
 - [家里东西总是在整理后迅速回潮？掌握这套收纳逻辑，让空间持久有序](./e585b4e8b6a3e788b1e5a5bd/home-organization-logic-for-lasting-order.md) — 2025-12-07
