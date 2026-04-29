@@ -653,6 +653,7 @@
 - [21天高效搜索进阶指南：从入门到精通的实操路径](./实战指南/21-day-advanced-search-guide.md) — 2025-09-25
 - [美业营收从0到百万的实战路径：核心增长模型与分阶段落地指南](./实战指南/beauty-industry-revenue-growth-guide.md) — 2025-09-25
 - [制作短视频找不到高质量绿幕素材？这里有几类实用资源推荐](./实战指南/high-quality-green-screen-resources-for-short-videos.md) — 2025-09-24
+- [谢无敌小红书商家实战营 5.0 课程资源：适用电商运营实操及获取指南](./实战指南/xie-wudi-xiaohongshu-course-5-0.md) — 2025-09-24
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
