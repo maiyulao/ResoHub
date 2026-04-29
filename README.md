@@ -643,6 +643,7 @@
 - [利用 AI 捕捉社会热点：从指令调优到高流量内容产出的实操指南](./实战指南/ai-social-hotspots-content-guide.md) — 2025-09-27
 - [实体店盈利实操指南：从引流到变现的36个具体执行步骤](./实战指南/physical-store-profit-guide-36-steps.md) — 2025-09-27
 - [手绘配色全流程实操指南：从色彩理论到场景应用的高效进阶方案](./实战指南/hand-drawn-color-palette-guide.md) — 2025-09-26
+- [智能体(Agent)构建实战指南：从逻辑思维到商业变现的落地路径与资源集](./实战指南/agent-building-guide-logic-to-monetization.md) — 2025-09-25
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
