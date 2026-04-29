@@ -649,6 +649,7 @@
 - [智能体(Agent)构建实战指南：从逻辑思维到商业变现的落地路径与资源集](./实战指南/agent-building-guide-logic-to-monetization.md) — 2025-09-25
 - [AI写作、绘画与视频工具集成指南：适用场景、实操路径及变现要点](./实战指南/ai-writing-drawing-video-tools-guide.md) — 2025-09-25
 - [21天高效搜索进阶指南：从入门到精通的实操路径](./实战指南/21-day-advanced-search-guide.md) — 2025-09-25
+- [美业营收从0到百万的实战路径：核心增长模型与分阶段落地指南](./实战指南/beauty-industry-revenue-growth-guide.md) — 2025-09-25
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
