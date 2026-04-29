@@ -127,6 +127,7 @@
 - [如何使用 Sora Code Finder 实时获取 OpenAI Sora 邀请码：操作指南](./AI工具/sora-code-finder-guide.md) — 2025-10-05
 - [想快速给视频加双语字幕却不想安装沉重软件？试试轻量级 AI 编辑器 ComeCut](./AI工具/comecut-ai-bilingual-subtitles-editor.md) — 2025-10-01
 - [QuQu 开源语音工作流：基于 FunASR 本地识别与可配置大模型的 Wispr Flow 替代方案](./AI工具/ququ-open-source-voice-workflow-wispr-flow-alternative.md) — 2025-09-27
+- [AI 驱动电子书知识结构化：通过 Gemini/OpenAI 实现 PDF 与 EPUB 的章节级解析及思维导图自动化生成](./AI工具/ai-ebook-knowledge-structuring-gemini-openai-pdf-epub-parsing-mindmap.md) — 2025-09-26
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
