@@ -139,6 +139,7 @@
 - [不想让输入法上传打字记录？试试 Urik：一个支持本地处理与加密词库的开源 Android 键盘替代方案](./android/urik-open-source-android-keyboard-privacy.md) — 2025-12-16
 - [AirPods 在安卓上无法使用降噪和入耳检测？试试 LibrePods 开源适配方案](./android/airpods-noise-cancelling-ear-detection-android-librepods.md) — 2025-11-21
 - [Android 手机改造指南：利用 FlipperDroid 实现 NFC、RFID 及蓝牙安全测试](./Android应用/android-phone-flipperdroid-nfc-rfid-bluetooth-security-testing.md) — 2025-10-05
+- [Selene 移动端影视聚合播放器配置指南：实现多源搜索与断点续播的安装步骤](./Android应用/selene-mobile-video-player-setup-guide.md) — 2025-09-24
 
 ### GitHub项目
 - [AList 部署指南：支持多云盘聚合与 WebDAV 挂载的自托管存储网关](./GitHub项目/alist-deployment-guide-cloud-storage-gateway.md) — 2026-04-24
