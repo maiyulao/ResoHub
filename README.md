@@ -185,6 +185,7 @@
 - [想快速导出 Telegram 频道资源却被繁琐的 Bot 指令困扰？试试这款支持 2GiB 大文件的网页端一键下载工具](./GitHub项目/telegram-channel-resource-downloader-tool.md) — 2025-10-11
 - [新概念英语(NCE)全四册点读指南：从基础起步至流利表达的朗读实操方案](./GitHub项目/new-concept-english-reading-guide.md) — 2025-10-05
 - [如何使用开源应用 ChronoFrame 管理照片：从格式解析到地理信息展示的操作指南](./GitHub项目/chronoframe-photo-management-guide.md) — 2025-10-03
+- [如何使用开源工具 Q.Link 制作自定义问答解锁链接：从安装到配置全流程](./GitHub项目/q-link-custom-qa-unlock-guide.md) — 2025-09-27
 
 ### iOS应用
 - [2Camera内购限免：支持前后摄像头同步拍摄与画中画分屏，适用于双视角视频创作](./iOS应用/2camera-dual-camera-recording-free.md) — 2025-10-08
