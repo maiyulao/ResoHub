@@ -382,6 +382,7 @@
 - [跨游戏灵敏度精准换算：支持70余款FPS游戏的DPI与eDPI同步转换工具](./创意工具/fps-sensitivity-converter-dpi-edpi.md) — 2025-09-29
 - [在百万男性中能筛选出多少符合条件的伴侣？通过 hermatch_svelte 择偶数据实验室量化分析](./创意工具/partner-selection-quant-analysis-hermatch-svelte.md) — 2025-09-28
 - [SaaS或B2B官网标题总没灵感？试试 WebsiteHeadlines 快速拆解高转化文案模版](./创意工具/websiteheadlines-saas-b2b-copywriting-templates.md) — 2025-09-28
+- [如何使用 TLD-List 对比 54 家注册商的 3,488 种域名价格](./创意工具/compare-domain-prices-with-tld-list.md) — 2025-09-27
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
