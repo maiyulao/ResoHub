@@ -190,6 +190,7 @@
 - [如何使用开源应用 ChronoFrame 管理照片：从格式解析到地理信息展示的操作指南](./GitHub项目/chronoframe-photo-management-guide.md) — 2025-10-03
 - [如何使用开源工具 Q.Link 制作自定义问答解锁链接：从安装到配置全流程](./GitHub项目/q-link-custom-qa-unlock-guide.md) — 2025-09-27
 - [IPTV-JP 日本电视频道源：支持 M3U 订阅的免费观看配置与部署指南](./GitHub项目/iptv-jp-m3u-free-setup-guide.md) — 2025-09-25
+- [开源 FindMy 追踪器 NinjiaTag：支持长期轨迹记录的 AirTag 自制方案](./GitHub项目/ninjiatag-open-source-findmy-tracker.md) — 2025-09-24
 
 ### iOS应用
 - [2Camera内购限免：支持前后摄像头同步拍摄与画中画分屏，适用于双视角视频创作](./iOS应用/2camera-dual-camera-recording-free.md) — 2025-10-08
