@@ -133,6 +133,7 @@
 - [如何利用AI自动抓取热点并快速分发多平台，实现低成本的媒体内容创业？](./AI工具/ai-automated-trending-content-distribution-media-entrepreneurship.md) — 2025-09-22
 - [Any2Text 开源评测：支持百种语言的免注册音视频转文字方案](./AI工具/any2text-open-source-review.md) — 2025-09-22
 - [TransPocket 使用指南：支持多语言及 YouTube 视频的免费 AI 语音转录方案](./AI工具/transpocket-ai-voice-transcription-guide.md) — 2025-09-21
+- [基于 Python 与 Selenium 的大麦网抢票自动化实现方案](./AI工具/python-selenium-damai-ticket-automation.md) — 2025-09-18
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
