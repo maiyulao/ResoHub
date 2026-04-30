@@ -678,6 +678,7 @@
 - [AI数字人全流程制作指南：从环境搭建到效果进阶的实操步骤](./实战指南/ai-digital-human-creation-guide.md) — 2025-09-21
 - [付景升人像摄影全流程：从自然光与闪光灯布光到后期修图的实操指南](./实战指南/fu-jingsheng-portrait-photography-guide.md) — 2025-09-21
 - [跨境电商私域流量转化实战：从触达到成交的高级进阶指南](./实战指南/cross-border-ecommerce-private-traffic-conversion-guide.md) — 2025-09-18
+- [ComfyUI 全流程实战教程：从环境搭建到节点工作流部署指南](./实战指南/comfyui-complete-guide-setup-to-workflow.md) — 2025-09-18
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
