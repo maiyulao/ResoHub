@@ -196,6 +196,7 @@
 - [IPTV-JP 日本电视频道源：支持 M3U 订阅的免费观看配置与部署指南](./GitHub项目/iptv-jp-m3u-free-setup-guide.md) — 2025-09-25
 - [开源 FindMy 追踪器 NinjiaTag：支持长期轨迹记录的 AirTag 自制方案](./GitHub项目/ninjiatag-open-source-findmy-tracker.md) — 2025-09-24
 - [Meow App：一款兼顾美学与开源的轻量化数字碎片记录工具，支持快速捕捉灵感并实现高效管理](./GitHub项目/meow-app-open-source-digital-note-tool.md) — 2025-09-20
+- [PigeonPod 安装指南：将 YouTube 频道转换为播客 RSS 流的自动化方案与配置要点](./GitHub项目/pigeonpod-installation-guide-youtube-to-podcast-rss.md) — 2025-09-18
 
 ### iOS应用
 - [2Camera内购限免：支持前后摄像头同步拍摄与画中画分屏，适用于双视角视频创作](./iOS应用/2camera-dual-camera-recording-free.md) — 2025-10-08
