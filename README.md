@@ -663,6 +663,7 @@
 - [一体化人力资源管理：组织架构、招聘与人才开发实操指南](./实战指南/integrated-hrm-org-structure-recruitment-talent-development-guide.md) — 2025-09-24
 - [室内空间设计手法：核心逻辑分析与实操应用指南](./实战指南/interior-design-methods-logic-and-application.md) — 2025-09-22
 - [AI平面设计实操视频教程：学习路径、工具配置与环境要求](./实战指南/ai-graphic-design-video-tutorial.md) — 2025-09-22
+- [游戏UI实战指南：从项目立项到视觉落地的全流程操作步骤](./实战指南/game-ui-design-workflow-guide.md) — 2025-09-22
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
