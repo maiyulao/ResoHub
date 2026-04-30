@@ -257,6 +257,7 @@
 - [21天书法速成：从基础到实操的练字进阶指南](./兴趣爱好/21-day-calligraphy-guide.md) — 2025-10-22
 - [想通过瑜伽快速瘦身却不知如何起步？这份21天全方位塑形计划帮你打破身材焦虑](./兴趣爱好/21-day-yoga-weight-loss-plan.md) — 2025-10-18
 - [想在短时间内学会四种泳姿？这份零基础指南帮你快速掌握自由泳、仰泳、蛙泳与蝶泳的实操技巧](./兴趣爱好/learn-four-swimming-strokes-guide.md) — 2025-10-01
+- [大疆无人机飞行损坏怎么办？从常见故障排查到分步维修指南](./兴趣爱好/dji-drone-damage-repair-guide.md) — 2025-09-22
 
 ### 创意工具
 - [Scanned Maker：通过浏览器本地处理实现 PDF 伪扫描效果，无需打印复扫即可生成真实扫描件](./创意工具/scanned-maker-browser-local-pdf-fake-scan.md) — 2026-04-26
