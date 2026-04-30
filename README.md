@@ -199,6 +199,7 @@
 
 ### iOS应用
 - [2Camera内购限免：支持前后摄像头同步拍摄与画中画分屏，适用于双视角视频创作](./iOS应用/2camera-dual-camera-recording-free.md) — 2025-10-08
+- [小企鹅播放器 iOS 版回归：集成 SMB、IPTV 与本地视频的媒体中心](./iOS应用/little-penguin-player-ios-smb-iptv-media-center.md) — 2025-09-19
 
 ### Mac软件
 - [想监控网络流量但觉得 Wireshark 太复杂？试试轻量级开源工具 Sniffnet](./Mac软件/sniffnet-lightweight-wireshark-alternative.md) — 2026-04-25
