@@ -399,6 +399,7 @@
 - [如何快速制作专业的数据可视化图表？尝试用 Graphon 实现高效编辑](./创意工具/create-professional-data-visualizations-with-graphon.md) — 2025-09-24
 - [找不到好用的电子书下载站？这几个支持 EPUB 和 AZW3 全格式且免注册的资源库值得收藏](./创意工具/best-free-ebook-download-sites-epub-azw3.md) — 2025-09-22
 - [Small Text Generator：支持Unicode上标下标与艺术字体的免费在线转换工具](./创意工具/small-text-generator-unicode-art-fonts.md) — 2025-09-21
+- [ReadCover 实测：通过 Word 界面伪装与毫秒级快捷键实现隐蔽阅读](./创意工具/readcover-review-stealth-reading-word-interface.md) — 2025-09-21
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
