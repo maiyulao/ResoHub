@@ -665,6 +665,7 @@
 - [AI平面设计实操视频教程：学习路径、工具配置与环境要求](./实战指南/ai-graphic-design-video-tutorial.md) — 2025-09-22
 - [游戏UI实战指南：从项目立项到视觉落地的全流程操作步骤](./实战指南/game-ui-design-workflow-guide.md) — 2025-09-22
 - [Boss直聘获客实操指南：从账号搭建、流量引入到高效转化的全流程拆解](./实战指南/bosszhipin-customer-acquisition-guide.md) — 2025-09-21
+- [AI数字人全流程制作指南：从环境搭建到效果进阶的实操步骤](./实战指南/ai-digital-human-creation-guide.md) — 2025-09-21
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
