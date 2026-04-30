@@ -682,6 +682,7 @@
 - [跨境电商私域流量转化实战：从触达到成交的高级进阶指南](./实战指南/cross-border-ecommerce-private-traffic-conversion-guide.md) — 2025-09-18
 - [ComfyUI 全流程实战教程：从环境搭建到节点工作流部署指南](./实战指南/comfyui-complete-guide-setup-to-workflow.md) — 2025-09-18
 - [青岛世平婚礼现场布置：后期修图与色彩调校实操指南](./实战指南/qingdao-shiping-wedding-photo-retouching-color-grading-guide.md) — 2025-09-18
+- [从基础入门到短剧实战：莱尼日记影视剪辑全流程操作指南](./实战指南/linyi-diary-video-editing-guide.md) — 2025-09-18
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
