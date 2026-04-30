@@ -397,6 +397,7 @@
 - [如何使用 TLD-List 对比 54 家注册商的 3,488 种域名价格](./创意工具/compare-domain-prices-with-tld-list.md) — 2025-09-27
 - [车载音响不支持播放某些音视频文件？试试用 RoadMP3 将其快速转换为高兼容性的 MP3 格式](./创意工具/roadmp3-convert-audio-video-to-mp3-for-car-stereo.md) — 2025-09-26
 - [如何快速制作专业的数据可视化图表？尝试用 Graphon 实现高效编辑](./创意工具/create-professional-data-visualizations-with-graphon.md) — 2025-09-24
+- [找不到好用的电子书下载站？这几个支持 EPUB 和 AZW3 全格式且免注册的资源库值得收藏](./创意工具/best-free-ebook-download-sites-epub-azw3.md) — 2025-09-22
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
