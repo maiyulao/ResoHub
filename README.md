@@ -262,6 +262,7 @@
 - [想在短时间内学会四种泳姿？这份零基础指南帮你快速掌握自由泳、仰泳、蛙泳与蝶泳的实操技巧](./兴趣爱好/learn-four-swimming-strokes-guide.md) — 2025-10-01
 - [大疆无人机飞行损坏怎么办？从常见故障排查到分步维修指南](./兴趣爱好/dji-drone-damage-repair-guide.md) — 2025-09-22
 - [Corona 9.1 材质实战：通过 3ds Max 实现高精度 3D 效果图的参数调优与渲染方案](./兴趣爱好/corona-9-1-material-3ds-max-rendering-guide.md) — 2025-09-20
+- [California 风格伪厚涂人物头像设计教程：实现路径与关键参数指南](./兴趣爱好/california-style-digital-painting-portrait-tutorial.md) — 2025-09-19
 
 ### 创意工具
 - [Scanned Maker：通过浏览器本地处理实现 PDF 伪扫描效果，无需打印复扫即可生成真实扫描件](./创意工具/scanned-maker-browser-local-pdf-fake-scan.md) — 2026-04-26
