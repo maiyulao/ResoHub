@@ -8,6 +8,7 @@
 ## 文章索引（自动维护）
 
 ### AI工具
+- [GPT-Image2 结构化提示词库：优化 AI 图像生成工作流的模板实践](./AI工具/gpt-image2-structured-prompt-library.md) — 2026-04-28
 - [VisionCull Pro 实测：利用本地 AI 快速剔除模糊与闭眼废片](./AI工具/visioncull-pro-review-ai-photo-culling.md) — 2026-04-27
 - [OtterHub 部署指南：利用 Cloudflare 与 Telegram 构建 Serverless 私人存储空间](./AI工具/otterhub-cloudflare-telegram-serverless-storage-guide.md) — 2026-04-24
 - [如何使用 Track Policy 追踪 AI 法案演进与数据中心分布：操作指南](./AI工具/track-policy-ai-act-data-centers-guide.md) — 2026-04-22
