@@ -691,6 +691,7 @@
 - [Coze扣子AI工作流搭建指南：从环境配置到实战部署的全流程教程](./实战指南/coze-ai-workflow-guide-setup-to-deployment.md) — 2025-09-16
 - [NavSphere：利用 GitHub 与 Vercel 快速搭建的开源书签导航系统](./实战指南/navsphere-open-source-bookmark-navigation-system.md) — 2025-09-16
 - [全栈测试开发核心技术图谱：覆盖20余个主流实战方向](./实战指南/full-stack-test-dev-technology-map.md) — 2025-09-16
+- [想提升英语口语却找不到练习场景？试用哈佛雪梨的教学法与实战演练](./实战指南/improve-english-speaking-harvard-sherry-method.md) — 2025-09-15
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
