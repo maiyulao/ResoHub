@@ -700,6 +700,7 @@
 - [无需侵入代码：Uniprof 实时 CPU 性能分析工具，集成多语言支持与 AI 辅助诊断](./实战指南/uniprof-realtime-cpu-profiler-ai-diagnostics.md) — 2025-09-15
 - [Java 高级工程师实战进阶与就业指南](./实战指南/java-senior-engineer-guide.md) — 2025-09-15
 - [电商店铺从零到一的运营全流程操作指南](./实战指南/ecommerce-store-operation-guide-zero-to-one.md) — 2025-09-15
+- [创业公司合规指南：从注册到运营的避坑操作步骤](./实战指南/startup-compliance-guide-registration-to-operations.md) — 2025-09-14
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
