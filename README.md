@@ -271,6 +271,7 @@
 - [大疆无人机飞行损坏怎么办？从常见故障排查到分步维修指南](./兴趣爱好/dji-drone-damage-repair-guide.md) — 2025-09-22
 - [Corona 9.1 材质实战：通过 3ds Max 实现高精度 3D 效果图的参数调优与渲染方案](./兴趣爱好/corona-9-1-material-3ds-max-rendering-guide.md) — 2025-09-20
 - [California 风格伪厚涂人物头像设计教程：实现路径与关键参数指南](./兴趣爱好/california-style-digital-painting-portrait-tutorial.md) — 2025-09-19
+- [iPad插画零基础入门指南：从基础技法到实战作品的系统训练方案](./兴趣爱好/ipad-illustration-beginner-guide.md) — 2025-09-13
 
 ### 创意工具
 - [Scanned Maker：通过浏览器本地处理实现 PDF 伪扫描效果，无需打印复扫即可生成真实扫描件](./创意工具/scanned-maker-browser-local-pdf-fake-scan.md) — 2026-04-26
