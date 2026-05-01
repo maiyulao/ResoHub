@@ -689,6 +689,7 @@
 - [从零到精通：运营型直播主播系统化进阶指南](./实战指南/operational-livestream-host-guide.md) — 2025-09-17
 - [短视频商业化全流程：从内容创作到收益变现的实操指南](./实战指南/short-video-monetization-guide-5.md) — 2025-09-16
 - [Coze扣子AI工作流搭建指南：从环境配置到实战部署的全流程教程](./实战指南/coze-ai-workflow-guide-setup-to-deployment.md) — 2025-09-16
+- [NavSphere：利用 GitHub 与 Vercel 快速搭建的开源书签导航系统](./实战指南/navsphere-open-source-bookmark-navigation-system.md) — 2025-09-16
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
