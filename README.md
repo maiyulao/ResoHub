@@ -703,6 +703,7 @@
 - [Java 高级工程师实战进阶与就业指南](./实战指南/java-senior-engineer-guide.md) — 2025-09-15
 - [电商店铺从零到一的运营全流程操作指南](./实战指南/ecommerce-store-operation-guide-zero-to-one.md) — 2025-09-15
 - [创业公司合规指南：从注册到运营的避坑操作步骤](./实战指南/startup-compliance-guide-registration-to-operations.md) — 2025-09-14
+- [小红书电商全链路实操指南：从零起步到高效转化](./实战指南/xiaohongshu-ecommerce-guide-conversion.md) — 2025-09-13
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
