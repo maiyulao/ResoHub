@@ -687,6 +687,7 @@
 - [从基础入门到短剧实战：莱尼日记影视剪辑全流程操作指南](./实战指南/linyi-diary-video-editing-guide.md) — 2025-09-18
 - [陈曦手机影像创作全指南：从基础构图到高级实战的进阶路径](./实战指南/chenxi-mobile-photography-guide.md) — 2025-09-17
 - [从零到精通：运营型直播主播系统化进阶指南](./实战指南/operational-livestream-host-guide.md) — 2025-09-17
+- [短视频商业化全流程：从内容创作到收益变现的实操指南](./实战指南/short-video-monetization-guide-5.md) — 2025-09-16
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
