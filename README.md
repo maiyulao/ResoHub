@@ -411,6 +411,7 @@
 - [ReadCover 实测：通过 Word 界面伪装与毫秒级快捷键实现隐蔽阅读](./创意工具/readcover-review-stealth-reading-word-interface.md) — 2025-09-21
 - [想把 Spotify 或 Tidal 的音乐存到本地？试试用 Lucida 免费下载这些平台的音轨](./创意工具/download-spotify-tidal-music-with-lucida.md) — 2025-09-19
 - [Quote Maker：零成本打造高质感字幕拼图，支持在线实时编辑与快速导出](./创意工具/quote-maker-free-online-subtitle-puzzle-generator.md) — 2025-09-18
+- [高效捕捉全网趋势：TrendRadar 多平台热点聚合方案及其核心功能解析](./创意工具/trendradar-multi-platform-trend-aggregation-features.md) — 2025-09-17
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
