@@ -698,6 +698,7 @@
 - [想提升英语口语却找不到练习场景？试用哈佛雪梨的教学法与实战演练](./实战指南/improve-english-speaking-harvard-sherry-method.md) — 2025-09-15
 - [高效成交实战指南：36项核心法门与21个关键招式](./实战指南/high-efficiency-sales-closing-guide.md) — 2025-09-15
 - [无需侵入代码：Uniprof 实时 CPU 性能分析工具，集成多语言支持与 AI 辅助诊断](./实战指南/uniprof-realtime-cpu-profiler-ai-diagnostics.md) — 2025-09-15
+- [Java 高级工程师实战进阶与就业指南](./实战指南/java-senior-engineer-guide.md) — 2025-09-15
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
