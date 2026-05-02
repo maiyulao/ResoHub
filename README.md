@@ -205,6 +205,7 @@
 - [PigeonPod 安装指南：将 YouTube 频道转换为播客 RSS 流的自动化方案与配置要点](./GitHub项目/pigeonpod-installation-guide-youtube-to-podcast-rss.md) — 2025-09-18
 - [配置 ngo5 IPTV 电视直播与点播源：IPv4/IPv6 导入操作指南](./GitHub项目/ngo5-iptv-setup-ipv4-ipv6-guide.md) — 2025-09-18
 - [OrangeTV 跨平台影视聚合播放器：即装即用的多源视听方案](./GitHub项目/orangetv-cross-platform-media-player.md) — 2025-09-15
+- [Get Jobs AI：实现多平台简历自动投递，通过智能化申请流程大幅提升求职效率（支持Boss直聘、猎聘、智联、拉勾及51job）](./GitHub项目/get-jobs-ai-automated-resume-application.md) — 2025-09-12
 
 ### iOS应用
 - [2Camera内购限免：支持前后摄像头同步拍摄与画中画分屏，适用于双视角视频创作](./iOS应用/2camera-dual-camera-recording-free.md) — 2025-10-08
