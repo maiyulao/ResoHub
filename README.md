@@ -138,6 +138,7 @@
 - [Nano Bananary：无需 Prompt 的开源 AI 图像编辑方案](./AI工具/nano-bananary-open-source-ai-image-editor.md) — 2025-09-15
 - [Foxel 私有云盘部署指南：支持 AI 语义搜索的高扩展文件管理方案](./AI工具/foxel-private-cloud-deployment-guide.md) — 2025-09-15
 - [MathModelAgent开源指南：支持Docker与本地部署的数学建模AI助手，实现快速交付赛题方案](./AI工具/mathmodelagent-open-source-guide-docker-deployment.md) — 2025-09-12
+- [SQLBot：通过大模型与RAG实现自然语言查询数据库，将非技术问询转化为精准SQL执行](./AI工具/sqlbot-llm-rag-natural-language-to-sql.md) — 2025-09-10
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
