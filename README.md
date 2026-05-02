@@ -721,6 +721,7 @@
 - [从底层原理到全栈落地：程序员构建 AIGC 应用的实战进阶指南](./实战指南/programmer-guide-aigc-app-development.md) — 2025-09-11
 - [抖音小店全链路精细化运营：从实操策略到增长指南](./实战指南/douyin-shop-operational-growth-guide.md) — 2025-09-11
 - [想在小红书通过流量变现却没方向？这份全方位运营指南为你拆解实操路径](./实战指南/xiaohongshu-monetization-guide-5.md) — 2025-09-10
+- [小红书AI图文带货全流程：从零起步至高效变现](./实战指南/xiaohongshu-ai-ecommerce-guide.md) — 2025-09-10
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
