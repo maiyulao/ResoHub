@@ -731,6 +731,7 @@
 - [TikTok直播带货全流程实操指南：从账号起号到高效转化的闭环训练体系](./实战指南/tiktok-live-streaming-commerce-guide.md) — 2025-09-10
 - [Diffusion 模型商业化落地与训练实战指南](./实战指南/diffusion-model-commercialization-and-training-guide.md) — 2025-09-09
 - [从前端到全栈：Web全栈工程师的能力模型与进阶路径](./实战指南/frontend-to-fullstack-engineer-roadmap.md) — 2025-09-09
+- [从零到一成为物联网嵌入式工程师的进阶路线图](./实战指南/iot-embedded-engineer-roadmap.md) — 2025-09-09
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
