@@ -250,6 +250,7 @@
 - [ytDownloader：支持百余站点的开源跨平台音视频下载工具（含4K与硬压加速）](./Mac软件/ytdownloader-open-source-video-downloader.md) — 2025-10-03
 - [xhs_ai_publisher：小红书AI自动化发布工具指南](./Mac软件/xhs-ai-publisher-guide.md) — 2025-09-22
 - [基于视听语境的英语单词记忆工具 MuJing：支持多平台开源的沉浸式学习方案](./Mac软件/mujing-english-vocabulary-learning-tool.md) — 2025-09-14
+- [Diff Excel 开源工具下载：支持跨平台 Excel 差异高亮对比与报告生成](./Mac软件/open-source-excel-diff-tool-download.md) — 2025-09-10
 
 ### Windows软件
 - [KOMA 指南：实现本地漫画自动去水印、压缩与标准化归档](./windows/koma-guide-manga-watermark-removal-compression-archiving.md) — 2026-02-05
