@@ -718,6 +718,7 @@
 - [读书账号全流程实操指南：从内容定位到粉丝增长](./实战指南/reading-account-growth-guide-2.md) — 2025-09-12
 - [如何利用AIGC将AI合成技术转化为商业变现能力？实战指南详解](./实战指南/aigc-ai-synthesis-monetization-guide.md) — 2025-09-12
 - [剪映全流程实操指南：从基础剪辑到高级特效的进阶路径](./实战指南/capcut-complete-tutorial-basic-to-advanced.md) — 2025-09-11
+- [从底层原理到全栈落地：程序员构建 AIGC 应用的实战进阶指南](./实战指南/programmer-guide-aigc-app-development.md) — 2025-09-11
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
