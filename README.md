@@ -150,6 +150,7 @@
 - [Selene 移动端影视聚合播放器配置指南：实现多源搜索与断点续播的安装步骤](./Android应用/selene-mobile-video-player-setup-guide.md) — 2025-09-24
 
 ### GitHub项目
+- [Lofi Radio Web：集成专注计时功能的开源网页播放器](./GitHub项目/lofi-radio-web-open-source-player.md) — 2026-05-01
 - [AList 部署指南：支持多云盘聚合与 WebDAV 挂载的自托管存储网关](./GitHub项目/alist-deployment-guide-cloud-storage-gateway.md) — 2026-04-24
 - [Chrome 与 Edge 占用内存过高？尝试通过策略配置优化浏览器资源消耗的开源方案](./github-project/optimize-chrome-edge-memory-usage-open-source-solution.md) — 2026-01-22
 - [企业级 AI 工作流如何兼顾隐私与效率？尝试用 Eigent 构建本地化智能体方案](./github-project/enterprise-ai-workflow-privacy-efficiency-eigent-local-agents.md) — 2026-01-17
