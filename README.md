@@ -734,4 +734,5 @@
 - [如何使用 Blazwitcher 插件：通过全键盘操作与 AI 分组快速检索标签、书签及历史记录](./效率工具/how-to-use-blazwitcher-plugin-keyboard-ai-search.md) — 2025-10-27
 - [KISS Translator 深度评测：支持多引擎同步与自定义配置的开源双语翻译工具](./效率工具/kiss-translator-review.md) — 2025-10-18
 - [如何使用微信公众号文章导出器批量备份历史数据：操作全流程指南](./效率工具/wechat-article-exporter-backup-guide.md) — 2025-10-18
+- [bilibili-cleaner 深度净化指南：通过精准过滤视频、评论与动态，构建纯净的 B 站浏览体验](./效率工具/bilibili-cleaner-guide.md) — 2025-09-11
 <!-- LE_AUTOPOST_INDEX_END -->
