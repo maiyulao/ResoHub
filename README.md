@@ -709,6 +709,7 @@
 - [全能摄影进阶实战指南：从基础到高级的系统提升路径](./实战指南/photography-advanced-guide-systematic-path.md) — 2025-09-13
 - [从手机拍摄到剪映出片：全流程短视频创作实战指南](./实战指南/mobile-video-creation-guide-capcut.md) — 2025-09-13
 - [读书账号全流程实操指南：从内容定位到粉丝增长](./实战指南/reading-account-growth-guide-2.md) — 2025-09-12
+- [如何利用AIGC将AI合成技术转化为商业变现能力？实战指南详解](./实战指南/aigc-ai-synthesis-monetization-guide.md) — 2025-09-12
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
