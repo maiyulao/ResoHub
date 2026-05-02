@@ -432,6 +432,7 @@
 - [如何使用 iPhone 17 订单截图生成器：三步打造高仿真购物凭证](./创意工具/iphone-17-order-screenshot-generator.md) — 2025-09-12
 - [sese-engine 实测：构建私有化本地搜索引擎，实现数据的绝对掌控](./创意工具/sese-engine-private-local-search-engine-review.md) — 2025-09-12
 - [PICaboo：高质量商用矢量插图库，免署名且全站免费下载](./创意工具/picaboo-free-commercial-vector-illustrations.md) — 2025-09-12
+- [如何使用 CropImage 免费裁剪 JPEG、PNG、WebP 及 SVG 图片：操作指南](./创意工具/how-to-crop-images-free-guide.md) — 2025-09-09
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
