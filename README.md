@@ -747,6 +747,7 @@
 - [面对沟通受阻或执行不力的管理困境，如何通过洞察人性实现高效能管理？](./实战指南/human-nature-high-performance-management.md) — 2025-09-05
 - [系统架构设计师考证：核心知识点精讲与视频教程指南](./实战指南/system-architecture-designer-exam-guide.md) — 2025-09-05
 - [Python数据分析与机器学习实战指南：从核心工具链到业务场景落地](./实战指南/python-data-analysis-machine-learning-guide.md) — 2025-09-05
+- [解析财富圈层逻辑：通过四个关键步骤掌握高收益赚钱模式](./实战指南/wealth-circle-logic-high-return-model.md) — 2025-09-05
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
