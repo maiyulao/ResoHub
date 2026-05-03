@@ -734,6 +734,7 @@
 - [从前端到全栈：Web全栈工程师的能力模型与进阶路径](./实战指南/frontend-to-fullstack-engineer-roadmap.md) — 2025-09-09
 - [从零到一成为物联网嵌入式工程师的进阶路线图](./实战指南/iot-embedded-engineer-roadmap.md) — 2025-09-09
 - [想入驻Ozon却不知从何起步？这份全流程实操指南帮你快速上手](./实战指南/ozon-seller-guide-step-by-step.md) — 2025-09-08
+- [数据产品与AI产品开发实战指南：从核心能力构建到求职面试全流程](./实战指南/data-and-ai-product-development-guide.md) — 2025-09-08
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
