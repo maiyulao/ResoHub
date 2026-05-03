@@ -739,6 +739,7 @@
 - [想入驻Ozon却不知从何起步？这份全流程实操指南帮你快速上手](./实战指南/ozon-seller-guide-step-by-step.md) — 2025-09-08
 - [数据产品与AI产品开发实战指南：从核心能力构建到求职面试全流程](./实战指南/data-and-ai-product-development-guide.md) — 2025-09-08
 - [高效餐桌社交：27个实用沟通技巧与对话指南](./实战指南/dining-table-social-communication-tips.md) — 2025-09-07
+- [手机短视频拍摄指南：从零开始构建视觉美学体系](./实战指南/mobile-short-video-shooting-guide-2.md) — 2025-09-06
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
