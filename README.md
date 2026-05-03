@@ -436,6 +436,7 @@
 - [PICaboo：高质量商用矢量插图库，免署名且全站免费下载](./创意工具/picaboo-free-commercial-vector-illustrations.md) — 2025-09-12
 - [如何使用 CropImage 免费裁剪 JPEG、PNG、WebP 及 SVG 图片：操作指南](./创意工具/how-to-crop-images-free-guide.md) — 2025-09-09
 - [FileSync开源传输工具：基于WebRTC P2P实现免注册端到端加密分发](./创意工具/filesync-webrtc-p2p-encrypted-transfer.md) — 2025-09-07
+- [CookLikeHOC：复刻老乡鸡风味菜谱的开源实践](./创意工具/cooklikehoc-laoxiangji-recipes-open-source.md) — 2025-09-06
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
