@@ -782,4 +782,7 @@
 - [bilibili-cleaner 深度净化指南：通过精准过滤视频、评论与动态，构建纯净的 B 站浏览体验](./效率工具/bilibili-cleaner-guide.md) — 2025-09-11
 - [如何快速将复杂的产品功能转化为标准操作手册？尝试用 AI 自动化生成教程](./效率工具/ai-automated-product-manual-generation.md) — 2025-09-09
 - [面对学术论文付费墙无法下载 PDF？试试 PaperPanda 插件一键获取全文](./效率工具/paperpanda-plugin-download-academic-papers-pdf.md) — 2025-09-03
+
+### 教育考试
+- [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
 <!-- LE_AUTOPOST_INDEX_END -->
