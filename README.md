@@ -213,6 +213,7 @@
 - [Get Jobs AI：实现多平台简历自动投递，通过智能化申请流程大幅提升求职效率（支持Boss直聘、猎聘、智联、拉勾及51job）](./GitHub项目/get-jobs-ai-automated-resume-application.md) — 2025-09-12
 - [Pick Anime Cool：通过多维度标签精准筛选 Bangumi 番剧，提升动漫挖掘效率](./GitHub项目/pick-anime-cool-bangumi-filter-efficiency.md) — 2025-09-09
 - [OuonnkiTV 部署指南：实现多源影视库导入与 Vercel 自动化建站](./GitHub项目/ouonnki-tv-deployment-guide-vercel.md) — 2025-09-08
+- [美团开源 LongCat-Flash-Chat：兼顾响应速度与推理能力的 LLM 实践](./GitHub项目/longcat-flash-chat-meituan-llm.md) — 2025-09-04
 
 ### iOS应用
 - [2Camera内购限免：支持前后摄像头同步拍摄与画中画分屏，适用于双视角视频创作](./iOS应用/2camera-dual-camera-recording-free.md) — 2025-10-08
