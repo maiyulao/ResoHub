@@ -154,6 +154,7 @@
 - [AirPods 在安卓上无法使用降噪和入耳检测？试试 LibrePods 开源适配方案](./android/airpods-noise-cancelling-ear-detection-android-librepods.md) — 2025-11-21
 - [Android 手机改造指南：利用 FlipperDroid 实现 NFC、RFID 及蓝牙安全测试](./Android应用/android-phone-flipperdroid-nfc-rfid-bluetooth-security-testing.md) — 2025-10-05
 - [Selene 移动端影视聚合播放器配置指南：实现多源搜索与断点续播的安装步骤](./Android应用/selene-mobile-video-player-setup-guide.md) — 2025-09-24
+- [Gopeed：全协议支持的开源跨平台高速下载客户端](./Android应用/gopeed-open-source-cross-platform-download-client.md) — 2025-09-03
 
 ### GitHub项目
 - [Lofi Radio Web：集成专注计时功能的开源网页播放器](./GitHub项目/lofi-radio-web-open-source-player.md) — 2026-05-01
