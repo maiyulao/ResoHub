@@ -143,6 +143,7 @@
 - [如何使用 AI Video Transcriber 实现 YouTube、B站及抖音视频的开源转录与摘要提取](./AI工具/ai-video-transcriber-youtube-bilibili-douyin-transcription-summary.md) — 2025-09-08
 - [想要生成高质量的 Nano-banana 图像？这里有一套精选提示词与效果图参考](./AI工具/nano-banana-image-prompts-guide.md) — 2025-09-06
 - [Claude Code 中文适配版：无需代理的 AI 编程环境配置与安装指南](./AI工具/claude-code-chinese-installation-guide.md) — 2025-09-05
+- [Open-XiaoAI 深度定制指南：通过接入小智 AI 与 Gemini Live 实现自定义唤醒及智能化交互升级](./AI工具/open-xiaoai-customization-guide-gemini-live.md) — 2025-09-03
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
