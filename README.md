@@ -767,6 +767,7 @@
 - [从零起步：Stable Diffusion 图像生成实操指南](./实战指南/stable-diffusion-image-generation-guide.md) — 2025-09-02
 - [Web开发工程师微专业：从零到一的学习路径与实操指南](./实战指南/web-development-learning-path-guide.md) — 2025-09-02
 - [构建竞争力的薪酬体系：通过科学定价吸引并留住核心人才](./实战指南/competitive-compensation-system-for-talent-retention.md) — 2025-09-01
+- [从基础工具到实战项目：Photoshop 全体系零起点视频教学指南](./实战指南/photoshop-complete-video-tutorial-for-beginners.md) — 2025-09-01
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
