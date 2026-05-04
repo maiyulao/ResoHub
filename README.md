@@ -758,6 +758,7 @@
 - [初入体制内不知如何应对复杂人际与潜规则？这份职场生存实操指南为你解惑](./实战指南/government-job-survival-guide.md) — 2025-09-04
 - [职场生存指南：通过策略性思考规避职业陷阱的100个实操要点](./实战指南/career-survival-guide-strategic-thinking-tips.md) — 2025-09-03
 - [嵌入式开发电路基础：从数电模电核心理论到硬件实操指南](./实战指南/embedded-circuit-basics-digital-analog-hardware-guide.md) — 2025-09-03
+- [中国316座宜居养老城市深度解析：环境指标与生活质量评估](./实战指南/china-316-livable-retirement-cities-analysis.md) — 2025-09-03
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
