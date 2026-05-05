@@ -460,6 +460,7 @@
 - [CSVInk 是一款集成查看、编辑与转换功能的免费在线 CSV 工具，旨在通过轻量化操作提升数据处理效率。](./创意工具/csvink-free-online-csv-editor-viewer-converter.md) — 2025-08-31
 - [PicsResizer：高效离线批量处理图片，实现无水印本地裁剪与尺寸调整](./创意工具/picsresizer-offline-batch-image-resize-crop.md) — 2025-08-31
 - [想给孩子读睡前故事却不想下载繁琐的App？试试这个无需登录、打开即读的轻量级亲子共读平台](./创意工具/lightweight-bedtime-stories-platform-for-kids.md) — 2025-08-31
+- [如何用 Python 快速抓取抖音、TikTok 及推特等社交平台的公开数据？试试 F2 库](./创意工具/python-scrape-social-media-f2-library.md) — 2025-08-30
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
