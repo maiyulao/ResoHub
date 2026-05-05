@@ -276,6 +276,7 @@
 - [Seelen UI 深度评测：通过开源平铺管理与自定义 Dock 打造 Windows 现代化桌面](./Windows软件/seelen-ui-review-windows-modern-desktop.md) — 2025-10-10
 - [Lively Wallpaper 安装指南：支持多屏与超宽屏的开源动态壁纸配置方案](./Windows软件/lively-wallpaper-installation-guide-multi-monitor-ultrawide.md) — 2025-09-25
 - [AiNiee 开源指南：实现游戏文本与长文档的高质量 AI 自动化翻译](./Windows软件/ainiee-open-source-guide-ai-game-document-translation.md) — 2025-09-02
+- [如何配置 GameWikiTooltip 实现 AI 攻略与 Wiki 悬浮窗一键呼出](./Windows软件/configure-gamewikitooltip-ai-guide-wiki-tooltip.md) — 2025-09-01
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
