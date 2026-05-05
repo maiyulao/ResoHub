@@ -220,6 +220,7 @@
 - [美团开源 LongCat-Flash-Chat：兼顾响应速度与推理能力的 LLM 实践](./GitHub项目/longcat-flash-chat-meituan-llm.md) — 2025-09-04
 - [想在电视或播放器上快速看高清卫视？试试用 myIPTV 一键订阅带台标和节目预告的直播源](./GitHub项目/myiptv-hd-live-tv-subscription-guide.md) — 2025-09-03
 - [PanSou网盘搜索API集成指南：支持13个网盘聚合检索与TG机器人部署，含排序优化配置](./GitHub项目/pansou-api-integration-guide-disk-search-tg-bot.md) — 2025-08-31
+- [如何实现无需服务器中转的大文件快传？基于WebRTC的P2P安全传输方案解析](./GitHub项目/webrtc-p2p-large-file-transfer-solution.md) — 2025-08-30
 
 ### iOS应用
 - [2Camera内购限免：支持前后摄像头同步拍摄与画中画分屏，适用于双视角视频创作](./iOS应用/2camera-dual-camera-recording-free.md) — 2025-10-08
