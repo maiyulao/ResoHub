@@ -790,6 +790,7 @@
 - [AI 驱动的任务交付实操：从自动化工作流到量化产出效率的提升路径](./实战指南/ai-driven-task-delivery-automation-efficiency.md) — 2025-08-31
 - [Django前后端分离项目实战：源码获取、环境部署及核心开发要点](./实战指南/django-frontend-backend-separation-project-guide.md) — 2025-08-31
 - [PPT全能进阶指南：从基础逻辑到高阶视觉的系统化实战路径](./实战指南/ppt-mastery-guide-from-basics-to-advanced-visuals.md) — 2025-08-30
+- [职场生存逻辑与全维度沟通实战指南](./实战指南/workplace-survival-and-communication-guide.md) — 2025-08-29
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
