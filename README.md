@@ -453,6 +453,7 @@
 - [大文件传输总被限速或强制注册？试试这款免费匿名的云存储工具](./创意工具/free-anonymous-large-file-transfer-tool.md) — 2025-09-01
 - [想要在iOS 16上实现3D玻璃窗视觉效果？试试这款Big壁纸生成器](./创意工具/ios16-3d-glass-wallpaper-generator.md) — 2025-09-01
 - [想知道现在是不是买房好时机？尝试用国家统计局房价走势可视化工具来分析决策](./创意工具/house-price-trend-analysis-tool.md) — 2025-09-01
+- [Concrete Calculator：混凝土体积与重量在线估算指南](./创意工具/concrete-calculator-volume-weight-guide.md) — 2025-09-01
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
