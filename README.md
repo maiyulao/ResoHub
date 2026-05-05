@@ -780,6 +780,7 @@
 - [从基础工具到实战项目：Photoshop 全体系零起点视频教学指南](./实战指南/photoshop-complete-video-tutorial-for-beginners.md) — 2025-09-01
 - [职场进阶指南：蔡老师的40个生存实战策略](./实战指南/workplace-survival-strategies-guide.md) — 2025-09-01
 - [AI 驱动的任务交付实操：从自动化工作流到量化产出效率的提升路径](./实战指南/ai-driven-task-delivery-automation-efficiency.md) — 2025-08-31
+- [Django前后端分离项目实战：源码获取、环境部署及核心开发要点](./实战指南/django-frontend-backend-separation-project-guide.md) — 2025-08-31
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
