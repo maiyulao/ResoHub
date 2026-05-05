@@ -451,6 +451,7 @@
 - [想要自定义短网址但不想付费？试试 9lnk.io 免费生成工具](./创意工具/free-custom-short-url-generator-9lnk-io.md) — 2025-09-05
 - [想在不同设备上聚合观看影视资源？试试基于 MoonTV 开源构建的跨平台播放器 KatelyaTV](./创意工具/katelyn-tv-cross-platform-video-player-moontv.md) — 2025-09-05
 - [大文件传输总被限速或强制注册？试试这款免费匿名的云存储工具](./创意工具/free-anonymous-large-file-transfer-tool.md) — 2025-09-01
+- [想要在iOS 16上实现3D玻璃窗视觉效果？试试这款Big壁纸生成器](./创意工具/ios16-3d-glass-wallpaper-generator.md) — 2025-09-01
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
