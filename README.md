@@ -230,6 +230,7 @@
 - [基于 Apple Vision 框架：将 iPhone 构建为私有化本地 OCR 服务器](./iOS应用/iphone-private-local-ocr-server-apple-vision.md) — 2025-09-12
 
 ### Mac软件
+- [Mac 刷机时该选 Revive 还是 Restore？详解 DFU 恢复模式与 DFU-Tools 开源工具用法](./Mac软件/mac-dfu-revive-vs-restore-dfu-tools-guide.md) — 2026-05-04
 - [想监控网络流量但觉得 Wireshark 太复杂？试试轻量级开源工具 Sniffnet](./Mac软件/sniffnet-lightweight-wireshark-alternative.md) — 2026-04-25
 - [macUSB 简化 macOS 启动盘制作流程：支持快速构建旧版系统安装介质，适配最新 Mac 硬件环境](./mac/macusb-macos-bootable-usb-creator.md) — 2026-04-12
 - [Open DroneLog：支持自托管的开源DJI飞行日志分析工具及部署指南](./mac/opendronelog-open-source-dji-flight-log-analysis-guide.md) — 2026-02-25
