@@ -798,6 +798,7 @@
 - [ChatGPT 与 AIGC 领域深度研究报告索引](./实战指南/chatgpt-aigc-research-report-index.md) — 2025-08-28
 - [Java全栈自动化测试技术路径与实战要点](./实战指南/java-fullstack-automation-testing-guide.md) — 2025-08-28
 - [赖世雄美式发音指南：通过38讲系统拆解地道发音逻辑与实操技巧](./实战指南/lai-shixiong-american-pronunciation-guide.md) — 2025-08-28
+- [高价值网盘资源索引库：分类汇总与动态更新指南](./实战指南/high-value-cloud-drive-index-guide.md) — 2025-08-28
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
