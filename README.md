@@ -306,6 +306,7 @@
 - [AI插画从入门到就业：第20期实战训练营](./兴趣爱好/ai-illustration-training-camp-20.md) — 2025-08-30
 
 ### 创意工具
+- [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
 - [Scanned Maker：通过浏览器本地处理实现 PDF 伪扫描效果，无需打印复扫即可生成真实扫描件](./创意工具/scanned-maker-browser-local-pdf-fake-scan.md) — 2026-04-26
 - [Mac 应用图标风格不统一？试试用 macOSicons 统一全平台视觉效果](./创意工具/unify-mac-app-icons-with-macosicons.md) — 2026-04-23
 - [如何使用在线工具将 AVIF 批量转换为 PNG 并导出 ZIP 压缩包](./创意工具/batch-convert-avif-to-png-online.md) — 2026-04-20
