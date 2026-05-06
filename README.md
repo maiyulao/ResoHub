@@ -802,6 +802,7 @@
 - [赖世雄美式发音指南：通过38讲系统拆解地道发音逻辑与实操技巧](./实战指南/lai-shixiong-american-pronunciation-guide.md) — 2025-08-28
 - [高价值网盘资源索引库：分类汇总与动态更新指南](./实战指南/high-value-cloud-drive-index-guide.md) — 2025-08-28
 - [手机摄影进阶指南：从基础操作到高级影像创作](./实战指南/mobile-photography-advanced-guide-2.md) — 2025-08-28
+- [AI赋能外贸独立站快速构建：第26期实战训练营](./实战指南/ai-powered-foreign-trade-website-bootcamp-26.md) — 2025-08-27
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
