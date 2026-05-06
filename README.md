@@ -305,6 +305,7 @@
 - [iPad插画零基础入门指南：从基础技法到实战作品的系统训练方案](./兴趣爱好/ipad-illustration-beginner-guide.md) — 2025-09-13
 - [iPad绘画入门指南：喵小玉零基础教学实操课](./兴趣爱好/ipad-drawing-beginner-guide-miaoxiaoyu.md) — 2025-09-09
 - [AI插画从入门到就业：第20期实战训练营](./兴趣爱好/ai-illustration-training-camp-20.md) — 2025-08-30
+- [腰臀比雕刻与体态矫正：18日训练计划及执行要点](./兴趣爱好/waist-hip-ratio-sculpting-posture-correction-18day-plan.md) — 2025-08-26
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
