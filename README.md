@@ -469,6 +469,7 @@
 - [Online Notepad：免注册在线记事本，支持自动保存及TXT/PDF格式导出](./创意工具/online-notepad-auto-save-export.md) — 2025-08-30
 - [如何将 Markdown 快速转换为高质量 Word 文档：在线操作指南](./创意工具/markdown-to-word-online-guide.md) — 2025-08-28
 - [FLAC无损音乐搜索指南：支持多平台试听与资源下载路径](./创意工具/flac-lossless-music-search-guide.md) — 2025-08-28
+- [iPhone照片HEIC格式无法直接发送或打印？试试这款免费的在线转换工具一键转为PDF](./创意工具/convert-heic-to-pdf-free-online-tool.md) — 2025-08-28
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
