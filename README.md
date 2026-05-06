@@ -806,6 +806,7 @@
 - [AI赋能外贸独立站快速构建：第26期实战训练营](./实战指南/ai-powered-foreign-trade-website-bootcamp-26.md) — 2025-08-27
 - [从零开始利用AI编程开发可变现产品的实操步骤](./实战指南/ai-programming-monetizable-products-guide.md) — 2025-08-27
 - [想从零开始考取华为网络认证？HCNA与HCIA学习路径全解析](./实战指南/huawei-certification-hcna-hcia-learning-path.md) — 2025-08-27
+- [AI通用应用实操指南：从工具选型到场景落地](./实战指南/ai-general-app-practical-guide.md) — 2025-08-26
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
