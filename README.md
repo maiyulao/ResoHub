@@ -479,6 +479,7 @@
 - [iPhone照片HEIC格式无法直接发送或打印？试试这款免费的在线转换工具一键转为PDF](./创意工具/convert-heic-to-pdf-free-online-tool.md) — 2025-08-28
 - [品牌Logo字体设计指南：在线生成工具推荐及适用场景分析](./创意工具/brand-logo-font-design-guide-and-tools.md) — 2025-08-27
 - [快速体验 GPT-OSS 与 GPT-5：官方版及免登录渠道操作指南](./创意工具/gpt-oss-gpt-5-guide.md) — 2025-08-26
+- [高效 Markdown 转 Word：支持实时预览与一键导出在线工具](./创意工具/markdown-to-word-online-converter.md) — 2025-08-25
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
