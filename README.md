@@ -813,6 +813,7 @@
 - [从零开始利用AI编程开发可变现产品的实操步骤](./实战指南/ai-programming-monetizable-products-guide.md) — 2025-08-27
 - [想从零开始考取华为网络认证？HCNA与HCIA学习路径全解析](./实战指南/huawei-certification-hcna-hcia-learning-path.md) — 2025-08-27
 - [AI通用应用实操指南：从工具选型到场景落地](./实战指南/ai-general-app-practical-guide.md) — 2025-08-26
+- [积极情绪养成实操课：压力管理方案与学习资源指南](./实战指南/positive-emotion-stress-management-guide-2.md) — 2025-08-25
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
