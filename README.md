@@ -828,6 +828,7 @@
 - [实战导向的自学方法论：拆解高效学习路径，剔除冗余理论，直击核心技能点](./实战指南/practical-self-learning-methodology.md) — 2025-08-24
 - [零基础入门：AN沙雕动画全流程制作指南](./实战指南/an-animation-beginner-guide.md) — 2025-08-24
 - [私域运营全链路拆解：9天构建从流量引入到价值转化的闭环体系](./实战指南/private-traffic-operation-full-link-guide.md) — 2025-08-23
+- [想在亚马逊快速起量却不知从何下手？这份全流程实战指南帮你拆解每一步操作细节](./实战指南/amazon-fast-growth-step-by-step-guide.md) — 2025-08-23
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
