@@ -292,6 +292,9 @@
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
 - [想在国内自由行却不知如何规划？这份驴友实战旅游攻略PDF帮你理清路线](./书籍/china-travel-guide-pdf-planning.md) — 2025-09-27
 
+### 互联网营销
+- [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
+
 ### 兴趣爱好
 - [家里东西总是在整理后迅速回潮？掌握这套收纳逻辑，让空间持久有序](./e585b4e8b6a3e788b1e5a5bd/home-organization-logic-for-lasting-order.md) — 2025-12-07
 - [易欢算命实战指南：从基础理论到预测逻辑的系统化学习路径](./e585b4e8b6a3e788b1e5a5bd/yihuan-fortune-telling-guide.md) — 2025-11-28
