@@ -486,6 +486,7 @@
 - [西牧简历：高效构建专业在线简历的免费工具指南](./创意工具/ximu-resume-free-online-tool-guide.md) — 2025-08-25
 - [PasteResize：高效处理图像尺寸、裁剪与圆角导出的免费在线工具](./创意工具/pasteresize-free-online-image-resizer-cropper.md) — 2025-08-25
 - [Go柄网：游戏手柄深度评测与选购实操指南](./创意工具/game-controller-review-buying-guide.md) — 2025-08-25
+- [想低成本解锁学术资源和教育折扣？尝试用 EDUMAIL 免费申请 edu 教育邮箱](./创意工具/get-free-edu-email-with-edumail.md) — 2025-08-24
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
