@@ -838,6 +838,7 @@
 - [想在亚马逊快速起量却不知从何下手？这份全流程实战指南帮你拆解每一步操作细节](./实战指南/amazon-fast-growth-step-by-step-guide.md) — 2025-08-23
 - [TikTok跨境电商实操指南：从账号搭建到小店流量变现的完整步骤](./实战指南/tiktok-cross-border-ecommerce-guide-3.md) — 2025-08-22
 - [抖音爆款视频创作全流程：从拍摄技巧到剪辑实操的零基础进阶指南](./实战指南/douyin-video-creation-guide.md) — 2025-08-22
+- [Python 移动端爬虫从入门到实战：零基础进阶指南](./实战指南/python-mobile-crawler-guide.md) — 2025-08-22
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
