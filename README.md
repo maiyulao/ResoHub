@@ -493,6 +493,9 @@
 - [日语学习总被长难句卡住？试试用 Japanese Sentence Analyzer 实现词性标注、发音翻译与 OCR 识别的一站式解析](./创意工具/japanese-sentence-analyzer-guide.md) — 2025-08-23
 - [小红书无水印保存指南：支持多端一键下载图片与视频](./创意工具/xiaohongshu-no-watermark-downloader.md) — 2025-08-23
 
+### 大人学习课程
+- [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
+
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
 - [iPad珠宝商业手绘：Procreate基础到钻石翡翠高定实战（含三视图透视）](./practical-guides/ipad-jewelry-painting-procreate-guide.md) — 2026-01-11
