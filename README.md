@@ -827,6 +827,7 @@
 - [红书商业化实操指南：21天从零构建高转化账号](./实战指南/xiaohongshu-commercialization-guide-21-days.md) — 2025-08-25
 - [实战导向的自学方法论：拆解高效学习路径，剔除冗余理论，直击核心技能点](./实战指南/practical-self-learning-methodology.md) — 2025-08-24
 - [零基础入门：AN沙雕动画全流程制作指南](./实战指南/an-animation-beginner-guide.md) — 2025-08-24
+- [私域运营全链路拆解：9天构建从流量引入到价值转化的闭环体系](./实战指南/private-traffic-operation-full-link-guide.md) — 2025-08-23
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
