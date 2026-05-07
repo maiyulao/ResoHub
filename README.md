@@ -148,6 +148,7 @@
 - [AI 智能菜谱生成平台：通过算法优化饮食方案，实现从食材匹配到厨艺指导的全流程数字化引导](./AI工具/ai-smart-recipe-generator-platform.md) — 2025-08-30
 - [如何使用 Belin Doc 实现多格式文档的免费 AI 高质量翻译：操作全流程](./AI工具/belin-doc-ai-document-translation-guide.md) — 2025-08-27
 - [使用 Beauty Score AI 评估面部吸引力的操作指南：从上传照片到获取评分](./AI工具/beauty-score-ai-facial-attractiveness-guide.md) — 2025-08-26
+- [ConvertTool 在线转换指南：支持 300 余种格式批量处理（含 PDF、音视频及图片）](./AI工具/converttool-online-conversion-guide.md) — 2025-08-23
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
