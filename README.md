@@ -226,6 +226,7 @@
 - [PanSou网盘搜索API集成指南：支持13个网盘聚合检索与TG机器人部署，含排序优化配置](./GitHub项目/pansou-api-integration-guide-disk-search-tg-bot.md) — 2025-08-31
 - [如何实现无需服务器中转的大文件快传？基于WebRTC的P2P安全传输方案解析](./GitHub项目/webrtc-p2p-large-file-transfer-solution.md) — 2025-08-30
 - [糖果梦热榜：实时追踪全网趋势的开源榜单分析工具](./GitHub项目/candy-dream-trend-analysis-tool.md) — 2025-08-28
+- [Wechat Article Exporter：实现公众号文章批量导出，完整还原HTML样式并同步抓取阅读量与评论数据](./GitHub项目/wechat-article-exporter-bulk-export-html-stats.md) — 2025-08-22
 
 ### iOS应用
 - [2Camera内购限免：支持前后摄像头同步拍摄与画中画分屏，适用于双视角视频创作](./iOS应用/2camera-dual-camera-recording-free.md) — 2025-10-08
