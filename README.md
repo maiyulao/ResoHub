@@ -490,6 +490,7 @@
 - [想低成本解锁学术资源和教育折扣？尝试用 EDUMAIL 免费申请 edu 教育邮箱](./创意工具/get-free-edu-email-with-edumail.md) — 2025-08-24
 - [回顾出生之日：通过日期检索探索当天的历史新闻与重大事件](./创意工具/birth-date-historical-events-news.md) — 2025-08-24
 - [日语学习总被长难句卡住？试试用 Japanese Sentence Analyzer 实现词性标注、发音翻译与 OCR 识别的一站式解析](./创意工具/japanese-sentence-analyzer-guide.md) — 2025-08-23
+- [小红书无水印保存指南：支持多端一键下载图片与视频](./创意工具/xiaohongshu-no-watermark-downloader.md) — 2025-08-23
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
