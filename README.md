@@ -855,6 +855,7 @@
 - [小红书引流矩阵构建实操指南：从账号布局到流量转化的陪跑步骤详解](./实战指南/xiaohongshu-traffic-matrix-guide.md) — 2025-08-20
 - [拼多多日销千单实操指南：白凤电商训练营课程资源与学习要点](./实战指南/pinduoduo-daily-thousand-orders-baifeng-course.md) — 2025-08-20
 - [PyTorch 深度学习实战指南：从环境搭建到模型部署的零基础进阶步骤](./实战指南/pytorch-deep-learning-guide-beginner-to-deployment.md) — 2025-08-19
+- [Krenz色彩构成实战指南（第12期）：通过色彩逻辑拆解提升平面设计质感](./实战指南/krenz-color-composition-guide-12-graphic-design-quality.md) — 2025-08-19
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
