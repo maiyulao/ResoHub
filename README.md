@@ -274,6 +274,7 @@
 - [Diff Excel 开源工具下载：支持跨平台 Excel 差异高亮对比与报告生成](./Mac软件/open-source-excel-diff-tool-download.md) — 2025-09-10
 - [LazyTyper 语音输入工具下载：支持多语言实时转文字，适用于提升打字效率的桌面端方案](./Mac软件/lazytyper-voice-to-text-download.md) — 2025-09-02
 - [使用 OncePower 批量重命名文件与整理目录的操作指南](./Mac软件/oncepower-batch-rename-and-organize-files-guide.md) — 2025-09-01
+- [pyVideoTrans开源指南：通过一键自动化流程实现视频翻译与配音同步](./Mac软件/pyvideotrans-open-source-guide-automated-video-translation-dubbing.md) — 2025-08-22
 
 ### Windows软件
 - [KOMA 指南：实现本地漫画自动去水印、压缩与标准化归档](./windows/koma-guide-manga-watermark-removal-compression-archiving.md) — 2026-02-05
