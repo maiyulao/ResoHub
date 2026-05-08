@@ -845,6 +845,7 @@
 - [抖音爆款视频创作全流程：从拍摄技巧到剪辑实操的零基础进阶指南](./实战指南/douyin-video-creation-guide.md) — 2025-08-22
 - [Python 移动端爬虫从入门到实战：零基础进阶指南](./实战指南/python-mobile-crawler-guide.md) — 2025-08-22
 - [VLOG短视频入门实操教程：全套课程资源下载与学习指南](./实战指南/vlog-short-video-tutorial-course-resources.md) — 2025-08-21
+- [高阶谈判策略与成交实战技巧：全流程视频教学指南](./实战指南/advanced-negotiation-strategies-and-closing-techniques-guide.md) — 2025-08-21
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
