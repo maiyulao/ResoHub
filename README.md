@@ -8,6 +8,7 @@
 ## 文章索引（自动维护）
 
 ### AI工具
+- [基于讯飞API的纯前端音视频转文字方案：实现长音频自动分段识别](./AI工具/xunfei-api-frontend-audio-video-to-text-segmentation.md) — 2026-05-06
 - [想要用一张照片快速搭建可实时视频通话的 AI 数字人？试试开源平台 CyberVerse](./AI工具/cyberverse-ai-digital-human-realtime-video-call.md) — 2026-05-01
 - [GPT-Image2 结构化提示词库：优化 AI 图像生成工作流的模板实践](./AI工具/gpt-image2-structured-prompt-library.md) — 2026-04-28
 - [VisionCull Pro 实测：利用本地 AI 快速剔除模糊与闭眼废片](./AI工具/visioncull-pro-review-ai-photo-culling.md) — 2026-04-27
