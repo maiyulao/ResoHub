@@ -228,6 +228,7 @@
 - [糖果梦热榜：实时追踪全网趋势的开源榜单分析工具](./GitHub项目/candy-dream-trend-analysis-tool.md) — 2025-08-28
 - [Wechat Article Exporter：实现公众号文章批量导出，完整还原HTML样式并同步抓取阅读量与评论数据](./GitHub项目/wechat-article-exporter-bulk-export-html-stats.md) — 2025-08-22
 - [如何使用 Azure TTS Importer 将语音合成配置导入阅读软件：操作指南](./GitHub项目/azure-tts-importer-guide-for-reading-software.md) — 2025-08-22
+- [2026届校招面试真题库：含百家大厂1000+道题目及配套视频解析](./GitHub项目/2026-campus-recruitment-interview-questions-bank.md) — 2025-08-22
 
 ### iOS应用
 - [2Camera内购限免：支持前后摄像头同步拍摄与画中画分屏，适用于双视角视频创作](./iOS应用/2camera-dual-camera-recording-free.md) — 2025-10-08
