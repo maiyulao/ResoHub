@@ -500,6 +500,7 @@
 - [小红书无水印保存指南：支持多端一键下载图片与视频](./创意工具/xiaohongshu-no-watermark-downloader.md) — 2025-08-23
 - [宝阳悦读网：支持Kindle及多种主流格式电子书的免费下载与书单指南](./创意工具/baoyang-yuedu-free-ebook-download-guide.md) — 2025-08-21
 - [中国高校学科评估数据查询系统：支持按专业检索排名结果及适用版本说明](./创意工具/china-university-discipline-evaluation-query-system.md) — 2025-08-21
+- [SheetCleaner本地清洗工具：支持多列及CSV跨表去重，无需上传数据，免费下载安装](./创意工具/sheetcleaner-local-csv-deduplication-tool.md) — 2025-08-20
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
