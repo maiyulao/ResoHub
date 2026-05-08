@@ -497,6 +497,7 @@
 - [回顾出生之日：通过日期检索探索当天的历史新闻与重大事件](./创意工具/birth-date-historical-events-news.md) — 2025-08-24
 - [日语学习总被长难句卡住？试试用 Japanese Sentence Analyzer 实现词性标注、发音翻译与 OCR 识别的一站式解析](./创意工具/japanese-sentence-analyzer-guide.md) — 2025-08-23
 - [小红书无水印保存指南：支持多端一键下载图片与视频](./创意工具/xiaohongshu-no-watermark-downloader.md) — 2025-08-23
+- [宝阳悦读网：支持Kindle及多种主流格式电子书的免费下载与书单指南](./创意工具/baoyang-yuedu-free-ebook-download-guide.md) — 2025-08-21
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
