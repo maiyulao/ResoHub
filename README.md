@@ -849,6 +849,7 @@
 - [VLOG短视频入门实操教程：全套课程资源下载与学习指南](./实战指南/vlog-short-video-tutorial-course-resources.md) — 2025-08-21
 - [高阶谈判策略与成交实战技巧：全流程视频教学指南](./实战指南/advanced-negotiation-strategies-and-closing-techniques-guide.md) — 2025-08-21
 - [陆明明淘宝虚拟项目实操指南：从入门到变现的15.0版执行步骤](./实战指南/lu-mingming-taobao-virtual-project-guide-v15.md) — 2025-08-21
+- [AI图文带货全流程实操指南：从基础入门至进阶精通](./实战指南/ai-content-commerce-guide.md) — 2025-08-21
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
