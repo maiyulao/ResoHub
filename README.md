@@ -857,6 +857,7 @@
 - [PyTorch 深度学习实战指南：从环境搭建到模型部署的零基础进阶步骤](./实战指南/pytorch-deep-learning-guide-beginner-to-deployment.md) — 2025-08-19
 - [Krenz色彩构成实战指南（第12期）：通过色彩逻辑拆解提升平面设计质感](./实战指南/krenz-color-composition-guide-12-graphic-design-quality.md) — 2025-08-19
 - [高效职场沟通实战指南：通过去冗余的对话模型，快速提升协作效率与生存竞争力](./实战指南/efficient-workplace-communication-guide.md) — 2025-08-19
+- [想用手机做出爆款AI短视频？从工具选择到流量分发的实操指南](./实战指南/mobile-ai-short-video-guide.md) — 2025-08-19
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
