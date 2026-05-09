@@ -862,6 +862,7 @@
 - [Krenz色彩构成实战指南（第12期）：通过色彩逻辑拆解提升平面设计质感](./实战指南/krenz-color-composition-guide-12-graphic-design-quality.md) — 2025-08-19
 - [高效职场沟通实战指南：通过去冗余的对话模型，快速提升协作效率与生存竞争力](./实战指南/efficient-workplace-communication-guide.md) — 2025-08-19
 - [想用手机做出爆款AI短视频？从工具选择到流量分发的实操指南](./实战指南/mobile-ai-short-video-guide.md) — 2025-08-19
+- [通过构建电商合规管理体系隔离财务风险：从治理机制到实操链路的管控路径](./实战指南/ecommerce-compliance-financial-risk-management.md) — 2025-08-18
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
