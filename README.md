@@ -868,6 +868,7 @@
 - [通过构建电商合规管理体系隔离财务风险：从治理机制到实操链路的管控路径](./实战指南/ecommerce-compliance-financial-risk-management.md) — 2025-08-18
 - [外贸出口退税怎么办理才不出错？从流程解析到实操避坑全指南](./实战指南/export-tax-refund-guide.md) — 2025-08-18
 - [外贸新手如何突破起步期的迷茫，快速建立从零到精通的实操能力？](./实战指南/foreign-trade-beginner-guide-to-mastery.md) — 2025-08-18
+- [想快速提升编程能力却不知从何入手？从零开始构建算法与数据结构知识体系](./实战指南/build-algorithm-data-structure-knowledge-system.md) — 2025-08-18
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
