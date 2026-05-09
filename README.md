@@ -154,6 +154,7 @@
 - [Voicss 在线人声分离与伴奏制作指南：支持浏览器拖拽操作，无需安装](./AI工具/voicss-online-vocal-remover-accompaniment-guide.md) — 2025-08-20
 - [AI Dream Analyzer：解析潜意识的免费AI解梦工具](./AI工具/ai-dream-analyzer.md) — 2025-08-19
 - [AI 图像相似度对比工具：实现两图差异精准分析的技术方案](./AI工具/ai-image-similarity-comparison-tool.md) — 2025-08-17
+- [Read Frog：通过沉浸式翻译与 AI 深度解析，将浏览器转化为语言学习工具的开源扩展](./AI工具/read-frog-immersive-translation-ai-language-learning-extension.md) — 2025-08-16
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
