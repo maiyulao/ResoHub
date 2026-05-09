@@ -876,6 +876,7 @@
 - [想快速提升编程能力却不知从何入手？从零开始构建算法与数据结构知识体系](./实战指南/build-algorithm-data-structure-knowledge-system.md) — 2025-08-18
 - [人像修图与调色实操指南：从基础到进阶的训练步骤](./实战指南/portrait-retouching-and-coloring-guide.md) — 2025-08-17
 - [Python数据分析入门实操指南：学习路径、环境配置与核心案例集](./实战指南/python-data-analysis-beginner-guide.md) — 2025-08-17
+- [中小微企业主财税风控实操指南：从合规经营到税务优化](./实战指南/smbe-tax-risk-control-guide.md) — 2025-08-16
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
