@@ -899,6 +899,7 @@
 - [如何快速将复杂的产品功能转化为标准操作手册？尝试用 AI 自动化生成教程](./效率工具/ai-automated-product-manual-generation.md) — 2025-09-09
 - [面对学术论文付费墙无法下载 PDF？试试 PaperPanda 插件一键获取全文](./效率工具/paperpanda-plugin-download-academic-papers-pdf.md) — 2025-09-03
 - [利用 GitHub Gist 实现跨浏览器书签同步：开源免费的 BookmarkHub 方案详解](./效率工具/github-gist-bookmark-sync-bookmarkhub.md) — 2025-08-23
+- [如何使用 PromptHelper 脚本在 ChatGPT、Claude 等多平台统一管理 AI 提示词](./效率工具/manage-ai-prompts-with-prompthelper.md) — 2025-08-16
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
