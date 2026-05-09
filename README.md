@@ -298,6 +298,7 @@
 - [如何配置 GameWikiTooltip 实现 AI 攻略与 Wiki 悬浮窗一键呼出](./Windows软件/configure-gamewikitooltip-ai-guide-wiki-tooltip.md) — 2025-09-01
 - [BlueGauge开源蓝牙电量监控工具：支持自定义托盘图标与通知提醒](./Windows软件/bluegauge-open-source-bluetooth-battery-monitor.md) — 2025-08-30
 - [跑步模拟器 v1.0 使用指南：从自定义跑道到配速设置的完整配置步骤](./Windows软件/running-simulator-v1-guide-configuration.md) — 2025-08-27
+- [douyin_downloader：抖音福袋自动化抢购与扭蛋机脚本实现方案](./Windows软件/douyin-downloader-automation-script.md) — 2025-08-18
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
