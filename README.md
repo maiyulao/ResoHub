@@ -152,6 +152,7 @@
 - [ConvertTool 在线转换指南：支持 300 余种格式批量处理（含 PDF、音视频及图片）](./AI工具/converttool-online-conversion-guide.md) — 2025-08-23
 - [高效实现人像与产品背景虚化：Blur Background 在线处理指南](./AI工具/blur-background-online-guide.md) — 2025-08-22
 - [Voicss 在线人声分离与伴奏制作指南：支持浏览器拖拽操作，无需安装](./AI工具/voicss-online-vocal-remover-accompaniment-guide.md) — 2025-08-20
+- [AI Dream Analyzer：解析潜意识的免费AI解梦工具](./AI工具/ai-dream-analyzer.md) — 2025-08-19
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
