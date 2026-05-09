@@ -510,6 +510,7 @@
 - [ImgToLink+ 高性能图床指南：实现 50MB 大图永久存储与全球 CDN 加速直链生成](./创意工具/imgtolink-high-performance-image-hosting-guide.md) — 2025-08-19
 - [ListDifference：高效对比两组列表的在线工具，快速提取差异、交集与唯一值](./创意工具/listdifference-online-list-comparison-tool.md) — 2025-08-18
 - [高效文字转手写：免费在线转换工具指南](./创意工具/free-online-text-to-handwriting-converter-guide.md) — 2025-08-18
+- [浏览器本地解压指南：支持ZIP/RAR/7Z等格式的无注册安全工具](./创意工具/browser-local-unzip-guide.md) — 2025-08-17
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
