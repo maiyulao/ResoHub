@@ -864,6 +864,7 @@
 - [想用手机做出爆款AI短视频？从工具选择到流量分发的实操指南](./实战指南/mobile-ai-short-video-guide.md) — 2025-08-19
 - [通过构建电商合规管理体系隔离财务风险：从治理机制到实操链路的管控路径](./实战指南/ecommerce-compliance-financial-risk-management.md) — 2025-08-18
 - [外贸出口退税怎么办理才不出错？从流程解析到实操避坑全指南](./实战指南/export-tax-refund-guide.md) — 2025-08-18
+- [外贸新手如何突破起步期的迷茫，快速建立从零到精通的实操能力？](./实战指南/foreign-trade-beginner-guide-to-mastery.md) — 2025-08-18
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
