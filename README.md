@@ -502,6 +502,7 @@
 - [中国高校学科评估数据查询系统：支持按专业检索排名结果及适用版本说明](./创意工具/china-university-discipline-evaluation-query-system.md) — 2025-08-21
 - [SheetCleaner本地清洗工具：支持多列及CSV跨表去重，无需上传数据，免费下载安装](./创意工具/sheetcleaner-local-csv-deduplication-tool.md) — 2025-08-20
 - [泡椒音乐使用指南：支持MP3、FLAC及WAV格式的无损音频听写与下载](./创意工具/paojiao-music-guide-lossless-audio-download.md) — 2025-08-19
+- [开源临时文件传输工具 PocketChest：支持 200GB 大文件与 6 位取件码验证](./创意工具/pocketchest-open-source-file-transfer.md) — 2025-08-19
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
