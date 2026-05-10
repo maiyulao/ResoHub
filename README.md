@@ -1104,6 +1104,7 @@
 - [抖音小店无货源实操指南：从零起步构建电商闭环，分阶段掌握选品与运营核心技巧](./实战指南/douyin-shop-dropshipping-guide.md) — 2025-07-13
 - [想用数字人实现短视频自动化带货？这份2025实操指南教你从零起步](./实战指南/digital-human-short-video-automation-guide-2025.md) — 2025-07-13
 - [绿幕直播全流程实操指南：从基础布光到高级合成的进阶路径](./实战指南/green-screen-livestreaming-guide.md) — 2025-07-12
+- [手机照片调色与修图入门指南：实操教程及适用软件配置](./实战指南/mobile-photo-editing-guide-and-software.md) — 2025-07-11
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
