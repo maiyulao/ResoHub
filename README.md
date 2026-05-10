@@ -1006,6 +1006,7 @@
 - [想做自媒体却不知从何下笔？尝试用 DeepSeek 快速搭建起号全流程](./实战指南/deepseek-guide-social-media-startup.md) — 2025-07-28
 - [AI短视频运营全流程实操指南：从内容创作到账号增长](./实战指南/ai-short-video-operation-guide.md) — 2025-07-28
 - [拼多多与抖音小店双平台运营实操指南：从入驻到起量全流程步骤](./实战指南/pinduoduo-douyin-shop-operation-guide.md) — 2025-07-27
+- [鬼谷子攻心术全解析：通过21堂深度课程掌握博弈心理与操纵局势的底层逻辑](./实战指南/guiguzi-psychology-mastery-course.md) — 2025-07-26
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
