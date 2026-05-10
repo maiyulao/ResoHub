@@ -1079,6 +1079,7 @@
 - [AI绘画驱动IP商业化：自媒体实操指南](./实战指南/ai-art-ip-commercialization-guide-2.md) — 2025-07-17
 - [在竞争激烈的职场中如何摆脱同质化，构建不可替代的个人核心竞争力？](./实战指南/build-irreplaceable-core-competitiveness-at-work.md) — 2025-07-16
 - [2025 HR面试技巧指南：含话术模板与PDF下载，适用于求职实战](./实战指南/2025-hr-interview-tips-guide.md) — 2025-07-15
+- [日本多城自由行中文指南：东京、大阪、冲绳、北海道 PDF 攻略合集](./实战指南/japan-travel-guide-tokyo-osaka-okinawa-hokkaido-pdf.md) — 2025-07-15
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
