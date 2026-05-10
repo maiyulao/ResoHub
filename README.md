@@ -609,6 +609,7 @@
 - [如何免费在线阅读原版英文小说与双语名著：操作指南](./创意工具/read-english-novels-and-bilingual-classics-online-free.md) — 2025-07-21
 - [极简壁纸网：提供 4K/8K 高清无水印壁纸随机瀑布流下载](./创意工具/minimalist-wallpaper-4k-8k-download.md) — 2025-07-20
 - [开源聚合云盘搜索工具：支持多平台检索、无广告免付费安装指南](./创意工具/open-source-cloud-drive-search-tool-guide.md) — 2025-07-19
+- [如何使用 PDF TO LINK 将 PDF 文件快速转换为可分享链接](./创意工具/convert-pdf-to-link-fast.md) — 2025-07-19
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
