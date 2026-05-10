@@ -279,6 +279,7 @@
 - [2Camera内购限免：支持前后摄像头同步拍摄与画中画分屏，适用于双视角视频创作](./iOS应用/2camera-dual-camera-recording-free.md) — 2025-10-08
 - [小企鹅播放器 iOS 版回归：集成 SMB、IPTV 与本地视频的媒体中心](./iOS应用/little-penguin-player-ios-smb-iptv-media-center.md) — 2025-09-19
 - [基于 Apple Vision 框架：将 iPhone 构建为私有化本地 OCR 服务器](./iOS应用/iphone-private-local-ocr-server-apple-vision.md) — 2025-09-12
+- [iOS 影视 App 伪装安装全攻略：通过 App Store 绕过区域限制，快速部署高画质观影工具](./iOS应用/ios-movie-app-install-guide-bypass-region-restriction.md) — 2025-07-19
 
 ### Mac软件
 - [Mac 刷机时该选 Revive 还是 Restore？详解 DFU 恢复模式与 DFU-Tools 开源工具用法](./Mac软件/mac-dfu-revive-vs-restore-dfu-tools-guide.md) — 2026-05-04
