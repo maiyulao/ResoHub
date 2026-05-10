@@ -180,6 +180,7 @@
 - [水印宝：支持本地处理的开源图片水印工具部署与使用指南](./AI工具/shuinuibao-open-source-image-watermark-tool-guide.md) — 2025-07-21
 - [高效短视频配音方案：从文本到自然情感语音的快速转换指南](./AI工具/efficient-short-video-voiceover-guide.md) — 2025-07-20
 - [想在直播或视频会议中实时换脸却没素材？试试用 Deep-Live-Cam 实现单图实时驱动](./AI工具/deep-live-cam-real-time-face-swap-single-image.md) — 2025-07-19
+- [想把视频快速转成小红书或公众号图文？试试开源工具 AI-Media2Doc](./AI工具/ai-media2doc-video-to-article-tool.md) — 2025-07-18
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
