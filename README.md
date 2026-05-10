@@ -168,6 +168,7 @@
 - [使用UP简历快速构建专业履历的四个操作步骤](./AI工具/build-professional-resume-with-up-resume-steps.md) — 2025-08-01
 - [自然语言驱动的MMD动画创作：PoPo开源AI工具实操指南](./AI工具/popo-ai-mmd-animation-guide.md) — 2025-08-01
 - [Bigjpg实测：利用AI算法实现图片无损放大与4K超清修复](./AI工具/bigjpg-ai-image-upscaler-4k-repair.md) — 2025-07-31
+- [New API 安装指南：支持 30 余家服务商的开源 AI 网关与资产管理部署方案](./AI工具/new-api-installation-guide-open-source-ai-gateway.md) — 2025-07-31
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
