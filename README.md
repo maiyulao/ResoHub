@@ -599,6 +599,7 @@
 - [NetworkPanel 实操指南：构建多节点实时流量监控面板与快速部署流程](./创意工具/networkpanel-realtime-traffic-monitoring-guide.md) — 2025-07-24
 - [游戏世代：通过成就数字化标记定义玩家身份，支持一键导出可视化分享图集](./创意工具/gaming-generation-digital-achievements-player-identity-visual-export.md) — 2025-07-24
 - [Real Address Generator：支持24国格式的虚拟地址生成工具及使用指南](./创意工具/real-address-generator-guide.md) — 2025-07-22
+- [如何部署 TimePulse：打造玻璃拟态风格的多功能倒计时网页应用](./创意工具/deploy-timepulse-glassmorphism-countdown-app.md) — 2025-07-22
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
