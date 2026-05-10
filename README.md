@@ -616,6 +616,7 @@
 - [开源聚合云盘搜索工具：支持多平台检索、无广告免付费安装指南](./创意工具/open-source-cloud-drive-search-tool-guide.md) — 2025-07-19
 - [如何使用 PDF TO LINK 将 PDF 文件快速转换为可分享链接](./创意工具/convert-pdf-to-link-fast.md) — 2025-07-19
 - [KuaishouVideoDownload开源解析方案：实现快手无水印视频的高质量批量下载与永久免费获取](./创意工具/kuaishou-video-download-open-source-solution.md) — 2025-07-19
+- [句乐部英语学习资源：基于科学记忆法的实操指南与获取途径](./创意工具/club-english-learning-resources-scientific-memory-guide.md) — 2025-07-18
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
