@@ -166,6 +166,7 @@
 - [OfferIN AI 下载与安装指南：适配面试笔试场景的 AI 辅助工具使用要点](./AI工具/offerin-ai-download-install-guide.md) — 2025-08-05
 - [想尝试 SDXL 却苦于不会写英文提示词？试试 Cloudflare 这款自带翻译且免费的 AI 绘图工具](./AI工具/free-cloudflare-sdxl-ai-image-generator-with-translation.md) — 2025-08-02
 - [使用UP简历快速构建专业履历的四个操作步骤](./AI工具/build-professional-resume-with-up-resume-steps.md) — 2025-08-01
+- [自然语言驱动的MMD动画创作：PoPo开源AI工具实操指南](./AI工具/popo-ai-mmd-animation-guide.md) — 2025-08-01
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
