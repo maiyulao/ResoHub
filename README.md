@@ -638,6 +638,7 @@
 - [想要高质量音频又不想付费？试试这个支持 MP3 和 FLAC 格式的无损音乐下载站](./创意工具/free-high-quality-lossless-music-download-site-mp3-flac.md) — 2025-07-12
 - [Gslides资源库：2000余款Google Slides模板与Docs主题，支持在线编辑及快速下载](./创意工具/gslides-google-slides-templates-and-docs-themes.md) — 2025-07-12
 - [欧洲跨境电商实战指南：覆盖 30+ 国家的结构化知识库解析](./创意工具/europe-cross-border-ecommerce-guide.md) — 2025-07-12
+- [如何使用 PayQrcode 将微信与支付宝收款码物理合并为单一二维码](./创意工具/combine-wechat-alipay-qrcode-payqrcode.md) — 2025-07-11
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
