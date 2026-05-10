@@ -534,6 +534,7 @@
 - [OODATA 每日限免追踪：iOS 与 macOS 应用免费获取指南](./创意工具/oodata-daily-free-apps-ios-macos-guide.md) — 2025-08-11
 - [ClassicJoy：无需安装即可在浏览器中运行 NES、SNES 及街机复古游戏](./创意工具/classicjoy-browser-nes-snes-arcade-emulator.md) — 2025-08-11
 - [想在抖音、YouTube或B站快速保存高清视频却被水印困扰？试试 IntelligentAxlxlbot 这个跨平台解析工具](./创意工具/intelligentaxlxlbot-video-downloader-no-watermark.md) — 2025-08-10
+- [iMockup使用指南：快速制作APP模型动画及导出配置说明](./创意工具/imockup-guide-app-mockup-animation-export.md) — 2025-08-09
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
