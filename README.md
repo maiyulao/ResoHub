@@ -954,6 +954,7 @@
 - [小红书聚光平台投流实操指南：从核心算法逻辑到高转化投放链路的深度拆解](./实战指南/xiaohongshu-advertising-guide-algorithm-conversion.md) — 2025-08-05
 - [零基础AI自媒体起号指南：从工具选择到内容产出的全流程实操步骤](./实战指南/ai-social-media-startup-guide.md) — 2025-08-05
 - [Midjourney 绘图与视频生成快速上手指南：环境配置与核心操作要点](./实战指南/midjourney-guide-setup-and-core-operations.md) — 2025-08-04
+- [静物美食摄影进阶指南：从布光到出片的实操步骤](./实战指南/food-photography-lighting-guide.md) — 2025-08-03
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
