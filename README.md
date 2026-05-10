@@ -1068,6 +1068,7 @@
 - [运镜拍摄全指南：170节技术流实战课程](./实战指南/camera-movement-shooting-guide-course.md) — 2025-07-18
 - [1688平台增长全攻略：从精细化运营逻辑到实操落地指南](./实战指南/1688-growth-strategy-and-operation-guide.md) — 2025-07-18
 - [AI 短剧导演实操指南：从剧情创作到流量变现的执行步骤](./实战指南/ai-short-drama-director-guide.md) — 2025-07-18
+- [视频号AI短视频创作教程：从爆款模型到变现路径的实操指南](./实战指南/wechat-channels-ai-short-video-guide.md) — 2025-07-17
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
