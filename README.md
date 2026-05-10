@@ -189,6 +189,7 @@
 - [如何使用 Options Calculator 计算期权盈利与希腊字母：操作指南](./AI工具/options-calculator-profit-and-greeks-guide.md) — 2025-07-11
 - [如何使用 AI Email Writer 快速撰写专业商务邮件：操作全流程](./AI工具/how-to-use-ai-email-writer-for-professional-business-emails.md) — 2025-07-11
 - [FaceFusion 深度实测：从高清人脸替换到唇形同步的性能优化与多卡部署指南](./AI工具/facefusion-review-performance-optimization-multi-gpu-guide.md) — 2025-07-09
+- [想让视频翻译效果达到 Netflix 级别？试试 VideoLingo 实现一站式本地化配音与字幕生成](./AI工具/videolingo-netflix-level-video-translation-localization.md) — 2025-07-09
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
