@@ -925,6 +925,7 @@
 - [2025自然流增长逻辑详解：底层算法拆解与实操配置指南](./实战指南/organic-growth-logic-2025-algorithm-guide.md) — 2025-08-09
 - [大模型在企业级场景的落地实践指南](./实战指南/enterprise-llm-implementation-guide.md) — 2025-08-09
 - [Coze扣子工作流实战库：100余个高频场景模版，涵盖从逻辑构建到业务落地的全流程方案](./实战指南/coze-workflow-templates-scenarios-guide.md) — 2025-08-09
+- [21天演讲能力提升计划：核心实战课程体系](./实战指南/21-day-public-speaking-improvement-plan.md) — 2025-08-08
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
