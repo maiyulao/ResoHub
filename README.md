@@ -1051,6 +1051,7 @@
 - [DeepSeek AI 电商实战陪跑：从模型部署到全链路业绩增长](./实战指南/deepseek-ai-ecommerce-growth-guide.md) — 2025-07-21
 - [电商AI工具实操指南：从部署环境到降本增效的落地课程](./实战指南/ecommerce-ai-tools-implementation-guide.md) — 2025-07-20
 - [DeepSeek 进阶实操指南：面向内容创业者的提示词技巧与应用场景](./实战指南/deepseek-advanced-guide-prompts-for-content-creators.md) — 2025-07-20
+- [从底层逻辑到实操应用：一套构建AI核心竞争力的全维度学习指南](./实战指南/ai-core-competency-learning-guide.md) — 2025-07-19
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
