@@ -310,6 +310,7 @@
 - [douyin_downloader：抖音福袋自动化抢购与扭蛋机脚本实现方案](./Windows软件/douyin-downloader-automation-script.md) — 2025-08-18
 - [使用开源工具 TikTokDownloader 批量采集无水印短视频的实操步骤](./Windows软件/tiktokdownloader-batch-download-no-watermark.md) — 2025-08-13
 - [TubeGet：支持 2000 余个站点的全网视频下载利器](./Windows软件/tubeget-universal-video-downloader.md) — 2025-08-11
+- [使用NeoPan网盘批处理助手管理夸克与百度网盘的操作指南](./Windows软件/neopan-batch-manager-quark-baidu-netdisk-guide.md) — 2025-08-09
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
