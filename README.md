@@ -1133,6 +1133,7 @@
 - [DeepSeek 论文写作实操指南：从提示词优化到学术产出](./实战指南/deepseek-academic-writing-guide.md) — 2025-07-08
 - [高情商沟通：如何将表达能力转化为核心竞争力与商业价值](./实战指南/high-eq-communication-for-business-value.md) — 2025-07-07
 - [Midjourney 与 Stable Diffusion 实操指南：部署环境、参数配置与进阶技巧](./实战指南/midjourney-vs-stable-diffusion-guide.md) — 2025-07-07
+- [高效能职场进阶：从工具应用到实操能力的体系化提升](./实战指南/career-advancement-systematic-skill-improvement.md) — 2025-07-07
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
