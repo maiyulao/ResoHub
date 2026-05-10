@@ -173,6 +173,7 @@
 - [Selene 移动端影视聚合播放器配置指南：实现多源搜索与断点续播的安装步骤](./Android应用/selene-mobile-video-player-setup-guide.md) — 2025-09-24
 - [Gopeed：全协议支持的开源跨平台高速下载客户端](./Android应用/gopeed-open-source-cross-platform-download-client.md) — 2025-09-03
 - [跨平台磁力资源播放器 Magnet Player：实现无广告极速下载与流畅播放，覆盖 Android、iOS 及电视端](./Android应用/magnet-player-cross-platform-ad-free-downloader.md) — 2025-08-11
+- [面对复杂单位换算或多样计算需求时，极巧立算 JicoCalc 能提供哪些高效解决方案？](./Android应用/jicocalc-unit-conversion-calculation-solutions.md) — 2025-08-10
 
 ### GitHub项目
 - [Lofi Radio Web：集成专注计时功能的开源网页播放器](./GitHub项目/lofi-radio-web-open-source-player.md) — 2026-05-01
