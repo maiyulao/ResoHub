@@ -1019,6 +1019,7 @@
 - [艾乐公众号增长实战：从内容策略到高效转化的全流程运营指南](./实战指南/ele-wechat-growth-guide.md) — 2025-07-25
 - [职场中总觉得吃亏且不被认可？掌握这几套高效社交逻辑，帮你打破人际僵局](./实战指南/workplace-social-logic-for-recognition.md) — 2025-07-25
 - [2025抖音小店起店指南：从账号配置到高效转化的全流程操作步骤](./实战指南/douyin-shop-startup-guide-2025.md) — 2025-07-25
+- [零基础AI与前沿技术入门指南：学习路径、工具获取及实践要点](./实战指南/ai-frontier-tech-beginner-guide.md) — 2025-07-24
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
