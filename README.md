@@ -618,6 +618,7 @@
 - [KuaishouVideoDownload开源解析方案：实现快手无水印视频的高质量批量下载与永久免费获取](./创意工具/kuaishou-video-download-open-source-solution.md) — 2025-07-19
 - [句乐部英语学习资源：基于科学记忆法的实操指南与获取途径](./创意工具/club-english-learning-resources-scientific-memory-guide.md) — 2025-07-18
 - [想在 iOS 上保存小红书 4K 高清原片却被水印困扰？试试这款免费下载器与捷径方案](./创意工具/download-xiaohongshu-4k-video-without-watermark-ios-shortcuts.md) — 2025-07-17
+- [网页在不同尺寸屏幕上显示异常？试试用 Everysize 快速预览多设备适配效果](./创意工具/everysize-responsive-web-preview.md) — 2025-07-17
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
