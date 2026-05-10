@@ -517,6 +517,7 @@
 - [浏览器本地解压指南：支持ZIP/RAR/7Z等格式的无注册安全工具](./创意工具/browser-local-unzip-guide.md) — 2025-08-17
 - [无需下载：精选高口碑免费在线聚会游戏清单](./创意工具/best-free-online-party-games-no-download.md) — 2025-08-17
 - [如何复制隐形字符：三步快速设置 TikTok、WhatsApp 及 Discord 的空白昵称](./创意工具/how-to-copy-invisible-character-for-blank-nickname.md) — 2025-08-15
+- [恋风壁纸使用指南：从资源筛选到 4K 高清壁纸下载的完整步骤](./创意工具/lianfeng-wallpaper-guide-4k-download.md) — 2025-08-15
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
