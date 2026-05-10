@@ -187,6 +187,7 @@
 - [面对复杂单位换算或多样计算需求时，极巧立算 JicoCalc 能提供哪些高效解决方案？](./Android应用/jicocalc-unit-conversion-calculation-solutions.md) — 2025-08-10
 - [抢购时总是慢半拍？试试这款能实时同步毫秒级时间的悬浮秒表](./Android应用/millisecond-sync-floating-stopwatch-for-shopping.md) — 2025-08-06
 - [Kinby 媒体播放器深度评测：打破 Emby 与 Jellyfin 壁垒的全平台影视方案](./Android应用/kinby-media-player-review-emby-jellyfin-alternative.md) — 2025-08-01
+- [商户信息采集与客源管理小程序：从数据抓取到客户运营的实操指南](./Android应用/merchant-data-collection-and-customer-management-guide.md) — 2025-07-29
 
 ### GitHub项目
 - [Lofi Radio Web：集成专注计时功能的开源网页播放器](./GitHub项目/lofi-radio-web-open-source-player.md) — 2026-05-01
