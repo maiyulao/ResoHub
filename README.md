@@ -1063,6 +1063,7 @@
 - [手机配件外贸创业全流程：从选品到获客的操作指南](./实战指南/mobile-accessories-export-business-guide.md) — 2025-07-19
 - [面对亚马逊海量商品不知如何筛选？这份选品逻辑指南帮你快速破局](./实战指南/amazon-product-selection-guide.md) — 2025-07-18
 - [运镜拍摄全指南：170节技术流实战课程](./实战指南/camera-movement-shooting-guide-course.md) — 2025-07-18
+- [1688平台增长全攻略：从精细化运营逻辑到实操落地指南](./实战指南/1688-growth-strategy-and-operation-guide.md) — 2025-07-18
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
