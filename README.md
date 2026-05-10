@@ -395,6 +395,7 @@
 - [声乐进阶全指南：从呼吸基础到混声技巧的系统化训练方案](./兴趣爱好/vocal-training-guide-breathing-to-mixed-voice.md) — 2025-07-29
 - [11天腰臀腿专项塑形计划：从高效燃脂到线条刻画的实操指南](./兴趣爱好/11-day-lower-body-shaping-plan.md) — 2025-07-27
 - [中医推拿实操指南：从零基础自学到考证的音频课程全集](./兴趣爱好/tcm-tuina-practical-guide-audio-course.md) — 2025-07-27
+- [2025独立营养师体重管理实操指南：核心流程与执行要点](./兴趣爱好/2025-nutritionist-weight-management-guide.md) — 2025-07-08
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
