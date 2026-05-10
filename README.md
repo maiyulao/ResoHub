@@ -928,6 +928,7 @@
 - [Coze扣子工作流实战库：100余个高频场景模版，涵盖从逻辑构建到业务落地的全流程方案](./实战指南/coze-workflow-templates-scenarios-guide.md) — 2025-08-09
 - [21天演讲能力提升计划：核心实战课程体系](./实战指南/21-day-public-speaking-improvement-plan.md) — 2025-08-08
 - [从逻辑构建到现场掌控：打造高影响力演讲能力的进阶指南](./实战指南/advanced-guide-to-high-impact-speaking-skills.md) — 2025-08-08
+- [零基础汽车摄影指南：从器材选择到实拍技巧的全流程进阶](./实战指南/beginners-car-photography-guide.md) — 2025-08-07
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
