@@ -996,6 +996,7 @@
 - [从零起步：利用AI高效创作影视解说文案的实操指南](./实战指南/ai-movie-commentary-writing-guide.md) — 2025-07-28
 - [淘宝爆款打造全流程实操指南：从核心算法逻辑到高转化运营体系的深度解析](./实战指南/taobao-best-seller-guide-algorithm-and-operation.md) — 2025-07-28
 - [想做自媒体却不知从何下笔？尝试用 DeepSeek 快速搭建起号全流程](./实战指南/deepseek-guide-social-media-startup.md) — 2025-07-28
+- [AI短视频运营全流程实操指南：从内容创作到账号增长](./实战指南/ai-short-video-operation-guide.md) — 2025-07-28
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
