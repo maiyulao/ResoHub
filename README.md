@@ -1041,6 +1041,7 @@
 - [AI时代学习与创作指南：核心方法论与实操路径解析](./实战指南/ai-learning-and-creation-guide.md) — 2025-07-23
 - [手机短视频拍摄指南：从画面构图到质感提升的实操技巧](./实战指南/mobile-short-video-shooting-guide.md) — 2025-07-22
 - [职场沟通能力进阶：21天实战训练计划与执行路径](./实战指南/workplace-communication-skills-21-day-plan.md) — 2025-07-22
+- [从外贸新手到顶尖销冠：全流程实战进阶课程，分阶段拆解获客与转化核心链路](./实战指南/foreign-trade-beginner-to-top-sales-course.md) — 2025-07-21
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
