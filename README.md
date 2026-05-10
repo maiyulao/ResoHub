@@ -1117,6 +1117,7 @@
 - [AI音乐商业化实操指南：从零开始掌握原创、翻唱与变现链路](./实战指南/ai-music-commercialization-guide.md) — 2025-07-10
 - [亚马逊全链路运营实操指南：从入门到精通的进阶路径](./实战指南/amazon-full-link-operation-guide.md) — 2025-07-10
 - [TikTok普通卖家起步手册：账号注册流程、环境配置及避坑要点](./实战指南/tiktok-seller-beginner-guide-registration-setup.md) — 2025-07-10
+- [AI 视频商业化全流程：从零基础入门到专业级应用实操](./实战指南/ai-video-commercialization-guide.md) — 2025-07-09
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
