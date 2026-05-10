@@ -624,6 +624,7 @@
 - [想在 iOS 上保存小红书 4K 高清原片却被水印困扰？试试这款免费下载器与捷径方案](./创意工具/download-xiaohongshu-4k-video-without-watermark-ios-shortcuts.md) — 2025-07-17
 - [网页在不同尺寸屏幕上显示异常？试试用 Everysize 快速预览多设备适配效果](./创意工具/everysize-responsive-web-preview.md) — 2025-07-17
 - [构建全品类高品质音频试听数据库的实操指南](./创意工具/guide-to-building-high-quality-audio-sampling-database.md) — 2025-07-16
+- [想找一款无广告且纯净的在线音乐播放器？试试这款极简的铜钟海外版](./创意工具/minimalist-online-music-player-copperbell-global.md) — 2025-07-15
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
