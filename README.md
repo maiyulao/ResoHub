@@ -897,6 +897,7 @@
 - [香港经典电影蓝光原盘未删减合集：高清资源获取与播放环境配置指南](./实战指南/hong-kong-classic-movies-blu-ray-guide.md) — 2025-08-13
 - [Python机器学习：核心算法原理与实战开发指南](./实战指南/python-machine-learning-algorithms-guide.md) — 2025-08-13
 - [中小企业短视频精准获客全流程：从账号定位到流量转化的操作指南](./实战指南/sme-short-video-customer-acquisition-guide.md) — 2025-08-13
+- [TikTok 全链路从零起步实操指南：涵盖部署环境与全流程避坑要点](./实战指南/tiktok-complete-setup-guide-and-tips.md) — 2025-08-13
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
