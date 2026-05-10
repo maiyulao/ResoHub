@@ -603,6 +603,7 @@
 - [Real Address Generator：支持24国格式的虚拟地址生成工具及使用指南](./创意工具/real-address-generator-guide.md) — 2025-07-22
 - [如何部署 TimePulse：打造玻璃拟态风格的多功能倒计时网页应用](./创意工具/deploy-timepulse-glassmorphism-countdown-app.md) — 2025-07-22
 - [想在 Telegram 上快速找网盘资源却厌倦了逐个频道搜索？试试盘搜：一键聚合阿里云盘与百度网盘的高效检索方案](./创意工具/pansou-telegram-cloud-drive-search-tool.md) — 2025-07-22
+- [WhatsMyName：支持500+平台跨站检索的用户名溯源工具，快速核查数字足迹与身份暴露风险](./创意工具/whatsmyname-username-osint-tool.md) — 2025-07-21
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
