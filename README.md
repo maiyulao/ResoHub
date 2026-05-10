@@ -1116,6 +1116,7 @@
 - [想在小红书直播间提高转化率？从账号搭建到带货实操的全流程指南](./实战指南/xiaohongshu-livestream-conversion-guide.md) — 2025-07-10
 - [AI音乐商业化实操指南：从零开始掌握原创、翻唱与变现链路](./实战指南/ai-music-commercialization-guide.md) — 2025-07-10
 - [亚马逊全链路运营实操指南：从入门到精通的进阶路径](./实战指南/amazon-full-link-operation-guide.md) — 2025-07-10
+- [TikTok普通卖家起步手册：账号注册流程、环境配置及避坑要点](./实战指南/tiktok-seller-beginner-guide-registration-setup.md) — 2025-07-10
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
