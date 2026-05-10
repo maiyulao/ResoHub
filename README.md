@@ -1028,6 +1028,7 @@
 - [零基础AI应用开发指南：从概念理解到实战构建](./实战指南/ai-app-development-guide-for-beginners.md) — 2025-07-24
 - [京东快车如何高效获客？2025年推广运营实操指南](./实战指南/jd-express-customer-acquisition-guide-2025.md) — 2025-07-24
 - [AI 电影制作全流程：从工具选型到实操落地指南](./实战指南/ai-filmmaking-workflow-guide.md) — 2025-07-24
+- [实体店缺客且文案难写？尝试用AI批量生成高转化获客内容，提升到店率](./实战指南/ai-content-generation-for-offline-store-traffic.md) — 2025-07-23
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
