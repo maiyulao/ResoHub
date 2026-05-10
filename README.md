@@ -902,6 +902,7 @@
 - [零基础网文创作指南：从入门到实操的进阶路径](./实战指南/web-novel-writing-guide-for-beginners.md) — 2025-08-13
 - [从拍摄到成片：摄影技巧与视频剪辑全流程实操指南](./实战指南/photography-and-video-editing-guide.md) — 2025-08-12
 - [从零到一实操抖音小店商品卡：抖店陪跑实训全流程指南](./实战指南/douyin-shop-product-card-guide-4.md) — 2025-08-12
+- [车载测试实战指南：从视频课程到工程应用](./实战指南/vehicle-testing-practical-guide.md) — 2025-08-12
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
