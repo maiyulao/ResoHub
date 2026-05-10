@@ -944,6 +944,7 @@
 - [高效沟通实战指南：宋晓阳职场进阶课程](./实战指南/effective-communication-guide-song-xiaoyang.md) — 2025-08-07
 - [小红书虚拟产品电商实战：从起号到变现的掘金全指南](./实战指南/xiaohongshu-virtual-product-ecommerce-guide-3.md) — 2025-08-06
 - [2025 AI 数字人自动化获客实操指南](./实战指南/2025-ai-digital-human-automation-guide.md) — 2025-08-06
+- [重塑自我认同：通过增强自信心优化社交沟通质量的心理路径](./实战指南/reshape-self-identity-confidence-social-communication.md) — 2025-08-05
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
