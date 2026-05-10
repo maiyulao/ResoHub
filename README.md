@@ -593,6 +593,7 @@
 - [Mac 上对比两份 PDF 到底哪里不同？试试这款专业级的差异分析工具 PDF Differ](./创意工具/compare-pdf-files-mac-pdf-differ.md) — 2025-07-25
 - [如何使用 AACMix 免登录收听 5.4 万个全球无广告电台：操作指南](./创意工具/aacmix-global-radio-guide.md) — 2025-07-24
 - [魔方在线复原指南：通过输入颜色快速获取分步求解方案](./创意工具/online-rubiks-cube-solver-guide.md) — 2025-07-24
+- [NetworkPanel 实操指南：构建多节点实时流量监控面板与快速部署流程](./创意工具/networkpanel-realtime-traffic-monitoring-guide.md) — 2025-07-24
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
