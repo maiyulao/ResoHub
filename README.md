@@ -161,6 +161,7 @@
 - [AI-PROXY 部署指南：通过替换 URL 实现多厂商 AI API 统一接入与安全转发](./AI工具/ai-proxy-deployment-guide-unified-ai-api-access.md) — 2025-08-11
 - [爱写作AI小说平台：集成9大主流模型实现万字长篇快速出书，将智能创作流程简化为一键操作](./AI工具/ai-novel-writing-platform-long-form-books.md) — 2025-08-10
 - [想快速制作干净的专业剪影却被手动抠图困扰？尝试用 AI Silhouette Generator 实现一键生成](./AI工具/ai-silhouette-generator-for-professional-cutouts.md) — 2025-08-08
+- [想知道 GPT-4 和 Gemini 哪个响应更快更稳定？用 LLM API Test 快速对比大模型性能](./AI工具/gpt-4-vs-gemini-performance-llm-api-test.md) — 2025-08-07
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
