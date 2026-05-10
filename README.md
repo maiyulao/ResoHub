@@ -949,6 +949,7 @@
 - [重塑自我认同：通过增强自信心优化社交沟通质量的心理路径](./实战指南/reshape-self-identity-confidence-social-communication.md) — 2025-08-05
 - [从零搭建TikTok变现体系：全链路实操步骤指南](./实战指南/tiktok-monetization-guide-step-by-step.md) — 2025-08-05
 - [小红书聚光平台投流实操指南：从核心算法逻辑到高转化投放链路的深度拆解](./实战指南/xiaohongshu-advertising-guide-algorithm-conversion.md) — 2025-08-05
+- [零基础AI自媒体起号指南：从工具选择到内容产出的全流程实操步骤](./实战指南/ai-social-media-startup-guide.md) — 2025-08-05
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
