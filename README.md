@@ -269,6 +269,7 @@
 - [VERT.sh 开源指南：高效实现多格式文件转换的免费方案](./GitHub项目/vert-sh-open-source-file-converter-guide.md) — 2025-07-26
 - [想知道 MacBook 触控板能称重吗？试试 TrackWeight 将其转化为精准电子秤](./GitHub项目/macbook-trackpad-weight-trackweight.md) — 2025-07-25
 - [主流手机品牌 Bootloader 解锁、内核开源及保修政策对比指南](./GitHub项目/smartphone-bootloader-unlock-kernel-warranty-guide.md) — 2025-07-22
+- [Next Whois 开源查询工具：实现域名、IP 与 RDAP 信息的轻量化一站式检索](./GitHub项目/next-whois-open-source-domain-ip-rdap-lookup-tool.md) — 2025-07-22
 
 ### iOS应用
 - [2Camera内购限免：支持前后摄像头同步拍摄与画中画分屏，适用于双视角视频创作](./iOS应用/2camera-dual-camera-recording-free.md) — 2025-10-08
