@@ -322,6 +322,7 @@
 - [pyVideoTrans开源指南：通过一键自动化流程实现视频翻译与配音同步](./Mac软件/pyvideotrans-open-source-guide-automated-video-translation-dubbing.md) — 2025-08-22
 - [厌倦了 macOS Tahoe 默认 Launchpad 的低效？试试这款更灵活的启动器替代方案 LaunchNow](./Mac软件/launchnow-macos-launchpad-alternative.md) — 2025-08-18
 - [OfferStar AI 实测：如何利用 AI 实时辅助应对在线面试与笔试测评](./Mac软件/offerstar-ai-review-online-interview-test-assistant.md) — 2025-08-02
+- [如何使用光晕带为 Mac 菜单栏添加动态流光效果：配置与优化指南](./Mac软件/mac-menu-bar-halo-dynamic-lighting-guide.md) — 2025-07-19
 
 ### Windows软件
 - [KOMA 指南：实现本地漫画自动去水印、压缩与标准化归档](./windows/koma-guide-manga-watermark-removal-compression-archiving.md) — 2026-02-05
