@@ -520,6 +520,7 @@
 - [恋风壁纸使用指南：从资源筛选到 4K 高清壁纸下载的完整步骤](./创意工具/lianfeng-wallpaper-guide-4k-download.md) — 2025-08-15
 - [需要合并、压缩或OCR识别PDF却不想安装臃肿软件？试试 PDF.hk 这款全能在线工具](./创意工具/pdf-hk-online-pdf-tools.md) — 2025-08-15
 - [SnapVee：支持抖音、TikTok、B站及YouTube的高清无水印视频下载方案](./创意工具/snapvee-hd-video-downloader-tiktok-youtube-bilibili.md) — 2025-08-14
+- [如何解决短视频多平台分发繁琐的问题？用 Social Auto Upload 实现一键同步与定时发布](./创意工具/solve-short-video-distribution-with-social-auto-upload.md) — 2025-08-14
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
