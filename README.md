@@ -1126,6 +1126,7 @@
 - [AI 视频商业化全流程：从零基础入门到专业级应用实操](./实战指南/ai-video-commercialization-guide.md) — 2025-07-09
 - [Coze 全流程实战指南：从零构建 AI Bot 并实现业务场景落地](./实战指南/coze-ai-bot-implementation-guide.md) — 2025-07-09
 - [OZON本土店产品转化率低？尝试从这几个维度优化商品详情页](./实战指南/ozon-local-store-product-conversion-optimization.md) — 2025-07-08
+- [DeepSeek 论文写作实操指南：从提示词优化到学术产出](./实战指南/deepseek-academic-writing-guide.md) — 2025-07-08
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
