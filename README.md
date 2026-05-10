@@ -1086,6 +1086,7 @@
 - [日本多城自由行中文指南：东京、大阪、冲绳、北海道 PDF 攻略合集](./实战指南/japan-travel-guide-tokyo-osaka-okinawa-hokkaido-pdf.md) — 2025-07-15
 - [李觅青人像摄影实战指南：第7期线上课程要点解析](./实战指南/li-miqing-portrait-photography-course-7-key-points.md) — 2025-07-15
 - [拼多多全链路起店指南：从基础搭建到高效转化的实操路径图](./实战指南/pinduoduo-store-setup-and-conversion-guide.md) — 2025-07-15
+- [小红书电商全流程实操指南：从账号搭建到高效转化，构建可复制的起号与变现体系](./实战指南/xiaohongshu-ecommerce-guide-setup-to-conversion-2.md) — 2025-07-14
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
