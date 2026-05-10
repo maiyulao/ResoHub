@@ -156,6 +156,7 @@
 - [AI 图像相似度对比工具：实现两图差异精准分析的技术方案](./AI工具/ai-image-similarity-comparison-tool.md) — 2025-08-17
 - [Read Frog：通过沉浸式翻译与 AI 深度解析，将浏览器转化为语言学习工具的开源扩展](./AI工具/read-frog-immersive-translation-ai-language-learning-extension.md) — 2025-08-16
 - [可我AI (krwoo) 免费在线生图工具：支持文生图与图生图，含多风格预设及快速出图配置](./AI工具/krwoo-free-ai-image-generator.md) — 2025-08-16
+- [Imgkits 全能 AI 视觉编辑平台：实现图像与视频的高效批量处理，兼顾隐私安全与免费试用](./AI工具/imgkits-ai-visual-editing-platform.md) — 2025-08-15
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
