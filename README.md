@@ -967,6 +967,7 @@
 - [新媒体写作指南：通过掌握高价值职场技能提升变现能力](./实战指南/new-media-writing-guide-monetization-skills.md) — 2025-08-02
 - [21天情绪重建计划：通过系统化认知干预走出焦虑与抑郁](./实战指南/21-day-emotional-reconstruction-plan.md) — 2025-08-02
 - [短视频创业集训班：课程大纲、加入方式与实操环境指南](./实战指南/short-video-entrepreneurship-course-guide.md) — 2025-08-01
+- [中国式社交礼仪：从餐桌博弈到人脉经营的 24 门进阶课](./实战指南/chinese-social-etiquette-networking-guide.md) — 2025-08-01
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
