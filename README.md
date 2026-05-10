@@ -171,6 +171,7 @@
 - [New API 安装指南：支持 30 余家服务商的开源 AI 网关与资产管理部署方案](./AI工具/new-api-installation-guide-open-source-ai-gateway.md) — 2025-07-31
 - [高效激发AI绘画灵感：集成MidJourney精选图集与提示词生成工具的免费资源库](./AI工具/ai-painting-inspiration-midjourney-prompts-library.md) — 2025-07-30
 - [想在不花钱的情况下提升英语听说读写？试试 AI 驱动的 English Daily 练习平台](./AI工具/learn-english-free-with-english-daily-ai.md) — 2025-07-30
+- [GitHub 项目文档太晦涩难懂？尝试用 Zread.AI 将其一键转化为结构化中文手册](./AI工具/zread-ai-github-docs-to-chinese-manual.md) — 2025-07-29
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
