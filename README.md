@@ -1107,6 +1107,7 @@
 - [手机照片调色与修图入门指南：实操教程及适用软件配置](./实战指南/mobile-photo-editing-guide-and-software.md) — 2025-07-11
 - [商务英语口语实战：Daniel学长的职场沟通进阶指南](./实战指南/business-english-speaking-guide-by-daniel.md) — 2025-07-11
 - [原味牛杂出摊与开店全流程实操教程：含原料配比及经营要点](./实战指南/original-beef-offal-business-guide.md) — 2025-07-11
+- [AI自媒体变现全流程：从核心模块构建到商业闭环实操](./实战指南/ai-social-media-monetization-guide.md) — 2025-07-11
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
