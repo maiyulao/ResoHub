@@ -631,6 +631,7 @@
 - [想在海外投资但缺乏当地政策参考？这份覆盖172个国家和地区的国别指南为你提供实操指引](./创意工具/overseas-investment-country-guides-172-regions.md) — 2025-07-15
 - [Penrose 深度指南：通过文本描述快速构建专业数学与技术图表](./创意工具/penrose-guide-professional-math-technical-diagrams.md) — 2025-07-15
 - [想在海量曲库中寻找冷门小语种音乐？试试 Minorsong 全球共享平台](./创意工具/find-rare-foreign-language-music-minorsong.md) — 2025-07-14
+- [支持本地渲染与多模式标注的免费在线拼图工具：支持无水印高清导出](./创意工具/free-online-puzzle-tool-local-rendering-multi-mode-annotation.md) — 2025-07-13
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
