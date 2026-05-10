@@ -895,6 +895,7 @@
 - [入职后怎么快速适应环境？这份职场生存指南帮你打破社交与工作僵局](./实战指南/workplace-survival-guide-new-employee-adaptation.md) — 2025-08-14
 - [高级深度学习算法工程师：岗位职责、技术栈要求及入职核心能力指南](./实战指南/senior-deep-learning-engineer-guide.md) — 2025-08-13
 - [香港经典电影蓝光原盘未删减合集：高清资源获取与播放环境配置指南](./实战指南/hong-kong-classic-movies-blu-ray-guide.md) — 2025-08-13
+- [Python机器学习：核心算法原理与实战开发指南](./实战指南/python-machine-learning-algorithms-guide.md) — 2025-08-13
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
