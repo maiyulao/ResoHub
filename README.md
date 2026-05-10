@@ -986,6 +986,7 @@
 - [从镜头语言到后期剪辑：全流程实操指南](./实战指南/cinematography-to-editing-guide.md) — 2025-07-30
 - [想在小红书通过AI制作教辅资料变现？这份船长AI实操指南帮你跑通全流程](./实战指南/xiaohongshu-ai-teaching-materials-monetization-guide.md) — 2025-07-30
 - [担心装修被坑却不知从何下手？这份避坑清单与全套资料包帮你规避风险](./实战指南/home-renovation-avoid-traps-checklist-guide.md) — 2025-07-30
+- [代代木动画学院角色绘画基础教程：零基础入门资源及学习要点](./实战指南/yoyogi-animation-character-drawing-tutorial.md) — 2025-07-29
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
