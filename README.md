@@ -1048,6 +1048,7 @@
 - [如何通过掌握提示工程，让 AI 真正听懂你的指令并输出高质量结果？](./实战指南/master-prompt-engineering-for-high-quality-ai-outputs.md) — 2025-07-21
 - [DeepSeek AI 电商实战陪跑：从模型部署到全链路业绩增长](./实战指南/deepseek-ai-ecommerce-growth-guide.md) — 2025-07-21
 - [电商AI工具实操指南：从部署环境到降本增效的落地课程](./实战指南/ecommerce-ai-tools-implementation-guide.md) — 2025-07-20
+- [DeepSeek 进阶实操指南：面向内容创业者的提示词技巧与应用场景](./实战指南/deepseek-advanced-guide-prompts-for-content-creators.md) — 2025-07-20
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
