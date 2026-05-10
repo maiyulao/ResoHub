@@ -550,6 +550,7 @@
 - [ToolHub 综合工具平台：集成图片处理、文本转换与随机生成功能的免费在线资源库](./创意工具/toolhub-free-online-tools-resource-library.md) — 2025-08-06
 - [想给照片打马赛克或隐藏敏感信息？试试这款免费的在线图像模糊工具](./创意工具/free-online-image-blur-tool.md) — 2025-08-06
 - [Bibz：支持 UID 追踪与直播记录的 B 站全量弹幕导出工具](./创意工具/bibz-bilibili-danmaku-downloader.md) — 2025-08-05
+- [CpuTronic 硬件性能基准评测：通过量化评分实现 CPU、GPU 及 SoC 的多维度效能对比](./创意工具/cputronic-hardware-performance-benchmark-cpu-gpu-soc-comparison.md) — 2025-08-05
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
