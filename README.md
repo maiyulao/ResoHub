@@ -908,6 +908,7 @@
 - [车载测试实战指南：从视频课程到工程应用](./实战指南/vehicle-testing-practical-guide.md) — 2025-08-12
 - [基于Unity的动作游戏开发实战：从底层架构到《勇士传说》核心机制实现](./实战指南/unity-action-game-development-warriors-legend-mechanics.md) — 2025-08-12
 - [从零开始：使用 DeepSeek 训练 AI 绘画的实操指南](./实战指南/deepseek-ai-painting-training-guide.md) — 2025-08-11
+- [想在AI领域从零起步到精通？这份人工智能实战进阶指南为你拆解路径](./实战指南/ai-learning-path-guide.md) — 2025-08-11
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
