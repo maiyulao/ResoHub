@@ -177,6 +177,7 @@
 - [基于AI的闲鱼全天候监控方案：通过开源机器人实现精准好物实时捕捉](./AI工具/ai-xianyu-monitoring-bot-realtime-capture.md) — 2025-07-24
 - [利用稿定AI生成多场景创意文案的操作指南：从指令输入到高效产出的全流程](./AI工具/gaoding-ai-creative-copywriting-guide.md) — 2025-07-23
 - [Quitar Fondo 实测：高效实现 AI 图像精准抠图与背景去除](./AI工具/quitar-fondo-ai-image-background-remover-review.md) — 2025-07-22
+- [水印宝：支持本地处理的开源图片水印工具部署与使用指南](./AI工具/shuinuibao-open-source-image-watermark-tool-guide.md) — 2025-07-21
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
