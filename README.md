@@ -936,6 +936,7 @@
 - [零基础汽车摄影指南：从器材选择到实拍技巧的全流程进阶](./实战指南/beginners-car-photography-guide.md) — 2025-08-07
 - [抖店从零起店实操手册：涵盖选品逻辑、商品卡权重提升及达人带货策略](./实战指南/douyin-shop-startup-guide-selection-ranking-and-affiliate-strategy.md) — 2025-08-07
 - [高效沟通实战指南：宋晓阳职场进阶课程](./实战指南/effective-communication-guide-song-xiaoyang.md) — 2025-08-07
+- [小红书虚拟产品电商实战：从起号到变现的掘金全指南](./实战指南/xiaohongshu-virtual-product-ecommerce-guide-3.md) — 2025-08-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
