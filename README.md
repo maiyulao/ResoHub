@@ -650,6 +650,7 @@
 - [如何使用 SVG Optimizer 实现矢量图无损压缩：从导入到优化的操作全流程](./创意工具/svg-optimizer-lossless-compression-guide.md) — 2025-07-11
 - [软著登记自动化工具：快速导出合规申请文件，简化代码文档编写流程](./创意工具/software-copyright-automation-tool.md) — 2025-07-10
 - [想给视频或图片去水印但被收费软件挡住？试试 KuKuTool，支持 130 多个平台的免费无限制去除方案](./创意工具/kukutool-free-watermark-remover.md) — 2025-07-08
+- [Logo Hunter：快速采集 200 万个 App Store 图标的 Figma 插件指南](./创意工具/logo-hunter-app-store-icons-figma-plugin-guide.md) — 2025-07-08
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
