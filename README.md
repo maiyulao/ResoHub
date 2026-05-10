@@ -545,6 +545,7 @@
 - [Moocup开源工具指南：快速生成高品质3D效果图](./创意工具/moocup-guide-high-quality-3d-renderings.md) — 2025-08-08
 - [如何使用 Grow A Garden 计算器量化植物价值并优化园艺盈利方案](./创意工具/grow-a-garden-calculator-plant-value-optimization.md) — 2025-08-07
 - [如何使用歌曲海搜索并下载高音质MP3：从榜单筛选到文件保存的全流程指南](./创意工具/how-to-search-and-download-high-quality-mp3-from-gquhai.md) — 2025-08-06
+- [完结TXT小说免费下载库：提供精校全集资源，实现无广告流畅阅读](./创意工具/free-complete-txt-novels-download.md) — 2025-08-06
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
