@@ -1024,6 +1024,7 @@
 - [面对学术论文付费墙无法下载 PDF？试试 PaperPanda 插件一键获取全文](./效率工具/paperpanda-plugin-download-academic-papers-pdf.md) — 2025-09-03
 - [利用 GitHub Gist 实现跨浏览器书签同步：开源免费的 BookmarkHub 方案详解](./效率工具/github-gist-bookmark-sync-bookmarkhub.md) — 2025-08-23
 - [如何使用 PromptHelper 脚本在 ChatGPT、Claude 等多平台统一管理 AI 提示词](./效率工具/manage-ai-prompts-with-prompthelper.md) — 2025-08-16
+- [想录屏标注又担心隐私或有时长限制？试试这款开源免费的 Screenity](./效率工具/screenity-open-source-screen-recorder.md) — 2025-07-27
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
