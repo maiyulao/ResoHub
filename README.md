@@ -333,6 +333,7 @@
 - [OfferStar AI 实测：如何利用 AI 实时辅助应对在线面试与笔试测评](./Mac软件/offerstar-ai-review-online-interview-test-assistant.md) — 2025-08-02
 - [如何使用光晕带为 Mac 菜单栏添加动态流光效果：配置与优化指南](./Mac软件/mac-menu-bar-halo-dynamic-lighting-guide.md) — 2025-07-19
 - [想在吃饭时无需触碰屏幕地操控设备？试试 Lazyeat 隔空手势控制方案](./Mac软件/lazyeat-air-gesture-control.md) — 2025-07-16
+- [如何使用源代码收集器快速导出软著申请文档：具体操作流程](./Mac软件/export-software-copyright-docs-with-source-code-collector.md) — 2025-07-14
 
 ### Windows软件
 - [KOMA 指南：实现本地漫画自动去水印、压缩与标准化归档](./windows/koma-guide-manga-watermark-removal-compression-archiving.md) — 2026-02-05
