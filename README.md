@@ -918,6 +918,7 @@
 - [想在AI领域从零起步到精通？这份人工智能实战进阶指南为你拆解路径](./实战指南/ai-learning-path-guide.md) — 2025-08-11
 - [小红书快速涨粉与商业变现实操指南](./实战指南/xiaohongshu-growth-and-monetization-guide-3.md) — 2025-08-11
 - [2025年AI文案实战指南：通过兔妈大师班构建从指令优化到商业变现的创作链路](./实战指南/2025-ai-copywriting-guide-masterclass.md) — 2025-08-10
+- [2025自然流增长逻辑详解：底层算法拆解与实操配置指南](./实战指南/organic-growth-logic-2025-algorithm-guide.md) — 2025-08-09
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
