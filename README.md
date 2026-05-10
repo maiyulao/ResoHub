@@ -978,6 +978,7 @@
 - [想提升健身指导专业度却苦于缺乏优质素材？这套价值1.98万元的赛普健身视频课程为你提供解决方案](./实战指南/cep-fitness-video-course-professional-training.md) — 2025-07-31
 - [构建AI数字员工矩阵：覆盖9大创作场景的自动化操盘实操指南](./实战指南/ai-digital-employee-matrix-automation-guide.md) — 2025-07-31
 - [小红书第17期带货陪跑营实操课资源：获取路径与学习环境配置指南](./实战指南/xiaohongshu-daiduo-camp-17-resources-guide.md) — 2025-07-31
+- [DeepSeek 协同即梦 AI：短视频全流程创作实操指南](./实战指南/deepseek-jimeng-ai-short-video-guide.md) — 2025-07-31
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
