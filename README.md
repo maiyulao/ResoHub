@@ -890,6 +890,7 @@
 - [TikTok Shop 全链路实操指南：从入驻选品到投放与 FBT 运营](./实战指南/tiktok-shop-full-guide-onboarding-product-selection-ads-fbt.md) — 2025-08-15
 - [从零构建AI数字智能体：核心实战路径与分阶段入门指南](./实战指南/build-ai-digital-agents-guide.md) — 2025-08-15
 - [AI音乐创作实操指南：从零基础快速上手制作，打通商业变现链路](./实战指南/ai-music-creation-guide-and-monetization.md) — 2025-08-14
+- [入职后怎么快速适应环境？这份职场生存指南帮你打破社交与工作僵局](./实战指南/workplace-survival-guide-new-employee-adaptation.md) — 2025-08-14
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
