@@ -636,6 +636,7 @@
 - [自托管照片管理方案：Immich 私有云相册安装与配置指南](./创意工具/immich-self-hosted-photo-management-guide.md) — 2025-07-13
 - [互站网：集成网站开发与站长威客服务的综合性技术协作平台](./创意工具/huzhan-web-development-and-webmaster-services-platform.md) — 2025-07-13
 - [想要高质量音频又不想付费？试试这个支持 MP3 和 FLAC 格式的无损音乐下载站](./创意工具/free-high-quality-lossless-music-download-site-mp3-flac.md) — 2025-07-12
+- [Gslides资源库：2000余款Google Slides模板与Docs主题，支持在线编辑及快速下载](./创意工具/gslides-google-slides-templates-and-docs-themes.md) — 2025-07-12
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
