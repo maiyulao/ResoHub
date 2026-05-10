@@ -1093,6 +1093,7 @@
 - [从零构建超级个体能力体系：通过表格化管理实现结果产出的操作指南](./实战指南/build-super-individual-capability-system-guide.md) — 2025-07-14
 - [AI工具集成与战略部署实战指南：从环境搭建到落地路径](./实战指南/ai-tool-integration-and-strategic-deployment-guide.md) — 2025-07-14
 - [十年期职业竞争力构建与成长路径指南](./实战指南/10-year-career-competitiveness-growth-guide.md) — 2025-07-13
+- [抖音小店无货源实操指南：从零起步构建电商闭环，分阶段掌握选品与运营核心技巧](./实战指南/douyin-shop-dropshipping-guide.md) — 2025-07-13
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
