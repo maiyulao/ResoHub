@@ -1032,6 +1032,7 @@
 - [实体店缺客且文案难写？尝试用AI批量生成高转化获客内容，提升到店率](./实战指南/ai-content-generation-for-offline-store-traffic.md) — 2025-07-23
 - [拼多多电商运营全链路指南：从零基础到高阶实操](./实战指南/pinduoduo-ecommerce-operation-guide.md) — 2025-07-23
 - [构建AI写作全流程多维表：从标准化工作流到高转化内容的规模化产出](./实战指南/ai-writing-workflow-multidimensional-table.md) — 2025-07-23
+- [AI时代学习与创作指南：核心方法论与实操路径解析](./实战指南/ai-learning-and-creation-guide.md) — 2025-07-23
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
