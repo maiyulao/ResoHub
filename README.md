@@ -364,6 +364,7 @@
 - [可遇AI：集成300余款超仿真数字人与拟人化语音的2025年直播助手方案](./Windows软件/ai-livestreaming-assistant-2025-digital-humans.md) — 2025-07-29
 - [开源硬件信息检测工具 Devink：轻量化单文件设计与永久免费特性解析](./Windows软件/devink-open-source-hardware-detection-tool.md) — 2025-07-28
 - [使用 Bili2text 将 Bilibili 视频高效转换为文字的实操步骤](./Windows软件/bili2text-bilibili-video-to-text-guide.md) — 2025-07-25
+- [Cursor Pro 试用期无限续期方案：通过自动化脚本重置设备 ID 实现长期免费使用](./Windows软件/cursor-pro-trial-reset-device-id-automation.md) — 2025-07-10
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
