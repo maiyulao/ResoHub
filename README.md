@@ -574,6 +574,7 @@
 - [想在电子文档中快速制作一张有做旧质感的防伪印章？试试 seal_generation 在线生成与提取工具](./创意工具/seal-generation-online-tool.md) — 2025-08-02
 - [PixTrim 图像处理指南：实现无损压缩与精准裁剪的免费在线方案](./创意工具/pixtrim-image-processing-lossless-compression-cropping-guide.md) — 2025-08-01
 - [研究生如何高效利用数智学术平台获取全国科研资源：操作全指南](./创意工具/graduate-guide-digital-academic-platforms-research-resources.md) — 2025-07-30
+- [设计系统配色难以统一？尝试用 Color Generator Kigen 快速构建专业色阶方案](./创意工具/color-generator-kigen-design-system-color-palette.md) — 2025-07-29
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
