@@ -960,6 +960,7 @@
 - [Midjourney 绘图与视频生成快速上手指南：环境配置与核心操作要点](./实战指南/midjourney-guide-setup-and-core-operations.md) — 2025-08-04
 - [静物美食摄影进阶指南：从布光到出片的实操步骤](./实战指南/food-photography-lighting-guide.md) — 2025-08-03
 - [想让AI生成的内容从“能用”变为“好用”？ AIGC应用实战中阶特训营带你突破进阶瓶颈](./实战指南/aigc-advanced-training-camp-improve-content-quality.md) — 2025-08-03
+- [抖音与快手短视频带货：投流实操指南与增长策略](./实战指南/douyin-kuaishou-short-video-ecommerce-guide.md) — 2025-08-02
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
