@@ -1112,6 +1112,7 @@
 - [如何使用 PromptHelper 脚本在 ChatGPT、Claude 等多平台统一管理 AI 提示词](./效率工具/manage-ai-prompts-with-prompthelper.md) — 2025-08-16
 - [想录屏标注又担心隐私或有时长限制？试试这款开源免费的 Screenity](./效率工具/screenity-open-source-screen-recorder.md) — 2025-07-27
 - [Illa Helper 深度评测：如何将全网资源转化为浸入式语言学习环境](./效率工具/illa-helper-review-immersive-language-learning.md) — 2025-07-18
+- [从安装到配置：使用 ScriptCat 脚本猫增强浏览器功能的实操指南](./效率工具/scriptcat-installation-and-configuration-guide.md) — 2025-07-14
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
