@@ -903,6 +903,9 @@
 - [从拍摄到成片：摄影技巧与视频剪辑全流程实操指南](./实战指南/photography-and-video-editing-guide.md) — 2025-08-12
 - [从零到一实操抖音小店商品卡：抖店陪跑实训全流程指南](./实战指南/douyin-shop-product-card-guide-4.md) — 2025-08-12
 
+### 实用工具
+- [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
+
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
 - [利用 NotebookLM Web Importer 构建个人知识库：从碎片化阅读到结构化存储的 4 个步骤](./productivity-tools/build-personal-knowledge-base-with-notebooklm-web-importer.md) — 2026-01-12
