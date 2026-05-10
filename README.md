@@ -159,6 +159,7 @@
 - [Imgkits 全能 AI 视觉编辑平台：实现图像与视频的高效批量处理，兼顾隐私安全与免费试用](./AI工具/imgkits-ai-visual-editing-platform.md) — 2025-08-15
 - [照片转线稿AI工具：实现一键矢量化风格转换，支持多模式定制与高清导出](./AI工具/photo-to-line-art-ai-tool.md) — 2025-08-12
 - [AI-PROXY 部署指南：通过替换 URL 实现多厂商 AI API 统一接入与安全转发](./AI工具/ai-proxy-deployment-guide-unified-ai-api-access.md) — 2025-08-11
+- [爱写作AI小说平台：集成9大主流模型实现万字长篇快速出书，将智能创作流程简化为一键操作](./AI工具/ai-novel-writing-platform-long-form-books.md) — 2025-08-10
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
