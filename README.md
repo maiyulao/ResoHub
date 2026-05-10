@@ -901,6 +901,7 @@
 - [TikTok 全链路从零起步实操指南：涵盖部署环境与全流程避坑要点](./实战指南/tiktok-complete-setup-guide-and-tips.md) — 2025-08-13
 - [零基础网文创作指南：从入门到实操的进阶路径](./实战指南/web-novel-writing-guide-for-beginners.md) — 2025-08-13
 - [从拍摄到成片：摄影技巧与视频剪辑全流程实操指南](./实战指南/photography-and-video-editing-guide.md) — 2025-08-12
+- [从零到一实操抖音小店商品卡：抖店陪跑实训全流程指南](./实战指南/douyin-shop-product-card-guide-4.md) — 2025-08-12
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
