@@ -247,6 +247,7 @@
 - [如何使用 Azure TTS Importer 将语音合成配置导入阅读软件：操作指南](./GitHub项目/azure-tts-importer-guide-for-reading-software.md) — 2025-08-22
 - [2026届校招面试真题库：含百家大厂1000+道题目及配套视频解析](./GitHub项目/2026-campus-recruitment-interview-questions-bank.md) — 2025-08-22
 - [LangShift.dev：助力开发者零成本跨语言迁移的编程学习平台](./GitHub项目/langshift-cross-language-migration-platform.md) — 2025-08-18
+- [Sutom 深度解析：法语版 Wordle 的核心机制与上手指南](./GitHub项目/sutom-game-guide-mechanics.md) — 2025-08-03
 
 ### iOS应用
 - [2Camera内购限免：支持前后摄像头同步拍摄与画中画分屏，适用于双视角视频创作](./iOS应用/2camera-dual-camera-recording-free.md) — 2025-10-08
