@@ -528,6 +528,7 @@
 - [即刻盘：支持自定义的免费全网网盘资源搜索工具（无广告版）](./创意工具/jike-pan-free-cloud-search-tool.md) — 2025-08-13
 - [高效可视化工具 Online Chart Maker：支持 CSV 数据一键转换为折线、柱状及饼图](./创意工具/online-chart-maker-csv-to-visual-charts.md) — 2025-08-12
 - [OODATA 每日限免追踪：iOS 与 macOS 应用免费获取指南](./创意工具/oodata-daily-free-apps-ios-macos-guide.md) — 2025-08-11
+- [ClassicJoy：无需安装即可在浏览器中运行 NES、SNES 及街机复古游戏](./创意工具/classicjoy-browser-nes-snes-arcade-emulator.md) — 2025-08-11
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
