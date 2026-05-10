@@ -1055,6 +1055,7 @@
 - [DeepSeek 进阶实操指南：面向内容创业者的提示词技巧与应用场景](./实战指南/deepseek-advanced-guide-prompts-for-content-creators.md) — 2025-07-20
 - [从底层逻辑到实操应用：一套构建AI核心竞争力的全维度学习指南](./实战指南/ai-core-competency-learning-guide.md) — 2025-07-19
 - [想在2025年通过直播起号快速破局？这份从0到1的实操指南为你拆解全过程](./实战指南/live-streaming-growth-guide-2025.md) — 2025-07-19
+- [手机配件外贸创业全流程：从选品到获客的操作指南](./实战指南/mobile-accessories-export-business-guide.md) — 2025-07-19
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
