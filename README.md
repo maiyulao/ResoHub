@@ -163,6 +163,7 @@
 - [想快速制作干净的专业剪影却被手动抠图困扰？尝试用 AI Silhouette Generator 实现一键生成](./AI工具/ai-silhouette-generator-for-professional-cutouts.md) — 2025-08-08
 - [想知道 GPT-4 和 Gemini 哪个响应更快更稳定？用 LLM API Test 快速对比大模型性能](./AI工具/gpt-4-vs-gemini-performance-llm-api-test.md) — 2025-08-07
 - [想在社交平台或游戏中起个不重复且有个性的 ID？试试用 Hard Usernames 快速生成独特用户名](./AI工具/generate-unique-usernames-hard-usernames.md) — 2025-08-07
+- [OfferIN AI 下载与安装指南：适配面试笔试场景的 AI 辅助工具使用要点](./AI工具/offerin-ai-download-install-guide.md) — 2025-08-05
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
