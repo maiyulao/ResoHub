@@ -319,6 +319,7 @@
 - [TubeGet：支持 2000 余个站点的全网视频下载利器](./Windows软件/tubeget-universal-video-downloader.md) — 2025-08-11
 - [使用NeoPan网盘批处理助手管理夸克与百度网盘的操作指南](./Windows软件/neopan-batch-manager-quark-baidu-netdisk-guide.md) — 2025-08-09
 - [面对 2GB 超大图片压缩缓慢且担心隐私泄露？试试这款支持离线秒压的免费桌面工具](./Windows软件/offline-large-image-compressor-free-tool.md) — 2025-08-07
+- [想在游戏中自由切换 DLSS、FSR 或 XeSS 插件？用 DLSS Swapper 快速实现 DLL 文件管理与替换](./Windows软件/dlss-swapper-guide-manage-dll-files.md) — 2025-08-02
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
