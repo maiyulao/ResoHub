@@ -265,6 +265,7 @@
 - [使用 SandboxFinder 管理 HarmonyOS 应用沙箱文件的操作指南](./GitHub项目/harmonyos-sandbox-management-guide-sandboxfinder.md) — 2025-07-31
 - [pyJianYingDraft：基于 Python 的剪映草稿自动化编辑方案](./GitHub项目/pyjianyingdraft-python-automation-editing.md) — 2025-07-26
 - [VERT.sh 开源指南：高效实现多格式文件转换的免费方案](./GitHub项目/vert-sh-open-source-file-converter-guide.md) — 2025-07-26
+- [想知道 MacBook 触控板能称重吗？试试 TrackWeight 将其转化为精准电子秤](./GitHub项目/macbook-trackpad-weight-trackweight.md) — 2025-07-25
 
 ### iOS应用
 - [2Camera内购限免：支持前后摄像头同步拍摄与画中画分屏，适用于双视角视频创作](./iOS应用/2camera-dual-camera-recording-free.md) — 2025-10-08
