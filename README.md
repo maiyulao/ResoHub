@@ -186,6 +186,7 @@
 - [Wealth Tracker 开源指南：利用 AI 实现个人资产可视化分析与财务管理](./AI工具/wealth-tracker-open-source-ai-financial-analysis.md) — 2025-07-16
 - [基于 MCP 协议的 12306 高性能查询接口：实现 AI 自动化购票的即插即用方案](./AI工具/mcp-protocol-12306-high-performance-query-ai-automation.md) — 2025-07-16
 - [CatchIdeas 关键词分析实操指南：通过数据驱动产品决策，实现精准流量增长](./AI工具/catchideas-keyword-analysis-guide.md) — 2025-07-13
+- [如何使用 Options Calculator 计算期权盈利与希腊字母：操作指南](./AI工具/options-calculator-profit-and-greeks-guide.md) — 2025-07-11
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
