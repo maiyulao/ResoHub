@@ -555,6 +555,7 @@
 - [How To Say：支持20种语言的AI表达助手，提供三档模式切换及跨文化沟通方案](./创意工具/how-to-say-ai-expression-assistant.md) — 2025-08-04
 - [全球日落时间查询指南：精准预测时点与摄影黄金时刻捕捉技巧](./创意工具/global-sunset-time-guide-and-photography-tips.md) — 2025-08-04
 - [BAGen 实测：高效生成专业前后对比图，支持四种布局且无水印导出](./创意工具/bagen-review-professional-before-after-images.md) — 2025-08-04
+- [Invert-colors：快速实现图片颜色反转与负片效果的免费在线工具](./创意工具/invert-colors-online-tool.md) — 2025-08-03
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
