@@ -635,6 +635,7 @@
 - [支持本地渲染与多模式标注的免费在线拼图工具：支持无水印高清导出](./创意工具/free-online-puzzle-tool-local-rendering-multi-mode-annotation.md) — 2025-07-13
 - [自托管照片管理方案：Immich 私有云相册安装与配置指南](./创意工具/immich-self-hosted-photo-management-guide.md) — 2025-07-13
 - [互站网：集成网站开发与站长威客服务的综合性技术协作平台](./创意工具/huzhan-web-development-and-webmaster-services-platform.md) — 2025-07-13
+- [想要高质量音频又不想付费？试试这个支持 MP3 和 FLAC 格式的无损音乐下载站](./创意工具/free-high-quality-lossless-music-download-site-mp3-flac.md) — 2025-07-12
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
