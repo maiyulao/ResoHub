@@ -1036,6 +1036,7 @@
 - [构建AI写作全流程多维表：从标准化工作流到高转化内容的规模化产出](./实战指南/ai-writing-workflow-multidimensional-table.md) — 2025-07-23
 - [AI时代学习与创作指南：核心方法论与实操路径解析](./实战指南/ai-learning-and-creation-guide.md) — 2025-07-23
 - [手机短视频拍摄指南：从画面构图到质感提升的实操技巧](./实战指南/mobile-short-video-shooting-guide.md) — 2025-07-22
+- [职场沟通能力进阶：21天实战训练计划与执行路径](./实战指南/workplace-communication-skills-21-day-plan.md) — 2025-07-22
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
