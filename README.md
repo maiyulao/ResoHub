@@ -537,6 +537,7 @@
 - [想在抖音、YouTube或B站快速保存高清视频却被水印困扰？试试 IntelligentAxlxlbot 这个跨平台解析工具](./创意工具/intelligentaxlxlbot-video-downloader-no-watermark.md) — 2025-08-10
 - [iMockup使用指南：快速制作APP模型动画及导出配置说明](./创意工具/imockup-guide-app-mockup-animation-export.md) — 2025-08-09
 - [PDF简历批量解析工具：实现信息自动化提取与Excel快速导出](./创意工具/pdf-resume-parser-automation-excel-export.md) — 2025-08-09
+- [Moocup开源工具指南：快速生成高品质3D效果图](./创意工具/moocup-guide-high-quality-3d-renderings.md) — 2025-08-08
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
