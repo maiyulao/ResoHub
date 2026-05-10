@@ -284,6 +284,7 @@
 - [主流手机品牌 Bootloader 解锁、内核开源及保修政策对比指南](./GitHub项目/smartphone-bootloader-unlock-kernel-warranty-guide.md) — 2025-07-22
 - [Next Whois 开源查询工具：实现域名、IP 与 RDAP 信息的轻量化一站式检索](./GitHub项目/next-whois-open-source-domain-ip-rdap-lookup-tool.md) — 2025-07-22
 - [RapidOCR开源文本识别方案：实现跨平台部署与多语言高效识别](./GitHub项目/rapidocr-open-source-text-recognition-cross-platform-multilingual.md) — 2025-07-15
+- [LiYing开源证件照处理工具：实现本地离线一键后期，兼顾隐私安全与高效出图](./GitHub项目/liye-id-photo-tool-offline-processing.md) — 2025-07-09
 
 ### iOS应用
 - [2Camera内购限免：支持前后摄像头同步拍摄与画中画分屏，适用于双视角视频创作](./iOS应用/2camera-dual-camera-recording-free.md) — 2025-10-08
