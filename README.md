@@ -1024,6 +1024,7 @@
 - [2025抖音小店起店指南：从账号配置到高效转化的全流程操作步骤](./实战指南/douyin-shop-startup-guide-2025.md) — 2025-07-25
 - [零基础AI与前沿技术入门指南：学习路径、工具获取及实践要点](./实战指南/ai-frontier-tech-beginner-guide.md) — 2025-07-24
 - [零基础AI应用开发指南：从概念理解到实战构建](./实战指南/ai-app-development-guide-for-beginners.md) — 2025-07-24
+- [京东快车如何高效获客？2025年推广运营实操指南](./实战指南/jd-express-customer-acquisition-guide-2025.md) — 2025-07-24
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
