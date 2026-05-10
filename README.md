@@ -625,6 +625,7 @@
 - [网页在不同尺寸屏幕上显示异常？试试用 Everysize 快速预览多设备适配效果](./创意工具/everysize-responsive-web-preview.md) — 2025-07-17
 - [构建全品类高品质音频试听数据库的实操指南](./创意工具/guide-to-building-high-quality-audio-sampling-database.md) — 2025-07-16
 - [想找一款无广告且纯净的在线音乐播放器？试试这款极简的铜钟海外版](./创意工具/minimalist-online-music-player-copperbell-global.md) — 2025-07-15
+- [想在海外投资但缺乏当地政策参考？这份覆盖172个国家和地区的国别指南为你提供实操指引](./创意工具/overseas-investment-country-guides-172-regions.md) — 2025-07-15
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
