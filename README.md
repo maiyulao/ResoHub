@@ -883,6 +883,7 @@
 - [短剧剪辑入门实操指南：从零基础到成品输出的训练流程与环境配置](./实战指南/short-drama-editing-guide-for-beginners.md) — 2025-08-16
 - [豆包AI全流程实操指南：从基础上手到高效进阶](./实战指南/doubao-ai-complete-guide.md) — 2025-08-16
 - [TikTok Shop 全链路实操指南：从入驻选品到投放与 FBT 运营](./实战指南/tiktok-shop-full-guide-onboarding-product-selection-ads-fbt.md) — 2025-08-15
+- [从零构建AI数字智能体：核心实战路径与分阶段入门指南](./实战指南/build-ai-digital-agents-guide.md) — 2025-08-15
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
