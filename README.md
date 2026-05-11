@@ -1244,6 +1244,7 @@
 - [小红书电商全流程实操指南：从账号起步到商业变现](./实战指南/xiaohongshu-ecommerce-guide-startup-to-monetization-2.md) — 2025-06-19
 - [AI自媒体爆款内容创作：从工具配置到流量变现的实操指南](./实战指南/ai-content-creation-guide-for-social-media.md) — 2025-06-19
 - [AI绘画赋能IP商业化：从创意生成到产品变现的实战指南](./实战指南/ai-art-ip-commercialization-guide.md) — 2025-06-19
+- [面对淘系电商复杂的账单对账难题，财务人员该如何高效完成对账？](./实战指南/taobao-ecommerce-reconciliation-guide.md) — 2025-06-19
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
