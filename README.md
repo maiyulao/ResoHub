@@ -659,6 +659,7 @@
 - [高效定制专业电子印章：免费在线生成工具指南](./创意工具/professional-electronic-seal-generator-guide.md) — 2025-07-08
 - [Favicon.im 使用指南：快速提取网站图标的免费工具](./创意工具/favicon-im-guide-free-website-icon-extractor.md) — 2025-07-07
 - [详解 IMFDB：全球规模最大的影视游戏枪械百科数据库](./创意工具/imfdb-firearms-database-guide.md) — 2025-07-06
+- [医保药品目录检索指南：高效查询报销范围与药品分类信息](./创意工具/medical-insurance-drug-list-guide.md) — 2025-07-05
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
