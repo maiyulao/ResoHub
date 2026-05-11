@@ -681,6 +681,7 @@
 - [爱盯盘实测：多市场行情实时监控与隐蔽盯盘方案](./创意工具/aidingpan-realtime-market-monitoring-review.md) — 2025-06-30
 - [小红书高清视频无水印下载指南：通过一键解析工具快速获取原画素材](./创意工具/xiaohongshu-video-downloader-no-watermark.md) — 2025-06-29
 - [favicon.run：高效提取多尺寸网站图标的免费在线工具，支持一键解析并导出多种格式图标资源](./创意工具/favicon-run-free-online-favicon-extractor.md) — 2025-06-29
+- [ScanNerd 深度评测：一款主打隐私安全且零成本的本地 PDF 扫描工具](./创意工具/scannerd-review-free-local-pdf-scanner.md) — 2025-06-29
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
