@@ -1150,6 +1150,7 @@
 - [小红书电商带货全流程实操指南：从账号起号到高转化变现的执行路径](./实战指南/xiaohongshu-ecommerce-guide-from-startup-to-monetization.md) — 2025-07-06
 - [想在2025年用AI高效做图书带货？这份从工具选型到变现的实操指南请查收](./实战指南/ai-book-affiliate-marketing-guide-2025.md) — 2025-07-05
 - [AI绘画进阶指南：从零基础到精通的实操路径](./实战指南/ai-painting-advanced-guide.md) — 2025-07-05
+- [Facebook 社交营销实操指南：从策略布局到转化增长的落地路径](./实战指南/facebook-social-marketing-guide-strategy-to-growth.md) — 2025-07-04
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
