@@ -673,6 +673,7 @@
 - [软鸭PLAY：集成游戏娱乐与实用工具的综合性资源平台](./创意工具/ruanya-play-game-and-tool-resource-platform.md) — 2025-07-03
 - [歌词易：集成500万首曲目库的免费歌词检索平台，支持快速精准定位海量文本内容](./创意工具/geci-free-lyrics-search-platform.md) — 2025-07-03
 - [皮皮兔PDF在线转换：实现文档格式互转的免费方案，支持PDF与Word、Excel、PPT一键快速切换](./创意工具/pipitu-pdf-online-converter-free.md) — 2025-07-01
+- [XCloud音乐：集成多源音频流的在线播放方案，实现高保真音质与跨平台资源统一管理](./创意工具/xcloud-music-multi-source-audio-streaming-solution.md) — 2025-07-01
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
