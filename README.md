@@ -1177,6 +1177,7 @@
 - [高中英语全体系60课时速成方案：学习路径与关键知识点详解](./实战指南/high-school-english-60-lesson-crash-course.md) — 2025-06-30
 - [外贸商务英语实战进阶指南：从核心语言能力到全球贸易商务谈判的系统提升计划](./实战指南/foreign-trade-business-english-guide.md) — 2025-06-29
 - [想做跨境电商却不知如何切入？通过这几个利基选品案例寻找高潜力方向](./实战指南/cross-border-ecommerce-niche-selection-cases.md) — 2025-06-29
+- [想用 AI 快速产出短视频变现却没方向？这 100 节实操课帮你打通创富链路](./实战指南/ai-short-video-monetization-course.md) — 2025-06-29
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
