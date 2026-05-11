@@ -1333,6 +1333,7 @@
 - [视频号短视频带货与直播全链路运营系统指南](./实战指南/video-channel-short-video-ecommerce-live-streaming-guide.md) — 2025-06-08
 - [2025年DeepSeek自媒体轻创业实操指南](./实战指南/deepseek-solopreneur-guide-2025.md) — 2025-06-07
 - [高效社交实操指南：黄先生的人脉资源构建与维护训练营](./实战指南/networking-skills-training-camp.md) — 2025-06-07
+- [高效能团队的提问力：关苏哲关于激发绩效的30个实战场景](./实战指南/high-performance-team-questioning-skills-su-zhe.md) — 2025-06-07
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
