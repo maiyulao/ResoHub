@@ -1411,6 +1411,7 @@
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
+- [词咕咕 (Cugo)：高效提升视频拍摄流畅度的免费智能在线提词方案](./实用工具/cugo-free-online-teleprompter.md) — 2025-05-27
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
