@@ -316,6 +316,7 @@
 - [想在浏览器端快速生成美观的发票 PDF 却不想搭建服务器？试试开源工具 invoice-pdf-printer](./GitHub项目/invoice-pdf-printer-browser-pdf-generator.md) — 2025-06-20
 - [go-drive 部署指南：通过单一接口统一管理本地及 7 种主流云存储资源](./GitHub项目/go-drive-deployment-guide.md) — 2025-06-14
 - [Hacker News 资源指南：高效挖掘优质应用与技术社区精华](./GitHub项目/hacker-news-resource-guide.md) — 2025-06-09
+- [WeRSS开源工具：将微信公众号转化为RSS订阅流的部署与配置指南](./GitHub项目/werss-wechat-to-rss-guide.md) — 2025-06-07
 
 ### iOS应用
 - [2Camera内购限免：支持前后摄像头同步拍摄与画中画分屏，适用于双视角视频创作](./iOS应用/2camera-dual-camera-recording-free.md) — 2025-10-08
