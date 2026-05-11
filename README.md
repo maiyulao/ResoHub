@@ -393,6 +393,7 @@
 - [WindowKeys 下载与配置指南：适用于 macOS 的第三方窗口平铺管理工具](./Mac软件/windowkeys-macos-download-setup-guide.md) — 2025-06-09
 - [图片太大上传慢且不能在线压缩？试试 PicSharp，实现高效离线的跨平台批量处理](./Mac软件/picsharp-offline-batch-image-compression.md) — 2025-06-09
 - [AutoX 实操指南：高效完成视频跨平台迁移与同步分发](./Mac软件/autox-video-migration-distribution-guide.md) — 2025-05-30
+- [如何使用 GeekGeekRun 实现 Boss直聘自动化求职：从配置到获取 Offer 的操作指南](./Mac软件/geekgeekrun-bosszhipin-automation-guide.md) — 2025-05-29
 
 ### Windows软件
 - [KOMA 指南：实现本地漫画自动去水印、压缩与标准化归档](./windows/koma-guide-manga-watermark-removal-compression-archiving.md) — 2026-02-05
