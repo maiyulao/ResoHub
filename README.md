@@ -811,6 +811,7 @@
 - [GreenVideo 下载指南：支持千余全球视频平台，无水印免费获取方案](./创意工具/greenvideo-download-guide.md) — 2025-05-28
 - [随机决策指南：利用转盘工具高效解决选择困难](./创意工具/random-decision-wheel-guide.md) — 2025-05-27
 - [ZRF.ME 临时邮箱：通过动态虚拟地址隔离垃圾邮件，在保障隐私的同时高效过滤冗余信息](./创意工具/zrf-me-temporary-email-privacy-spam-filter.md) — 2025-05-27
+- [Libre Search：基于 SearXNG 的去广告隐私元搜索方案](./创意工具/libre-search-searxng-privacy-metasearch.md) — 2025-05-26
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
