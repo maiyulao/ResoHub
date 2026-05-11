@@ -689,6 +689,7 @@
 - [如何利用中国曲谱网高效检索并获取专业曲谱资源](./创意工具/how-to-use-china-music-score-network.md) — 2025-06-28
 - [找不到想要的网盘资源？试试 UP云搜，一个能聚合全平台文件的免费搜索工具](./创意工具/up-yun-sou-cloud-search-tool.md) — 2025-06-27
 - [全网热点实时汇总：高效获取高频趋势指南](./创意工具/real-time-trending-topics-guide.md) — 2025-06-27
+- [Telegram 机器人精选指南：高效工具探索与实用功能推荐](./创意工具/best-telegram-bots-guide.md) — 2025-06-26
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
