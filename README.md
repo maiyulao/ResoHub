@@ -752,6 +752,7 @@
 - [如何使用 2DWallpapers 下载 4K 动漫与游戏壁纸：免登录、无水印操作指南](./创意工具/download-4k-anime-game-wallpapers-2dwallpapers-guide.md) — 2025-06-10
 - [想找高质量4K超清影视资源却不知去哪下载？这份一站式资源平台指南为你提供方案](./创意工具/high-quality-4k-movie-resource-guide.md) — 2025-06-10
 - [ahhhhfs A姐官方生态入口访问全流程指南](./创意工具/ahhhhfs-official-ecosystem-access-guide.md) — 2025-06-09
+- [高效聚合海量网盘影视资源：支持在线流畅播放，涵盖学霸与学渣双维度资源库](./创意工具/massive-cloud-drive-movie-resources-online-player.md) — 2025-06-09
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
