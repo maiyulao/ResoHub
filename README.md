@@ -705,6 +705,7 @@
 - [2025年个人效率提升指南：常用硬件设备与软件配置清单](./创意工具/2025-personal-productivity-guide-hardware-software-list.md) — 2025-06-24
 - [Labubu动态壁纸资源库：1000+款免费下载，支持每日更新同步](./创意工具/labubu-live-wallpapers-download.md) — 2025-06-23
 - [PairDrop 跨平台 P2P 实时传输方案：无需注册即刻实现设备间文件秒传](./创意工具/pairdrop-p2p-file-transfer.md) — 2025-06-23
+- [如何部署 Workout Cool 开源健身平台：从环境配置到个性化训练计划定制](./创意工具/deploy-workout-cool-open-source-fitness-platform.md) — 2025-06-22
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
