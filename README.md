@@ -1388,6 +1388,7 @@
 - [面对昂贵的学术论文付费墙，如何合法地免费获取全文？试试 Unpaywall 插件](./效率工具/how-to-get-free-academic-papers-with-unpaywall.md) — 2025-06-13
 - [B站视频里的植入广告总在关键时刻出现？试试用 Bilibili AI Skip 自动跳过](./效率工具/bilibili-ai-skip-auto-skip-ads.md) — 2025-06-10
 - [Fonts Ninja：高效识别网页字体并构建个人字体库的实操指南](./效率工具/fonts-ninja-guide-identify-web-fonts.md) — 2025-06-04
+- [高效清理浏览器缓存与历史记录：通过 Cleaner 插件优化 Chrome 运行速度并强化隐私安全](./效率工具/clean-chrome-cache-history-with-cleaner-extension.md) — 2025-06-03
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
