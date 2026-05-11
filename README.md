@@ -1262,6 +1262,7 @@
 - [IP合伙人模式：知识付费虚拟产品的商业链路与实操指南](./实战指南/ip-partner-knowledge-payment-business-guide.md) — 2025-06-17
 - [AI驱动短视频全链路实操：从内容高效产出到电商转化增长的闭环方案](./实战指南/ai-short-video-content-to-ecommerce-conversion.md) — 2025-06-17
 - [短视频创作效率低、灵感枯竭？尝试用 AI 重构你的内容生产流](./实战指南/ai-short-video-content-workflow-efficiency.md) — 2025-06-17
+- [面对老板要求的高标准PPT却不知从何下手？零基础快速提升视觉质感的实操指南](./实战指南/high-quality-ppt-visual-guide-for-beginners.md) — 2025-06-17
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
