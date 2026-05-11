@@ -686,6 +686,7 @@
 - [ScanNerd 深度评测：一款主打隐私安全且零成本的本地 PDF 扫描工具](./创意工具/scannerd-review-free-local-pdf-scanner.md) — 2025-06-29
 - [PDF Tool My 在线工具集：支持 PDF 转换与自动化处理的浏览器端操作指南](./创意工具/pdf-tool-my-online-guide.md) — 2025-06-28
 - [如何利用中国曲谱网高效检索并获取专业曲谱资源](./创意工具/how-to-use-china-music-score-network.md) — 2025-06-28
+- [找不到想要的网盘资源？试试 UP云搜，一个能聚合全平台文件的免费搜索工具](./创意工具/up-yun-sou-cloud-search-tool.md) — 2025-06-27
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
