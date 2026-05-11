@@ -1175,6 +1175,7 @@
 - [从安装到配置：使用 ScriptCat 脚本猫增强浏览器功能的实操指南](./效率工具/scriptcat-installation-and-configuration-guide.md) — 2025-07-14
 - [Tubly Downloader 高效离线化指南：支持 4K/8K 极清画质及 MP3 音频一键提取](./效率工具/tubly-downloader-guide-4k-8k-mp3-extraction.md) — 2025-07-11
 - [基于 AI 的验证码自动识别与填充脚本实现方案](./效率工具/ai-captcha-auto-recognition-and-filling-solution.md) — 2025-07-06
+- [novel-disguise：将小说网站伪装成 Office 界面，实现沉浸式无干扰阅读](./效率工具/novel-disguise-office-interface-reading.md) — 2025-07-05
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
