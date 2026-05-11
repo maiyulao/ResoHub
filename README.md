@@ -713,6 +713,7 @@
 - [申请软著时不知如何编写功能文档？试试 TextImageCraft 自动化生成申请内容](./创意工具/textimagecraft-automate-software-copyright-documentation.md) — 2025-06-21
 - [Fake IT 实用指南：快速生成地址、信用卡及 IBAN 虚拟身份数据](./创意工具/fake-it-guide-generate-virtual-identity-data.md) — 2025-06-20
 - [Zemail.me 临时邮箱实测：通过虚拟地址规避垃圾邮件与隐私泄露](./创意工具/zemail-me-temporary-email-review.md) — 2025-06-20
+- [SpotiDownloader 使用指南：将 Spotify 音乐转换为 320kbps 高品质 MP3](./创意工具/spotidownloader-spotify-to-mp3-320kbps-guide.md) — 2025-06-20
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
