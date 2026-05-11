@@ -1232,6 +1232,7 @@
 - [如何通过配置9类AI数字员工，构建一套能全流程覆盖大内容生产的自动化体系？](./实战指南/ai-digital-employees-content-production-automation-system.md) — 2025-06-22
 - [亚马逊全流程运营指南：从零基础起步至进阶实操](./实战指南/amazon-full-operation-guide.md) — 2025-06-21
 - [Google Ads 全链路增长指南：从账户架构搭建到精准转化优化的体系化实操方案](./实战指南/google-ads-growth-guide-architecture-conversion-optimization.md) — 2025-06-21
+- [想在小红书开店却不知如何起步？从实操教学到案例拆解，带你快速掌握电商增长路径](./实战指南/xiaohongshu-ecommerce-guide-growth-path.md) — 2025-06-20
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
