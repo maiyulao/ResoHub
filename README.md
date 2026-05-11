@@ -773,6 +773,7 @@
 - [锦时产品工具箱：20余款PM高效插件及软件下载与配置指南](./创意工具/jinshi-pm-tools-plugins-guide.md) — 2025-06-06
 - [WithoutAD：面向青少年的无广告益智学习平台下载与部署指南](./创意工具/withoutad-learning-platform-download-deployment-guide.md) — 2025-06-06
 - [国家高等教育智慧教育平台：官方课程资源访问指南与功能解析](./创意工具/national-smart-education-platform-guide.md) — 2025-06-05
+- [交互式英语学习游戏指南：通过趣味化场景驱动语言能力快速提升](./创意工具/interactive-english-learning-games-guide.md) — 2025-06-05
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
