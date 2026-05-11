@@ -662,6 +662,7 @@
 - [详解 IMFDB：全球规模最大的影视游戏枪械百科数据库](./创意工具/imfdb-firearms-database-guide.md) — 2025-07-06
 - [医保药品目录检索指南：高效查询报销范围与药品分类信息](./创意工具/medical-insurance-drug-list-guide.md) — 2025-07-05
 - [Product Latest：通过自动化设计快速构建 Product Hunt 推广卡片，提升产品视觉吸引力](./创意工具/product-latest-automate-product-hunt-cards.md) — 2025-07-05
+- [Fold'N Fly 纸飞机模型库：含百款折法教程与可打印PDF模板](./创意工具/fold-n-fly-paper-airplane-models-tutorials-pdf.md) — 2025-07-05
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
