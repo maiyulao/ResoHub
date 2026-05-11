@@ -769,6 +769,7 @@
 - [高清族资源库：构建高码率影视下载生态，通过精选画质与分类索引优化影迷检索体验](./创意工具/gaofangzu-high-bitrate-movie-resource-library.md) — 2025-06-07
 - [音范丝 4K 蓝光原盘下载指南：资源获取路径与收藏环境配置要点](./创意工具/yin-fan-si-4k-bluray-download-guide.md) — 2025-06-07
 - [使用 tmpfile 快速共享临时文件的操作指南](./创意工具/guide-to-sharing-temporary-files-with-tmpfile.md) — 2025-06-06
+- [锦时产品工具箱：20余款PM高效插件及软件下载与配置指南](./创意工具/jinshi-pm-tools-plugins-guide.md) — 2025-06-06
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
