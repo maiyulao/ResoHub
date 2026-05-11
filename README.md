@@ -1335,6 +1335,7 @@
 - [基于 AI 的验证码自动识别与填充脚本实现方案](./效率工具/ai-captcha-auto-recognition-and-filling-solution.md) — 2025-07-06
 - [novel-disguise：将小说网站伪装成 Office 界面，实现沉浸式无干扰阅读](./效率工具/novel-disguise-office-interface-reading.md) — 2025-07-05
 - [面对昂贵的学术论文付费墙，如何合法地免费获取全文？试试 Unpaywall 插件](./效率工具/how-to-get-free-academic-papers-with-unpaywall.md) — 2025-06-13
+- [B站视频里的植入广告总在关键时刻出现？试试用 Bilibili AI Skip 自动跳过](./效率工具/bilibili-ai-skip-auto-skip-ads.md) — 2025-06-10
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
