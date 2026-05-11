@@ -1347,6 +1347,7 @@
 - [利用 DeepSeek 编写 VBA 代码自动生成 PPT 与 Excel 图表的实操步骤](./实战指南/deepseek-vba-ppt-excel-charts-guide.md) — 2025-06-05
 - [AI办公实战与副业变现指南：零基础入门路径及商业化机会探索](./实战指南/ai-office-productivity-and-side-hustle-guide.md) — 2025-06-05
 - [想拍短视频却不知从何下手？一套从拍摄到剪辑的零基础入门指南](./实战指南/short-video-beginner-guide-shooting-editing.md) — 2025-06-04
+- [想要提升拼多多店铺爆单率？深度解析PDD高阶实操技术（第43期）](./实战指南/pinduoduo-shop-sales-growth-techniques-43.md) — 2025-06-04
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
