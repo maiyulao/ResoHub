@@ -1139,6 +1139,7 @@
 - [高效能职场进阶：从工具应用到实操能力的体系化提升](./实战指南/career-advancement-systematic-skill-improvement.md) — 2025-07-07
 - [抖音AI视频制作实战指南：从工具配置到运营落地的全流程教程](./实战指南/douyin-ai-video-production-guide.md) — 2025-07-07
 - [TikTok短视频全流程搭建指南：从环境配置到内容发布实操](./实战指南/tiktok-short-video-setup-guide.md) — 2025-07-06
+- [全领域带货实操指南：从零起步的快速上手路径](./实战指南/all-domain-ecommerce-guide-beginner-to-pro.md) — 2025-07-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
