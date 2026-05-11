@@ -1227,6 +1227,7 @@
 - [想让画面具备电影级质感？拆解TDn老师PS高级后期设计的进阶实操技巧](./实战指南/cinematic-ps-post-processing-techniques.md) — 2025-06-22
 - [如何使用AI工具优化高考志愿填报：实操步骤全解析](./实战指南/ai-guide-gaokao-volunteer-optimization.md) — 2025-06-22
 - [如何通过配置9类AI数字员工，构建一套能全流程覆盖大内容生产的自动化体系？](./实战指南/ai-digital-employees-content-production-automation-system.md) — 2025-06-22
+- [亚马逊全流程运营指南：从零基础起步至进阶实操](./实战指南/amazon-full-operation-guide.md) — 2025-06-21
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
