@@ -1353,6 +1353,7 @@
 - [跨境电商选品逻辑：从策略制定到运营实操的优化路径](./实战指南/cross-border-ecommerce-product-selection-strategy.md) — 2025-06-04
 - [高效AI短视频创作全流程：从爆款逻辑拆解到进阶剪辑实操](./实战指南/ai-short-video-creation-guide-2.md) — 2025-06-04
 - [手机短视频创作全流程：从拍摄、剪辑到账号运营的实操指南](./实战指南/mobile-short-video-creation-guide-2.md) — 2025-06-03
+- [关苏哲《如何快速做决策》技能提升六步法：实操指南与核心步骤解析](./实战指南/how-to-make-decisions-fast-guide.md) — 2025-06-03
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
