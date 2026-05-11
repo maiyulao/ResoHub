@@ -1202,6 +1202,7 @@
 - [AI驱动的获客增长：从工作流设计到实战落地](./实战指南/ai-driven-customer-acquisition-growth.md) — 2025-06-26
 - [从破冰到深交：提升陌生人社交能力的 5 个实操步骤](./实战指南/5-steps-to-improve-social-skills-with-strangers.md) — 2025-06-25
 - [RC抖音电商直播带货实操教程：课程资源获取及适用环境指南](./实战指南/rc-douyin-ecommerce-livestreaming-tutorial.md) — 2025-06-25
+- [手机短视频拍摄、剪辑与商业变现全流程实操指南](./实战指南/mobile-short-video-production-and-monetization-guide.md) — 2025-06-25
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
