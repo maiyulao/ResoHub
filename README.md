@@ -1221,6 +1221,7 @@
 - [小红书带货进阶指南：从实操逻辑到高效转化的全流程拆解](./实战指南/xiaohongshu-ecommerce-guide-conversion-workflow.md) — 2025-06-23
 - [电商企业 DeepSeek 应用指南：2025年降本增效实操路径](./实战指南/deepseek-ecommerce-guide-2025.md) — 2025-06-23
 - [实体商家 AI 矩阵自运营实战训练营](./实战指南/ai-matrix-operation-camp-for-local-business.md) — 2025-06-23
+- [想让画面具备电影级质感？拆解TDn老师PS高级后期设计的进阶实操技巧](./实战指南/cinematic-ps-post-processing-techniques.md) — 2025-06-22
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
