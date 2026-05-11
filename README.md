@@ -1280,6 +1280,7 @@
 - [想让桌面动起来？教你如何设置 Labubu 动态壁纸](./实战指南/how-to-set-labubu-live-wallpaper.md) — 2025-06-15
 - [Aron独立站全域营销策略：从流量获取到转化增长的体系化实践](./实战指南/aron-omnichannel-marketing-strategy-growth.md) — 2025-06-14
 - [从零到精通：AI创意短视频剪辑实操指南](./实战指南/ai-creative-short-video-editing-guide.md) — 2025-06-14
+- [半无人直播实操指南：从流程搭建到高效带货的快速上手路径](./实战指南/semi-automated-livestreaming-guide-2.md) — 2025-06-13
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
