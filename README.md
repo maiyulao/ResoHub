@@ -697,6 +697,7 @@
 - [聚会时没游戏可玩？这款无广告纯净版桌游合集让多人在线互动更简单](./创意工具/clean-online-board-games-collection.md) — 2025-06-25
 - [Online Games.io：无需注册的免费网页游戏合集](./创意工具/online-games-io-free-web-games-no-registration.md) — 2025-06-24
 - [ebook-treasure-chest：支持多种主流格式的开源电子书资源库指南](./创意工具/ebook-treasure-chest-open-source-library-guide.md) — 2025-06-24
+- [2025年个人效率提升指南：常用硬件设备与软件配置清单](./创意工具/2025-personal-productivity-guide-hardware-software-list.md) — 2025-06-24
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
