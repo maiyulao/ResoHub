@@ -310,6 +310,7 @@
 - [MoonTV 部署指南：通过 Docker 或 Vercel 快速构建跨平台影视聚合中心，实现海量资源一键集成](./GitHub项目/moontv-deployment-guide-docker-vercel.md) — 2025-07-02
 - [UGOS Pro 图标一键自定义指南：通过 ugreen-icon-replacer 脚本实现多主题快速替换](./GitHub项目/ugos-pro-icon-customization-ugreen-icon-replacer.md) — 2025-06-30
 - [想在浏览器端快速生成美观的发票 PDF 却不想搭建服务器？试试开源工具 invoice-pdf-printer](./GitHub项目/invoice-pdf-printer-browser-pdf-generator.md) — 2025-06-20
+- [go-drive 部署指南：通过单一接口统一管理本地及 7 种主流云存储资源](./GitHub项目/go-drive-deployment-guide.md) — 2025-06-14
 
 ### iOS应用
 - [2Camera内购限免：支持前后摄像头同步拍摄与画中画分屏，适用于双视角视频创作](./iOS应用/2camera-dual-camera-recording-free.md) — 2025-10-08
