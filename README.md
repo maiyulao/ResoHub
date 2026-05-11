@@ -1300,6 +1300,7 @@
 - [TikTok 达人运营全流程：从账号起号到商业变现的实操指南](./实战指南/tiktok-influencer-marketing-guide.md) — 2025-06-11
 - [AI场景化作图实操指南：快速替换100种环境的提效步骤](./实战指南/ai-scene-generation-guide-efficiency-steps.md) — 2025-06-11
 - [Word 全能进阶指南：从基础操作到高效办公实战的视频教程](./实战指南/word-advanced-guide-video-tutorial.md) — 2025-06-11
+- [想从零开始做短视频剪辑运营？这套7天进阶方案帮你快速上手](./实战指南/short-video-editing-7-day-guide.md) — 2025-06-10
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
