@@ -1405,6 +1405,7 @@
 - [大龙 AI：提升设计职场竞争力的核心实操指南](./实战指南/dalong-ai-design-career-guide.md) — 2025-05-28
 - [AI视频全流程实操指南：从文生图到图生视频，构建自媒体高转化爆款链路](./实战指南/ai-video-workflow-guide-for-social-media.md) — 2025-05-28
 - [2015-2024年高考英语听力真题全集：资源索引与备考指南](./实战指南/gaokao-english-listening-2015-2024-guide.md) — 2025-05-27
+- [闲鱼无货源起店实操指南：从选品到出单的 5 个核心步骤](./实战指南/xianyu-dropshipping-guide-steps.md) — 2025-05-27
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
