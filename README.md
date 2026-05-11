@@ -1320,6 +1320,7 @@
 - [自媒体AI实操训练营：课程获取路径、适用场景及学习要点说明](./实战指南/self-media-ai-training-camp-guide.md) — 2025-06-09
 - [2025自媒体全流程创作指南：从系统化方法论到实操训练的进阶路径](./实战指南/2025-self-media-creation-guide.md) — 2025-06-09
 - [淘宝店群运营实操指南：从账号搭建到规模化获客的执行步骤](./实战指南/taobao-store-cluster-operation-guide.md) — 2025-06-08
+- [剪映与即梦AI短视频创作指南：实操流程、环境配置及核心避坑点](./实战指南/capcut-jimeng-ai-short-video-guide.md) — 2025-06-08
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
