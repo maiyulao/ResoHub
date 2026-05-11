@@ -1173,6 +1173,7 @@
 - [剪映PC端高阶剪辑技巧与实战案例解析](./实战指南/capcut-pc-advanced-editing-tips-and-cases.md) — 2025-07-01
 - [想在短时间内快速涨粉？详解解说类视频如何打造爆款并实现单周10万增量](./实战指南/how-to-grow-followers-with-commentary-videos.md) — 2025-06-30
 - [高中英语全体系60课时速成方案：学习路径与关键知识点详解](./实战指南/high-school-english-60-lesson-crash-course.md) — 2025-06-30
+- [外贸商务英语实战进阶指南：从核心语言能力到全球贸易商务谈判的系统提升计划](./实战指南/foreign-trade-business-english-guide.md) — 2025-06-29
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
