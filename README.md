@@ -1254,6 +1254,7 @@
 - [口才进阶指南：从逻辑构建到高效表达的系统化训练方案](./实战指南/eloquence-training-guide-logic-to-expression.md) — 2025-06-18
 - [270余套全场景PPT模板库：涵盖商务、国风及动态演示等多种风格](./实战指南/270-plus-all-scenario-ppt-templates-library.md) — 2025-06-18
 - [想突破英语口语却不知从何练起？一套系统化的学习方案帮你快速上手](./实战指南/systematic-english-speaking-learning-plan.md) — 2025-06-17
+- [想在小红书做电商却不知从何入手？这份全流程实操指南帮你理清玩法](./实战指南/xiaohongshu-ecommerce-guide-2.md) — 2025-06-17
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
