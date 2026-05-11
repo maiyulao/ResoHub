@@ -204,6 +204,7 @@
 - [Get笔记安装指南：支持AI知识管理的笔记工具配置与使用要点](./AI工具/get-notes-installation-guide.md) — 2025-06-15
 - [AnimeTrace 使用指南：通过 AI 图像识别快速检索动画与 GalGame 来源](./AI工具/animetrace-guide-ai-image-search.md) — 2025-06-14
 - [面对AI时代的技能迭代焦虑，工程师该如何构建高效的知识体系？试试 ExplainThis 资源库](./AI工具/engineer-knowledge-system-explainthis.md) — 2025-06-13
+- [利用 Cloudflare 与 Gemini 构建 AI 资讯聚合平台：实现自动化内容洞察与每日分发](./AI工具/build-ai-news-aggregator-cloudflare-gemini.md) — 2025-06-12
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
