@@ -749,6 +749,7 @@
 - [AI Baby Generator 使用指南：通过上传照片预测子嗣长相（免费版适用环境与注意事项）](./创意工具/ai-baby-generator-guide-free-version.md) — 2025-06-11
 - [DataTool.vip：支持全网 4K 原画无水印视频的一键提取工具](./创意工具/datatool-4k-video-downloader.md) — 2025-06-10
 - [短剧聚合搜索平台：支持全网资源快速检索与在线播放（含完整源代码）](./创意工具/short-drama-search-platform-source-code.md) — 2025-06-10
+- [如何使用 2DWallpapers 下载 4K 动漫与游戏壁纸：免登录、无水印操作指南](./创意工具/download-4k-anime-game-wallpapers-2dwallpapers-guide.md) — 2025-06-10
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
