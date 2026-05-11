@@ -216,6 +216,7 @@
 - [Reeden：支持多端同步的 AI 增强型电子书阅读工具](./Android应用/reeden-ai-enhanced-ebook-reader.md) — 2025-07-26
 - [想快速找到全网公开的飞书文档却无从下手？试试飞搜侠一键检索方案](./Android应用/feisouxia-feishu-doc-search-solution.md) — 2025-07-25
 - [端侧生成式 AI 落地实践：通过 Google AI Edge Gallery 实现手机离线推理](./Android应用/on-device-generative-ai-google-ai-edge-gallery-offline-inference.md) — 2025-07-19
+- [XMBOX：适配安卓竖屏的影视聚合播放器（TVBox 优化版）](./Android应用/xmbox-tvbox-android-vertical-player.md) — 2025-06-27
 
 ### GitHub项目
 - [Lofi Radio Web：集成专注计时功能的开源网页播放器](./GitHub项目/lofi-radio-web-open-source-player.md) — 2026-05-01
