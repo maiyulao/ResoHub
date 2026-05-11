@@ -726,6 +726,7 @@
 - [交互式健身指南：点击肌肉部位解锁专项训练视频](./创意工具/interactive-fitness-guide-muscle-training-videos.md) — 2025-06-17
 - [古典文学数字化阅读指南：深度解析经典书库的资源与体验](./创意工具/classical-literature-digital-reading-guide.md) — 2025-06-17
 - [盖德化妆品成分库：依托百万级原料数据实现配方精准检索与成分分析](./创意工具/gade-cosmetic-ingredient-database.md) — 2025-06-17
+- [Bilibili 视频下载工具：支持 8K 超清画质与 Hi-Res 高保真音频导出](./创意工具/bilibili-video-downloader-8k-hires-audio.md) — 2025-06-16
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
