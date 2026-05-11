@@ -789,6 +789,7 @@
 - [想快速补齐小约翰可汗视频里的历史梗？这份通辽宇宙知识库帮你系统梳理](./创意工具/xiaojohn-khan-history-knowledge-base.md) — 2025-06-01
 - [PDF2MD实测：将PDF精准转换为Markdown的实用方案与效率提升指南](./创意工具/pdf2md-review-pdf-to-markdown-guide.md) — 2025-05-31
 - [如何利用 Azure 与 Gradio 快速搭建一个支持多语言的神经语音合成（TTS）应用？SpeakItAI 实战指南](./创意工具/azure-gradio-multilingual-tts-speakitai-guide.md) — 2025-05-31
+- [Vibe Radio：构建全球广播的3D交互地图，实时探索世界无线电生态](./创意工具/vibe-radio-3d-interactive-world-map.md) — 2025-05-31
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
