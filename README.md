@@ -1160,6 +1160,7 @@
 - [Facebook 社交营销实操指南：从策略布局到转化增长的落地路径](./实战指南/facebook-social-marketing-guide-strategy-to-growth.md) — 2025-07-04
 - [TikTok百万播放直播短视频全流程：从账号搭建到流量获取实操指南](./实战指南/tiktok-live-short-video-growth-guide.md) — 2025-07-04
 - [跨境电商独立站从零到一的搭建与运营实操指南](./实战指南/cross-border-ecommerce-standalone-site-guide.md) — 2025-07-03
+- [从零起步掌握AI绘画：商业级设计实操全流程指南](./实战指南/ai-painting-commercial-design-guide.md) — 2025-07-03
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
