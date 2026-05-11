@@ -1206,6 +1206,7 @@
 - [RC抖音电商直播带货实操教程：课程资源获取及适用环境指南](./实战指南/rc-douyin-ecommerce-livestreaming-tutorial.md) — 2025-06-25
 - [手机短视频拍摄、剪辑与商业变现全流程实操指南](./实战指南/mobile-short-video-production-and-monetization-guide.md) — 2025-06-25
 - [亚马逊广告底层算法解析：从逻辑机制到实操投放策略](./实战指南/amazon-ads-algorithm-logic-and-strategy.md) — 2025-06-24
+- [私域流量闭环构建：从零起步打造高转化客户成交体系](./实战指南/private-traffic-closed-loop-conversion-system.md) — 2025-06-24
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
