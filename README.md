@@ -1188,6 +1188,7 @@
 - [电商新店冷启动：从基础搭建到运营上线的全流程实操指南](./实战指南/ecommerce-new-store-cold-start-guide.md) — 2025-06-28
 - [电商对账Excel模版构建指南：从基础架构到自动化实现步骤](./实战指南/ecommerce-reconciliation-excel-guide.md) — 2025-06-28
 - [AI 学习与内容创作实战指南：涵盖笔记管理工具链及生产流程配置](./实战指南/ai-learning-content-creation-guide.md) — 2025-06-27
+- [个体创作者AI自媒体实操指南：从工具选型到内容高效产出](./实战指南/ai-self-media-guide-for-creators.md) — 2025-06-27
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
