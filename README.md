@@ -395,6 +395,7 @@
 - [AutoX 实操指南：高效完成视频跨平台迁移与同步分发](./Mac软件/autox-video-migration-distribution-guide.md) — 2025-05-30
 - [如何使用 GeekGeekRun 实现 Boss直聘自动化求职：从配置到获取 Offer 的操作指南](./Mac软件/geekgeekrun-bosszhipin-automation-guide.md) — 2025-05-29
 - [Copicseal 开源水印工具实测：通过 EXIF 自动识别实现高效图片标注](./Mac软件/copicseal-open-source-watermark-tool-review.md) — 2025-05-28
+- [GDownload 跨平台下载加速方案：通过现代化架构实现高效的文件管理与多线程下载](./Mac软件/gdownload-cross-platform-download-accelerator.md) — 2025-05-27
 
 ### Windows软件
 - [KOMA 指南：实现本地漫画自动去水印、压缩与标准化归档](./windows/koma-guide-manga-watermark-removal-compression-archiving.md) — 2026-02-05
