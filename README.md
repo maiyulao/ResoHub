@@ -390,6 +390,7 @@
 - [WePush 跨平台批量推送工具：安装部署指南与环境配置要点](./Mac软件/wepush-installation-deployment-guide.md) — 2025-06-09
 - [WindowKeys 下载与配置指南：适用于 macOS 的第三方窗口平铺管理工具](./Mac软件/windowkeys-macos-download-setup-guide.md) — 2025-06-09
 - [图片太大上传慢且不能在线压缩？试试 PicSharp，实现高效离线的跨平台批量处理](./Mac软件/picsharp-offline-batch-image-compression.md) — 2025-06-09
+- [AutoX 实操指南：高效完成视频跨平台迁移与同步分发](./Mac软件/autox-video-migration-distribution-guide.md) — 2025-05-30
 
 ### Windows软件
 - [KOMA 指南：实现本地漫画自动去水印、压缩与标准化归档](./windows/koma-guide-manga-watermark-removal-compression-archiving.md) — 2026-02-05
