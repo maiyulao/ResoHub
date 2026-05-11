@@ -453,6 +453,7 @@
 - [从入门到精通：100课循序渐进的瑜伽进阶实操指南](./兴趣爱好/yoga-practice-guide-100-lessons.md) — 2025-06-11
 - [6周弹力带普拉提塑形计划：通过薄肌线条训练提升身体弹力与紧致度](./兴趣爱好/6-week-resistance-band-pilates-toning-plan.md) — 2025-06-07
 - [iPad清新质感插画全流程教学：从零基础起步，分阶段掌握治愈系绘画技巧（共22课）](./兴趣爱好/ipad-healing-illustration-tutorial-course.md) — 2025-06-02
+- [毛戈平年度化妆指导全集：130课系统化美妆进阶实操指南](./兴趣爱好/maogeping-makeup-course-guide.md) — 2025-05-30
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
