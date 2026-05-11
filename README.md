@@ -1406,6 +1406,7 @@
 - [AI视频全流程实操指南：从文生图到图生视频，构建自媒体高转化爆款链路](./实战指南/ai-video-workflow-guide-for-social-media.md) — 2025-05-28
 - [2015-2024年高考英语听力真题全集：资源索引与备考指南](./实战指南/gaokao-english-listening-2015-2024-guide.md) — 2025-05-27
 - [闲鱼无货源起店实操指南：从选品到出单的 5 个核心步骤](./实战指南/xianyu-dropshipping-guide-steps.md) — 2025-05-27
+- [抖音沙雕动画短视频全流程制作教程：含实操步骤与软件环境配置](./实战指南/douyin-funny-animation-tutorial-workflow.md) — 2025-05-27
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
