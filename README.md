@@ -1214,6 +1214,7 @@
 - [私域流量闭环构建：从零起步打造高转化客户成交体系](./实战指南/private-traffic-closed-loop-conversion-system.md) — 2025-06-24
 - [电商模特拍摄成本太高？教你用AI绘画从零搭建虚拟模特工作流](./实战指南/ai-virtual-model-workflow-for-ecommerce.md) — 2025-06-24
 - [小红书带货进阶指南：从实操逻辑到高效转化的全流程拆解](./实战指南/xiaohongshu-ecommerce-guide-conversion-workflow.md) — 2025-06-23
+- [电商企业 DeepSeek 应用指南：2025年降本增效实操路径](./实战指南/deepseek-ecommerce-guide-2025.md) — 2025-06-23
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
