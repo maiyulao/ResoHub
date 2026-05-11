@@ -372,6 +372,7 @@
 - [使用 Bili2text 将 Bilibili 视频高效转换为文字的实操步骤](./Windows软件/bili2text-bilibili-video-to-text-guide.md) — 2025-07-25
 - [Cursor Pro 试用期无限续期方案：通过自动化脚本重置设备 ID 实现长期免费使用](./Windows软件/cursor-pro-trial-reset-device-id-automation.md) — 2025-07-10
 - [高效营业执照模拟工具：在线免费创建企业资质样本](./Windows软件/free-business-license-simulator-online.md) — 2025-07-07
+- [电脑硬件不符合 Windows 11 24H2 升级要求？试试用 Flyby11 绕过限制](./Windows软件/bypass-windows-11-24h2-requirements-flyby11.md) — 2025-07-06
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
