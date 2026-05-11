@@ -1373,6 +1373,7 @@
 - [2025春季拍剪全能集训营：课程大纲、加入方式及学习环境要求](./实战指南/2025-spring-video-production-bootcamp.md) — 2025-06-01
 - [2025 菜菜手作摄影进阶实战营：从基础构图到商业质感全流程训练](./实战指南/caicai-photography-advanced-camp-2025.md) — 2025-05-31
 - [AI图书博主起步指南：从内容生产到变现的实操步骤](./实战指南/ai-book-blogger-guide-content-to-monetization.md) — 2025-05-31
+- [想在TikTok上做跨境电商却不知从何下手？这份全链路实操指南帮你跑通从起号到变现的闭环](./实战指南/tiktok-cross-border-ecommerce-guide-2.md) — 2025-05-31
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
