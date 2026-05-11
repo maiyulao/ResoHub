@@ -808,6 +808,7 @@
 - [Larry老师详解延时技巧：从核心原理到具体操作步骤的实战指南](./大人学习课程/larry-delay-techniques-guide.md) — 2025-06-08
 - [灵动陪伴：与小妖精共处的日常点滴](./大人学习课程/daily-life-with-pixie.md) — 2025-06-03
 - [Carl Chan 摄影作品集：含 3566 张照片与 35 段视频 (9.86GB) 下载资源指南](./大人学习课程/carl-chan-photography-portfolio-download.md) — 2025-05-31
+- [面对亲密关系中的内耗与被动？尝试通过构建强者内核夺回情感主导权](./大人学习课程/build-strong-inner-core-for-relationship-dominance.md) — 2025-05-28
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
