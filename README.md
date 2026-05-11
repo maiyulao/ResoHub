@@ -1284,6 +1284,7 @@
 - [从零到精通：AI创意短视频剪辑实操指南](./实战指南/ai-creative-short-video-editing-guide.md) — 2025-06-14
 - [半无人直播实操指南：从流程搭建到高效带货的快速上手路径](./实战指南/semi-automated-livestreaming-guide-2.md) — 2025-06-13
 - [想用剪映电脑版做出专业质感视频却不知从何下手？这份从入门到进阶的全流程指南（含PDF与素材包）帮你快速上手](./实战指南/capcut-pc-professional-video-guide.md) — 2025-06-13
+- [AI短视频变现全攻略：100节实操课程拆解从内容创作到商业获客的创富路径](./实战指南/ai-short-video-monetization-guide.md) — 2025-06-13
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
