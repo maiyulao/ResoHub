@@ -709,6 +709,7 @@
 - [如何部署 Workout Cool 开源健身平台：从环境配置到个性化训练计划定制](./创意工具/deploy-workout-cool-open-source-fitness-platform.md) — 2025-06-22
 - [高效输入指南：快打字在线平台实操技巧与进阶路径](./创意工具/efficient-typing-guide-online-platform-tips.md) — 2025-06-21
 - [使用 LogolyPro 快速定制 P 站风格 Logo 的操作指南](./创意工具/logolypro-pornhub-style-logo-guide.md) — 2025-06-21
+- [申请软著时不知如何编写功能文档？试试 TextImageCraft 自动化生成申请内容](./创意工具/textimagecraft-automate-software-copyright-documentation.md) — 2025-06-21
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
