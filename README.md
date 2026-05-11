@@ -803,6 +803,7 @@
 - [RARBT 资源指南：高码率 4K 影视聚合与获取路径](./创意工具/rarbt-4k-movie-guide.md) — 2025-05-30
 - [学生免费资源获取指南：从平台注册到领取教育优惠的完整步骤](./创意工具/student-free-resources-guide.md) — 2025-05-29
 - [177漫画资源指南：中文、日文及全彩CG作品索引](./创意工具/177-manga-resource-guide.md) — 2025-05-28
+- [解析 DOAJ：如何利用全球开放获取期刊目录检索高质量学术资源](./创意工具/guide-to-doaj-academic-resources.md) — 2025-05-28
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
