@@ -199,6 +199,7 @@
 - [Harper 开源英语语法检查工具：高效替代 Grammarly，实现本地化快速校对](./AI工具/harper-open-source-grammar-checker-grammarly-alternative.md) — 2025-06-25
 - [ImageToPixel.Art：高效将图像转化为像素艺术，通过三步极简流程实现个性化创作](./AI工具/imagetopixel-art-image-to-pixel-art-converter.md) — 2025-06-23
 - [如何使用 AudioTextHub 将文本转换为 100 多种语言的 AI 语音](./AI工具/audiotexthub-text-to-speech-ai-voice.md) — 2025-06-23
+- [想快速出PPT却没灵感？试试用咔片AI一键生成与智能设计方案](./AI工具/kappai-ppt-generator-smart-design.md) — 2025-06-18
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
