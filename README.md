@@ -724,6 +724,7 @@
 - [EXIF Frame：快速为照片生成专业相机参数水印的在线工具](./创意工具/exif-frame-photo-camera-watermark-tool.md) — 2025-06-18
 - [XTools 开源数据安全工具集：功能特性与部署指南](./创意工具/xtools-open-source-data-security-toolkit.md) — 2025-06-18
 - [交互式健身指南：点击肌肉部位解锁专项训练视频](./创意工具/interactive-fitness-guide-muscle-training-videos.md) — 2025-06-17
+- [古典文学数字化阅读指南：深度解析经典书库的资源与体验](./创意工具/classical-literature-digital-reading-guide.md) — 2025-06-17
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
