@@ -194,6 +194,7 @@
 - [面试者用 AI 实时提示如何应对？尝试用“幻觉陷阱”让作弊工具现原形](./AI工具/how-to-detect-ai-cheating-in-interviews-hallucination-trap.md) — 2025-07-05
 - [Self.so 使用指南：将开源简历快速转换为个人展示网页](./AI工具/self-so-guide-open-source-resume-to-portfolio.md) — 2025-07-01
 - [Chatlog：构建微信聊天记录的结构化检索与 AI 知识库方案](./AI工具/chatlog-wechat-structured-retrieval-ai-knowledge-base.md) — 2025-06-30
+- [Plant App Identifier 下载指南：基于 AI 的免费植物识别工具及使用环境说明](./AI工具/plant-app-identifier-download-guide.md) — 2025-06-29
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
