@@ -371,6 +371,7 @@
 - [想从 1000 多个网站下载视频或音频却苦于没好工具？试试基于 yt-dlp 的全能下载器 Parabolic](./Mac软件/parabolic-yt-dlp-video-audio-downloader.md) — 2025-07-04
 - [GeoPort 深度评测：支持跨平台无线连接的 iOS 虚拟定位方案](./Mac软件/geoport-review-ios-virtual-location.md) — 2025-07-03
 - [Pot 划词翻译与 OCR 工具安装指南：配置 DeepL/ChatGPT 接口及跨平台使用要点](./Mac软件/pot-translation-ocr-installation-guide.md) — 2025-06-28
+- [番茄小说精简版下载工具：支持跨平台导出EPUB及断点续传配置指南](./Mac软件/tomato-novel-lite-download-tool-epub-export-guide.md) — 2025-06-13
 
 ### Windows软件
 - [KOMA 指南：实现本地漫画自动去水印、压缩与标准化归档](./windows/koma-guide-manga-watermark-removal-compression-archiving.md) — 2026-02-05
