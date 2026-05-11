@@ -375,6 +375,7 @@
 - [Pot 划词翻译与 OCR 工具安装指南：配置 DeepL/ChatGPT 接口及跨平台使用要点](./Mac软件/pot-translation-ocr-installation-guide.md) — 2025-06-28
 - [番茄小说精简版下载工具：支持跨平台导出EPUB及断点续传配置指南](./Mac软件/tomato-novel-lite-download-tool-epub-export-guide.md) — 2025-06-13
 - [WePush 跨平台批量推送工具：安装部署指南与环境配置要点](./Mac软件/wepush-installation-deployment-guide.md) — 2025-06-09
+- [WindowKeys 下载与配置指南：适用于 macOS 的第三方窗口平铺管理工具](./Mac软件/windowkeys-macos-download-setup-guide.md) — 2025-06-09
 
 ### Windows软件
 - [KOMA 指南：实现本地漫画自动去水印、压缩与标准化归档](./windows/koma-guide-manga-watermark-removal-compression-archiving.md) — 2026-02-05
