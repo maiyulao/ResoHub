@@ -1396,6 +1396,7 @@
 - [2025手机剪映全流程指南：从基础操作到高流量爆款的实操路径](./实战指南/capcut-mobile-guide-2025.md) — 2025-05-30
 - [利用DeepSeek高效量产公众号内容：从自动化创作到流量主变现的实操指南](./实战指南/deepseek-official-account-automation-guide.md) — 2025-05-29
 - [大龙 AI：提升设计职场竞争力的核心实操指南](./实战指南/dalong-ai-design-career-guide.md) — 2025-05-28
+- [AI视频全流程实操指南：从文生图到图生视频，构建自媒体高转化爆款链路](./实战指南/ai-video-workflow-guide-for-social-media.md) — 2025-05-28
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
