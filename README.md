@@ -691,6 +691,7 @@
 - [全网热点实时汇总：高效获取高频趋势指南](./创意工具/real-time-trending-topics-guide.md) — 2025-06-27
 - [Telegram 机器人精选指南：高效工具探索与实用功能推荐](./创意工具/best-telegram-bots-guide.md) — 2025-06-26
 - [2025年互联网行业术语指南：从入门到精通的解析步骤](./创意工具/2025-internet-industry-terminology-guide.md) — 2025-06-25
+- [当代网络流行语解码指南：波普辞典深度解析与应用手册](./创意工具/internet-slang-pop-dictionary-guide.md) — 2025-06-25
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
