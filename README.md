@@ -197,6 +197,7 @@
 - [Plant App Identifier 下载指南：基于 AI 的免费植物识别工具及使用环境说明](./AI工具/plant-app-identifier-download-guide.md) — 2025-06-29
 - [想把枯燥的文字快速转化为专业图表？试试用 PicDoc 实现文本到可视化的即时生成](./AI工具/picdoc-text-to-chart-visualization.md) — 2025-06-27
 - [Harper 开源英语语法检查工具：高效替代 Grammarly，实现本地化快速校对](./AI工具/harper-open-source-grammar-checker-grammarly-alternative.md) — 2025-06-25
+- [ImageToPixel.Art：高效将图像转化为像素艺术，通过三步极简流程实现个性化创作](./AI工具/imagetopixel-art-image-to-pixel-art-converter.md) — 2025-06-23
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
