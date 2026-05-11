@@ -211,6 +211,7 @@
 - [想用 AI 做数据可视化却不知从何下手？这份新手快速入门指南为你指路](./AI工具/ai-data-visualization-beginner-guide.md) — 2025-06-04
 - [如何部署 AgenticSeek：构建隐私安全的本地化 Manus AI 开源替代方案](./AI工具/deploy-agenticseek-local-manus-ai-alternative.md) — 2025-06-02
 - [Paper2Poster：基于多智能体协作的学术论文转海报开源工具](./AI工具/paper2poster-multi-agent-academic-poster-tool.md) — 2025-05-31
+- [如何快速遮盖视频中的人脸与车牌？尝试用武松打码实现AI自动化处理](./AI工具/ai-face-license-plate-blurring-wusong-damu.md) — 2025-05-30
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
