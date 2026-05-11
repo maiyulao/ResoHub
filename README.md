@@ -669,6 +669,7 @@
 - [如何使用 APPLORE 快速获取应用图标设计灵感并分析配色方案](./创意工具/how-to-use-applore-for-app-icon-inspiration-and-color-analysis.md) — 2025-07-04
 - [Lubulu 健康决策转盘：量化选择逻辑，提升医疗决策理性度](./创意工具/lubulu-health-decision-wheel-quantified-logic.md) — 2025-07-04
 - [软鸭PLAY：集成游戏娱乐与实用工具的综合性资源平台](./创意工具/ruanya-play-game-and-tool-resource-platform.md) — 2025-07-03
+- [歌词易：集成500万首曲目库的免费歌词检索平台，支持快速精准定位海量文本内容](./创意工具/geci-free-lyrics-search-platform.md) — 2025-07-03
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
