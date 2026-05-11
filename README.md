@@ -206,6 +206,7 @@
 - [面对AI时代的技能迭代焦虑，工程师该如何构建高效的知识体系？试试 ExplainThis 资源库](./AI工具/engineer-knowledge-system-explainthis.md) — 2025-06-13
 - [利用 Cloudflare 与 Gemini 构建 AI 资讯聚合平台：实现自动化内容洞察与每日分发](./AI工具/build-ai-news-aggregator-cloudflare-gemini.md) — 2025-06-12
 - [Restore Old Photos：高效还原老旧照片的 AI 在线工具指南](./AI工具/restore-old-photos-ai-guide.md) — 2025-06-12
+- [高效实现图像背景自动化剔除：Vheer Background Remover 批量处理实操指南](./AI工具/vheer-background-remover-batch-processing-guide.md) — 2025-06-06
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
