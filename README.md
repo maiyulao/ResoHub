@@ -1426,6 +1426,7 @@
 - [Fonts Ninja：高效识别网页字体并构建个人字体库的实操指南](./效率工具/fonts-ninja-guide-identify-web-fonts.md) — 2025-06-04
 - [高效清理浏览器缓存与历史记录：通过 Cleaner 插件优化 Chrome 运行速度并强化隐私安全](./效率工具/clean-chrome-cache-history-with-cleaner-extension.md) — 2025-06-03
 - [想在看剧时同时对照双语字幕且不遮挡画面？试试 DualPiP 画中画播放器](./效率工具/dualpip-bilingual-subtitles-pip-player.md) — 2025-06-01
+- [Claude SessionKey Manager：实现会话密钥高效切换与集中管理](./效率工具/claude-sessionkey-manager.md) — 2025-05-29
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
