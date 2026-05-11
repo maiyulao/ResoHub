@@ -1296,6 +1296,7 @@
 - [面对AI冲击如何不被替代？设计师在2025年提升职场竞争力的实操指南](./实战指南/designer-career-guide-2025-ai-impact.md) — 2025-06-12
 - [想尝试AI视频却不知从何下手？这份从零起步的创作实操指南帮你快速上手](./实战指南/ai-video-creation-guide-for-beginners.md) — 2025-06-12
 - [TikTok 达人运营全流程：从账号起号到商业变现的实操指南](./实战指南/tiktok-influencer-marketing-guide.md) — 2025-06-11
+- [AI场景化作图实操指南：快速替换100种环境的提效步骤](./实战指南/ai-scene-generation-guide-efficiency-steps.md) — 2025-06-11
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
