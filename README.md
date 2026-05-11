@@ -325,6 +325,7 @@
 - [XiaoMusic 使用指南：解锁小爱音箱免费音乐播放功能](./GitHub项目/xiaomusic-guide-free-music-xiaomi-speaker.md) — 2025-06-07
 - [AcWiki 知识共享生态：通过构建大学生学术资源库，打破校园学习与社会实践的认知壁垒](./GitHub项目/acwiki-knowledge-sharing-ecosystem-academic-resource-library.md) — 2025-06-03
 - [Douyin_TikTok_Download_API：支持API调用与无水印下载的高性能短视频开源爬虫](./GitHub项目/douyin-tiktok-download-api.md) — 2025-06-02
+- [打破 GitHub Trending 局限：利用 Trendingrepos 深度挖掘高价值开源项目](./GitHub项目/github-trending-trendingrepos-open-source-discovery.md) — 2025-05-31
 
 ### iOS应用
 - [2Camera内购限免：支持前后摄像头同步拍摄与画中画分屏，适用于双视角视频创作](./iOS应用/2camera-dual-camera-recording-free.md) — 2025-10-08
