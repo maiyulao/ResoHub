@@ -782,6 +782,7 @@
 - [利用 Life Countdown 可视化人生剩余时间的具体操作步骤](./创意工具/life-countdown-tutorial-steps.md) — 2025-06-04
 - [Coomer 使用指南：通过公共存档免费访问 OnlyFans 付费内容](./创意工具/coomer-guide-free-onlyfans-content.md) — 2025-06-03
 - [想找个无需注册且能流畅阅读的免费小说站？试试第一版主](./创意工具/free-novel-site-first-edition.md) — 2025-06-03
+- [想在浏览器里直接访问学习资料？试试用 Alist 搭建的风铃文件下载盘](./创意工具/alist-fengling-file-download-disk.md) — 2025-06-01
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
