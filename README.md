@@ -202,6 +202,7 @@
 - [想快速出PPT却没灵感？试试用咔片AI一键生成与智能设计方案](./AI工具/kappai-ppt-generator-smart-design.md) — 2025-06-18
 - [Glitch Text Generator：AI 驱动的故障艺术文本生成工具，快速打造扭曲视觉特效](./AI工具/ai-glitch-text-generator.md) — 2025-06-17
 - [Get笔记安装指南：支持AI知识管理的笔记工具配置与使用要点](./AI工具/get-notes-installation-guide.md) — 2025-06-15
+- [AnimeTrace 使用指南：通过 AI 图像识别快速检索动画与 GalGame 来源](./AI工具/animetrace-guide-ai-image-search.md) — 2025-06-14
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
