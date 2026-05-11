@@ -736,6 +736,7 @@
 - [TinyWow 全能工具箱：高效处理 PDF、音视频与文本的免费 AI 平台](./创意工具/tinywow-free-ai-tool-kit.md) — 2025-06-16
 - [详解3000所高校特性：高考志愿填报的择校指南](./创意工具/college-selection-guide-3000-universities.md) — 2025-06-15
 - [如何使用 NiceFont 优化网页字体显示并提升阅读体验：配置步骤详解](./创意工具/optimize-web-fonts-with-nicefont-guide.md) — 2025-06-14
+- [ResumeToJob 开源简历生成指南：通过专业模版快速构建高通过率求职简历](./创意工具/resumetojob-open-source-resume-guide.md) — 2025-06-13
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
