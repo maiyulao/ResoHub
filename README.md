@@ -1273,6 +1273,7 @@
 - [AI驱动短视频获客全流程实操：从高效剪辑到精准引流的快训方案](./实战指南/ai-short-video-customer-acquisition-guide.md) — 2025-06-16
 - [亚马逊FBA精品模式：从线下实操到全周期陪跑的进阶指南](./实战指南/amazon-fba-boutique-model-guide.md) — 2025-06-15
 - [从零起步掌握豆包AI：进阶高手的实操训练指南](./实战指南/doubao-ai-mastery-guide.md) — 2025-06-15
+- [想让桌面动起来？教你如何设置 Labubu 动态壁纸](./实战指南/how-to-set-labubu-live-wallpaper.md) — 2025-06-15
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
