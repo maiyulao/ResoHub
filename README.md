@@ -665,6 +665,7 @@
 - [Product Latest：通过自动化设计快速构建 Product Hunt 推广卡片，提升产品视觉吸引力](./创意工具/product-latest-automate-product-hunt-cards.md) — 2025-07-05
 - [Fold'N Fly 纸飞机模型库：含百款折法教程与可打印PDF模板](./创意工具/fold-n-fly-paper-airplane-models-tutorials-pdf.md) — 2025-07-05
 - [如何使用 APPLORE 快速获取应用图标设计灵感并分析配色方案](./创意工具/how-to-use-applore-for-app-icon-inspiration-and-color-analysis.md) — 2025-07-04
+- [Lubulu 健康决策转盘：量化选择逻辑，提升医疗决策理性度](./创意工具/lubulu-health-decision-wheel-quantified-logic.md) — 2025-07-04
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
