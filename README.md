@@ -1372,6 +1372,7 @@
 - [小红书笔记带货实操指南：从内容种草到电商转化的全链路增长方案](./实战指南/xiaohongshu-content-to-ecommerce-growth-guide.md) — 2025-06-01
 - [2025春季拍剪全能集训营：课程大纲、加入方式及学习环境要求](./实战指南/2025-spring-video-production-bootcamp.md) — 2025-06-01
 - [2025 菜菜手作摄影进阶实战营：从基础构图到商业质感全流程训练](./实战指南/caicai-photography-advanced-camp-2025.md) — 2025-05-31
+- [AI图书博主起步指南：从内容生产到变现的实操步骤](./实战指南/ai-book-blogger-guide-content-to-monetization.md) — 2025-05-31
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
