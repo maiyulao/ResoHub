@@ -1310,6 +1310,7 @@
 - [小红书电商自媒体变现实操指南 2.0](./实战指南/xiaohongshu-ecommerce-monetization-guide-20.md) — 2025-06-10
 - [TikTok Shop 跨境电商从入驻到起量全流程实操指南](./实战指南/tiktok-shop-cross-border-ecommerce-guide-2.md) — 2025-06-09
 - [短视频全流程实操指南：从拍摄技巧到剪辑成片的完整链路](./实战指南/short-video-production-guide.md) — 2025-06-09
+- [亚马逊FBA与FBM实操指南：从入门到出单的1对1陪跑步骤详解](./实战指南/amazon-fba-vs-fbm-guide-step-by-step.md) — 2025-06-09
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
