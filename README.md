@@ -1366,6 +1366,7 @@
 - [DeepSeek 实操指南：从指令优化到高效应用场景详解](./实战指南/deepseek-practical-guide-prompt-optimization-scenarios.md) — 2025-06-02
 - [儿童疾病防治教学资源包（1.85GB）：含课件与案例，适用于临床教学环境](./实战指南/pediatric-disease-prevention-teaching-resources.md) — 2025-06-01
 - [2025拼多多全流程实操指南：私教级运营要点拆解](./实战指南/pinduoduo-guide-2025.md) — 2025-06-01
+- [小红书笔记带货实操指南：从内容种草到电商转化的全链路增长方案](./实战指南/xiaohongshu-content-to-ecommerce-growth-guide.md) — 2025-06-01
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
