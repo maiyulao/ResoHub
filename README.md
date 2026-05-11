@@ -796,6 +796,7 @@
 - [如何在 Library of Short Stories 免费阅读并下载公有领域短篇小说：操作指南](./创意工具/read-download-free-public-domain-short-stories-guide.md) — 2025-05-31
 - [拆解李一舟创业逻辑的100个实操维度：从底层认知到流量工具的完整方法论](./创意工具/li-yizhou-entrepreneurship-methodology-100-dimensions.md) — 2025-05-30
 - [RARBT 资源指南：高码率 4K 影视聚合与获取路径](./创意工具/rarbt-4k-movie-guide.md) — 2025-05-30
+- [学生免费资源获取指南：从平台注册到领取教育优惠的完整步骤](./创意工具/student-free-resources-guide.md) — 2025-05-29
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
