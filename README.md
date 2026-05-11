@@ -718,6 +718,7 @@
 - [Parakeet TDT 实时语音转录实测：秒级处理长音频并实现 98% 识别精度](./创意工具/parakeet-tdt-realtime-speech-transcription-review.md) — 2025-06-19
 - [获取 Labubu 高质量动态壁纸的完整下载步骤与资源站指南](./创意工具/labubu-live-wallpaper-download-guide.md) — 2025-06-18
 - [EXIF Frame：快速为照片生成专业相机参数水印的在线工具](./创意工具/exif-frame-photo-camera-watermark-tool.md) — 2025-06-18
+- [XTools 开源数据安全工具集：功能特性与部署指南](./创意工具/xtools-open-source-data-security-toolkit.md) — 2025-06-18
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
