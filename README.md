@@ -730,6 +730,7 @@
 - [Bilibili 视频下载工具：支持 8K 超清画质与 Hi-Res 高保真音频导出](./创意工具/bilibili-video-downloader-8k-hires-audio.md) — 2025-06-16
 - [如何使用 TwitterXDownload 快速下载 X (Twitter) 视频：操作全指南](./创意工具/how-to-use-twitterxdownload-to-download-x-videos.md) — 2025-06-16
 - [TinyWow 全能工具箱：高效处理 PDF、音视频与文本的免费 AI 平台](./创意工具/tinywow-free-ai-tool-kit.md) — 2025-06-16
+- [详解3000所高校特性：高考志愿填报的择校指南](./创意工具/college-selection-guide-3000-universities.md) — 2025-06-15
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
