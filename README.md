@@ -1306,6 +1306,7 @@
 - [Word 全能进阶指南：从基础操作到高效办公实战的视频教程](./实战指南/word-advanced-guide-video-tutorial.md) — 2025-06-11
 - [想从零开始做短视频剪辑运营？这套7天进阶方案帮你快速上手](./实战指南/short-video-editing-7-day-guide.md) — 2025-06-10
 - [小红书电商自媒体变现实操指南 2.0](./实战指南/xiaohongshu-ecommerce-monetization-guide-20.md) — 2025-06-10
+- [TikTok Shop 跨境电商从入驻到起量全流程实操指南](./实战指南/tiktok-shop-cross-border-ecommerce-guide-2.md) — 2025-06-09
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
