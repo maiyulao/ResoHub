@@ -1360,6 +1360,7 @@
 - [手机短视频创作全流程：从拍摄、剪辑到账号运营的实操指南](./实战指南/mobile-short-video-creation-guide-2.md) — 2025-06-03
 - [关苏哲《如何快速做决策》技能提升六步法：实操指南与核心步骤解析](./实战指南/how-to-make-decisions-fast-guide.md) — 2025-06-03
 - [想学 Ps 却不知从何下手的零基础新手，如何通过一套完整的系列课程快速上手？](./实战指南/photoshop-beginner-complete-course-guide.md) — 2025-06-03
+- [电商获客没思路？教你用 DeepSeek 搭建一套AI自动化营销体系](./实战指南/deepseek-ai-ecommerce-marketing-automation.md) — 2025-06-02
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
