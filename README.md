@@ -805,6 +805,7 @@
 - [177漫画资源指南：中文、日文及全彩CG作品索引](./创意工具/177-manga-resource-guide.md) — 2025-05-28
 - [解析 DOAJ：如何利用全球开放获取期刊目录检索高质量学术资源](./创意工具/guide-to-doaj-academic-resources.md) — 2025-05-28
 - [Just My Socks 2026年购买全攻略：通过专属优惠码锁定5.2%永久折扣并快速配置服务](./创意工具/just-my-socks-buying-guide-2026.md) — 2025-05-28
+- [GreenVideo 下载指南：支持千余全球视频平台，无水印免费获取方案](./创意工具/greenvideo-download-guide.md) — 2025-05-28
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
