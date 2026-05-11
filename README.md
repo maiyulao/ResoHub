@@ -322,6 +322,7 @@
 - [Hacker News 资源指南：高效挖掘优质应用与技术社区精华](./GitHub项目/hacker-news-resource-guide.md) — 2025-06-09
 - [WeRSS开源工具：将微信公众号转化为RSS订阅流的部署与配置指南](./GitHub项目/werss-wechat-to-rss-guide.md) — 2025-06-07
 - [XiaoMusic 使用指南：解锁小爱音箱免费音乐播放功能](./GitHub项目/xiaomusic-guide-free-music-xiaomi-speaker.md) — 2025-06-07
+- [AcWiki 知识共享生态：通过构建大学生学术资源库，打破校园学习与社会实践的认知壁垒](./GitHub项目/acwiki-knowledge-sharing-ecosystem-academic-resource-library.md) — 2025-06-03
 
 ### iOS应用
 - [2Camera内购限免：支持前后摄像头同步拍摄与画中画分屏，适用于双视角视频创作](./iOS应用/2camera-dual-camera-recording-free.md) — 2025-10-08
