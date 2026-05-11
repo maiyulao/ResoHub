@@ -745,6 +745,7 @@
 - [trace.moe 使用指南：通过动漫截图快速定位具体集数](./创意工具/trace-moe-guide-anime-screenshot-search.md) — 2025-06-13
 - [随机金句生成器：构建提升学习与生活质感的交互式网页应用](./创意工具/random-quote-generator-web-app.md) — 2025-06-13
 - [易经密码：一款基于易经逻辑的网址加密工具](./创意工具/yijing-password-url-encryption-tool.md) — 2025-06-12
+- [AI Baby Generator 使用指南：通过上传照片预测子嗣长相（免费版适用环境与注意事项）](./创意工具/ai-baby-generator-guide-free-version.md) — 2025-06-11
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
