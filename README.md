@@ -1388,6 +1388,7 @@
 - [想在TikTok上做跨境电商却不知从何下手？这份全链路实操指南帮你跑通从起号到变现的闭环](./实战指南/tiktok-cross-border-ecommerce-guide-2.md) — 2025-05-31
 - [电商产品图出图慢且效果差？这21节AI平面设计实操课帮你快速上手](./实战指南/ai-graphic-design-course-for-ecommerce.md) — 2025-05-30
 - [李国平《财务通识二十讲》课程资源：学习路径与核心要点解析](./实战指南/li-guoping-financial-common-sense-course-guide.md) — 2025-05-30
+- [2025手机剪映全流程指南：从基础操作到高流量爆款的实操路径](./实战指南/capcut-mobile-guide-2025.md) — 2025-05-30
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
