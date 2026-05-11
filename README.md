@@ -716,6 +716,7 @@
 - [SpotiDownloader 使用指南：将 Spotify 音乐转换为 320kbps 高品质 MP3](./创意工具/spotidownloader-spotify-to-mp3-320kbps-guide.md) — 2025-06-20
 - [BD影视资源库：高清剧影在线云播与免费下载指南](./创意工具/bd-movie-resource-library-guide.md) — 2025-06-19
 - [Parakeet TDT 实时语音转录实测：秒级处理长音频并实现 98% 识别精度](./创意工具/parakeet-tdt-realtime-speech-transcription-review.md) — 2025-06-19
+- [获取 Labubu 高质量动态壁纸的完整下载步骤与资源站指南](./创意工具/labubu-live-wallpaper-download-guide.md) — 2025-06-18
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
