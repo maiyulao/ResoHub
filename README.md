@@ -232,6 +232,7 @@
 - [使用易剪媒实现AI视频批量剪辑与处理的完整操作流程](./Android应用/ai-video-batch-editing-guide-yijianmei.md) — 2025-06-22
 - [GKD 开源 Android 自动点击器：通过订阅规则高效拦截 App 启动广告](./Android应用/gkd-android-auto-clicker-block-app-ads.md) — 2025-06-16
 - [想在手机端实现低延迟的3D数字人交互？阿里开源MNN TaoAvatar让本地化运行成为可能](./Android应用/mnn-taoavatar-low-latency-3d-digital-human-mobile.md) — 2025-06-15
+- [小红本批量改写 v1.2.0 操作指南：通过 3 个步骤实现自媒体内容高效产出](./Android应用/xiaohongben-batch-rewrite-v1-2-0-guide.md) — 2025-06-07
 
 ### GitHub项目
 - [Lofi Radio Web：集成专注计时功能的开源网页播放器](./GitHub项目/lofi-radio-web-open-source-player.md) — 2026-05-01
