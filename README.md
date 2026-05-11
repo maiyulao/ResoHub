@@ -759,6 +759,7 @@
 - [高效聚合海量网盘影视资源：支持在线流畅播放，涵盖学霸与学渣双维度资源库](./创意工具/massive-cloud-drive-movie-resources-online-player.md) — 2025-06-09
 - [简历总是被HR秒拒？尝试用 cv-template 打造一份高通过率的专业简历](./创意工具/professional-cv-template-for-higher-success-rate.md) — 2025-06-09
 - [天天动漫：海量免费资源与多元化内容的聚合平台](./创意工具/tiantian-anime-free-resources-platform.md) — 2025-06-09
+- [AllYouCanRead：聚合全球主流报刊的数字化新闻阅读平台](./创意工具/allyoucanread-digital-news-platform.md) — 2025-06-08
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
