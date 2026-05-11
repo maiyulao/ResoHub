@@ -679,6 +679,7 @@
 - [XCloud音乐：集成多源音频流的在线播放方案，实现高保真音质与跨平台资源统一管理](./创意工具/xcloud-music-multi-source-audio-streaming-solution.md) — 2025-07-01
 - [XDown.app 极简下载指南：高效提取 X (Twitter) 媒体资源，支持高清视频、图片及音频无损保存](./创意工具/xdown-app-twitter-downloader-guide.md) — 2025-06-30
 - [爱盯盘实测：多市场行情实时监控与隐蔽盯盘方案](./创意工具/aidingpan-realtime-market-monitoring-review.md) — 2025-06-30
+- [小红书高清视频无水印下载指南：通过一键解析工具快速获取原画素材](./创意工具/xiaohongshu-video-downloader-no-watermark.md) — 2025-06-29
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
