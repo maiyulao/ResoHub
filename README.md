@@ -1182,6 +1182,7 @@
 - [想用 AI 快速产出短视频变现却没方向？这 100 节实操课帮你打通创富链路](./实战指南/ai-short-video-monetization-course.md) — 2025-06-29
 - [拼多多虚拟商品开店全流程：从入驻申请到选品实操指南](./实战指南/pinduoduo-virtual-goods-store-guide.md) — 2025-06-28
 - [TikTok广告投流实操指南：底层逻辑剖析与投放环境配置详解](./实战指南/tiktok-ads-guide-logic-and-setup.md) — 2025-06-28
+- [电商新店冷启动：从基础搭建到运营上线的全流程实操指南](./实战指南/ecommerce-new-store-cold-start-guide.md) — 2025-06-28
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
