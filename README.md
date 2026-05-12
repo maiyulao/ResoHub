@@ -470,6 +470,7 @@
 - [229本图灵编程实战指南：涵盖Python、机器学习及全栈开发的核心技术体系](./书籍/229-turing-programming-guide-python-ml-fullstack.md) — 2025-05-26
 - [如何通过针对性训练提升私密处紧致度，以改善性生活质量并增强快感？](./书籍/improve-vaginal-tightness-for-better-sex-pleasure.md) — 2025-05-24
 - [百位商业实操者的认知模型与盈利路径分析](./书籍/business-cognitive-models-and-profit-paths.md) — 2025-05-20
+- [共读一本电子书：男女同学的协作学习实践](./书籍/collaborative-ebook-reading-practice.md) — 2025-05-06
 
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
