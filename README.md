@@ -838,6 +838,7 @@
 - [Drawnix 开源白板工具：支持无限画布的安装部署与使用指南](./创意工具/drawnix-open-source-whiteboard-guide.md) — 2025-05-21
 - [玩转 Excel Game：通过实战游戏掌握表格进阶技巧（含资源下载）](./创意工具/excel-game-advanced-skills-tutorial.md) — 2025-05-20
 - [zz-plan：通过可视化甘特图优化项目排期，实现任务追踪与进度管控的数字化升级](./创意工具/zz-plan-gantt-chart-project-scheduling-optimization.md) — 2025-05-20
+- [鸟鸟han漫使用指南：分步访问并阅读完整版在线漫画](./创意工具/nionion-han-manga-guide.md) — 2025-05-19
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
