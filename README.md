@@ -1521,6 +1521,7 @@
 - [136年全球地理影像全纪实：美国版《国家地理》1888-2024完整合集，跨越世纪的珍藏级图文档案](./实战指南/national-geographic-archive-1888-2024.md) — 2025-05-12
 - [周杰伦2025南宁站演唱会4K无损资源：下载方式与播放环境配置指南](./实战指南/jay-chou-2025-nanning-concert-4k-download-guide.md) — 2025-05-12
 - [AI短视频全流程实战指南：从工具配置到商业变现的闭环跑通方案](./实战指南/ai-short-video-complete-guide-from-tools-to-monetization.md) — 2025-05-11
+- [小红书精准获客实操指南：从账号搭建到流量转化的全流程步骤](./实战指南/xiaohongshu-customer-acquisition-guide-2.md) — 2025-05-11
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
