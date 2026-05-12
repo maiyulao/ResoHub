@@ -945,6 +945,7 @@
 - [Xiaohongshu Day 使用教程：高效导出小红书无水印图片、视频及 LivePhoto](./创意工具/xiaohongshu-day-tutorial-download-watermark-free-media.md) — 2025-04-23
 - [Rou漫屋韩国漫画阅读指南：从注册到无限制观看的完整步骤](./创意工具/roumanwu-korean-manga-reading-guide.md) — 2025-04-23
 - [Student App Centre 资源指南：涵盖 200 余款正版软件教育优惠的申请渠道与激活条件](./创意工具/student-app-centre-resource-guide.md) — 2025-04-22
+- [无需安装的云端修图方案：稿定设计与 Photopea 在线图像处理实操指南](./创意工具/cloud-photo-editing-gaoding-photopea-guide.md) — 2025-04-22
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
