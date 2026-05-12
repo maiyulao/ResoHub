@@ -245,6 +245,7 @@
 - [ColorMuse：无需账号即可自由使用的AI图像生成与处理工具，支持全功能无限制创作](./AI工具/colormuse-free-ai-image-generator-and-editor.md) — 2025-04-24
 - [高效财务数字化转型：通过OCR自动化识别与批量处理重构发票管理流程](./AI工具/financial-digital-transformation-ocr-invoice-automation.md) — 2025-04-22
 - [DomainGenius：利用多模型AI精准生成品牌域名，实现从创意构思到可用性校验的自动化链路](./AI工具/domaingenius-ai-brand-domain-generator.md) — 2025-04-20
+- [基于 DeepSeek R1 的 BaziAI：开源免费的八字命理分析方案](./AI工具/baziai-deepseek-r1-bazi-analysis.md) — 2025-04-19
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
