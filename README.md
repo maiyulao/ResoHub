@@ -858,6 +858,7 @@
 - [想找多平台软件限免或折扣却不想一个个刷商店？试试 AppAgg 聚合发现工具](./创意工具/appagg-app-deals-aggregator.md) — 2025-05-16
 - [Live TV Wall：全球 4600+ 频道在线直播墙部署指南（支持大屏演播）](./创意工具/live-tv-wall-deployment-guide.md) — 2025-05-15
 - [涂鹿Toolooz：支持自由曲线路径的文字设计工具及使用指南](./创意工具/toolooz-text-curve-design-guide.md) — 2025-05-15
+- [Gaode_MAP_CUN：支持全国五级行政区划检索与数据导出的在线工具](./创意工具/gaode-map-cun-china-administrative-division-tool.md) — 2025-05-14
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
