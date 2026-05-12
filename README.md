@@ -264,6 +264,7 @@
 - [想在手机端实现低延迟的3D数字人交互？阿里开源MNN TaoAvatar让本地化运行成为可能](./Android应用/mnn-taoavatar-low-latency-3d-digital-human-mobile.md) — 2025-06-15
 - [小红本批量改写 v1.2.0 操作指南：通过 3 个步骤实现自媒体内容高效产出](./Android应用/xiaohongben-batch-rewrite-v1-2-0-guide.md) — 2025-06-07
 - [晕车时难以忍受恶心不适？尝试用 MotionEaseTune 的 100Hz 特定频率声音来缓解](./Android应用/motioneasetune-100hz-sound-for-motion-sickness.md) — 2025-05-29
+- [PeaSyo 开源客户端详解：在 Android 设备上实现 PS4 与 PS5 的远程串流](./Android应用/peasyo-android-ps4-ps5-remote-play.md) — 2025-05-02
 
 ### GitHub项目
 - [Lofi Radio Web：集成专注计时功能的开源网页播放器](./GitHub项目/lofi-radio-web-open-source-player.md) — 2026-05-01
