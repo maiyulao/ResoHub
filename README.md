@@ -1686,6 +1686,7 @@
 - [想用iPhone拍出电影质感却不知从何入手？这8节课帮你掌握关键技巧](./实战指南/iphone-cinematic-video-tips-course.md) — 2025-04-21
 - [Java 业务开发百例避坑指南：典型错误分析与实战修复方案](./实战指南/java-business-development-pitfalls-and-solutions.md) — 2025-04-20
 - [DeepSeek 落地实战指南：从场景配置到高效应用](./实战指南/deepseek-implementation-guide.md) — 2025-04-20
+- [亚马逊SP广告实操指南：基于算法逻辑的架构搭建与投放策略](./实战指南/amazon-sp-ads-algorithm-strategy-guide.md) — 2025-04-19
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
