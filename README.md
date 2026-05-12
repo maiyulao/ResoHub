@@ -1560,6 +1560,7 @@
 - [DeepSeek办公实操指南：通过AI重构工作流实现生产力跃迁，涵盖自动化处理、文档重塑与复杂任务拆解](./实战指南/deepseek-office-workflow-productivity-guide.md) — 2025-05-07
 - [为什么有些人看起来比实际年龄小？掌握这几项表情管理技巧，帮你摆脱老气感](./实战指南/look-younger-facial-expression-tips.md) — 2025-05-07
 - [TikTok出海实操：60天从零到一的线上陪跑增长计划](./实战指南/tiktok-growth-plan-60-days.md) — 2025-05-06
+- [跟盼盼老师学习极致瑜伽：通过身心修习提升生活质量](./实战指南/learn-extreme-yoga-with-teacher-panpan.md) — 2025-05-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
