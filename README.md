@@ -826,6 +826,7 @@
 - [书法字体在线生成指南：支持50余种风格实时预览，实现多格式快速导出](./创意工具/calligraphy-font-generator-guide.md) — 2025-05-24
 - [如何使用柠檬直播观看高清多赛事体育直播：操作指南与全流程步骤](./创意工具/lemon-live-sports-streaming-guide.md) — 2025-05-23
 - [聚会饮酒游戏指南：从热门选集到具体玩法步骤详解](./创意工具/party-drinking-games-guide.md) — 2025-05-22
+- [发现TV：高效影视资源检索与在线播放指南](./创意工具/faxian-tv-movie-resource-guide.md) — 2025-05-22
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
