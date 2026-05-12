@@ -221,6 +221,7 @@
 - [想让电子文档看起来像亲笔书写？试用凹凸工坊实现AI模拟手写转换](./AI工具/ai-handwriting-converter-aotugongfang.md) — 2025-05-19
 - [Image Describer X 评测：高效将图像转化为精准文本的免费 AI 工具](./AI工具/image-describer-x-review.md) — 2025-05-18
 - [LineArt.app 免费线稿生成工具：支持商用高质量涂色页导出与实操指南](./AI工具/lineart-app-free-coloring-page-generator-guide.md) — 2025-05-18
+- [TryAII 实测指南：多款主流 AI 大模型实时横向对比方案](./AI工具/tryaii-ai-model-comparison-guide.md) — 2025-05-17
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
