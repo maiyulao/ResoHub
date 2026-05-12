@@ -1645,6 +1645,7 @@
 - [2025年度计划表PDF模板：高效日程管理资源汇总](./实战指南/2025-annual-planner-pdf-templates.md) — 2025-04-26
 - [利用 DeepSeek 驱动电商获客增长：从模型调优到实战场景的全链路训练方案](./实战指南/deepseek-ecommerce-growth-training-guide.md) — 2025-04-26
 - [小红书商业闭环实操指南：从底层逻辑拆解到高转化变现路径](./实战指南/xiaohongshu-business-closed-loop-guide.md) — 2025-04-25
+- [如何在电商竞争白热化的环境下，通过经营分析精准规划业务布局？](./实战指南/e-commerce-business-planning-via-operational-analysis.md) — 2025-04-25
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
