@@ -1671,6 +1671,7 @@
 - [女性经期调理瑜伽指南：通过特定体式缓解痛经与内分泌失调，分阶段优化生理周期健康](./实战指南/yoga-guide-for-menstrual-health-and-period-pain-relief.md) — 2025-04-22
 - [AI视频创作实操指南：从基础上手到爆款产出全流程](./实战指南/ai-video-creation-guide-2.md) — 2025-04-22
 - [大厂前端工程师进阶指南：从基础到实战的培养路径](./实战指南/frontend-engineer-career-path-guide.md) — 2025-04-22
+- [解析人格特质的实操指南：从自我认知到他人分析的步骤详解](./实战指南/practical-guide-to-personality-traits-analysis.md) — 2025-04-21
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
