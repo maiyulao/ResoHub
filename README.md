@@ -213,6 +213,7 @@
 - [Paper2Poster：基于多智能体协作的学术论文转海报开源工具](./AI工具/paper2poster-multi-agent-academic-poster-tool.md) — 2025-05-31
 - [如何快速遮盖视频中的人脸与车牌？尝试用武松打码实现AI自动化处理](./AI工具/ai-face-license-plate-blurring-wusong-damu.md) — 2025-05-30
 - [全球AI动态实时追踪：多源资讯聚合平台及高效订阅指南](./AI工具/global-ai-news-aggregation-guide.md) — 2025-05-29
+- [DreamingHome：利用GPT-4o实现单图驱动的个性化家居改造方案](./AI工具/dreaminghome-gpt4o-personalized-home-remodeling.md) — 2025-05-23
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
