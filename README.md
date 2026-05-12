@@ -1740,4 +1740,7 @@
 
 ### 福利
 - [想免费试用美区Apple娱乐服务？Apple Card用户如何领取五大订阅福利全指南](./福利/apple-card-free-subscription-guide.md) — 2025-04-20
+
+### 羊毛
+- [IntelliJ IDEA 订阅优惠指南：激活 91 天免费试用与续费 7.5 折方案](./羊毛/intellij-idea-subscription-discount-guide.md) — 2025-04-19
 <!-- LE_AUTOPOST_INDEX_END -->
