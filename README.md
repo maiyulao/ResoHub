@@ -1587,6 +1587,7 @@
 - [小红书个人职业IP打造实战指南：从定位起号到商业变现的陪跑式成长体系](./实战指南/xiaohongshu-personal-ip-growth-guide.md) — 2025-05-04
 - [写 VBA 总是慢且易报错？尝试用 DeepSeek 优化代码逻辑与执行效率](./实战指南/optimize-vba-with-deepseek.md) — 2025-05-04
 - [2025短视频IP全链路实战指南：从核心定位到流量变现的技能体系详解](./实战指南/short-video-ip-guide-2025.md) — 2025-05-03
+- [想做沙雕动画却没基础？教你用手机快速上手实战全流程](./实战指南/mobile-sand-sculpture-animation-tutorial.md) — 2025-05-03
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
