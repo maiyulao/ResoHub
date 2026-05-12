@@ -1498,6 +1498,7 @@
 - [12000组Midjourney提示词库：从关键词组合到出图效果的实操指南](./实战指南/12000-midjourney-prompts-guide.md) — 2025-05-15
 - [DeepSeek 场景实战指南：通过全流程案例拆解，将 AI 能力转化为实际生产力](./实战指南/deepseek-practical-guide-production-productivity.md) — 2025-05-15
 - [毕业答辩 PPT 怎么做才不显业余？一套能提升学术质感的论文汇报模版分享](./实战指南/graduation-defense-ppt-templates-guide.md) — 2025-05-15
+- [想在亚马逊开店却不知从何入手？这份全流程实操指南帮你快速上手](./实战指南/amazon-seller-guide-for-beginners.md) — 2025-05-14
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
