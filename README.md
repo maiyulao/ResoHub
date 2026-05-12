@@ -1465,6 +1465,7 @@
 - [小狐极简翘臀训练方案：适用环境与高效跟练指南](./实战指南/xiaohu-minimalist-glute-workout-guide.md) — 2025-05-20
 - [主流AI实战教程精选：涵盖万维钢、透透糖及李一舟等名师的核心方法论与应用技巧](./实战指南/best-ai-practical-tutorials-experts-methodology.md) — 2025-05-19
 - [小红书电商选品陪跑实操课：日出百单策略与课程获取指南](./实战指南/xiaohongshu-ecommerce-product-selection-course.md) — 2025-05-19
+- [系统分析师高级资格考证：全流程备考资源与通关方案](./实战指南/system-analyst-certification-guide.md) — 2025-05-19
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
