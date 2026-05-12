@@ -1471,6 +1471,7 @@
 - [小红书电商选品陪跑实操课：日出百单策略与课程获取指南](./实战指南/xiaohongshu-ecommerce-product-selection-course.md) — 2025-05-19
 - [系统分析师高级资格考证：全流程备考资源与通关方案](./实战指南/system-analyst-certification-guide.md) — 2025-05-19
 - [构建 AI 超级个体的五维能力体系：从理论模型到百万量级实践](./实战指南/ai-super-individual-five-dimensional-capability-system.md) — 2025-05-19
+- [高颜值短视频起号实操指南：从剪辑技巧到账号运营的 5 个关键步骤](./实战指南/short-video-growth-guide-5-steps.md) — 2025-05-18
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
