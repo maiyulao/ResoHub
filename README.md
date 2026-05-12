@@ -1655,6 +1655,7 @@
 - [如何在电商竞争白热化的环境下，通过经营分析精准规划业务布局？](./实战指南/e-commerce-business-planning-via-operational-analysis.md) — 2025-04-25
 - [跨境电商独立站实战指南：从零起步的建站与运营全流程训练](./实战指南/cross-border-ecommerce-independent-site-guide.md) — 2025-04-24
 - [抖音千川起号：直播带货陪跑实操指南](./实战指南/douyin-qianchuan-livestreaming-guide.md) — 2025-04-24
+- [利用 DeepSeek 提升公众号流量主收益的实操指南](./实战指南/deepseek-guide-increase-wechat-revenue.md) — 2025-04-23
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
