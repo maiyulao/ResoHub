@@ -889,6 +889,7 @@
 - [TrimSpace 在线图片处理指南：实现高效、免费的图像编辑与优化](./创意工具/trimspace-online-image-editing-guide.md) — 2025-05-07
 - [ZhiMap 深度评测：支持多端实时同步的免费在线思维导图工具](./创意工具/zhimap-review-free-mind-mapping-tool.md) — 2025-05-07
 - [AudioLe 资源指南：成人 ASMR 在线内容检索与体验](./创意工具/audiole-adult-asmr-guide.md) — 2025-05-06
+- [LdGames 资源获取指南：分步下载免费 2D/3D 游戏](./创意工具/ldgames-download-guide-free-2d-3d-games.md) — 2025-05-05
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
