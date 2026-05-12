@@ -360,6 +360,7 @@
 - [厌倦了 Google Analytics 的臃肿与隐私顾虑？试试 Rybbit：轻量级且无需 Cookie 的开源分析方案](./GitHub项目/rybbit-lightweight-privacy-focused-google-analytics-alternative.md) — 2025-05-10
 - [想批量保存小红书笔记却被繁琐步骤困扰？试试用 XHS Web 实现内容一键下载与导出](./GitHub项目/xhs-web-batch-download-export.md) — 2025-05-07
 - [使用 AI-Media2Doc 将音视频转化为多风格文档的实操步骤](./GitHub项目/ai-media2doc-audio-video-to-document-guide.md) — 2025-05-07
+- [StreamVault 视频资源管理工具：支持多平台下载与库整理及部署指南](./GitHub项目/streamvault-video-management-guide.md) — 2025-05-02
 
 ### iOS应用
 - [2Camera内购限免：支持前后摄像头同步拍摄与画中画分屏，适用于双视角视频创作](./iOS应用/2camera-dual-camera-recording-free.md) — 2025-10-08
