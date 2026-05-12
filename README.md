@@ -1598,6 +1598,7 @@
 - [小红书电商全流程实操指南：从零基础起步到实现高客单转化](./实战指南/xiaohongshu-ecommerce-guide-high-conversion-2.md) — 2025-05-02
 - [想在拼多多开店却不知从何入手？这份零基础实操指南帮你快速跑通电商流程](./实战指南/pinduoduo-store-setup-guide-for-beginners.md) — 2025-05-02
 - [抖音电商全链路实操指南：剖析账号、流量、人货场、主播与店铺的底层逻辑](./实战指南/douyin-ecommerce-full-link-guide.md) — 2025-05-01
+- [外贸新手进阶指南：从基础能力到核心竞争力的成长路径](./实战指南/foreign-trade-beginner-guide-growth-path.md) — 2025-05-01
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
