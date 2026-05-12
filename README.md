@@ -1637,6 +1637,7 @@
 - [运用墨菲定律规避生活风险的20个实操维度](./实战指南/20-ways-to-avoid-risks-with-murphys-law.md) — 2025-04-27
 - [抖音男装原创带货全流程：从零起步至打造爆款的实操指南](./实战指南/douyin-menswear-selling-guide.md) — 2025-04-27
 - [私域运营全攻略：从零开始构建私域增长体系](./实战指南/private-traffic-growth-guide-2.md) — 2025-04-26
+- [跨设备影像创作：从相机到无人机的摄影逻辑实操](./实战指南/cross-device-imaging-photography-logic.md) — 2025-04-26
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
