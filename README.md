@@ -941,6 +941,7 @@
 - [如何利用 Markdown 快速制作多风格图文海报：操作指南](./创意工具/create-posters-with-markdown-guide.md) — 2025-04-25
 - [老地方影院海外版：高清影视资源获取路径与环境配置指南](./创意工具/laodifang-cinema-overseas-guide.md) — 2025-04-24
 - [GitHub 中国区开发者影响力排名：china-ranking 项目详解](./创意工具/github-china-developer-influence-ranking.md) — 2025-04-23
+- [寻找高质量的电商或后台管理网页模板？Template0 提供了覆盖多场景的免费资源精选库](./创意工具/high-quality-ecommerce-admin-web-templates-template0.md) — 2025-04-23
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
