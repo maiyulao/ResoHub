@@ -526,6 +526,7 @@
 - [米卡实战塔罗初学者指南：从基础理论到实际占卜的进阶路径](./兴趣爱好/mika-tarot-beginners-guide.md) — 2025-05-22
 - [想拍出海马体质感的证件照？康康分享一套可快速上手的摄影实操指南](./兴趣爱好/seahorse-style-id-photo-guide.md) — 2025-05-12
 - [想学小提琴却没基础？成人零起点快速上手指南](./兴趣爱好/adult-violin-beginner-guide.md) — 2025-04-30
+- [商业凉拌菜与热卤实操指南：从核心风味构建到系列化产品开发](./兴趣爱好/commercial-cold-dishes-and-braised-food-guide.md) — 2025-04-26
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
