@@ -1733,4 +1733,7 @@
 
 ### 浏览器插件
 - [PageTalk 开源解析：轻量化 AI 浏览器插件的功能与实践](./浏览器插件/pagetalk-open-source-ai-browser-extension.md) — 2025-04-26
+
+### 福利
+- [想免费试用美区Apple娱乐服务？Apple Card用户如何领取五大订阅福利全指南](./福利/apple-card-free-subscription-guide.md) — 2025-04-20
 <!-- LE_AUTOPOST_INDEX_END -->
