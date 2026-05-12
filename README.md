@@ -352,6 +352,7 @@
 - [ChinaTextbook 开源 PDF 库：覆盖全学段中国教材下载及使用指南](./GitHub项目/chinatextbook-open-source-pdf-library.md) — 2025-05-15
 - [Hidden Word：实现文本不可见水印植入的内容版权保护方案](./GitHub项目/hidden-word-invisible-text-watermark-copyright-protection.md) — 2025-05-13
 - [厌倦了 Google Analytics 的臃肿与隐私顾虑？试试 Rybbit：轻量级且无需 Cookie 的开源分析方案](./GitHub项目/rybbit-lightweight-privacy-focused-google-analytics-alternative.md) — 2025-05-10
+- [想批量保存小红书笔记却被繁琐步骤困扰？试试用 XHS Web 实现内容一键下载与导出](./GitHub项目/xhs-web-batch-download-export.md) — 2025-05-07
 
 ### iOS应用
 - [2Camera内购限免：支持前后摄像头同步拍摄与画中画分屏，适用于双视角视频创作](./iOS应用/2camera-dual-camera-recording-free.md) — 2025-10-08
