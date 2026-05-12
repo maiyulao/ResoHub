@@ -331,6 +331,7 @@
 - [Douyin_TikTok_Download_API：支持API调用与无水印下载的高性能短视频开源爬虫](./GitHub项目/douyin-tiktok-download-api.md) — 2025-06-02
 - [打破 GitHub Trending 局限：利用 Trendingrepos 深度挖掘高价值开源项目](./GitHub项目/github-trending-trendingrepos-open-source-discovery.md) — 2025-05-31
 - [想在不同设备上重温经典游戏却找不到可靠的模拟器和ROM？这份全平台资源清单为你提供解决方案](./GitHub项目/best-game-emulators-and-roms-resource-list.md) — 2025-05-26
+- [Cloudflare-SQL-to-API：利用 Workers 实现 SQL 快速构建 REST API](./GitHub项目/cloudflare-sql-to-api-workers-rest-api.md) — 2025-05-25
 
 ### iOS应用
 - [2Camera内购限免：支持前后摄像头同步拍摄与画中画分屏，适用于双视角视频创作](./iOS应用/2camera-dual-camera-recording-free.md) — 2025-10-08
