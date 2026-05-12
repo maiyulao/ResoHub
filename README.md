@@ -234,6 +234,7 @@
 - [想直接使用 Claude 但被注册门槛挡在门外？试试 EasyChat 镜像站实现免登录直连](./AI工具/easychat-claude-mirror-no-login.md) — 2025-05-03
 - [如何构建一个能基于私有文档精准回答的 AI 知识库？尝试开源方案 ChatWiki](./AI工具/build-ai-knowledge-base-with-chatwiki.md) — 2025-05-03
 - [面对晦涩的学术论文读不下去？试试用 mad-professor 快速拆解核心观点](./AI工具/read-academic-papers-with-mad-professor.md) — 2025-05-03
+- [想在视频或直播中快速改变声音？试试 Voice Maker 免费在线变声方案](./AI工具/voice-maker-free-online-voice-changer.md) — 2025-05-02
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
