@@ -1621,6 +1621,7 @@
 - [手机摄影进阶指南：从基础技巧到实拍实操](./实战指南/mobile-photography-guide.md) — 2025-04-30
 - [如何利用 DeepSeek 优化千川 IP 投放，实现全域订单量突破？](./实战指南/deepseek-optimize-qianchuan-ip-orders.md) — 2025-04-29
 - [自媒体创作者如何利用 AI 提升内容产出效率：实战训练指南](./实战指南/ai-content-efficiency-guide-for-creators.md) — 2025-04-29
+- [如何让小红书聚光投放精准触达目标人群？从底层逻辑到实操全流程解析](./实战指南/xiaohongshu-juguang-targeting-guide.md) — 2025-04-28
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
