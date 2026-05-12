@@ -1563,6 +1563,7 @@
 - [TikTok出海实操：60天从零到一的线上陪跑增长计划](./实战指南/tiktok-growth-plan-60-days.md) — 2025-05-06
 - [跟盼盼老师学习极致瑜伽：通过身心修习提升生活质量](./实战指南/learn-extreme-yoga-with-teacher-panpan.md) — 2025-05-06
 - [淘系高客单店群实操指南：通过全周期运营模型实现客单价与利润双提升](./实战指南/taobao-high-ticket-store-operation-guide.md) — 2025-05-06
+- [从算法底层逻辑出发，构建金牌主播的进阶实操路径](./实战指南/algorithm-logic-livestreamer-growth-path.md) — 2025-05-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
