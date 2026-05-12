@@ -831,6 +831,7 @@
 - [发现TV：高效影视资源检索与在线播放指南](./创意工具/faxian-tv-movie-resource-guide.md) — 2025-05-22
 - [风鸟企业信用查询平台：高效检索法人风险与工商信息（含5年SVIP注册礼包）](./创意工具/fengniao-enterprise-credit-check-platform.md) — 2025-05-21
 - [品技论坛Switch游戏资源获取指南：NS游戏免费下载与解锁安装实操说明](./创意工具/switch-game-download-installation-guide.md) — 2025-05-21
+- [700+中国高校矢量校徽库：支持SVG格式免费下载的高清标识资源集](./创意工具/china-universities-vector-logos-svg.md) — 2025-05-21
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
