@@ -1540,6 +1540,7 @@
 - [想让短视频更有爆款潜质？从基础操作到进阶技巧，带你玩转剪映实操指南](./实战指南/capcut-tutorial-for-viral-videos.md) — 2025-05-09
 - [老 A 营销训练营：以实战驱动增长，将理论转化为可落地的执行方案](./实战指南/old-a-marketing-bootcamp-growth-driven-execution.md) — 2025-05-09
 - [视频号直播带货陪跑实战营（第13期）：微信豆打品指南](./实战指南/video-channel-livestream-ecommerce-guide-v13.md) — 2025-05-09
+- [想用 AI 提升办公效率并开启副业，零基础该如何从工具上手到实现商业实战？](./实战指南/ai-productivity-and-side-hustle-guide.md) — 2025-05-09
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
