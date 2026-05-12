@@ -830,6 +830,7 @@
 - [面对亲密关系中的内耗与被动？尝试通过构建强者内核夺回情感主导权](./大人学习课程/build-strong-inner-core-for-relationship-dominance.md) — 2025-05-28
 - [大学同学关系维护与社交幸福感提升操作指南](./大人学习课程/college-alumni-relationship-and-social-wellbeing-guide.md) — 2025-05-26
 - [阿朱阿学习笔记：知识点复盘与实战更新](./大人学习课程/azhu-learning-notes-review-and-practice.md) — 2025-05-24
+- [30岁后男性如何构建高质量亲密关系：从认知升级到实操指南](./大人学习课程/high-quality-intimacy-guide-for-men-over-30.md) — 2025-05-24
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
