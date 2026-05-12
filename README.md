@@ -1566,6 +1566,7 @@
 - [从算法底层逻辑出发，构建金牌主播的进阶实操路径](./实战指南/algorithm-logic-livestreamer-growth-path.md) — 2025-05-06
 - [AI 驱动的小红书电商全链路运营：从策略规划到实操落地的分步指南](./实战指南/ai-xiaohongshu-ecommerce-operation-guide.md) — 2025-05-05
 - [TikTok短视频广告投放实操指南：课程资源获取与环境配置要点](./实战指南/tiktok-ads-guide-resources-and-setup.md) — 2025-05-05
+- [TikTok小店全链路实操指南：从选品策略到回款结算的出单闭环](./实战指南/tiktok-shop-full-guide-product-selection-to-payment.md) — 2025-05-05
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
