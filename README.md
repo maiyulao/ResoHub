@@ -975,6 +975,7 @@
 - [CHi 训练实操指南：提升持久力与延时技巧](./大人学习课程/chi-training-guide-stamina-and-delay-techniques.md) — 2025-04-28
 - [步某非烟第三季 A700-A800 全集获取与安装步骤](./大人学习课程/bu-mou-fei-yan-s3-a700-a800-full-guide.md) — 2025-04-24
 - [女性高阶进阶技巧：系列课程快速上手指南](./大人学习课程/advanced-skills-guide-for-women.md) — 2025-04-22
+- [老情叔叔：关于亲密关系与情感经营的实操指南](./大人学习课程/intimacy-and-emotional-relationship-guide.md) — 2025-04-19
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
