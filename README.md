@@ -934,6 +934,7 @@
 - [如何构建并管理抖喵家的大人轮盘游戏库：从策划到实施的完整步骤](./创意工具/how-to-build-and-manage-adult-roulette-game-library.md) — 2025-04-27
 - [SeedHub：免注册的高清影视与动漫资源聚合站](./创意工具/seedhub-hd-movies-anime-aggregator.md) — 2025-04-27
 - [央国企求职实操指南：从岗位筛选到申请流程的校招与实习全攻略](./创意工具/state-owned-enterprise-job-application-guide.md) — 2025-04-26
+- [ABCTorrents 磁力搜索指南：资源检索与高效下载实操](./创意工具/abctorrents-magnet-search-guide.md) — 2025-04-25
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
