@@ -443,6 +443,7 @@
 - [Input Source Pro 开源下载：支持按应用与域名自动切换输入法的 macOS 效率工具](./Mac软件/input-source-pro-download-macos.md) — 2025-05-09
 - [res-downloader：支持多平台的通用资源下载工具解析](./Mac软件/res-downloader-universal-resource-tool.md) — 2025-05-05
 - [使用 NoteGen 快速构建 AI 增强型 Markdown 笔记的完整操作流程](./Mac软件/build-ai-markdown-notes-with-notegen.md) — 2025-05-01
+- [PixPin 深度评测：集成 OCR 与长截图功能的贴图效率工具](./Mac软件/pixpin-review-ocr-screenshot-tool.md) — 2025-04-27
 
 ### Windows软件
 - [KOMA 指南：实现本地漫画自动去水印、压缩与标准化归档](./windows/koma-guide-manga-watermark-removal-compression-archiving.md) — 2026-02-05
