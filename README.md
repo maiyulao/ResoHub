@@ -1463,6 +1463,7 @@
 - [淘宝电商运营全流程指南：从底层逻辑到实操链路的进阶手册](./实战指南/taobao-ecommerce-operation-guide.md) — 2025-05-21
 - [高效瘦身瑜伽实操指南：从基础准备到进阶练习的完整步骤](./实战指南/weight-loss-yoga-guide.md) — 2025-05-20
 - [小狐极简翘臀训练方案：适用环境与高效跟练指南](./实战指南/xiaohu-minimalist-glute-workout-guide.md) — 2025-05-20
+- [主流AI实战教程精选：涵盖万维钢、透透糖及李一舟等名师的核心方法论与应用技巧](./实战指南/best-ai-practical-tutorials-experts-methodology.md) — 2025-05-19
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
