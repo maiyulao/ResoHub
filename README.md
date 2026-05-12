@@ -1574,6 +1574,7 @@
 - [21节AIGC电商平面设计实操教程：涵盖工具配置与场景应用指南](./实战指南/aigc-ecommerce-graphic-design-tutorial.md) — 2025-05-05
 - [如何将一项专业技能快速转化为高价值个人IP？这份14天实操训练计划为你拆解](./实战指南/skill-to-high-value-personal-ip-14day-plan.md) — 2025-05-04
 - [抖音酒店民宿运营指南：零基础获取本地生活流量增量](./实战指南/douyin-hotel-homestay-operation-guide.md) — 2025-05-04
+- [小红书个人职业IP打造实战指南：从定位起号到商业变现的陪跑式成长体系](./实战指南/xiaohongshu-personal-ip-growth-guide.md) — 2025-05-04
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
