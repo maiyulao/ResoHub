@@ -1434,6 +1434,7 @@
 - [AI自媒体全流程实操教程：适用场景、资源获取及核心避坑指南](./实战指南/ai-self-media-complete-guide.md) — 2025-05-24
 - [Scratch 3.0 少儿编程全链路教学方案：214 课时体系化实战指南](./实战指南/scratch-3-complete-teaching-guide-214-lessons.md) — 2025-05-23
 - [99个儿童趣味科学实验：从准备到实践的操作指南](./实战指南/99-fun-science-experiments-for-kids-guide.md) — 2025-05-23
+- [ComfyUI老照片修复工作流：集成PS后处理的还原方案与环境配置指南](./实战指南/comfyui-old-photo-restoration-workflow-ps-post-processing.md) — 2025-05-23
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
