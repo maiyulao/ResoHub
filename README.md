@@ -225,6 +225,7 @@
 - [AI 梦境解析指南：基于周公解梦逻辑的智能分析平台使用手册](./AI工具/ai-dream-interpretation-guide.md) — 2025-05-17
 - [想在 IDE 中低成本使用 DeepSeek 满血版？试试腾讯云 CodeBuddy 的免部署免费接入方案](./AI工具/use-deepseek-full-version-via-tencent-cloud-codebuddy.md) — 2025-05-15
 - [AI Couple Photo 实操指南：零基础快速生成超现实情侣肖像](./AI工具/ai-couple-photo-guide.md) — 2025-05-13
+- [PY-XIAOZHI：基于 Python 的 AI 小智语音客户端实现方案，低门槛体验智能语音交互](./AI工具/py-xiaozhi-python-ai-voice-client.md) — 2025-05-13
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
