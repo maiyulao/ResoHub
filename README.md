@@ -1630,6 +1630,7 @@
 - [高效数据可视化指南：从基础图表选择到高级动态呈现的实操全集](./实战指南/data-visualization-guide-basic-to-advanced.md) — 2025-04-28
 - [新东方雅思全能7分外教VIP班资源：课程内容、适用人群及获取指南](./实战指南/new-oriental-ielts-7-vip-course-guide.md) — 2025-04-28
 - [运用墨菲定律规避生活风险的20个实操维度](./实战指南/20-ways-to-avoid-risks-with-murphys-law.md) — 2025-04-27
+- [抖音男装原创带货全流程：从零起步至打造爆款的实操指南](./实战指南/douyin-menswear-selling-guide.md) — 2025-04-27
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
