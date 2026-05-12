@@ -824,6 +824,7 @@
 - [Libre Search：基于 SearXNG 的去广告隐私元搜索方案](./创意工具/libre-search-searxng-privacy-metasearch.md) — 2025-05-26
 - [927款商用免费中英文字体资源库：全类型字体一站式下载指南](./创意工具/927-free-commercial-fonts-library.md) — 2025-05-25
 - [书法字体在线生成指南：支持50余种风格实时预览，实现多格式快速导出](./创意工具/calligraphy-font-generator-guide.md) — 2025-05-24
+- [如何使用柠檬直播观看高清多赛事体育直播：操作指南与全流程步骤](./创意工具/lemon-live-sports-streaming-guide.md) — 2025-05-23
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
