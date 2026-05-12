@@ -1479,6 +1479,7 @@
 - [慕熙电商2025零基础带货实操课程：获取渠道与新手入门指南](./实战指南/muxi-ecommerce-2025-beginner-guide.md) — 2025-05-18
 - [小红书电商实操指南：涵盖有货源、无货源及虚拟产品在内的全链路获利方案](./实战指南/xiaohongshu-ecommerce-profit-guide.md) — 2025-05-17
 - [DeepSeek 驱动的小红书爆款实操指南：通过 AI 规模化产出短视频，提升店铺转化率](./实战指南/deepseek-xiaohongshu-ai-video-guide.md) — 2025-05-17
+- [想用 DeepSeek 打造个人自媒体 IP？这份实操训练指南帮你快速上手](./实战指南/deepseek-personal-ip-guide.md) — 2025-05-17
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
