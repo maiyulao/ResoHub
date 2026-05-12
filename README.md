@@ -950,6 +950,7 @@
 - [无需安装的云端修图方案：稿定设计与 Photopea 在线图像处理实操指南](./创意工具/cloud-photo-editing-gaoding-photopea-guide.md) — 2025-04-22
 - [BJcam 韩国主播视频资源站：访问路径与观看环境指南](./创意工具/bjcam-korean-streamer-videos-guide.md) — 2025-04-21
 - [如何使用全球地铁线路图查询平台：从地图检索到路线规划的操作步骤](./创意工具/how-to-use-global-metro-map-platform.md) — 2025-04-21
+- [Temp Mail Pro 临时邮箱安装指南：快速创建匿名账号及隐私配置要点](./创意工具/temp-mail-pro-installation-guide.md) — 2025-04-21
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
