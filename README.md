@@ -904,6 +904,7 @@
 - [如何通过 Xiutaku 获取全网热门图片学习资源：操作指南与资源汇总](./创意工具/xiutaku-popular-image-learning-resources-guide.md) — 2025-05-03
 - [如何利用 PPBC 中国植物图像库检索植物分类图片：操作指南](./创意工具/ppbc-china-plant-image-library-guide.md) — 2025-05-03
 - [跨越597份阅读清单：构建全维度经典书目检索指南](./创意工具/comprehensive-classic-book-list-search-guide.md) — 2025-05-03
+- [常备中药却不知如何搭配？这份中医养生调理指南与中草药查询工具帮你快速上手](./创意工具/chinese-herb-guide-and-lookup-tool.md) — 2025-05-02
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
