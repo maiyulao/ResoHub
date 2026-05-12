@@ -1532,6 +1532,7 @@
 - [DeepSeek 驱动美业 AI 获客全流程：从数字人内容生产到抖音电商转化实操](./实战指南/deepseek-beauty-ai-customer-acquisition-douyin-ecommerce.md) — 2025-05-10
 - [DeepSeek 全流程实操指南：从基础配置到高阶提示词工程的进阶路径](./实战指南/deepseek-complete-guide-setup-to-prompt-engineering.md) — 2025-05-10
 - [想在两周内快速提升竞争力并拿到高薪 Offer？试试刘媛媛的 14 天求职特训方案](./实战指南/14-day-job-search-training-plan-liu-yuanyuan.md) — 2025-05-10
+- [巴菲特年度股东会与股东信：全周期知识库归档](./实战指南/buffett-annual-meeting-and-letters-archive.md) — 2025-05-10
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
