@@ -1626,6 +1626,7 @@
 - [自媒体创作者如何利用 AI 提升内容产出效率：实战训练指南](./实战指南/ai-content-efficiency-guide-for-creators.md) — 2025-04-29
 - [如何让小红书聚光投放精准触达目标人群？从底层逻辑到实操全流程解析](./实战指南/xiaohongshu-juguang-targeting-guide.md) — 2025-04-28
 - [高效数据可视化指南：从基础图表选择到高级动态呈现的实操全集](./实战指南/data-visualization-guide-basic-to-advanced.md) — 2025-04-28
+- [新东方雅思全能7分外教VIP班资源：课程内容、适用人群及获取指南](./实战指南/new-oriental-ielts-7-vip-course-guide.md) — 2025-04-28
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
