@@ -834,6 +834,7 @@
 - [品技论坛Switch游戏资源获取指南：NS游戏免费下载与解锁安装实操说明](./创意工具/switch-game-download-installation-guide.md) — 2025-05-21
 - [700+中国高校矢量校徽库：支持SVG格式免费下载的高清标识资源集](./创意工具/china-universities-vector-logos-svg.md) — 2025-05-21
 - [Drawnix 开源白板工具：支持无限画布的安装部署与使用指南](./创意工具/drawnix-open-source-whiteboard-guide.md) — 2025-05-21
+- [玩转 Excel Game：通过实战游戏掌握表格进阶技巧（含资源下载）](./创意工具/excel-game-advanced-skills-tutorial.md) — 2025-05-20
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
