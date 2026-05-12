@@ -449,6 +449,7 @@
 - [res-downloader：支持多平台的通用资源下载工具解析](./Mac软件/res-downloader-universal-resource-tool.md) — 2025-05-05
 - [使用 NoteGen 快速构建 AI 增强型 Markdown 笔记的完整操作流程](./Mac软件/build-ai-markdown-notes-with-notegen.md) — 2025-05-01
 - [PixPin 深度评测：集成 OCR 与长截图功能的贴图效率工具](./Mac软件/pixpin-review-ocr-screenshot-tool.md) — 2025-04-27
+- [OpenUtau 跨平台开源编辑器：通过模块化架构实现高效的歌声合成与音频编辑](./Mac软件/openutau-cross-platform-open-source-singing-synthesis-editor.md) — 2025-04-21
 
 ### Windows软件
 - [KOMA 指南：实现本地漫画自动去水印、压缩与标准化归档](./windows/koma-guide-manga-watermark-removal-compression-archiving.md) — 2026-02-05
