@@ -867,6 +867,7 @@
 - [YDRAY深度评测：支持10GB大文件极速传输的免费安全方案](./创意工具/ydray-review-free-secure-10gb-file-transfer.md) — 2025-05-13
 - [FMSTREAM 全球在线电台资源索引与导航指南](./创意工具/fmstream-global-online-radio-index-guide.md) — 2025-05-12
 - [复刻 Windows XP 经典语音：SAM TTS 在线文本转语音工具实测与指南](./创意工具/sam-tts-windows-xp-voice-guide.md) — 2025-05-11
+- [如何使用 YES OR NO 决策转盘快速解决选择困难症](./创意工具/how-to-use-yes-no-decision-wheel.md) — 2025-05-11
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
