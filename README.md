@@ -1486,6 +1486,7 @@
 - [想用 DeepSeek 打造个人自媒体 IP？这份实操训练指南帮你快速上手](./实战指南/deepseek-personal-ip-guide.md) — 2025-05-17
 - [DeepSeek 赋能电商 AIGC 实操指南：从零构建 AI 电商全链路工作流](./实战指南/deepseek-ecommerce-aigc-workflow-guide.md) — 2025-05-16
 - [想在2025年快速启动外贸创业？一套高效且稳健的实操指南帮你避坑](./实战指南/foreign-trade-startup-guide-2025.md) — 2025-05-16
+- [AI自媒体内容创作实操指南：从提示词优化到爆款产出](./实战指南/ai-content-creation-guide.md) — 2025-05-16
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
