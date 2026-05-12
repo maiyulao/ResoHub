@@ -475,6 +475,7 @@
 - [毛戈平年度化妆指导全集：130课系统化美妆进阶实操指南](./兴趣爱好/maogeping-makeup-course-guide.md) — 2025-05-30
 - [多口味龙虾烹饪配方指南：食材处理要点与调味技术详解](./兴趣爱好/lobster-cooking-recipes-guide.md) — 2025-05-29
 - [中国八大菜系实操指南：800道经典菜品视频教学](./兴趣爱好/china-8-cuisine-cooking-guide-800-recipes.md) — 2025-05-28
+- [米卡实战塔罗初学者指南：从基础理论到实际占卜的进阶路径](./兴趣爱好/mika-tarot-beginners-guide.md) — 2025-05-22
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
