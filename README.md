@@ -1461,6 +1461,7 @@
 - [小红书达人带货入门指南：通过3节直播课快速上手实操步骤](./实战指南/xiaohongshu-influencer-livestreaming-guide.md) — 2025-05-21
 - [高效检索商用BGM：800+款顶级音效素材的分级获取与分类指南](./实战指南/efficient-commercial-bgm-guide-800-sound-effects.md) — 2025-05-21
 - [淘宝电商运营全流程指南：从底层逻辑到实操链路的进阶手册](./实战指南/taobao-ecommerce-operation-guide.md) — 2025-05-21
+- [高效瘦身瑜伽实操指南：从基础准备到进阶练习的完整步骤](./实战指南/weight-loss-yoga-guide.md) — 2025-05-20
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
