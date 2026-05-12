@@ -230,6 +230,7 @@
 - [利用 DuoBook 创作 AI 双语故事学习外语的实操步骤](./AI工具/duobook-ai-bilingual-stories-language-learning-guide.md) — 2025-05-10
 - [AI Beauty Test 评分指南：通过三步快速量化颜值并获取针对性美学优化建议](./AI工具/ai-beauty-test-scoring-guide.md) — 2025-05-08
 - [开源AI研究工具Deep Research实测：两分钟自动化生成深度分析报告](./AI工具/deep-research-ai-tool-review.md) — 2025-05-07
+- [EasyVoice 开源文本转语音工具：功能特性与部署指南](./AI工具/easyvoice-open-source-tts-features-deployment-guide.md) — 2025-05-04
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
