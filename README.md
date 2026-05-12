@@ -1513,6 +1513,7 @@
 - [想要科学提升体能但不知从何练起？这份男性健身进阶指南为你提供方案](./实战指南/mens-fitness-progression-guide.md) — 2025-05-12
 - [AI全域商业化实操指南：从工具应用到盈利闭环的副业变现路径](./实战指南/ai-commercialization-guide-monetization-path.md) — 2025-05-12
 - [想通过知识付费实现年入30万？这份1-7章的实操训练营合集为你拆解路径](./实战指南/knowledge-payment-300k-guide.md) — 2025-05-12
+- [136年全球地理影像全纪实：美国版《国家地理》1888-2024完整合集，跨越世纪的珍藏级图文档案](./实战指南/national-geographic-archive-1888-2024.md) — 2025-05-12
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
