@@ -1508,6 +1508,7 @@
 - [AI影像全流程实战：从拍摄、剪辑到修图的系统化教程](./实战指南/ai-imaging-workflow-tutorial.md) — 2025-05-14
 - [TikTok Shop跨境电商起步指南：低成本建店流程与海外市场实操要点](./实战指南/tiktok-shop-cross-border-ecommerce-guide.md) — 2025-05-13
 - [DeepSeek 联动 Office 与 WPS：实现 Word、Excel、PPT 办公自动化指南](./实战指南/deepseek-office-wps-automation-guide.md) — 2025-05-13
+- [全行业通用合作协议模版库：涵盖核心法律条款，分场景提供可直接套用的合同范本](./实战指南/general-business-partnership-agreement-templates.md) — 2025-05-12
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
