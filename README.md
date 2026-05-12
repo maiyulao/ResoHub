@@ -242,6 +242,7 @@
 - [一个人如何用 AI 撑起一家公司？这份全场景工具清单帮你实现高效自动化](./AI工具/solo-company-ai-automation-tools-list.md) — 2025-04-27
 - [Ghiblio实测：利用ChatGPT-4o实现吉卜力画风转换，支持照片一键重绘与文本生成图像](./AI工具/ghiblio-chatgpt-4o-ghibli-style-transfer.md) — 2025-04-26
 - [Coze 空间邀请码：从获取渠道到激活步骤的全流程指南](./AI工具/coze-space-invitation-code-guide.md) — 2025-04-26
+- [ColorMuse：无需账号即可自由使用的AI图像生成与处理工具，支持全功能无限制创作](./AI工具/colormuse-free-ai-image-generator-and-editor.md) — 2025-04-24
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
