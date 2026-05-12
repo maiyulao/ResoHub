@@ -1526,6 +1526,7 @@
 - [AI短视频全流程实战指南：从工具配置到商业变现的闭环跑通方案](./实战指南/ai-short-video-complete-guide-from-tools-to-monetization.md) — 2025-05-11
 - [小红书精准获客实操指南：从账号搭建到流量转化的全流程步骤](./实战指南/xiaohongshu-customer-acquisition-guide-2.md) — 2025-05-11
 - [AI写作全攻略视频课：从实操步骤到高效产出，助力职场写作提速](./实战指南/ai-writing-course-guide.md) — 2025-05-10
+- [DeepSeek 驱动美业 AI 获客全流程：从数字人内容生产到抖音电商转化实操](./实战指南/deepseek-beauty-ai-customer-acquisition-douyin-ecommerce.md) — 2025-05-10
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
