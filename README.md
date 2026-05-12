@@ -850,6 +850,7 @@
 - [Random Generator Hub：多场景随机生成工具集，快速激发命名与创意灵感](./创意工具/random-generator-hub.md) — 2025-05-18
 - [风驰直播：NBA与足球赛事的免费高清观看指南](./创意工具/fengchi-live-nba-football-free-hd-guide.md) — 2025-05-17
 - [数字化梅花易数：将传统象数理推演应用于现代趋势预测](./创意工具/digital-meihua-yishu-trend-prediction.md) — 2025-05-16
+- [复古游戏云端化：打破设备限制，随时唤醒 NES 与街机经典体验](./创意工具/retro-gaming-cloud-nes-arcade-experience.md) — 2025-05-16
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
