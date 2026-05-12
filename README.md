@@ -1477,6 +1477,7 @@
 - [构建 AI 超级个体的五维能力体系：从理论模型到百万量级实践](./实战指南/ai-super-individual-five-dimensional-capability-system.md) — 2025-05-19
 - [高颜值短视频起号实操指南：从剪辑技巧到账号运营的 5 个关键步骤](./实战指南/short-video-growth-guide-5-steps.md) — 2025-05-18
 - [慕熙电商2025零基础带货实操课程：获取渠道与新手入门指南](./实战指南/muxi-ecommerce-2025-beginner-guide.md) — 2025-05-18
+- [小红书电商实操指南：涵盖有货源、无货源及虚拟产品在内的全链路获利方案](./实战指南/xiaohongshu-ecommerce-profit-guide.md) — 2025-05-17
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
