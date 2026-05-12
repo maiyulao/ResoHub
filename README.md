@@ -886,6 +886,7 @@
 - [想知道机考雅思与纸笔版有何差异？尝试官方推出的在线模拟系统，实战演练真题考场体验](./创意工具/ielts-computer-delivered-vs-paper-based-mock-test.md) — 2025-05-07
 - [想在不花钱且不掉速的情况下下载YouTube 4K/8K超清视频？试试VideoDL](./创意工具/download-youtube-4k-8k-videos-free-videodl.md) — 2025-05-07
 - [TrimSpace 在线图片处理指南：实现高效、免费的图像编辑与优化](./创意工具/trimspace-online-image-editing-guide.md) — 2025-05-07
+- [ZhiMap 深度评测：支持多端实时同步的免费在线思维导图工具](./创意工具/zhimap-review-free-mind-mapping-tool.md) — 2025-05-07
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
