@@ -445,6 +445,7 @@
 - [如何使用 OpenSpeedy 突破游戏帧率限制并实现流畅变速：操作指南](./Windows软件/openspeedy-game-fps-unlock-guide.md) — 2025-06-23
 - [QuarkPanTool 使用指南：实现夸克网盘文件批量操作的工具配置与注意事项](./Windows软件/quarkpantool-guide-batch-operation-setup.md) — 2025-06-22
 - [Downlodr 使用指南：支持 1800 余个平台的高清视频提取工具](./Windows软件/downlodr-user-guide-hd-video-downloader.md) — 2025-06-12
+- [Windows文件关联管理工具：快速修改默认打开程序及配置指南](./Windows软件/windows-file-association-manager-guide.md) — 2025-05-17
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
