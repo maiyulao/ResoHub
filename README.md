@@ -1571,6 +1571,7 @@
 - [TikTok短视频广告投放实操指南：课程资源获取与环境配置要点](./实战指南/tiktok-ads-guide-resources-and-setup.md) — 2025-05-05
 - [TikTok小店全链路实操指南：从选品策略到回款结算的出单闭环](./实战指南/tiktok-shop-full-guide-product-selection-to-payment.md) — 2025-05-05
 - [21节AIGC电商平面设计实操教程：涵盖工具配置与场景应用指南](./实战指南/aigc-ecommerce-graphic-design-tutorial.md) — 2025-05-05
+- [如何将一项专业技能快速转化为高价值个人IP？这份14天实操训练计划为你拆解](./实战指南/skill-to-high-value-personal-ip-14day-plan.md) — 2025-05-04
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
