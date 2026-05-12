@@ -953,6 +953,7 @@
 - [面对择偶困惑或关系瓶颈？这份深度书单帮你从识别、经营到稳固人生伴侣](./大人学习课程/relationship-and-partner-choice-booklist.md) — 2025-05-04
 - [BO硬度训练实操指南：从基础原理到进阶练习的自学路径](./大人学习课程/bo-hardness-training-guide.md) — 2025-05-02
 - [CHi 训练实操指南：提升持久力与延时技巧](./大人学习课程/chi-training-guide-stamina-and-delay-techniques.md) — 2025-04-28
+- [步某非烟第三季 A700-A800 全集获取与安装步骤](./大人学习课程/bu-mou-fei-yan-s3-a700-a800-full-guide.md) — 2025-04-24
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
