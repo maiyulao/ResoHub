@@ -898,6 +898,7 @@
 - [OneHack：构建 AI 驱动的开发者资源整合与知识共创体系](./创意工具/onehack-ai-developer-resources-knowledge-ecosystem.md) — 2025-05-04
 - [MAZANOKE：基于浏览器的本地图像压缩方案](./创意工具/mazanoke-browser-local-image-compression.md) — 2025-05-04
 - [如何通过 Xiutaku 获取全网热门图片学习资源：操作指南与资源汇总](./创意工具/xiutaku-popular-image-learning-resources-guide.md) — 2025-05-03
+- [如何利用 PPBC 中国植物图像库检索植物分类图片：操作指南](./创意工具/ppbc-china-plant-image-library-guide.md) — 2025-05-03
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
