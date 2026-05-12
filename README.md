@@ -1651,6 +1651,7 @@
 - [面对网页强制显示不习惯的语言？试试用 MultiLangSwitcher 自由切换浏览器的显示语言](./效率工具/multilangswitcher-browser-language-switcher.md) — 2025-05-14
 - [Bilibili精准过滤工具：通过标签与UP主维度定制屏蔽规则，高效净化视频流](./效率工具/bilibili-precise-filter-tool.md) — 2025-05-10
 - [Clear：有道AI实时人声增强与音轨分离插件指南](./效率工具/youdao-ai-voice-enhancement-track-separation-guide.md) — 2025-05-09
+- [MaxFocus 智能分屏插件：通过链接预览与 AI 助手重塑浏览流，解决标签页堆积痛点](./效率工具/maxfocus-smart-split-screen-plugin.md) — 2025-04-30
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
