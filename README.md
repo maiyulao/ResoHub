@@ -875,6 +875,7 @@
 - [需要快速导出多种格式的条码却找不到好用的工具？试试这款免费在线批量生成器](./创意工具/free-online-batch-barcode-generator.md) — 2025-05-10
 - [学生如何申请 Cursor Pro 教育优惠？详解 12 个月会员免费领取流程](./创意工具/how-to-get-cursor-pro-education-discount.md) — 2025-05-10
 - [如何快速实现 IPv4 与 IPv6 的精准归属地查询？试试这款免费无限制的 IP9 API 服务](./创意工具/fast-ipv4-ipv6-location-lookup-ip9-api.md) — 2025-05-10
+- [TimeGrid 时间方格：将日计划量化为 100 个 10 分钟单元的可视化管理法](./创意工具/timegrid-100-units-visual-planning.md) — 2025-05-09
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
