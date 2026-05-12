@@ -1546,6 +1546,7 @@
 - [视频号直播带货陪跑实战营（第13期）：微信豆打品指南](./实战指南/video-channel-livestream-ecommerce-guide-v13.md) — 2025-05-09
 - [想用 AI 提升办公效率并开启副业，零基础该如何从工具上手到实现商业实战？](./实战指南/ai-productivity-and-side-hustle-guide.md) — 2025-05-09
 - [ChatGPT 全能实战指南：从基础指令到高级工作流的进阶路径](./实战指南/chatgpt-complete-guide-basic-to-advanced-workflow.md) — 2025-05-08
+- [抖音短视频带货实战全指南：从流量破局到高效转化（第12期深度解析）](./实战指南/douyin-short-video-ecommerce-guide-conversion.md) — 2025-05-08
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
