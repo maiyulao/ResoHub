@@ -1416,6 +1416,7 @@
 - [抖音沙雕动画短视频全流程制作教程：含实操步骤与软件环境配置](./实战指南/douyin-funny-animation-tutorial-workflow.md) — 2025-05-27
 - [如何快速跑通小红书聚光投流？从零构建付费增长团队并提升转化效果的实操指南](./实战指南/xiaohongshu-juguang-ads-growth-guide.md) — 2025-05-27
 - [想在小红书开店却不知如何起步？这份从零到一的电商运营实操指南帮你快速落地](./实战指南/xiaohongshu-ecommerce-guide-for-beginners-5.md) — 2025-05-26
+- [直播间没人说话或留不住人？尝试这几套淘宝直播互动方案，提升观众参与度与转化率](./实战指南/taobao-live-streaming-interaction-strategies.md) — 2025-05-25
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
