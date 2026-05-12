@@ -870,6 +870,7 @@
 - [FMSTREAM 全球在线电台资源索引与导航指南](./创意工具/fmstream-global-online-radio-index-guide.md) — 2025-05-12
 - [复刻 Windows XP 经典语音：SAM TTS 在线文本转语音工具实测与指南](./创意工具/sam-tts-windows-xp-voice-guide.md) — 2025-05-11
 - [如何使用 YES OR NO 决策转盘快速解决选择困难症](./创意工具/how-to-use-yes-no-decision-wheel.md) — 2025-05-11
+- [需要快速导出多种格式的条码却找不到好用的工具？试试这款免费在线批量生成器](./创意工具/free-online-batch-barcode-generator.md) — 2025-05-10
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
