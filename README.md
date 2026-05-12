@@ -1613,6 +1613,7 @@
 - [外贸营销实操课程：适用场景、获取渠道及核心学习要点](./实战指南/foreign-trade-marketing-course-guide.md) — 2025-04-30
 - [想让 AI 输出更精准？这 80 组实战指令与案例教你如何写出高质量 Prompt](./实战指南/80-best-ai-prompt-examples-and-guide.md) — 2025-04-30
 - [手机摄影进阶指南：从基础技巧到实拍实操](./实战指南/mobile-photography-guide.md) — 2025-04-30
+- [如何利用 DeepSeek 优化千川 IP 投放，实现全域订单量突破？](./实战指南/deepseek-optimize-qianchuan-ip-orders.md) — 2025-04-29
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
