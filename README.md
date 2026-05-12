@@ -881,6 +881,7 @@
 - [中文姓名随机生成工具：快速创建符合文化语境的中文名称，支持自定义姓氏与风格筛选](./创意工具/chinese-name-generator.md) — 2025-05-08
 - [XCloud音乐：实现多端同步的云端音乐管理方案，支持跨平台流畅播放与一站式资源整合](./创意工具/xcloud-music-cloud-management-solution.md) — 2025-05-08
 - [想知道机考雅思与纸笔版有何差异？尝试官方推出的在线模拟系统，实战演练真题考场体验](./创意工具/ielts-computer-delivered-vs-paper-based-mock-test.md) — 2025-05-07
+- [想在不花钱且不掉速的情况下下载YouTube 4K/8K超清视频？试试VideoDL](./创意工具/download-youtube-4k-8k-videos-free-videodl.md) — 2025-05-07
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
