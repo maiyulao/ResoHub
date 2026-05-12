@@ -1419,6 +1419,7 @@
 - [想在小红书开店却不知如何起步？这份从零到一的电商运营实操指南帮你快速落地](./实战指南/xiaohongshu-ecommerce-guide-for-beginners-5.md) — 2025-05-26
 - [直播间没人说话或留不住人？尝试这几套淘宝直播互动方案，提升观众参与度与转化率](./实战指南/taobao-live-streaming-interaction-strategies.md) — 2025-05-25
 - [短视频剪辑全流程实战指南：从基础操作到高阶商业制作的进阶路径](./实战指南/short-video-editing-complete-guide.md) — 2025-05-25
+- [备考时找不到特定知识点的真题？这份 2014-2024 全科分类汇编帮你快速精准刷题](./实战指南/2014-2024-exam-questions-categorized-compilation.md) — 2025-05-25
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
