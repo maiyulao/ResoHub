@@ -440,6 +440,7 @@
 - [想在国内自由行却不知如何规划？这份驴友实战旅游攻略PDF帮你理清路线](./书籍/china-travel-guide-pdf-planning.md) — 2025-09-27
 - [实用风水布局指南：环境优化与招财开运实操手册](./书籍/practical-feng-shui-layout-guide.md) — 2025-06-18
 - [229本图灵编程实战指南：涵盖Python、机器学习及全栈开发的核心技术体系](./书籍/229-turing-programming-guide-python-ml-fullstack.md) — 2025-05-26
+- [如何通过针对性训练提升私密处紧致度，以改善性生活质量并增强快感？](./书籍/improve-vaginal-tightness-for-better-sex-pleasure.md) — 2025-05-24
 
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
