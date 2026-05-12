@@ -243,6 +243,7 @@
 - [Ghiblio实测：利用ChatGPT-4o实现吉卜力画风转换，支持照片一键重绘与文本生成图像](./AI工具/ghiblio-chatgpt-4o-ghibli-style-transfer.md) — 2025-04-26
 - [Coze 空间邀请码：从获取渠道到激活步骤的全流程指南](./AI工具/coze-space-invitation-code-guide.md) — 2025-04-26
 - [ColorMuse：无需账号即可自由使用的AI图像生成与处理工具，支持全功能无限制创作](./AI工具/colormuse-free-ai-image-generator-and-editor.md) — 2025-04-24
+- [高效财务数字化转型：通过OCR自动化识别与批量处理重构发票管理流程](./AI工具/financial-digital-transformation-ocr-invoice-automation.md) — 2025-04-22
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
