@@ -912,6 +912,7 @@
 - [如何使用 SaltyLeo 书架搜索并下载海量免费电子书：操作全流程指南](./创意工具/saltyleo-ebook-search-download-guide.md) — 2025-05-01
 - [使用素材SoSo快速检索AI免版权素材的完整步骤](./创意工具/suso-ai-copyright-free-assets-guide.md) — 2025-05-01
 - [浏览器书签栏太乱找不到重点？尝试用 Bookmark Separator Pro 快速构建分类分隔线](./创意工具/bookmark-separator-pro-guide.md) — 2025-05-01
+- [Temp Mail 100 使用指南：无需注册的匿名临时邮箱，适用于快速验证与屏蔽垃圾邮件](./创意工具/temp-mail-100-guide.md) — 2025-05-01
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
