@@ -916,6 +916,7 @@
 - [成真深度解析《偷听女人心》第45期：女性心理洞察与情感逻辑剖析](./大人学习课程/deep-analysis-stealing-womens-hearts-ep45.md) — 2025-05-22
 - [女性性健康与欲望：打破羞耻感的认知重构](./大人学习课程/womens-sexual-health-and-desire-deconstructing-shame.md) — 2025-05-11
 - [面对择偶困惑或关系瓶颈？这份深度书单帮你从识别、经营到稳固人生伴侣](./大人学习课程/relationship-and-partner-choice-booklist.md) — 2025-05-04
+- [BO硬度训练实操指南：从基础原理到进阶练习的自学路径](./大人学习课程/bo-hardness-training-guide.md) — 2025-05-02
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
