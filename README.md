@@ -1447,6 +1447,7 @@
 - [使用 Describe Picture 平台进行 AI 视觉智能分析的操作指南](./实战指南/describe-picture-ai-visual-analysis-guide.md) — 2025-05-23
 - [小红书个人IP实操陪跑课：素人博主起号指南与流量增长路径](./实战指南/xiaohongshu-personal-ip-growth-guide-2.md) — 2025-05-22
 - [2025出海实操指南：三场直播课拆解AI驱动的全流程闭环](./实战指南/2025-global-expansion-ai-workflow-guide.md) — 2025-05-22
+- [2025届全国版《53中考总复习》7科全集：全科覆盖核心考点，分阶段构建复习体系](./实战指南/53-zhongkao-review-2025-full-set.md) — 2025-05-22
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
