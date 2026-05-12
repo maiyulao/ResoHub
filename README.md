@@ -240,6 +240,7 @@
 - [FreeMediaHeckYeah：全平台免费媒体资源索引汇总及使用指南](./AI工具/freemediaheckyeah-free-media-resources-guide.md) — 2025-04-28
 - [新概念英语1-4册AI学习平台：部署环境、资源获取与全阶段实操指南](./AI工具/new-concept-english-1-4-ai-learning-guide.md) — 2025-04-27
 - [一个人如何用 AI 撑起一家公司？这份全场景工具清单帮你实现高效自动化](./AI工具/solo-company-ai-automation-tools-list.md) — 2025-04-27
+- [Ghiblio实测：利用ChatGPT-4o实现吉卜力画风转换，支持照片一键重绘与文本生成图像](./AI工具/ghiblio-chatgpt-4o-ghibli-style-transfer.md) — 2025-04-26
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
