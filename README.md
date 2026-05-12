@@ -878,6 +878,7 @@
 - [如何快速实现 IPv4 与 IPv6 的精准归属地查询？试试这款免费无限制的 IP9 API 服务](./创意工具/fast-ipv4-ipv6-location-lookup-ip9-api.md) — 2025-05-10
 - [TimeGrid 时间方格：将日计划量化为 100 个 10 分钟单元的可视化管理法](./创意工具/timegrid-100-units-visual-planning.md) — 2025-05-09
 - [黑木耳资源站评测：为海外华人提供高清无广的影视观看体验，涵盖多维度资源检索与播放优化方案](./创意工具/heimuersi-review-hd-movie-streaming-for-overseas-chinese.md) — 2025-05-08
+- [中文姓名随机生成工具：快速创建符合文化语境的中文名称，支持自定义姓氏与风格筛选](./创意工具/chinese-name-generator.md) — 2025-05-08
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
