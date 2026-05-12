@@ -478,6 +478,7 @@
 - [yt-dlp-script 脚本下载指南：支持 Win/Linux 跨平台批量视频抓取及配置要点](./Windows软件/yt-dlp-script-download-guide.md) — 2025-05-16
 - [猎犬 (Hound) 桌面文本搜索指南：支持 30 余种格式与高精度 OCR 识别](./Windows软件/hound-desktop-text-search-guide.md) — 2025-05-10
 - [如何使用 PasteMe 提升剪贴板效率：AI 增强型管理操作指南](./Windows软件/pasteme-ai-clipboard-efficiency-guide.md) — 2025-04-29
+- [Gamebox 游戏下载工具：Steam 资源快速获取指南及安装环境配置](./Windows软件/gamebox-steam-download-guide-setup.md) — 2025-04-28
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
