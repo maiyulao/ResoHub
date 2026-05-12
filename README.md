@@ -1610,6 +1610,7 @@
 - [AI短视频全链路实操指南：从创意生成到剪辑变现的完整闭环](./实战指南/ai-short-video-complete-guide.md) — 2025-05-01
 - [小红书电商起号与运营全流程：从零基础到高效变现的实操指南](./实战指南/xiaohongshu-ecommerce-guide-startup-to-monetization.md) — 2025-04-30
 - [外贸营销实操课程：适用场景、获取渠道及核心学习要点](./实战指南/foreign-trade-marketing-course-guide.md) — 2025-04-30
+- [想让 AI 输出更精准？这 80 组实战指令与案例教你如何写出高质量 Prompt](./实战指南/80-best-ai-prompt-examples-and-guide.md) — 2025-04-30
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
