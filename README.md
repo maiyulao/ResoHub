@@ -401,6 +401,7 @@
 - [GDownload 跨平台下载加速方案：通过现代化架构实现高效的文件管理与多线程下载](./Mac软件/gdownload-cross-platform-download-accelerator.md) — 2025-05-27
 - [Ghost Downloader 3 安装与配置指南：利用 AI 优化多线程下载带宽的步骤详解](./Mac软件/ghost-downloader-3-install-config-guide.md) — 2025-05-25
 - [使用 SyncClipboard 实现跨平台剪贴板同步的配置步骤](./Mac软件/synclipboard-cross-platform-clipboard-sync-setup.md) — 2025-05-25
+- [Deskreen 跨设备屏幕扩展指南：通过浏览器将平板或笔记本快速转化为第二显示屏](./Mac软件/deskreen-screen-extension-guide.md) — 2025-05-24
 
 ### Windows软件
 - [KOMA 指南：实现本地漫画自动去水印、压缩与标准化归档](./windows/koma-guide-manga-watermark-removal-compression-archiving.md) — 2026-02-05
