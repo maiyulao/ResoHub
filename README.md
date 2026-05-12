@@ -937,6 +937,7 @@
 - [ABCTorrents 磁力搜索指南：资源检索与高效下载实操](./创意工具/abctorrents-magnet-search-guide.md) — 2025-04-25
 - [Excalidraw 协作指南：利用开源手绘白板快速构建可视化原型与团队脑图](./创意工具/excalidraw-collaboration-guide-visual-prototyping-mind-mapping.md) — 2025-04-25
 - [如何利用 Markdown 快速制作多风格图文海报：操作指南](./创意工具/create-posters-with-markdown-guide.md) — 2025-04-25
+- [老地方影院海外版：高清影视资源获取路径与环境配置指南](./创意工具/laodifang-cinema-overseas-guide.md) — 2025-04-24
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
