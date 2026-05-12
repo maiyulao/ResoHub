@@ -923,6 +923,7 @@
 - [高分成人电影精选指南：核心佳作推荐及其艺术维度分析](./创意工具/best-adult-movies-guide-and-analysis.md) — 2025-04-29
 - [Salaryfly：互联网公司职级与薪酬福利对比工具（含访问指南与适用范围）](./创意工具/salaryfly-internet-company-salary-levels-comparison-guide.md) — 2025-04-29
 - [深度解析读典籍网：通过 AI 实现古籍文白对照与智能化注释的阅读实践](./创意工具/dudianjing-ai-ancient-texts-reading.md) — 2025-04-28
+- [焦虑失眠或情绪内耗怎么办？一套从理论到实操的心理健康自救指南](./创意工具/mental-health-self-help-guide-for-anxiety-insomnia.md) — 2025-04-28
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
