@@ -231,6 +231,7 @@
 - [AI Beauty Test 评分指南：通过三步快速量化颜值并获取针对性美学优化建议](./AI工具/ai-beauty-test-scoring-guide.md) — 2025-05-08
 - [开源AI研究工具Deep Research实测：两分钟自动化生成深度分析报告](./AI工具/deep-research-ai-tool-review.md) — 2025-05-07
 - [EasyVoice 开源文本转语音工具：功能特性与部署指南](./AI工具/easyvoice-open-source-tts-features-deployment-guide.md) — 2025-05-04
+- [想直接使用 Claude 但被注册门槛挡在门外？试试 EasyChat 镜像站实现免登录直连](./AI工具/easychat-claude-mirror-no-login.md) — 2025-05-03
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
