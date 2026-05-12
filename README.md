@@ -1449,6 +1449,7 @@
 - [2025出海实操指南：三场直播课拆解AI驱动的全流程闭环](./实战指南/2025-global-expansion-ai-workflow-guide.md) — 2025-05-22
 - [2025届全国版《53中考总复习》7科全集：全科覆盖核心考点，分阶段构建复习体系](./实战指南/53-zhongkao-review-2025-full-set.md) — 2025-05-22
 - [面对社会竞争与人生迷茫，如何规划一个清晰的进阶路径？2025 惊云社会人生成长指南](./实战指南/2025-growth-guide-for-social-competition-and-life-planning.md) — 2025-05-22
+- [剑桥英语学习体系：从新概念英语到全系列课程实践指南](./实战指南/cambridge-english-learning-system-new-concept-guide.md) — 2025-05-21
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
