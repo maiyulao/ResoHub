@@ -229,6 +229,7 @@
 - [高效构建原创角色：一款免费的AI人格设定与灵感生成工具](./AI工具/free-ai-character-creator-tool.md) — 2025-05-11
 - [利用 DuoBook 创作 AI 双语故事学习外语的实操步骤](./AI工具/duobook-ai-bilingual-stories-language-learning-guide.md) — 2025-05-10
 - [AI Beauty Test 评分指南：通过三步快速量化颜值并获取针对性美学优化建议](./AI工具/ai-beauty-test-scoring-guide.md) — 2025-05-08
+- [开源AI研究工具Deep Research实测：两分钟自动化生成深度分析报告](./AI工具/deep-research-ai-tool-review.md) — 2025-05-07
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
