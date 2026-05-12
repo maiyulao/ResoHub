@@ -1441,6 +1441,7 @@
 - [99个儿童趣味科学实验：从准备到实践的操作指南](./实战指南/99-fun-science-experiments-for-kids-guide.md) — 2025-05-23
 - [ComfyUI老照片修复工作流：集成PS后处理的还原方案与环境配置指南](./实战指南/comfyui-old-photo-restoration-workflow-ps-post-processing.md) — 2025-05-23
 - [使用 Describe Picture 平台进行 AI 视觉智能分析的操作指南](./实战指南/describe-picture-ai-visual-analysis-guide.md) — 2025-05-23
+- [小红书个人IP实操陪跑课：素人博主起号指南与流量增长路径](./实战指南/xiaohongshu-personal-ip-growth-guide-2.md) — 2025-05-22
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
