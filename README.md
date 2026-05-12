@@ -1696,6 +1696,7 @@
 - [MaxFocus 智能分屏插件：通过链接预览与 AI 助手重塑浏览流，解决标签页堆积痛点](./效率工具/maxfocus-smart-split-screen-plugin.md) — 2025-04-30
 - [厌倦了点击链接后反复跳转安全验证页？试试用 QuickGo 实现外链直达](./效率工具/quickgo-bypass-security-verification-links.md) — 2025-04-26
 - [Summa：通过 AI 快速提取网页核心要点，实现信息高效去冗与精准概括](./效率工具/summa-ai-web-page-summarizer.md) — 2025-04-26
+- [如何安装并使用 Bilibili 浏览器插件解锁无限历史记录](./效率工具/install-bilibili-extension-unlock-history.md) — 2025-04-24
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
