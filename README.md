@@ -1658,6 +1658,7 @@
 - [抖音千川起号：直播带货陪跑实操指南](./实战指南/douyin-qianchuan-livestreaming-guide.md) — 2025-04-24
 - [利用 DeepSeek 提升公众号流量主收益的实操指南](./实战指南/deepseek-guide-increase-wechat-revenue.md) — 2025-04-23
 - [精选100场TED演讲全集：通过视频与双语文稿对齐，高效提升认知与语言能力](./实战指南/100-best-ted-talks-bilingual-transcripts.md) — 2025-04-23
+- [如何使用 Turbo0 平台：内容创作工具配置与资源获取指南](./实战指南/turbo0-guide-content-creation-tools-resources.md) — 2025-04-23
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
