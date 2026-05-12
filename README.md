@@ -844,6 +844,7 @@
 - [鸟鸟han漫使用指南：分步访问并阅读完整版在线漫画](./创意工具/nionion-han-manga-guide.md) — 2025-05-19
 - [想给网站做减法？这 525 个只专注单一功能的极简站点能给你带来创意启发](./创意工具/525-minimalist-single-purpose-websites-inspiration.md) — 2025-05-19
 - [yt1d.top 使用指南：支持 8K 高清无水印下载与多格式转换](./创意工具/yt1d-top-user-guide-8k-download-converter.md) — 2025-05-18
+- [Random Generator Hub：多场景随机生成工具集，快速激发命名与创意灵感](./创意工具/random-generator-hub.md) — 2025-05-18
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
