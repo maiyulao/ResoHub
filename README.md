@@ -415,6 +415,7 @@
 - [使用 SyncClipboard 实现跨平台剪贴板同步的配置步骤](./Mac软件/synclipboard-cross-platform-clipboard-sync-setup.md) — 2025-05-25
 - [Deskreen 跨设备屏幕扩展指南：通过浏览器将平板或笔记本快速转化为第二显示屏](./Mac软件/deskreen-screen-extension-guide.md) — 2025-05-24
 - [如何使用 knowledge-grab 批量下载国家中小学智慧教育平台资源：操作指南](./Mac软件/knowledge-grab-batch-download-guide.md) — 2025-05-23
+- [想要在电脑上获得机械键盘的敲击快感？试试 KeyClicker 虚拟打字机与音效模拟器](./Mac软件/keyclicker-virtual-mechanical-keyboard-sound-simulator.md) — 2025-05-14
 
 ### Windows软件
 - [KOMA 指南：实现本地漫画自动去水印、压缩与标准化归档](./windows/koma-guide-manga-watermark-removal-compression-archiving.md) — 2026-02-05
