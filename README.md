@@ -227,6 +227,7 @@
 - [AI Couple Photo 实操指南：零基础快速生成超现实情侣肖像](./AI工具/ai-couple-photo-guide.md) — 2025-05-13
 - [PY-XIAOZHI：基于 Python 的 AI 小智语音客户端实现方案，低门槛体验智能语音交互](./AI工具/py-xiaozhi-python-ai-voice-client.md) — 2025-05-13
 - [高效构建原创角色：一款免费的AI人格设定与灵感生成工具](./AI工具/free-ai-character-creator-tool.md) — 2025-05-11
+- [利用 DuoBook 创作 AI 双语故事学习外语的实操步骤](./AI工具/duobook-ai-bilingual-stories-language-learning-guide.md) — 2025-05-10
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
