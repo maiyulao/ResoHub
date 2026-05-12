@@ -1605,6 +1605,7 @@
 - [抖音电商全链路实操指南：剖析账号、流量、人货场、主播与店铺的底层逻辑](./实战指南/douyin-ecommerce-full-link-guide.md) — 2025-05-01
 - [外贸新手进阶指南：从基础能力到核心竞争力的成长路径](./实战指南/foreign-trade-beginner-guide-growth-path.md) — 2025-05-01
 - [高效约会实战指南：通过行为逻辑优化社交互动，实现从初识到建立深层情感连接的转化](./实战指南/high-efficiency-dating-guide-social-interaction-logic.md) — 2025-05-01
+- [美业面诊全链路指南：从精准拓客到高效成交与长效留存](./实战指南/beauty-consultation-full-guide.md) — 2025-05-01
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
