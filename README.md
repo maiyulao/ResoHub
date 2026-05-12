@@ -895,6 +895,7 @@
 - [LdGames 资源获取指南：分步下载免费 2D/3D 游戏](./创意工具/ldgames-download-guide-free-2d-3d-games.md) — 2025-05-05
 - [Open Source Daily：每日精选开源工具清单（含项目地址与部署环境）](./创意工具/open-source-daily-tools-list.md) — 2025-05-04
 - [OneHack：构建 AI 驱动的开发者资源整合与知识共创体系](./创意工具/onehack-ai-developer-resources-knowledge-ecosystem.md) — 2025-05-04
+- [MAZANOKE：基于浏览器的本地图像压缩方案](./创意工具/mazanoke-browser-local-image-compression.md) — 2025-05-04
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
