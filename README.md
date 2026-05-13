@@ -1024,6 +1024,7 @@
 - [快速查询全球国家区号：操作指南与在线工具使用步骤](./创意工具/global-country-calling-codes-guide.md) — 2025-04-04
 - [JinriCP 平台指南：如何利用该在线资源高效学习韩语](./创意工具/jinricp-korean-learning-guide.md) — 2025-04-04
 - [如何使用快直播观看全球足篮球赛况并分析实时比分：操作指南](./创意工具/kuaizhibo-global-sports-live-score-guide.md) — 2025-04-04
+- [数字广度测验（DST）：量化短时记忆容量与认知处理能力的在线评估指南](./创意工具/digital-span-test-dst-online-assessment-guide.md) — 2025-04-04
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
