@@ -1736,6 +1736,7 @@
 - [想要通过外刊提升英语阅读能力？这份 2020-2024 年精读资料集帮你攻克长难句与地道表达](./实战指南/improve-english-reading-with-foreign-publications-2020-2024.md) — 2025-04-15
 - [学而思英语高效学习指南：从能力构建到高分突破的实操手册](./实战指南/xueersi-english-learning-guide.md) — 2025-04-14
 - [短剧混剪快速起号：从燃剪技巧到爆单转化的实操指南](./实战指南/short-drama-editing-guide-for-rapid-growth.md) — 2025-04-14
+- [小红书电商直播全链路实操：涵盖带货技巧、店铺搭建与笔记引流指南](./实战指南/xiaohongshu-ecommerce-livestreaming-guide.md) — 2025-04-14
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
