@@ -1851,6 +1851,7 @@
 - [AI 赋能公文写作：梅俊高效实操全指南（16讲完结）](./实战指南/ai-official-document-writing-guide.md) — 2025-03-31
 - [红薯教练：从内容策略到商业转化的全流程小红书运营实战指南](./实战指南/xiaohongshu-content-strategy-to-conversion-guide.md) — 2025-03-31
 - [全能发音实战指南：通过三阶段体系构建从零起步至流畅交流的语音能力](./实战指南/pronunciation-mastery-guide-3-stages.md) — 2025-03-31
+- [企业低成本精准拓客：AI短视频矩阵实操指南](./实战指南/ai-short-video-matrix-guide-for-lead-generation.md) — 2025-03-30
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
