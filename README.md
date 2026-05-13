@@ -1747,6 +1747,7 @@
 - [想找高质量别墅室内设计参考？这里有196套涵盖CAD图纸与效果图的全案方案](./实战指南/luxury-villa-interior-design-cases-cad-renderings.md) — 2025-04-13
 - [走遍美国中高级口语教程：含中文讲解视频、中英双语字幕及配套笔记（音视频全集）](./实战指南/walking-through-america-intermediate-advanced-speaking-course.md) — 2025-04-13
 - [小红书线下实操课：全链路获客与商业变现指南](./实战指南/xiaohongshu-offline-course-customer-acquisition-monetization.md) — 2025-04-13
+- [名师拆解口语发音痛点：从底层逻辑到实操技巧，全方位攻克发音难关](./实战指南/master-guide-to-english-pronunciation-tips.md) — 2025-04-13
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
