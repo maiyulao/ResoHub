@@ -1817,6 +1817,7 @@
 - [AI办公实战指南：从零起步的工具配置、应用场景与副业变现路径](./实战指南/ai-office-practical-guide.md) — 2025-04-04
 - [小红书虚拟产品选品指南：突破创业瓶颈的实操方法论](./实战指南/xiaohongshu-virtual-product-selection-guide.md) — 2025-04-04
 - [实体商家AI获客全指南：从自动化流量触达至私域高效转化](./实战指南/ai-customer-acquisition-guide-for-local-business.md) — 2025-04-04
+- [想让照片质感像大片但不知从何下手？跟猫叔学习人像后期修图实战技巧](./实战指南/portrait-retouching-tips-by-cat-uncle.md) — 2025-04-04
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
