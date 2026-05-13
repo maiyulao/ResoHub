@@ -1075,6 +1075,7 @@
 - [想要高效获取适配 Vision Pro 的 3D 资源？试试这个集模型下载与 AR 创作于一体的设计平台](./创意工具/vision-pro-3d-resources-design-platform.md) — 2025-03-23
 - [如何使用免费在线工具翻译古英语：操作步骤详解](./创意工具/translate-old-english-free-online-tools.md) — 2025-03-22
 - [JetBrains Maple Mono 开源字体下载：适配编程环境的高可读性合成字体指南](./创意工具/jetbrains-maple-mono-font-download.md) — 2025-03-22
+- [BetterHistory 浏览器历史记录增强插件：安装指南、同步配置及隐私设置详解](./创意工具/betterhistory-installation-sync-privacy-guide.md) — 2025-03-22
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
