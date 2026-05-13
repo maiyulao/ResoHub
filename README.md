@@ -533,6 +533,7 @@
 - [从入门到精深：100部哲学经典著作体系化导读](./书籍/100-philosophy-classics-guide.md) — 2025-05-05
 - [面对社交恐惧或情感迟钝？晚熟青年如何通过调情技巧打破僵局](./书籍/late-bloomer-flirting-tips-for-social-anxiety.md) — 2025-04-26
 - [寻找权威法律参考资料？这份电子书资源清单能帮你快速构建知识库](./书籍/legal-ebook-resources-list.md) — 2025-04-12
+- [视觉化解析：恋爱心理学核心逻辑与机制](./书籍/visual-analysis-love-psychology-logic-mechanisms.md) — 2025-04-06
 
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
