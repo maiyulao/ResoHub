@@ -566,6 +566,7 @@
 - [视觉化解析：恋爱心理学核心逻辑与机制](./书籍/visual-analysis-love-psychology-logic-mechanisms.md) — 2025-04-06
 - [全域唯一研学指南：深度解析核心知识点与实操路径](./书籍/comprehensive-study-tour-guide.md) — 2025-03-30
 - [建立深度情感连接：引导对方产生爱意的心理机制与实践路径](./书籍/deep-emotional-connection-psychology-and-practice.md) — 2025-03-28
+- [高效脱单实战指南：通过理性分析社交逻辑，在七日内实现精准匹配与关系建立](./书籍/high-efficiency-dating-guide-social-logic.md) — 2025-03-22
 
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
