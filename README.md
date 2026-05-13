@@ -1819,6 +1819,7 @@
 - [实体商家AI获客全指南：从自动化流量触达至私域高效转化](./实战指南/ai-customer-acquisition-guide-for-local-business.md) — 2025-04-04
 - [想让照片质感像大片但不知从何下手？跟猫叔学习人像后期修图实战技巧](./实战指南/portrait-retouching-tips-by-cat-uncle.md) — 2025-04-04
 - [Kimi AI 实操指南：提升内容产出效率的指令集](./实战指南/kimi-ai-prompt-guide-efficiency.md) — 2025-04-04
+- [DeepSeek 落地实战：从场景建模到工程化部署的进阶指南](./实战指南/deepseek-implementation-guide-modeling-to-deployment.md) — 2025-04-04
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
