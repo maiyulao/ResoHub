@@ -976,6 +976,7 @@
 - [海外书包使用指南：分步实现笔趣阁小说免费阅读](./创意工具/overseas-biquge-reading-guide.md) — 2025-04-18
 - [高效驱动 Google AI 的 Prompt 技巧指南：从核心逻辑到实操场景的深度解析](./创意工具/google-ai-prompt-engineering-guide.md) — 2025-04-17
 - [使用物言卡片（Mono Card）制作优雅内容分享图的详细步骤](./创意工具/create-elegant-share-images-with-mono-card.md) — 2025-04-17
+- [极速箱：集成高频开发工具的在线工作台，通过极简交互提升编程效率](./创意工具/jisubox-online-developer-workbench.md) — 2025-04-16
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
