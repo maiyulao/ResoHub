@@ -269,6 +269,7 @@
 - [如何使用 Freenote 构建基于 Markdown 的开源 AI 智能日记本](./AI工具教程/build-ai-markdown-diary-with-freenote.md) — 2025-03-27
 - [开源AI文本去痕迹工具：适用场景、获取途径及清洗要点说明](./AI工具教程/open-source-ai-text-humanizer-guide.md) — 2025-03-26
 - [腾讯混元T1深度思考模型：核心能力与技术实现解析](./AI工具教程/tencent-hunyuan-t1-deep-thinking-model-analysis.md) — 2025-03-24
+- [用 image2prompt 快速反推 AI 绘图提示词：兼容 Midjourney 与 Stable Diffusion 的免费逆向工程工具](./AI工具教程/image2prompt-ai-reverse-prompt-tool.md) — 2025-03-23
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
