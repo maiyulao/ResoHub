@@ -1019,6 +1019,7 @@
 - [出生那天全球在流行什么歌？用 BirthdayJams 找回你的专属年代金曲](./创意工具/birthday-jams-popular-songs-on-your-birthday.md) — 2025-04-07
 - [想查全国医保报销和参保状态却不知从何入手？这份一站式查询指南为你指路](./创意工具/china-medical-insurance-query-guide.md) — 2025-04-07
 - [BBC Sound Effects 资源库实操指南：获取 1.6 万个专业级免费音效并高效完成混音处理](./创意工具/bbc-sound-effects-guide-mixing.md) — 2025-04-04
+- [快速查询全球国家区号：操作指南与在线工具使用步骤](./创意工具/global-country-calling-codes-guide.md) — 2025-04-04
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
