@@ -1884,6 +1884,7 @@
 - [DeepSeek 办公实操指南：通过场景化提示词重构工作流，实现全流程效率提升](./实战指南/deepseek-office-workflow-guide.md) — 2025-03-27
 - [备考2025年银行从业初中级考试没方向？这份思维导图与精简笔记帮你快速理清考点](./实战指南/2025-banking-exam-study-guide-mindmap-notes.md) — 2025-03-27
 - [想在小红书通过短视频变现却不知如何起步？从账号定位到商业闭环的全流程实操指南](./实战指南/xiaohongshu-short-video-monetization-guide.md) — 2025-03-26
+- [李松蔚亲密关系指南：通过24个维度重构互动逻辑，掌握关系经营的底层规律](./实战指南/li-songwei-intimate-relationship-guide.md) — 2025-03-26
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
