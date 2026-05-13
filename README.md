@@ -964,6 +964,7 @@
 - [如何使用 Radiocast 探索全球 8000 多个免费在线电台：操作指南](./创意工具/how-to-use-radiocast-for-free-online-radio.md) — 2025-04-20
 - [想找无需下载且完全免费的益智游戏？试试 QuickRiddle 在线脑力挑战大全](./创意工具/quickriddle-free-online-puzzle-games.md) — 2025-04-20
 - [想在工作间隙高效获取资讯又不想频繁切换页面？试试摸鱼岛这个一站式信息聚合平台](./创意工具/moyu-island-information-aggregation-platform.md) — 2025-04-18
+- [咕咕番：无需注册的日漫在线观看资源站（支持多线路播放）](./创意工具/gugu-anime-online-streaming.md) — 2025-04-18
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
