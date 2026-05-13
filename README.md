@@ -255,6 +255,7 @@
 - [美间美盒AI抠图工具使用指南：一键去除背景及适用场景说明](./AI工具教程/meijian-ai-background-remover-guide.md) — 2025-04-12
 - [想让AI设计出真正具备品牌感的Logo？试试 Logent AI 智能 Agent 生成器](./AI工具教程/logent-ai-brand-logo-generator.md) — 2025-04-11
 - [PromptUp：AI 提示词的智能化管理与协作方案](./AI工具教程/promptup-ai-prompt-management-collaboration.md) — 2025-04-09
+- [WeClone：集成语音克隆与对话AI的微信数字分身构建方案](./AI工具教程/weclone-wechat-digital-twin-voice-cloning-ai.md) — 2025-04-05
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
