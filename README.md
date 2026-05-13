@@ -1887,4 +1887,5 @@
 
 ### 羊毛
 - [IntelliJ IDEA 订阅优惠指南：激活 91 天免费试用与续费 7.5 折方案](./羊毛/intellij-idea-subscription-discount-guide.md) — 2025-04-19
+- [阿里云盘扩容指南：获取最新福利码的领取步骤与操作方法](./羊毛/aliyun-drive-expansion-guide-promo-codes.md) — 2025-04-03
 <!-- LE_AUTOPOST_INDEX_END -->
