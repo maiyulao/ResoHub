@@ -1043,6 +1043,7 @@
 - [DocTranslator在线文档翻译指南：支持多格式原样排版翻译及免费使用说明](./创意工具/doctranslator-online-document-translation-guide.md) — 2025-04-02
 - [Instagram 视频无水印下载指南：高效保存内容的免费工具推荐](./创意工具/instagram-video-downloader-no-watermark.md) — 2025-03-29
 - [UFreeTools：集成开发与设计的全场景免费工具集，高效解决日常技术痛点](./创意工具/ufreetools-free-dev-design-toolkit.md) — 2025-03-29
+- [零基础编程入门指南：通过一站式平台掌握 HTML、CSS、Java 及 Python 的学习步骤](./创意工具/programming-beginners-guide-html-css-java-python.md) — 2025-03-29
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
