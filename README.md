@@ -261,6 +261,7 @@
 - [想把简单的2D草图快速变成3D模型？试试 Vibe Draw 智能转换方案](./AI工具教程/vibe-draw-2d-sketch-to-3d-model.md) — 2025-04-02
 - [如何使用 Skybyte AI 免费替代 ChatGPT 的操作指南](./AI工具教程/skybyte-ai-free-chatgpt-alternative-guide.md) — 2025-04-02
 - [DeepSeek R1 满血版免费镜像导航：快速汇总可直接调用完整能力的第三方接入平台](./AI工具教程/deepseek-r1-full-version-free-mirrors-guide.md) — 2025-04-01
+- [Echo Moss 在线生成动态音频波形视频：免费使用指南与环境配置](./AI工具教程/echo-moss-audio-waveform-video-guide.md) — 2025-03-31
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
