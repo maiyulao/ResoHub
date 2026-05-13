@@ -1901,6 +1901,7 @@
 - [体制内生存逻辑：深度解析单位运行机制与职场潜规则（251讲）](./实战指南/survival-logic-in-public-sector-workplace-rules.md) — 2025-03-25
 - [实体店短视频直播获客：从零开始的流量增长操作指南](./实战指南/local-store-short-video-livestreaming-growth-guide.md) — 2025-03-24
 - [婚前婚后权益保障指南：法律适用场景与风险规避要点](./实战指南/marriage-rights-and-legal-protection-guide.md) — 2025-03-24
+- [从实操到变现：深度解析 20 余种 AI 商业化应用场景与持续获利路径](./实战指南/ai-commercialization-scenarios-and-monetization-guide.md) — 2025-03-24
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
