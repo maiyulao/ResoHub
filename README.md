@@ -1116,6 +1116,7 @@
 - [面对心仪对象不知如何开口？掌握这几项社交心理技巧，提升你的脱单成功率](./大人学习课程/social-psychology-tips-for-dating-success.md) — 2025-03-31
 - [女性主导的居家健康调理指南：从实操技巧到AI视频教学的系统进阶](./大人学习课程/womens-home-health-guide-ai-video-tutorial.md) — 2025-03-29
 - [成人英语字母速成指南：从发音逻辑到书写规范的系统学习路径](./大人学习课程/adult-english-alphabet-learning-guide.md) — 2025-03-20
+- [白鹤快速脱单指南：从心态建设到高效实践的实操步骤](./大人学习课程/white-crane-dating-guide.md) — 2025-03-17
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
