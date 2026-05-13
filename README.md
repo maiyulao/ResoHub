@@ -984,6 +984,7 @@
 - [使用 Speaky 与母语人士练习语言：从注册到文字/语音交流的操作指南](./创意工具/speaky-language-practice-guide.md) — 2025-04-16
 - [Z-Library 最新可用地址获取与访问指南](./创意工具/z-library-latest-access-guide.md) — 2025-04-15
 - [订阅 Apple One 还是 iCloud+ 更划算？用这个全球比价工具算清楚差价](./创意工具/apple-one-vs-icloud-plus-price-comparison-tool.md) — 2025-04-15
+- [EmojiAll 在线词典：支持全平台搜索与快速复制的 Emoji 中文查询库](./创意工具/emojiall-online-dictionary.md) — 2025-04-14
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
