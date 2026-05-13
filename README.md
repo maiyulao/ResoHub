@@ -1877,6 +1877,7 @@
 - [Google Ads 获客实操指南：从账户搭建到高效转化美金订单](./实战指南/google-ads-acquisition-guide-conversion.md) — 2025-03-28
 - [想在小红书高效涨粉？详解图文与短视频的底层运营规则与避坑指南](./实战指南/xiaohongshu-growth-guide-rules-and-tips.md) — 2025-03-28
 - [单人AI电影制作全流程实操指南](./实战指南/solo-ai-movie-production-guide.md) — 2025-03-28
+- [解析全球 iPhone 摄影大赛年度最佳作品：手机影像进阶实战指南](./实战指南/iphone-photography-awards-guide.md) — 2025-03-27
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
