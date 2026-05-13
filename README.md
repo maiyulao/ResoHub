@@ -1789,6 +1789,7 @@
 - [TikTok本土精品店出海全链路实战：从起步搭建至规模化增长](./实战指南/tiktok-shop-local-boutique-growth-guide.md) — 2025-04-08
 - [职场进阶实操指南：从生存到成长的关键步骤清单](./实战指南/career-growth-practical-guide.md) — 2025-04-08
 - [想用AI和RPA实现自媒体自动化变现？从内容创作到SEO多平台分发的全流程实操指南](./实战指南/ai-rpa-self-media-automation-guide.md) — 2025-04-07
+- [抖音个人与商业IP构建指南：基于人性洞察的运营逻辑与实操路径](./实战指南/douyin-personal-commercial-ip-guide.md) — 2025-04-07
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
