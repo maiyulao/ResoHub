@@ -474,6 +474,7 @@
 - [OpenUtau 跨平台开源编辑器：通过模块化架构实现高效的歌声合成与音频编辑](./Mac软件/openutau-cross-platform-open-source-singing-synthesis-editor.md) — 2025-04-21
 - [Rename Photos 下载与配置：利用 EXIF 信息实现跨平台照片批量重命名](./Mac软件/rename-photos-download-and-configuration.md) — 2025-04-15
 - [Telegram 媒体文件保存受限怎么办？尝试用 TG-FF 资源管理助手高效突破限制](./Mac软件/telegram-media-save-limit-tg-ff-solution.md) — 2025-04-15
+- [AingDesk：集成本地模型部署、知识库与智能体构建的AI工作站](./Mac软件/aigdesk-ai-workstation-local-llm-knowledge-base-agents.md) — 2025-04-09
 
 ### Windows软件
 - [觉得 Win+V 记录太少且不够灵活？试试开源的本地剪贴板增强工具 ElegantClipboard](./Windows软件/elegant-clipboard-windows-clipboard-manager.md) — 2026-05-11
