@@ -1971,6 +1971,7 @@
 - [抖音直播起号运营指南：从零到一的实操步骤与避坑要点](./实战指南/douyin-livestreaming-startup-guide.md) — 2025-03-17
 - [营销号混剪带货实操指南：从内容创作到流量变现的全链路拆解](./实战指南/marketing-account-video-editing-guide.md) — 2025-03-16
 - [零基础英语学习指南：通过Sunny老师四维系统课看电影掌握语言技巧](./实战指南/zero-basis-english-learning-guide-sunny-movie-method.md) — 2025-03-16
+- [抖音千川投产优化实操指南：通过精细化运营实现付费流量的持续盈利](./实战指南/douyin-qianchuan-roi-optimization-guide.md) — 2025-03-16
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
