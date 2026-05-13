@@ -277,6 +277,7 @@
 - [开源图片反推提示词工具：兼容 Midjourney 与 Stable Diffusion 的 AI 绘画指令生成指南](./AI工具教程/open-source-ai-image-to-prompt-guide.md) — 2025-03-20
 - [Zerox OCR 开源解析指南：将非结构化文档转化为标准数据](./AI工具教程/zerox-ocr-open-source-guide.md) — 2025-03-18
 - [Grok Mirror 部署指南：实现多账号共享管理与免翻访问](./AI工具教程/grok-mirror-deployment-guide.md) — 2025-03-16
+- [构建私有化深度研究AI工作流：通过本地化部署实现文献与网页的智能检索分析](./AI工具教程/private-deep-research-ai-workflow-local-deployment.md) — 2025-03-16
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
