@@ -972,6 +972,7 @@
 - [咕咕番：无需注册的日漫在线观看资源站（支持多线路播放）](./创意工具/gugu-anime-online-streaming.md) — 2025-04-18
 - [传统祭祀入门：新手快速上手基本拜拜流程与礼仪指南](./创意工具/traditional-ancestor-worship-guide-for-beginners.md) — 2025-04-18
 - [使用 StayFocused 提升效率：白噪音专注时钟配置与操作指南](./创意工具/stayfocused-white-noise-clock-guide.md) — 2025-04-18
+- [海外书包使用指南：分步实现笔趣阁小说免费阅读](./创意工具/overseas-biquge-reading-guide.md) — 2025-04-18
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
