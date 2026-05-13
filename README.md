@@ -1003,6 +1003,7 @@
 - [如何通过 3D 交互还原诺基亚 3250 的经典操作体验？详解 CHAZ 3D 实现方案](./创意工具/nokia-3250-3d-interactive-experience-chaz-solution.md) — 2025-04-12
 - [中英文支票金额大小写转换指南：含免费在线写法工具与填写规范](./创意工具/check-amount-conversion-guide.md) — 2025-04-11
 - [ASVR 平台指南：探索沉浸式虚拟现实成人视频学习体验](./创意工具/asvr-platform-guide-immersive-vr-adult-video.md) — 2025-04-10
+- [Public IPTV 全球免费直播频道索引指南](./创意工具/public-iptv-free-channels-index-guide.md) — 2025-04-09
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
