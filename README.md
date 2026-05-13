@@ -1804,6 +1804,7 @@
 - [电商美工AIGC实战教程：涵盖PS结合AI工作流、项目搭建流程及设计案例实操](./实战指南/ecommerce-aigc-design-tutorial.md) — 2025-04-06
 - [视觉营销实操指南：通过四大核心模块构建高转化增长体系](./实战指南/visual-marketing-growth-guide.md) — 2025-04-06
 - [企业构建系统化盈利模式的5个执行步骤](./实战指南/5-steps-to-systematic-profit-model.md) — 2025-04-04
+- [AI办公实战指南：从零起步的工具配置、应用场景与副业变现路径](./实战指南/ai-office-practical-guide.md) — 2025-04-04
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
