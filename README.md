@@ -1870,6 +1870,7 @@
 - [2025小红书快速起号实操指南：从底层逻辑认知到全链路执行细节](./实战指南/xiaohongshu-growth-guide-2025.md) — 2025-03-29
 - [独立站起步总在盲目摸索？一套可落地的从0到1体系化运营指南](./实战指南/independent-site-operation-guide-0-to-1.md) — 2025-03-28
 - [小红书电商起步指南：从零到精通的实操流程与避坑要点](./实战指南/xiaohongshu-ecommerce-guide-for-beginners-4.md) — 2025-03-28
+- [Google Ads 获客实操指南：从账户搭建到高效转化美金订单](./实战指南/google-ads-acquisition-guide-conversion.md) — 2025-03-28
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
