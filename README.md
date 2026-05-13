@@ -404,6 +404,7 @@
 - [BabelDOC 开源 PDF 翻译方案：实现公式与表格原样保留的学术级文档转换](./GitHub项目/babeldoc-open-source-pdf-translation.md) — 2025-04-08
 - [想在项目里快速集成二维码生成功能？试试这款开源的 QR Code Generator](./GitHub项目/open-source-qr-code-generator-integration.md) — 2025-04-03
 - [Siliconflow-API-Management：面向企业级需求的 API Key 聚合管理方案](./GitHub项目/siliconflow-api-management-enterprise-key-aggregation.md) — 2025-04-01
+- [骤雨重山图床部署指南：构建免费开源的无限存储与高速访问方案](./GitHub项目/zhuyu-zhongshan-imgbed-deployment-guide.md) — 2025-04-01
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
