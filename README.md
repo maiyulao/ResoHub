@@ -1037,6 +1037,7 @@
 - [女性高阶进阶技巧：系列课程快速上手指南](./大人学习课程/advanced-skills-guide-for-women.md) — 2025-04-22
 - [老情叔叔：关于亲密关系与情感经营的实操指南](./大人学习课程/intimacy-and-emotional-relationship-guide.md) — 2025-04-19
 - [恋爱心理学：有道精品课全方位解析与实操指南](./大人学习课程/love-psychology-youdao-course-guide.md) — 2025-04-08
+- [30天高情商社交实操指南：通过阶梯式聊天技巧构建深度情感连接](./大人学习课程/30-day-high-eq-social-skills-guide.md) — 2025-04-04
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
