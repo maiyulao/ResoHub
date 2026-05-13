@@ -431,6 +431,7 @@
 - [iOS 影视 App 伪装安装全攻略：通过 App Store 绕过区域限制，快速部署高画质观影工具](./iOS应用/ios-movie-app-install-guide-bypass-region-restriction.md) — 2025-07-19
 - [想在手机上快速制作精美拼贴卡片，却厌倦了到处是广告的工具？试试这款免费开源的 MoE Card App](./iOS应用/moe-card-app-free-open-source-collage-maker.md) — 2025-06-18
 - [难以入眠或无法集中注意力？尝试用 ixHush 定制一套专属的白噪音组合](./iOS应用/customize-white-noise-with-ixhush.md) — 2025-05-02
+- [蛋播星球：多平台影视资源聚合应用指南](./iOS应用/danbo-planet-video-resource-guide.md) — 2025-03-18
 
 ### Mac软件
 - [Mac 刷机时该选 Revive 还是 Restore？详解 DFU 恢复模式与 DFU-Tools 开源工具用法](./Mac软件/mac-dfu-revive-vs-restore-dfu-tools-guide.md) — 2026-05-04
