@@ -273,6 +273,7 @@
 - [如何使用 AI Speaker 将文字转换为商业级多语言语音：全流程操作指南](./AI工具教程/ai-speaker-text-to-speech-guide.md) — 2025-03-23
 - [想快速复刻某个网页的UI设计？试试 Same.new，实现从代码克隆到自动部署的一键迁移](./AI工具教程/clone-web-ui-with-same-new.md) — 2025-03-23
 - [想在分享或冥想时快速获取一段契合心境的经文？试试这款AI随机圣经生成器](./AI工具教程/ai-random-bible-verse-generator.md) — 2025-03-22
+- [基于LBM的图像转换：实现干扰项智能剔除与光照质感重塑](./AI工具教程/lbm-image-conversion-interference-removal-lighting-reconstruction.md) — 2025-03-21
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
