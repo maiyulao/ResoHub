@@ -1782,6 +1782,7 @@
 - [深度解析人性逻辑：核心行为模式与心理机制指南 (PDF)](./实战指南/human-nature-logic-behavioral-patterns-guide.md) — 2025-04-09
 - [五一劳动节汇报怎么做才出彩？这293套主题PPT模板帮你快速搞定](./实战指南/labor-day-report-ppt-templates.md) — 2025-04-08
 - [中国318家5A景区讲解视频及185组航拍素材集锦](./实战指南/china-5a-scenic-spots-videos-and-aerial-footage.md) — 2025-04-08
+- [TikTok本土精品店出海全链路实战：从起步搭建至规模化增长](./实战指南/tiktok-shop-local-boutique-growth-guide.md) — 2025-04-08
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
