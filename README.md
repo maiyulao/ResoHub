@@ -1059,6 +1059,7 @@
 - [恋爱心理学：有道精品课全方位解析与实操指南](./大人学习课程/love-psychology-youdao-course-guide.md) — 2025-04-08
 - [30天高情商社交实操指南：通过阶梯式聊天技巧构建深度情感连接](./大人学习课程/30-day-high-eq-social-skills-guide.md) — 2025-04-04
 - [香蕉公社男性向女性高潮引导视频课程学习步骤指南](./大人学习课程/banana-commune-female-orgasm-guide-steps.md) — 2025-04-02
+- [面对心仪对象不知如何开口？掌握这几项社交心理技巧，提升你的脱单成功率](./大人学习课程/social-psychology-tips-for-dating-success.md) — 2025-03-31
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
