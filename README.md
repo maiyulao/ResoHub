@@ -511,6 +511,7 @@
 - [如何备份B站观看历史并批量下载视频？试试 BilibiliHistoryFetcher](./Windows软件/backup-bilibili-history-and-download-videos-bilibilihistoryfetcher.md) — 2025-04-24
 - [次元克赛马：基于GUI的二次元图像超分与去马赛克工具](./Windows软件/anime-upscaler-demosaic-gui-tool.md) — 2025-04-15
 - [OpenHashTab安装指南：支持28种算法的Windows右键哈希校验与VT在线扫描工具](./Windows软件/openhashtab-installation-guide.md) — 2025-04-12
+- [Bili-Hardcore：B站硬核会员自动化答题助手](./Windows软件/bili-hardcore-bilibili-automation-helper.md) — 2025-04-11
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
