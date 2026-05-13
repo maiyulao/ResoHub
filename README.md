@@ -1964,6 +1964,7 @@
 - [如何通过客户关系管理（CRM）优化销售系统的客户转化与维护？](./实战指南/optimize-sales-conversion-maintenance-with-crm.md) — 2025-03-17
 - [TikTok 驱动独立站增长：从零构建跨境电商闭环的实操指南](./实战指南/tiktok-shopify-growth-guide.md) — 2025-03-17
 - [小红书博主变现指南：9节实操赚钱课程要点解析](./实战指南/xiaohongshu-monetization-guide-course-notes.md) — 2025-03-17
+- [抖音直播起号运营指南：从零到一的实操步骤与避坑要点](./实战指南/douyin-livestreaming-startup-guide.md) — 2025-03-17
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
