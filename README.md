@@ -8,6 +8,7 @@
 ## 文章索引（自动维护）
 
 ### AI工具
+- [deep-printfilm 操作指南：从剧本、角色到关键帧的 AI 漫剧创作流程](./AI工具/deep-printfilm-ai-manga-workflow-guide.md) — 2026-05-09
 - [基于讯飞API的纯前端音视频转文字方案：实现长音频自动分段识别](./AI工具/xunfei-api-frontend-audio-video-to-text-segmentation.md) — 2026-05-06
 - [想要用一张照片快速搭建可实时视频通话的 AI 数字人？试试开源平台 CyberVerse](./AI工具/cyberverse-ai-digital-human-realtime-video-call.md) — 2026-05-01
 - [GPT-Image2 结构化提示词库：优化 AI 图像生成工作流的模板实践](./AI工具/gpt-image2-structured-prompt-library.md) — 2026-04-28
