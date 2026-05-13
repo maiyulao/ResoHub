@@ -1756,6 +1756,7 @@
 - [想用 ChatGPT 提升工作效率却不知从何入手？这份 AI 实战指南帮你快速上手并掌握核心技巧](./实战指南/chatgpt-productivity-guide-for-beginners.md) — 2025-04-12
 - [DeepSeek 商业变现提示词集：实操指令获取与应用场景指南](./实战指南/deepseek-monetization-prompts-guide.md) — 2025-04-12
 - [2025版小学全科全学年教学资源库：覆盖全阶段核心知识点与高频考题实操指南](./实战指南/2025-primary-school-all-subjects-teaching-resources-guide.md) — 2025-04-12
+- [知识IP从0到1实操指南：构建百万级个人品牌价值的孵化路径](./实战指南/knowledge-ip-branding-guide.md) — 2025-04-11
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
