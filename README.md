@@ -1078,6 +1078,7 @@
 - [如何使用免费在线工具翻译古英语：操作步骤详解](./创意工具/translate-old-english-free-online-tools.md) — 2025-03-22
 - [JetBrains Maple Mono 开源字体下载：适配编程环境的高可读性合成字体指南](./创意工具/jetbrains-maple-mono-font-download.md) — 2025-03-22
 - [BetterHistory 浏览器历史记录增强插件：安装指南、同步配置及隐私设置详解](./创意工具/betterhistory-installation-sync-privacy-guide.md) — 2025-03-22
+- [想找高质量的成人文学资源却不知从何搜起？禁书之家在线阅读指南](./创意工具/adult-literature-reading-guide-jinshu-zhijia.md) — 2025-03-20
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
