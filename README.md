@@ -1892,6 +1892,7 @@
 - [家庭旅行社交口语指南：从场景模拟到实操表达的教学步骤](./实战指南/family-travel-english-speaking-guide.md) — 2025-03-26
 - [高效驾驭 DeepSeek：核心提示词技巧与实操指南](./实战指南/deepseek-prompt-engineering-guide-2.md) — 2025-03-26
 - [健身IP商业化实操：从精准定位到个人影响力变现的系统指南](./实战指南/fitness-ip-monetization-guide.md) — 2025-03-26
+- [工厂出海TikTok没流量或不会拍？这份陪跑训练营带你跑通实操全流程](./实战指南/tiktok-factory-growth-training-camp.md) — 2025-03-25
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
