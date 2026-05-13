@@ -263,6 +263,7 @@
 - [DeepSeek R1 满血版免费镜像导航：快速汇总可直接调用完整能力的第三方接入平台](./AI工具教程/deepseek-r1-full-version-free-mirrors-guide.md) — 2025-04-01
 - [Echo Moss 在线生成动态音频波形视频：免费使用指南与环境配置](./AI工具教程/echo-moss-audio-waveform-video-guide.md) — 2025-03-31
 - [想让静态照片开口说话？尝试用 VideoTube 免费制作动感 AI Talking Photo](./AI工具教程/videotube-free-ai-talking-photo.md) — 2025-03-29
+- [面对职场英语词汇量不足导致沟通吃力？试试用 ProWords AI 精准攻克职业英语](./AI工具教程/improve-workplace-english-with-prowords-ai.md) — 2025-03-29
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
