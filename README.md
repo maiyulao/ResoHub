@@ -1826,6 +1826,7 @@
 - [2025年求职简历模板精选：千款高通过率样本汇总](./实战指南/best-resume-templates-2025.md) — 2025-04-03
 - [手机摄影进阶指南：通过系统化训练掌握构图与光影，实现随手拍出电影感大片](./实战指南/mobile-photography-guide-composition-lighting.md) — 2025-04-03
 - [DeepSeek部署指南：从环境配置到实战应用全流程](./实战指南/deepseek-deployment-guide.md) — 2025-04-03
+- [AI 驱动的 PPT 高效能创作指南：通过智能工具降低修改成本，实现快速产出与高质量表达](./实战指南/ai-powered-ppt-creation-guide.md) — 2025-04-02
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
