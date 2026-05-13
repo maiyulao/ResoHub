@@ -538,6 +538,7 @@
 - [Bili-Hardcore：B站硬核会员自动化答题助手](./Windows软件/bili-hardcore-bilibili-automation-helper.md) — 2025-04-11
 - [CCleaner v6.34 专业版：中文绿色便携激活版下载与指南](./Windows软件/ccleaner-v6-34-pro-portable-download-guide.md) — 2025-04-10
 - [AiToEarn 爱团团：支持多端同步与千号管理的智能全平台分发方案](./Windows软件/aitoearn-multi-platform-distribution-solution.md) — 2025-04-04
+- [MiniRenamer v2.2.2 批量重命名操作指南：从安装到高效执行的完整步骤](./Windows软件/minirenamer-v2-2-2-batch-rename-guide.md) — 2025-03-28
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
