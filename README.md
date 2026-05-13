@@ -271,6 +271,7 @@
 - [腾讯混元T1深度思考模型：核心能力与技术实现解析](./AI工具教程/tencent-hunyuan-t1-deep-thinking-model-analysis.md) — 2025-03-24
 - [用 image2prompt 快速反推 AI 绘图提示词：兼容 Midjourney 与 Stable Diffusion 的免费逆向工程工具](./AI工具教程/image2prompt-ai-reverse-prompt-tool.md) — 2025-03-23
 - [如何使用 AI Speaker 将文字转换为商业级多语言语音：全流程操作指南](./AI工具教程/ai-speaker-text-to-speech-guide.md) — 2025-03-23
+- [想快速复刻某个网页的UI设计？试试 Same.new，实现从代码克隆到自动部署的一键迁移](./AI工具教程/clone-web-ui-with-same-new.md) — 2025-03-23
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
