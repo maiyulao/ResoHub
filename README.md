@@ -506,6 +506,7 @@
 - [BiliBili ShadowReplay：实现 B 站直播流实时切片与回溯](./Mac软件/bilibili-shadowreplay-realtime-slicing-rewind.md) — 2025-04-04
 - [使用 Tuboshu 将任意网站快速转换为桌面应用的实操步骤](./Mac软件/convert-website-to-desktop-app-with-tuboshu.md) — 2025-03-28
 - [深度解析 IconChanger：实现 macOS 应用图标的快速自定义与批量自动化管理](./Mac软件/iconchanger-macos-app-icon-customization-automation.md) — 2025-03-26
+- [Real-ESRGAN GUI 实测：高效实现跨平台 AI 图像超分与画质修复](./Mac软件/real-esrgan-gui-review-ai-image-upscaling.md) — 2025-03-20
 
 ### Windows软件
 - [觉得 Win+V 记录太少且不够灵活？试试开源的本地剪贴板增强工具 ElegantClipboard](./Windows软件/elegant-clipboard-windows-clipboard-manager.md) — 2026-05-11
