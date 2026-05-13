@@ -455,6 +455,7 @@
 - [OpenUtau 跨平台开源编辑器：通过模块化架构实现高效的歌声合成与音频编辑](./Mac软件/openutau-cross-platform-open-source-singing-synthesis-editor.md) — 2025-04-21
 
 ### Windows软件
+- [觉得 Win+V 记录太少且不够灵活？试试开源的本地剪贴板增强工具 ElegantClipboard](./Windows软件/elegant-clipboard-windows-clipboard-manager.md) — 2026-05-11
 - [KOMA 指南：实现本地漫画自动去水印、压缩与标准化归档](./windows/koma-guide-manga-watermark-removal-compression-archiving.md) — 2026-02-05
 - [SmartHostsTool 指南：通过智能测速优化 Hosts 实现 GitHub 加速](./windows/smarthoststool-github-acceleration-guide.md) — 2026-01-03
 - [FlipSwitcher：采用 Fluent 2 设计语言的 Windows 任务切换增强方案](./windows/flipswitcher-fluent-2-windows-task-switcher.md) — 2025-12-26
