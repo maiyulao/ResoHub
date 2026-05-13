@@ -1860,6 +1860,7 @@
 - [从零起步：视频号直播运营全流程实操指南](./实战指南/video-channel-livestream-operation-guide.md) — 2025-03-29
 - [商业人像精修总显廉价？尝试用 Becho 高端摄影后期流程提升质感](./实战指南/high-end-business-portrait-retouching-becho-workflow.md) — 2025-03-29
 - [面向非技术人员的AI实战课程：学习路径、应用场景及上手指南](./实战指南/ai-practical-course-for-non-techs.md) — 2025-03-29
+- [社群商业变现指南：20个核心实操模块全解析](./实战指南/community-monetization-guide-20-modules.md) — 2025-03-29
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
