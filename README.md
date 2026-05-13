@@ -1892,6 +1892,7 @@
 - [AI 英语写作助手：通过三击空格快速实现地道表达，提升写作流畅度与专业感](./效率工具/ai-english-writing-assistant-fluent-expressions.md) — 2025-04-16
 - [如何安装并配置 VideoAdGuard 以自动跳过 B 站植入广告](./效率工具/install-configure-videoadguard-bilibili-skip-ads.md) — 2025-04-12
 - [如何使用 HumanizeText 将专业术语转化为通俗语言：操作全流程](./效率工具/how-to-use-humanizetext-to-simplify-professional-terms.md) — 2025-04-07
+- [小草莓：支持多格式笔记批量采集的小红书内容下载工具](./效率工具/xiaocaomei-xiaohongshu-downloader.md) — 2025-04-01
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
