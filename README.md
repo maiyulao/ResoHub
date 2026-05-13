@@ -996,6 +996,7 @@
 - [FrameGrab：高效提取视频关键帧并生成高质量封面的开源工具](./创意工具/framegrab-video-keyframe-extractor.md) — 2025-04-14
 - [PUA 社交心理学电子书资源库：在线阅读与下载指南](./创意工具/pua-social-psychology-ebooks-guide.md) — 2025-04-12
 - [如何通过 3D 交互还原诺基亚 3250 的经典操作体验？详解 CHAZ 3D 实现方案](./创意工具/nokia-3250-3d-interactive-experience-chaz-solution.md) — 2025-04-12
+- [中英文支票金额大小写转换指南：含免费在线写法工具与填写规范](./创意工具/check-amount-conversion-guide.md) — 2025-04-11
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
