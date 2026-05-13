@@ -1033,6 +1033,7 @@
 - [vps-calculator：VPS 剩余价值计算工具（含部署环境与使用说明）](./创意工具/vps-calculator-remaining-value-tool.md) — 2025-04-02
 - [黑猫图床：支持全球 CDN 加速的公益性图片托管方案](./创意工具/blackcat-img-cdn-hosting.md) — 2025-04-02
 - [Teleprompter.today 实测：如何利用专业在线提词器优化视频录制与演讲流程](./创意工具/teleprompter-today-review-video-recording-guide.md) — 2025-04-02
+- [DocTranslator在线文档翻译指南：支持多格式原样排版翻译及免费使用说明](./创意工具/doctranslator-online-document-translation-guide.md) — 2025-04-02
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
