@@ -1839,6 +1839,7 @@
 - [英语四六级历年真题及解析：从资料搜集到高效刷题的实操步骤](./实战指南/cet-past-papers-and-analysis-guide.md) — 2025-04-02
 - [AI 视频创作全流程：从基础工具上手到商业实战进阶](./实战指南/ai-video-creation-guide-from-basics-to-commercial.md) — 2025-04-01
 - [从零开始实现读书变现：格格巫私教班（第2期）实操指南](./实战指南/reading-monetization-guide-ggw-coach-class-2.md) — 2025-04-01
+- [抖音小店全流程精细化实操指南：从零基础起步至规模化运营的落地教程](./实战指南/douyin-shop-operational-guide.md) — 2025-04-01
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
