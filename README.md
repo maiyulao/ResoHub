@@ -256,6 +256,7 @@
 - [想让AI设计出真正具备品牌感的Logo？试试 Logent AI 智能 Agent 生成器](./AI工具教程/logent-ai-brand-logo-generator.md) — 2025-04-11
 - [PromptUp：AI 提示词的智能化管理与协作方案](./AI工具教程/promptup-ai-prompt-management-collaboration.md) — 2025-04-09
 - [WeClone：集成语音克隆与对话AI的微信数字分身构建方案](./AI工具教程/weclone-wechat-digital-twin-voice-cloning-ai.md) — 2025-04-05
+- [想快速把创意变成手机应用却不懂编程？尝试用 aSim 通过自然语言指令直接生成移动端 APP](./AI工具教程/build-mobile-app-with-asim-natural-language.md) — 2025-04-04
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
