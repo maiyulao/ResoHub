@@ -1072,6 +1072,7 @@
 - [ACN 平台指南：免费在线阅读与学习成人文学资源](./创意工具/acn-platform-guide-adult-literature-resources.md) — 2025-03-23
 - [如何使用 Photo-Effects 实现半色调、CRT 复古及噪点滤镜效果：操作指南](./创意工具/photo-effects-halftone-crt-noise-guide.md) — 2025-03-23
 - [想要高效获取适配 Vision Pro 的 3D 资源？试试这个集模型下载与 AR 创作于一体的设计平台](./创意工具/vision-pro-3d-resources-design-platform.md) — 2025-03-23
+- [如何使用免费在线工具翻译古英语：操作步骤详解](./创意工具/translate-old-english-free-online-tools.md) — 2025-03-22
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
