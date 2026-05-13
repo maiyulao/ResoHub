@@ -1854,6 +1854,7 @@
 - [全能发音实战指南：通过三阶段体系构建从零起步至流畅交流的语音能力](./实战指南/pronunciation-mastery-guide-3-stages.md) — 2025-03-31
 - [企业低成本精准拓客：AI短视频矩阵实操指南](./实战指南/ai-short-video-matrix-guide-for-lead-generation.md) — 2025-03-30
 - [TikTok全链路带货实操指南：从短视频、直播到小店运营的步骤拆解](./实战指南/tiktok-ecommerce-full-guide.md) — 2025-03-30
+- [从零起步：视频号直播运营全流程实操指南](./实战指南/video-channel-livestream-operation-guide.md) — 2025-03-29
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
