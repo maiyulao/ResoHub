@@ -1942,6 +1942,7 @@
 - [从零实现 Vue3 核心机制：源码解析与框架构建实战指南](./实战指南/vue3-core-mechanism-source-code-analysis-and-framework-implementation.md) — 2025-03-20
 - [从零开始：老实人认知升级与思维破局的操作指南](./实战指南/cognitive-upgrade-guide-for-beginners.md) — 2025-03-19
 - [小红书电商带货实操指南：从入驻到变现的陪跑训练步骤](./实战指南/xiaohongshu-ecommerce-guide-onboarding-to-monetization.md) — 2025-03-19
+- [如何实践彭凯平的幸福心理学：从认知到行动的 5 个核心步骤](./实战指南/peng-kaiping-happiness-psychology-steps.md) — 2025-03-18
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
