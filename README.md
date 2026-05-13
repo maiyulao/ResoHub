@@ -429,6 +429,7 @@
 - [Maple Mono v7.0 深度优化编码视觉：通过开源等宽字体设计升级，实现开发效率与阅读舒适度的双重提升](./GitHub项目/maple-mono-v7-coding-font-optimization.md) — 2025-03-17
 - [开源家谱可视化方案：通过一键部署快速构建数字化家族族谱系统](./GitHub项目/open-source-genealogy-visualization-system.md) — 2025-03-17
 - [DouYin Downloader 开源指南：实现抖音视频、图集与音频的批量无水印提取](./GitHub项目/douyin-downloader-open-source-guide.md) — 2025-03-17
+- [如何使用 GitHub Star Tracker 实时监测热门开源项目并追踪技术趋势](./GitHub项目/github-star-tracker-monitor-open-source-trends.md) — 2025-03-17
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
