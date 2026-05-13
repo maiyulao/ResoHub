@@ -572,6 +572,7 @@
 - [建立深度情感连接：引导对方产生爱意的心理机制与实践路径](./书籍/deep-emotional-connection-psychology-and-practice.md) — 2025-03-28
 - [高效脱单实战指南：通过理性分析社交逻辑，在七日内实现精准匹配与关系建立](./书籍/high-efficiency-dating-guide-social-logic.md) — 2025-03-22
 - [微信社交破冰与关系升级的操作指南：从话术引导到情感升温的实操步骤](./书籍/wechat-social-ice-breaking-and-relationship-upgrade-guide.md) — 2025-03-18
+- [高情商社交指南：告别尬聊的沟通实操技巧](./书籍/high-eq-social-communication-tips.md) — 2025-03-18
 
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
