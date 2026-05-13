@@ -1905,6 +1905,7 @@
 - [实体店短视频直播获客：从零开始的流量增长操作指南](./实战指南/local-store-short-video-livestreaming-growth-guide.md) — 2025-03-24
 - [婚前婚后权益保障指南：法律适用场景与风险规避要点](./实战指南/marriage-rights-and-legal-protection-guide.md) — 2025-03-24
 - [从实操到变现：深度解析 20 余种 AI 商业化应用场景与持续获利路径](./实战指南/ai-commercialization-scenarios-and-monetization-guide.md) — 2025-03-24
+- [DeepSeek 电商实操指南：天诺老吴 AI 课程（含落地场景与降本增效路径）](./实战指南/deepseek-ecommerce-guide-tiannuo-owu-course.md) — 2025-03-24
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
