@@ -425,6 +425,7 @@
 - [基于 Nuxt 的全栈相册框架：实现 AI 图像增强与云端高效压缩的闭环方案](./GitHub项目/nuxt-fullstack-photo-framework-ai-enhancement-cloud-compression.md) — 2025-03-27
 - [基于 Serverless 的永久微信群码与短链方案：实现零成本部署及高效链接分发](./GitHub项目/serverless-permanent-wechat-group-qr-shortlink.md) — 2025-03-18
 - [如何搭建一个支持自定义域名且能实时监控数据的短链接系统？试试开源工具 Kutt](./GitHub项目/build-short-url-system-with-kutt.md) — 2025-03-18
+- [LittleLink 开源指南：搭建轻量级个人多链接导航页](./GitHub项目/littlelink-open-source-guide-lightweight-bio-link-page.md) — 2025-03-18
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
