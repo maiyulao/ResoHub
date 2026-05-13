@@ -1780,6 +1780,7 @@
 - [跨境电商全网获客实操指南：从流量布局到订单转化的全链路营销体系](./实战指南/cross-border-ecommerce-customer-acquisition-guide.md) — 2025-04-09
 - [想用 ComfyUI 配合 PS 提升 AI 绘画质量却不知如何搭建？这份从零到精通的工作流实战指南为你拆解](./实战指南/comfyui-photoshop-workflow-guide.md) — 2025-04-09
 - [深度解析人性逻辑：核心行为模式与心理机制指南 (PDF)](./实战指南/human-nature-logic-behavioral-patterns-guide.md) — 2025-04-09
+- [五一劳动节汇报怎么做才出彩？这293套主题PPT模板帮你快速搞定](./实战指南/labor-day-report-ppt-templates.md) — 2025-04-08
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
