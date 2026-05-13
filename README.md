@@ -382,6 +382,7 @@
 - [将本地音频文件夹转化为私人播客源：Folder2Podcast RSS 实现一键同步订阅](./GitHub项目/folder2podcast-local-audio-to-private-rss.md) — 2025-04-29
 
 ### iOS应用
+- [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
 - [2Camera内购限免：支持前后摄像头同步拍摄与画中画分屏，适用于双视角视频创作](./iOS应用/2camera-dual-camera-recording-free.md) — 2025-10-08
 - [小企鹅播放器 iOS 版回归：集成 SMB、IPTV 与本地视频的媒体中心](./iOS应用/little-penguin-player-ios-smb-iptv-media-center.md) — 2025-09-19
 - [基于 Apple Vision 框架：将 iPhone 构建为私有化本地 OCR 服务器](./iOS应用/iphone-private-local-ocr-server-apple-vision.md) — 2025-09-12
