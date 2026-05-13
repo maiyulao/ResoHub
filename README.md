@@ -1012,6 +1012,7 @@
 - [海外建站实操笔记：部署环境、避坑指南与资源清单（overseas-website-note）](./创意工具/overseas-website-deployment-guide.md) — 2025-04-08
 - [夏柔API使用指南：从接口获取到免费调用的完整步骤](./创意工具/xiarou-api-guide-free-usage.md) — 2025-04-08
 - [构建随机黑西图片接口：从 API 设计到实战部署](./创意工具/build-random-black-west-image-api.md) — 2025-04-07
+- [如何使用 Pleyr 在浏览器中搭建 IPTV 播放环境：配置与操作指南](./创意工具/pleyr-iptv-browser-setup-guide.md) — 2025-04-07
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
