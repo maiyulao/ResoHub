@@ -252,6 +252,7 @@
 - [如何使用 MCP-Use 实现 LLM 与 MCP 服务器的快速集成：操作指南](./AI工具教程/mcp-use-llm-mcp-server-integration-guide.md) — 2025-04-18
 - [EmojiMyFace：将真实人脸照片快速转换为匹配 Emoji 的 AI 工具](./AI工具教程/emojimyface-ai-face-to-emoji-converter.md) — 2025-04-17
 - [基于 DeepSeek R1 满血版模型的 AI 论文写作与润色方案：低 AIGC 率的一站式实践](./AI工具教程/deepseek-r1-ai-paper-writing-and-polishing-guide.md) — 2025-04-14
+- [美间美盒AI抠图工具使用指南：一键去除背景及适用场景说明](./AI工具教程/meijian-ai-background-remover-guide.md) — 2025-04-12
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
