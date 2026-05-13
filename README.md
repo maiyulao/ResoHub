@@ -1944,6 +1944,7 @@
 - [小红书电商带货实操指南：从入驻到变现的陪跑训练步骤](./实战指南/xiaohongshu-ecommerce-guide-onboarding-to-monetization.md) — 2025-03-19
 - [如何实践彭凯平的幸福心理学：从认知到行动的 5 个核心步骤](./实战指南/peng-kaiping-happiness-psychology-steps.md) — 2025-03-18
 - [TikTok跨境小店销量低迷？从零构建独立运营体系的实操指南](./实战指南/tiktok-shop-independent-operation-guide.md) — 2025-03-18
+- [AI外贸实操指南：快速上手AI工具并应用于外贸业务的学习路径](./实战指南/ai-foreign-trade-guide-learning-path.md) — 2025-03-18
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
