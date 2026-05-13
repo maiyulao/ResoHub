@@ -1694,6 +1694,7 @@
 - [想在小红书起号做商业变现却没方向？这份从零到一的运营实操指南帮你破局](./实战指南/xiaohongshu-monetization-guide-4.md) — 2025-04-19
 - [AI闪电品牌课资源：含广告语生成与创意图工具，适用7日快速品牌搭建及流量获取](./实战指南/ai-branding-course-resources-tools.md) — 2025-04-19
 - [AI办公实操指南：通过综合应用提升工作效能](./实战指南/ai-office-productivity-guide.md) — 2025-04-18
+- [从基础到进阶：AI 绘画与模型微调全流程实战指南（68 讲）](./实战指南/ai-painting-and-model-finetuning-guide.md) — 2025-04-18
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
