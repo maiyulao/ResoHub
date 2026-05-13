@@ -1767,6 +1767,7 @@
 - [Summa：通过 AI 快速提取网页核心要点，实现信息高效去冗与精准概括](./效率工具/summa-ai-web-page-summarizer.md) — 2025-04-26
 - [如何安装并使用 Bilibili 浏览器插件解锁无限历史记录](./效率工具/install-bilibili-extension-unlock-history.md) — 2025-04-24
 - [Telegram Downloader 使用指南：高效提取无水印高清多媒体资源](./效率工具/telegram-downloader-guide.md) — 2025-04-19
+- [AI 英语写作助手：通过三击空格快速实现地道表达，提升写作流畅度与专业感](./效率工具/ai-english-writing-assistant-fluent-expressions.md) — 2025-04-16
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
