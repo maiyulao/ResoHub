@@ -1845,6 +1845,7 @@
 - [抖音小店全流程精细化实操指南：从零基础起步至规模化运营的落地教程](./实战指南/douyin-shop-operational-guide.md) — 2025-04-01
 - [2025 豆包 AI 高效指令库：85 组实用提示词实战指南](./实战指南/doubao-ai-prompt-library-2025.md) — 2025-04-01
 - [社交场合总是不知如何得体回应？尝试用这 32 套高情商沟通公式打破僵局](./实战指南/high-eq-communication-formulas-for-social-situations.md) — 2025-04-01
+- [AI 赋能公文写作：梅俊高效实操全指南（16讲完结）](./实战指南/ai-official-document-writing-guide.md) — 2025-03-31
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
