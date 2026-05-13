@@ -552,6 +552,7 @@
 - [想学小提琴却没基础？成人零起点快速上手指南](./兴趣爱好/adult-violin-beginner-guide.md) — 2025-04-30
 - [商业凉拌菜与热卤实操指南：从核心风味构建到系列化产品开发](./兴趣爱好/commercial-cold-dishes-and-braised-food-guide.md) — 2025-04-26
 - [茶艺实操指南：从基础理论到进阶技法的全流程教学方案](./兴趣爱好/tea-art-practical-guide-basic-to-advanced.md) — 2025-04-20
+- [美颜修图实操指南：从基础到进阶的快速上手路径](./兴趣爱好/beauty-photo-editing-guide.md) — 2025-04-14
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
