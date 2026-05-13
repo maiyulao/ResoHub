@@ -1831,6 +1831,7 @@
 - [DeepSeek部署指南：从环境配置到实战应用全流程](./实战指南/deepseek-deployment-guide.md) — 2025-04-03
 - [AI 驱动的 PPT 高效能创作指南：通过智能工具降低修改成本，实现快速产出与高质量表达](./实战指南/ai-powered-ppt-creation-guide.md) — 2025-04-02
 - [想系统学习中医却苦于缺乏权威资料？这份原价5.9万的绝版课程集帮你打破门槛](./实战指南/authoritative-tcm-course-collection.md) — 2025-04-02
+- [英语零基础至六级：全阶段学习路径与实操指南](./实战指南/english-learning-path-zero-to-cet6.md) — 2025-04-02
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
