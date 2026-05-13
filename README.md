@@ -1719,6 +1719,7 @@
 - [100部文学名著精读笔记下载：含核心解析与阅读指南（适用深度研读）](./实战指南/100-literary-classics-study-notes-download.md) — 2025-04-17
 - [想在两个月内快速掌握 PS 与 AI 协同设计？这份高效训练方案帮你突破效率瓶颈](./实战指南/master-ps-ai-collaborative-design-plan.md) — 2025-04-17
 - [高效视频剪辑实操指南：从基础逻辑到快速出片的全流程进阶](./实战指南/efficient-video-editing-guide.md) — 2025-04-17
+- [2025版RAG实战指南：从基础原理到生产级部署的完整学习路径与资源集](./实战指南/rag-practical-guide-2025.md) — 2025-04-17
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
