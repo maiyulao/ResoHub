@@ -1882,6 +1882,7 @@
 - [单人AI电影制作全流程实操指南](./实战指南/solo-ai-movie-production-guide.md) — 2025-03-28
 - [解析全球 iPhone 摄影大赛年度最佳作品：手机影像进阶实战指南](./实战指南/iphone-photography-awards-guide.md) — 2025-03-27
 - [DeepSeek 办公实操指南：通过场景化提示词重构工作流，实现全流程效率提升](./实战指南/deepseek-office-workflow-guide.md) — 2025-03-27
+- [备考2025年银行从业初中级考试没方向？这份思维导图与精简笔记帮你快速理清考点](./实战指南/2025-banking-exam-study-guide-mindmap-notes.md) — 2025-03-27
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
