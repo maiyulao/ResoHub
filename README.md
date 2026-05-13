@@ -1762,6 +1762,7 @@
 - [知识IP从0到1实操指南：构建百万级个人品牌价值的孵化路径](./实战指南/knowledge-ip-branding-guide.md) — 2025-04-11
 - [形家仗眼法进阶实战指南：通过系统化训练掌握堪舆风水核心识别技巧](./实战指南/xingjia-zhangyan-fengshui-guide.md) — 2025-04-11
 - [AI能元力全技能图谱：从底层逻辑到实操应用的核心能力构建指南](./实战指南/ai-skill-map-core-capabilities-guide.md) — 2025-04-11
+- [想拍好短视频却没镜头感？从摄影思维入手构建剪辑逻辑](./实战指南/short-video-cinematic-thinking-and-editing-logic.md) — 2025-04-11
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
