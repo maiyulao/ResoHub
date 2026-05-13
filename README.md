@@ -248,6 +248,9 @@
 - [DomainGenius：利用多模型AI精准生成品牌域名，实现从创意构思到可用性校验的自动化链路](./AI工具/domaingenius-ai-brand-domain-generator.md) — 2025-04-20
 - [基于 DeepSeek R1 的 BaziAI：开源免费的八字命理分析方案](./AI工具/baziai-deepseek-r1-bazi-analysis.md) — 2025-04-19
 
+### AI工具教程
+- [如何使用 MCP-Use 实现 LLM 与 MCP 服务器的快速集成：操作指南](./AI工具教程/mcp-use-llm-mcp-server-integration-guide.md) — 2025-04-18
+
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
