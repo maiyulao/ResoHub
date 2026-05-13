@@ -1743,6 +1743,7 @@
 - [小红书电商直播全链路实操：涵盖带货技巧、店铺搭建与笔记引流指南](./实战指南/xiaohongshu-ecommerce-livestreaming-guide.md) — 2025-04-14
 - [易经奇门预测学：22项核心技术的逻辑拆解与实战应用指南](./实战指南/yi-jing-qi-men-predictive-techniques-guide.md) — 2025-04-13
 - [韩语中级进阶指南：从入门到精通的实操学习步骤](./实战指南/intermediate-korean-learning-guide.md) — 2025-04-13
+- [想找高质量别墅室内设计参考？这里有196套涵盖CAD图纸与效果图的全案方案](./实战指南/luxury-villa-interior-design-cases-cad-renderings.md) — 2025-04-13
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
