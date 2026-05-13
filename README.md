@@ -286,6 +286,7 @@
 - [AnyViewer Pro 授权码限时免费领取指南](./Android应用/anyviewer-pro-free-license-guide.md) — 2025-04-19
 - [酷我音乐 v11.2.0.1 安卓版：会员功能解锁与广告移除修改版](./Android应用/kuwo-music-v11-2-0-1-android-mod-unlocked.md) — 2025-04-10
 - [Google Play Store v45.6.19 版本更新要点解析](./Android应用/google-play-store-v45-6-19-update-analysis.md) — 2025-04-10
+- [Kazumi：支持实时超分与弹幕同步的开源番剧播放方案](./Android应用/kazumi-open-source-anime-player-upscaling-danmaku.md) — 2025-04-10
 
 ### Category 9166
 - [如何使用 Data-Analysis-Agent 通过自然语言查询数据库：开源配置与操作指南](./Category 9166/data-analysis-agent-natural-language-database-query-guide.md) — 2026-05-12
