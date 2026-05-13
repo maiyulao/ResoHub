@@ -1010,6 +1010,7 @@
 - [Public IPTV 全球免费直播频道索引指南](./创意工具/public-iptv-free-channels-index-guide.md) — 2025-04-09
 - [基于艾宾浩斯遗忘曲线的在线单词记忆工具：多多记单词](./创意工具/duodu-vocabulary-ebbinghaus-forgetting-curve-tool.md) — 2025-04-09
 - [海外建站实操笔记：部署环境、避坑指南与资源清单（overseas-website-note）](./创意工具/overseas-website-deployment-guide.md) — 2025-04-08
+- [夏柔API使用指南：从接口获取到免费调用的完整步骤](./创意工具/xiarou-api-guide-free-usage.md) — 2025-04-08
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
