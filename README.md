@@ -1766,6 +1766,7 @@
 - [想拍好短视频却没镜头感？从摄影思维入手构建剪辑逻辑](./实战指南/short-video-cinematic-thinking-and-editing-logic.md) — 2025-04-11
 - [从部署到增长：AIGC私有化应用落地全流程操作指南](./实战指南/aigc-private-deployment-growth-guide.md) — 2025-04-10
 - [2025亚马逊跨境电商选品实操案例：分析维度、适用类目与避坑指南](./实战指南/amazon-product-research-guide-2025.md) — 2025-04-10
+- [图书博主从零起步：实操指南与成长路径](./实战指南/book-blogger-guide-growth-path.md) — 2025-04-10
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
