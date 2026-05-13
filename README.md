@@ -1732,6 +1732,7 @@
 - [外贸获客没头绪？从零开始实操 Google 精准开发客户的完整路径](./实战指南/google-customer-acquisition-guide.md) — 2025-04-15
 - [阿里国际站新店如何快速完成基建？从零开始的店铺搭建全流程指南](./实战指南/alibaba-international-station-new-store-setup-guide.md) — 2025-04-15
 - [小红书带货2.0实操训练营：面向多人群的副业增收方案与42天进阶指南](./实战指南/xiaohongshu-ecommerce-training-camp-guide.md) — 2025-04-15
+- [想要通过外刊提升英语阅读能力？这份 2020-2024 年精读资料集帮你攻克长难句与地道表达](./实战指南/improve-english-reading-with-foreign-publications-2020-2024.md) — 2025-04-15
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
