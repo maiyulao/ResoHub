@@ -383,6 +383,7 @@
 - [StreamVault 视频资源管理工具：支持多平台下载与库整理及部署指南](./GitHub项目/streamvault-video-management-guide.md) — 2025-05-02
 - [NeuraPress：将 Markdown 文档高效转化为公众号文章的现代化编辑器](./GitHub项目/neurapress-markdown-to-wechat-editor.md) — 2025-04-30
 - [将本地音频文件夹转化为私人播客源：Folder2Podcast RSS 实现一键同步订阅](./GitHub项目/folder2podcast-local-audio-to-private-rss.md) — 2025-04-29
+- [Sex-Agreement-App：行为同意协议系统的设计与实现](./GitHub项目/sex-agreement-app-design-implementation.md) — 2025-04-18
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
