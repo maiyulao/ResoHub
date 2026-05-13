@@ -1920,6 +1920,7 @@
 - [浙江大学 DeepSeek 实践指南：典型应用场景与案例解析](./实战指南/zju-deepseek-practice-guide.md) — 2025-03-24
 - [从零构建高权重直播间：从账号启动到千人在线的实操指南](./实战指南/build-high-weight-livestream-room-guide.md) — 2025-03-23
 - [小红书从零起步到变现：博主成长实操指南与运营步骤](./实战指南/xiaohongshu-growth-and-monetization-guide-2.md) — 2025-03-23
+- [尚方舟剑桥英语教学指南：核心方法与实操要点归纳](./实战指南/shangfangzhou-cambridge-english-teaching-guide.md) — 2025-03-22
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
