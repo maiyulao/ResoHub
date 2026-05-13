@@ -1690,6 +1690,7 @@
 - [亚马逊SP广告实操指南：基于算法逻辑的架构搭建与投放策略](./实战指南/amazon-sp-ads-algorithm-strategy-guide.md) — 2025-04-19
 - [如何高效获取并学习知识星球付费课程：分步操作指南](./实战指南/how-to-learn-knowledge-planet-paid-courses.md) — 2025-04-19
 - [多渠道联动驱动IP快速增长：通过抖音获客、小红书种草与私域沉淀构建全域运营闭环](./实战指南/omni-channel-ip-growth-strategy.md) — 2025-04-19
+- [自媒体起步指南：从零开始打造个人IP的实操步骤](./实战指南/self-media-personal-ip-guide.md) — 2025-04-19
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
