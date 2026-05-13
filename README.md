@@ -399,6 +399,7 @@
 - [GoMusic：支持网易云、QQ、汽水音乐至 Apple/Spotify/Youtube 的跨平台歌单迁移方案](./GitHub项目/gomusic-cross-platform-playlist-migration.md) — 2025-04-13
 - [NetQuality 全球网络质量分析指南：通过 BGP 路由诊断与三网测速实现精准链路监测](./GitHub项目/netquality-global-network-analysis-guide.md) — 2025-04-09
 - [BabelDOC 开源 PDF 翻译方案：实现公式与表格原样保留的学术级文档转换](./GitHub项目/babeldoc-open-source-pdf-translation.md) — 2025-04-08
+- [想在项目里快速集成二维码生成功能？试试这款开源的 QR Code Generator](./GitHub项目/open-source-qr-code-generator-integration.md) — 2025-04-03
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
