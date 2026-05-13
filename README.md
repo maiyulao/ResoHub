@@ -268,6 +268,7 @@
 - [高效跨国沟通：语音、图像与文本实时翻译工具选购及使用指南](./AI工具教程/cross-border-translation-tools-guide.md) — 2025-03-27
 - [如何使用 Freenote 构建基于 Markdown 的开源 AI 智能日记本](./AI工具教程/build-ai-markdown-diary-with-freenote.md) — 2025-03-27
 - [开源AI文本去痕迹工具：适用场景、获取途径及清洗要点说明](./AI工具教程/open-source-ai-text-humanizer-guide.md) — 2025-03-26
+- [腾讯混元T1深度思考模型：核心能力与技术实现解析](./AI工具教程/tencent-hunyuan-t1-deep-thinking-model-analysis.md) — 2025-03-24
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
