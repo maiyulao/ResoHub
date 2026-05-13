@@ -1936,6 +1936,7 @@
 - [DeepSeek 算法实战资料包：涵盖行业趋势分析与应用指南（含获取路径与环境配置）](./实战指南/deepseek-algorithm-practical-guide.md) — 2025-03-20
 - [AI 视频创作全流程实战指南：从基础理论到高级制作技巧](./实战指南/ai-video-creation-guide.md) — 2025-03-20
 - [ChatGPT 全能实操指南：从基础指令到高级进阶的三个阶段](./实战指南/chatgpt-complete-guide-three-stages.md) — 2025-03-20
+- [从零实现 Vue3 核心机制：源码解析与框架构建实战指南](./实战指南/vue3-core-mechanism-source-code-analysis-and-framework-implementation.md) — 2025-03-20
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
