@@ -265,6 +265,7 @@
 - [想让静态照片开口说话？尝试用 VideoTube 免费制作动感 AI Talking Photo](./AI工具教程/videotube-free-ai-talking-photo.md) — 2025-03-29
 - [面对职场英语词汇量不足导致沟通吃力？试试用 ProWords AI 精准攻克职业英语](./AI工具教程/improve-workplace-english-with-prowords-ai.md) — 2025-03-29
 - [Ai Image BG 使用指南：支持免费文生图、背景去除与画质增强的 AI 图像处理方案](./AI工具教程/ai-image-bg-guide.md) — 2025-03-28
+- [高效跨国沟通：语音、图像与文本实时翻译工具选购及使用指南](./AI工具教程/cross-border-translation-tools-guide.md) — 2025-03-27
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
