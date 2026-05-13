@@ -1799,6 +1799,7 @@
 - [豆包 AI 全能实战指南：从零基础入门到精通高效应用的分层训练体系](./实战指南/doubao-ai-complete-guide-mastery.md) — 2025-04-07
 - [DeepSeek 辅助家庭教育：高效辅导孩子作业的实践指南](./实战指南/deepseek-guide-home-education-homework.md) — 2025-04-06
 - [小红书电商实操指南：从商业变现逻辑到陪跑实战全流程](./实战指南/xiaohongshu-ecommerce-guide-monetization-to-practice.md) — 2025-04-06
+- [AI雕塑软件实操指南：从基础配置到高级技巧的进阶步骤](./实战指南/ai-sculpting-software-guide.md) — 2025-04-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
