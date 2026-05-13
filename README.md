@@ -1091,6 +1091,7 @@
 - [如何使用AI云游电台开启虚拟全球旅行：操作指南与体验步骤](./创意工具/ai-cloud-radio-virtual-travel-guide.md) — 2025-03-19
 - [如何使用 Tweeload 下载 Twitter 高清视频与 GIF：完整操作指南](./创意工具/how-to-use-tweeload-download-twitter-videos-gifs.md) — 2025-03-19
 - [想找一个像 Notion 或 Outline 但能完全私有部署的开源文档平台？试试这款由法德政府背书的 Docs](./创意工具/open-source-private-docs-alternative-to-notion-outline.md) — 2025-03-18
+- [FolderPort：实现高效、加密的 P2P 文件夹实时同步与共享](./创意工具/folderport-p2p-folder-sync-share.md) — 2025-03-17
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
