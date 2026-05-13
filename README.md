@@ -1824,6 +1824,7 @@
 - [DeepSeek 落地实战：从场景建模到工程化部署的进阶指南](./实战指南/deepseek-implementation-guide-modeling-to-deployment.md) — 2025-04-04
 - [如何利用 DeepSeek 突破同城营销瓶颈，实现高阶获客增长？](./实战指南/deepseek-local-marketing-growth.md) — 2025-04-03
 - [2025年求职简历模板精选：千款高通过率样本汇总](./实战指南/best-resume-templates-2025.md) — 2025-04-03
+- [手机摄影进阶指南：通过系统化训练掌握构图与光影，实现随手拍出电影感大片](./实战指南/mobile-photography-guide-composition-lighting.md) — 2025-04-03
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
