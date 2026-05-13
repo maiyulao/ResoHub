@@ -1712,6 +1712,7 @@
 - [AI办公实操指南：通过综合应用提升工作效能](./实战指南/ai-office-productivity-guide.md) — 2025-04-18
 - [从基础到进阶：AI 绘画与模型微调全流程实战指南（68 讲）](./实战指南/ai-painting-and-model-finetuning-guide.md) — 2025-04-18
 - [小学英语高效提分资源包：涵盖25套核心学习资料，分阶段构建语言能力体系](./实战指南/primary-english-score-boost-resources.md) — 2025-04-18
+- [Java 高级开发进阶指南：90天实战能力提升计划（第三期）](./实战指南/java-advanced-development-90-day-plan-v3.md) — 2025-04-18
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
