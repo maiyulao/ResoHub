@@ -1925,6 +1925,7 @@
 - [美式英语视觉词典 Oxford Picture Dictionary (OPD) 第三版：资源获取与适用指南](./实战指南/oxford-picture-dictionary-3rd-edition-guide.md) — 2025-03-22
 - [元素周期表：图文对照参考指南](./实战指南/periodic-table-visual-guide.md) — 2025-03-22
 - [DeepSeek 实战手册：基于清华大学视角的深度应用指南与高效技巧解析](./实战指南/deepseek-practical-guide-tsinghua-perspective.md) — 2025-03-22
+- [抖音短视频从起号到变现：新手快速吸粉的实操步骤指南](./实战指南/douyin-short-video-growth-monetization-guide.md) — 2025-03-21
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
