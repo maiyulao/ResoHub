@@ -1771,6 +1771,7 @@
 - [从部署到增长：AIGC私有化应用落地全流程操作指南](./实战指南/aigc-private-deployment-growth-guide.md) — 2025-04-10
 - [2025亚马逊跨境电商选品实操案例：分析维度、适用类目与避坑指南](./实战指南/amazon-product-research-guide-2025.md) — 2025-04-10
 - [图书博主从零起步：实操指南与成长路径](./实战指南/book-blogger-guide-growth-path.md) — 2025-04-10
+- [跨境电商全网获客实操指南：从流量布局到订单转化的全链路营销体系](./实战指南/cross-border-ecommerce-customer-acquisition-guide.md) — 2025-04-09
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
