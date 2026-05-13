@@ -1896,6 +1896,7 @@
 - [健身IP商业化实操：从精准定位到个人影响力变现的系统指南](./实战指南/fitness-ip-monetization-guide.md) — 2025-03-26
 - [工厂出海TikTok没流量或不会拍？这份陪跑训练营带你跑通实操全流程](./实战指南/tiktok-factory-growth-training-camp.md) — 2025-03-25
 - [AI视频创作与商业变现全流程实操指南](./实战指南/ai-video-creation-and-monetization-guide.md) — 2025-03-25
+- [200套通用财务报表模板下载：涵盖多场景核算，适用企业财务实操](./实战指南/200-financial-report-templates-download.md) — 2025-03-25
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
