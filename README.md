@@ -394,6 +394,7 @@
 - [Sex-Agreement-App：行为同意协议系统的设计与实现](./GitHub项目/sex-agreement-app-design-implementation.md) — 2025-04-18
 - [通用 NAS Docker Compose 部署指南：从模板配置到容器快速上线](./GitHub项目/nas-docker-compose-deployment-guide.md) — 2025-04-18
 - [GoMusic：支持网易云、QQ、汽水音乐至 Apple/Spotify/Youtube 的跨平台歌单迁移方案](./GitHub项目/gomusic-cross-platform-playlist-migration.md) — 2025-04-13
+- [NetQuality 全球网络质量分析指南：通过 BGP 路由诊断与三网测速实现精准链路监测](./GitHub项目/netquality-global-network-analysis-guide.md) — 2025-04-09
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
