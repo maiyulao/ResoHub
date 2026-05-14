@@ -2184,6 +2184,7 @@
 - [想知道全球票房最高的10部电影长什么样？4K超清画质带你回顾影史巅峰之作](./实战指南/top-10-highest-grossing-movies-4k.md) — 2025-02-16
 - [32节实操理财课：构建个人资产增值体系](./实战指南/32-lessons-personal-finance-asset-growth.md) — 2025-02-16
 - [抖店起步难、订单量低怎么办？这份21天爆单实操指南为你拆解运营全流程](./实战指南/douyin-shop-growth-guide-21days.md) — 2025-02-16
+- [柠檬老师全能英语综合课程（三合一）学习指南：从入门到精通的实操步骤](./实战指南/lemon-english-comprehensive-course-guide.md) — 2025-02-16
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
