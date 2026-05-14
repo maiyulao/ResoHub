@@ -2023,6 +2023,7 @@
 - [独立站如何靠邮件营销实现百万美金年营收？从策略布局到ROI破百的实操指南](./实战指南/email-marketing-million-dollar-revenue-guide.md) — 2025-03-10
 - [视频号直播起号实操：零粉丝快速突破的五场付费课程要点解析](./实战指南/video-channel-livestream-growth-guide.md) — 2025-03-09
 - [高端私域社群增长全指南：从底层认知到0-1实操的方法论体系](./实战指南/high-end-private-traffic-community-growth-guide.md) — 2025-03-09
+- [信息流广告点击率低、无法突破量级？尝试这几套能跑量的文案撰写模型](./实战指南/feed-ads-ctr-copywriting-models.md) — 2025-03-08
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
