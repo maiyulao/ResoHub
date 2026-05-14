@@ -2193,6 +2193,7 @@
 - [抖店起步难、订单量低怎么办？这份21天爆单实操指南为你拆解运营全流程](./实战指南/douyin-shop-growth-guide-21days.md) — 2025-02-16
 - [柠檬老师全能英语综合课程（三合一）学习指南：从入门到精通的实操步骤](./实战指南/lemon-english-comprehensive-course-guide.md) — 2025-02-16
 - [张赟慧《极简风水入门》全集下载：适用初学者的基础指南及阅读要点](./实战指南/minimal-feng-shui-guide-zhang-yunhui.md) — 2025-02-15
+- [利用 DeepSeek 提升职场效率的实操步骤指南](./实战指南/deepseek-workplace-efficiency-guide.md) — 2025-02-14
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
