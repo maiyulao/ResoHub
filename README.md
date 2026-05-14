@@ -290,6 +290,7 @@
 - [想让AI把文字故事变成高清短视频？试试 Story-Flicks 的一键生成方案](./AI工具教程/story-flicks-ai-text-to-video.md) — 2025-03-02
 - [跃问AI：基于满血版DeepSeek-R1的场景化效率增强方案](./AI工具教程/yuewen-ai-deepseek-r1-efficiency-solution.md) — 2025-03-01
 - [GenAI 图像生成指南：摆脱版权限制，高效产出商用无版权图片](./AI工具教程/genai-image-generation-guide-copyright-free-commercial-images.md) — 2025-03-01
+- [TrendPublish：通过多源内容自动化采集与智能发布，提升公众号内容运营效率](./AI工具教程/trendpublish-automated-content-collection-and-publishing.md) — 2025-03-01
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
