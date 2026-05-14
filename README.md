@@ -1203,6 +1203,7 @@
 - [Base64转SVG在线解码器：支持实时预览与浏览器直接运行](./创意工具/base64-to-svg-online-decoder.md) — 2025-02-19
 - [马拉松配速计算指南：通过精准的时间规划实现赛道突破](./创意工具/marathon-pace-calculator-guide.md) — 2025-02-19
 - [如何快速计算每日工作时长与加班费？这款免费在线小时计算器帮你精准核算](./创意工具/calculate-work-hours-and-overtime-pay-calculator.md) — 2025-02-19
+- [CarOBook 使用指南：快速配置你的数字化汽车保养与说明书手册](./创意工具/carobook-user-guide-digital-car-maintenance-manual.md) — 2025-02-18
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
