@@ -1173,6 +1173,7 @@
 - [Excel Home：高效办公表格技能指南与资源库](./创意工具/excel-home-productivity-guide-resources.md) — 2025-02-27
 - [LIVP实况照片转换指南：实现HEIC与MOV批量提取，一键还原iPhone动态影像](./创意工具/livp-live-photo-heic-mov-converter.md) — 2025-02-26
 - [使用怪异字体生成器制作时尚花哨文本的完整步骤](./创意工具/how-to-use-fancy-font-generator.md) — 2025-02-26
+- [想快速裁剪图片却担心隐私泄露或画质受损？试试这款免费安全的在线工具 Crop Image](./创意工具/free-secure-online-crop-image-tool.md) — 2025-02-26
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
