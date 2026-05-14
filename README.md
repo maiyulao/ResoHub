@@ -1106,6 +1106,7 @@
 - [给孩子讲睡前故事没灵感？BeddyStories 为 0-12 岁儿童提供全球经典故事库](./创意工具/beddystories-classic-bedtime-stories-for-kids.md) — 2025-03-14
 - [张维为语录检索与《这就是中国》表情包生成指南](./创意工具/zhang-wei-quotes-and-this-is-china-memes-guide.md) — 2025-03-14
 - [浏览器端 TI-84 模拟器：无需安装即可实现图形绘制与复杂科学计算](./创意工具/browser-ti84-emulator-graphing-calculator.md) — 2025-03-14
+- [50T 亿苯网盘 Alist 资源库：支持 WebDAV 挂载与远程访问指南](./创意工具/50t-yiben-alist-webdav-guide.md) — 2025-03-14
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
