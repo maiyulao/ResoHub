@@ -318,6 +318,7 @@
 - [DeepSeek 官方提示词指南：通过结构化指令库快速提升模型输出质量](./AI工具教程/deepseek-official-prompt-guide-structured-instructions.md) — 2025-02-08
 - [AI NavHub 指南：高效筛选 2025 年度顶尖 AI 工具清单](./AI工具教程/ai-navhub-guide-top-ai-tools-2025.md) — 2025-02-08
 - [AI 图像生成工具使用指南：从注册到出图的完整操作步骤](./AI工具教程/ai-image-generator-guide-step-by-step.md) — 2025-02-07
+- [T-Rex Label 快速上手指南：从安装到实现 AI 智能标注的完整步骤](./AI工具教程/t-rex-label-quick-start-guide-ai-annotation.md) — 2025-02-06
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
