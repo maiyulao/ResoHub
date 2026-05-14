@@ -1286,6 +1286,7 @@
 - [高效表白实操指南：从心态建设到话术拆解，提升恋爱成功率](./大人学习课程/confession-guide-for-dating-success.md) — 2025-02-15
 - [高效沟通实操指南：通过36个典型场景拆解高情商表达逻辑与话术技巧](./大人学习课程/effective-communication-guide-scenarios-and-tips.md) — 2025-02-14
 - [绳索技巧入门指南：《我的身体，我的心》第二季实操手册](./大人学习课程/rope-skills-guide-my-body-my-heart-season-2.md) — 2025-02-09
+- [绳缚入门实操指南《我的身体，我的心》第一季：从基础安全原则到初学者绳结技巧的分层教学](./大人学习课程/shibari-beginner-guide-season-1-safety-and-knots.md) — 2025-02-06
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
