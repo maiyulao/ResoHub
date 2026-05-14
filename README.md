@@ -2004,6 +2004,7 @@
 - [从零到一打造知识课程：30天实操全流程指南](./实战指南/build-knowledge-course-30-day-guide.md) — 2025-03-13
 - [大威本威直播带货实操课：20节完整音频资源，适合零基础快速上手](./实战指南/dawei-live-streaming-commerce-course-audio.md) — 2025-03-13
 - [规模化增长实操指南：从渠道裂变到全网营销的业绩翻倍路径](./实战指南/scaling-growth-guide-channel-fission-to-omnichannel-marketing.md) — 2025-03-13
+- [DeepSeek 全方位实操手册：从基础配置到高效进阶 (2025版)](./实战指南/deepseek-complete-guide-2025.md) — 2025-03-11
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
