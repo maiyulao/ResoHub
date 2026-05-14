@@ -2098,6 +2098,7 @@
 - [DeepSeek 行业落地指南：浙江大学 2025 年智能应用案例解析](./实战指南/deepseek-industry-guide-zju-2025-cases.md) — 2025-02-28
 - [高效利用GPT：从实操技巧到工作流提效指南](./实战指南/gpt-tips-and-workflow-guide.md) — 2025-02-27
 - [掌握商务英语邮件写作：从基础到精通的实操指南](./实战指南/business-english-email-writing-guide.md) — 2025-02-26
+- [李松蔚系统式家庭养育训练营全集：旨在培养孩子自我负责能力的实操指南](./实战指南/li-songwei-family-parenting-training-guide.md) — 2025-02-26
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
