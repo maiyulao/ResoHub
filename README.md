@@ -2045,6 +2045,7 @@
 - [高效击破拖延惯性：深度拆解《终结你的拖延症2.0》中的行动逻辑与执行策略](./实战指南/stop-procrastination-2-action-logic-strategies.md) — 2025-03-06
 - [如何从RAG与Agent实战出发，将AI大模型真正转化为可落地的行业应用？](./实战指南/rag-agent-ai-industry-applications.md) — 2025-03-06
 - [国际站获客实操指南：降低成本并提升询盘质量的增长路径](./实战指南/alibaba-international-site-customer-acquisition-guide.md) — 2025-03-06
+- [利用AI创作今日头条爆文的实操指南与变现路径](./实战指南/ai-toutiao-content-creation-guide.md) — 2025-03-05
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
