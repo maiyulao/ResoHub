@@ -2254,6 +2254,7 @@
 - [高薪进阶路径：从职场新人到百万年薪的能力构建指南](./实战指南/career-growth-guide-to-million-salary.md) — 2025-02-06
 - [面对亚马逊严查评论合并的封号风险，如何通过最新的FBA精品运营策略安全起量？（附实操文档与音频）](./实战指南/amazon-fba-review-merging-risk-and-growth-strategy.md) — 2025-02-06
 - [外贸获客与商务谈判实战指南：40课时零基础起步教程](./实战指南/foreign-trade-customer-acquisition-and-negotiation-guide.md) — 2025-02-06
+- [打破常规：苏杰论产品思维的迭代与创新实践](./实战指南/su-jie-product-thinking-innovation.md) — 2025-02-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
