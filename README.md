@@ -280,6 +280,7 @@
 - [构建私有化深度研究AI工作流：通过本地化部署实现文献与网页的智能检索分析](./AI工具教程/private-deep-research-ai-workflow-local-deployment.md) — 2025-03-16
 - [Cursor 免费额度用尽无法续期？试试这个试用期重置工具](./AI工具教程/cursor-free-trial-reset-tool.md) — 2025-03-14
 - [高质量 MCP 服务器资源汇总：Awesome MCP Servers 实用清单](./AI工具教程/awesome-mcp-servers-list.md) — 2025-03-11
+- [如何使用 SimilarLabs 快速筛选并对比最佳 AI 工具：操作指南](./AI工具教程/how-to-use-similarlabs-compare-ai-tools-guide.md) — 2025-03-09
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
