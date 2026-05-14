@@ -596,6 +596,7 @@
 - [想知道谁把你删了或没通过你的好友申请？用 WechatRealFriends 快速筛查微信单向关系与拉黑状态](./Windows软件/wechat-real-friends-check-blocked-contacts.md) — 2025-03-24
 - [Windows 11 绿色版系统优化工具 v1.10：高效配置与性能调优指南](./Windows软件/windows-11-optimization-tool-v1-10.md) — 2025-03-04
 - [WeChatMsg：将微信聊天记录导出为结构化文档，支持定制化年度社交分析报告](./Windows软件/wechatmsg-export-chat-history-social-analysis-report.md) — 2025-03-04
+- [WeClipper 剪贴板助手：2.6MB 免安装轻量版，支持光标智能跟随同步](./Windows软件/weclipper-lightweight-clipboard-manager.md) — 2025-03-01
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
