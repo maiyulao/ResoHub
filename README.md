@@ -307,6 +307,7 @@
 - [DeepSeek-R1 满血版配置指南：实现免费、不限次智能写作与联网搜索](./AI工具教程/deepseek-r1-full-version-setup-guide.md) — 2025-02-18
 - [Animate Anyone 实操指南：将静态角色图转化为动态视频的步骤详解](./AI工具教程/animate-anyone-guide-static-image-to-video.md) — 2025-02-17
 - [基于 Hacker News 热帖的 AI 自动中文播客：生成逻辑与订阅获取指南](./AI工具教程/ai-chinese-podcast-hacker-news-guide.md) — 2025-02-16
+- [Tool ThinkInAI：通过兼容性检测优化 DeepSeek 模型部署，确保接口调用与功能对齐](./AI工具教程/thinkinai-deepseek-deployment-compatibility-optimization.md) — 2025-02-15
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
