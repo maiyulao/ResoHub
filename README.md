@@ -352,6 +352,7 @@
 - [Filmbudd 使用指南：从电影评分查询、观影标记到在线资源获取的完整步骤](./Android应用/filmbudd-user-guide.md) — 2025-02-24
 - [高效理财实践：基于AI语音识别与多维度预算的自动化记账方案](./Android应用/ai-voice-automated-budgeting-system.md) — 2025-02-19
 - [ImageToolbox：集成化图像处理与编辑工具集](./Android应用/imagetoolbox-image-processing-editing-tools.md) — 2025-02-14
+- [Alibi 手机行车记录仪：安装配置指南与硬件运行要求](./Android应用/alibi-dashcam-installation-guide-hardware-requirements.md) — 2025-02-10
 
 ### Category 9166
 - [如何使用 Data-Analysis-Agent 通过自然语言查询数据库：开源配置与操作指南](./Category 9166/data-analysis-agent-natural-language-database-query-guide.md) — 2026-05-12
