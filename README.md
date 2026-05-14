@@ -2108,6 +2108,7 @@
 - [Temu出海实操指南：从入驻流程到高效运营的全链路拆解](./实战指南/temu-seller-guide-onboarding-and-operation.md) — 2025-02-26
 - [短剧剪辑实操指南：掌握影视化创作技巧，快速构建短剧达人账号并获取流量红利](./实战指南/short-drama-editing-guide-for-traffic-growth.md) — 2025-02-26
 - [外贸英语口语实战指南：通过Linda老师的视频课程，掌握从商务谈判到客户维护的场景化沟通技巧](./实战指南/foreign-trade-english-speaking-guide-linda.md) — 2025-02-26
+- [小红书资料号起号全流程：从选品、搭建到私域转化的实操步骤](./实战指南/xiaohongshu-profile-account-guide.md) — 2025-02-26
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
