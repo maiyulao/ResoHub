@@ -1169,6 +1169,7 @@
 - [App Store 与 Steam 限免指南：实时追踪应用免费与特惠信息](./创意工具/app-store-steam-free-deals-guide.md) — 2025-03-02
 - [SVG Repo：50万+免版税矢量素材库，支持 AI 搜索与在线实时编辑](./创意工具/svg-repo-free-vector-icons-ai-search-editor.md) — 2025-03-02
 - [如何使用萤数制作精美的社交里程碑动画：操作指南](./创意工具/how-to-create-social-milestone-animations-with-yingshu.md) — 2025-02-28
+- [Excel Home：高效办公表格技能指南与资源库](./创意工具/excel-home-productivity-guide-resources.md) — 2025-02-27
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
