@@ -1206,6 +1206,7 @@
 - [成人飞行棋地图资源库：涵盖情侣、KTV及多种主题版本](./大人学习课程/adult-ludo-map-resources.md) — 2025-03-06
 - [坏男孩学院相亲实战课程：获取途径、适用场景及学习要点说明](./大人学习课程/bad-boy-academy-dating-course-guide.md) — 2025-03-02
 - [步某非烟第三季全集（A1-A756）：完整收录全系列章节，涵盖核心剧情全链路更新](./大人学习课程/bu-mou-fei-yan-season-3-full-collection.md) — 2025-03-01
+- [拆解柯李思《2020魅力原理》：构建个人影响力的核心逻辑](./大人学习课程/core-logic-of-influence-by-robert-cialdini.md) — 2025-02-26
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
