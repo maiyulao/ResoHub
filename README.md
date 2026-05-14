@@ -1114,6 +1114,7 @@
 - [在线键盘性能检测指南：功能实测与工具推荐](./创意工具/online-keyboard-performance-test-guide.md) — 2025-03-14
 - [想找高质量的日语学习资源却不知从何搜起？试试这款专项资料搜索引擎 vHub](./创意工具/vhub-japanese-learning-resources-search-engine.md) — 2025-03-13
 - [理想同学网页版发布：集成DeepSeek R1满血版，实现车载与端云智能生态协同](./创意工具/ideal-ai-web-deepseek-r1-integration.md) — 2025-03-13
+- [Azure 文本转语音 (TTS) 配置指南：从环境搭建到语音合成的实现步骤](./创意工具/azure-tts-configuration-guide.md) — 2025-03-13
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
