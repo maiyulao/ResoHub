@@ -1204,6 +1204,7 @@
 - [马拉松配速计算指南：通过精准的时间规划实现赛道突破](./创意工具/marathon-pace-calculator-guide.md) — 2025-02-19
 - [如何快速计算每日工作时长与加班费？这款免费在线小时计算器帮你精准核算](./创意工具/calculate-work-hours-and-overtime-pay-calculator.md) — 2025-02-19
 - [CarOBook 使用指南：快速配置你的数字化汽车保养与说明书手册](./创意工具/carobook-user-guide-digital-car-maintenance-manual.md) — 2025-02-18
+- [TwitDloader：高效保存 X/Twitter 高清视频的免费工具，支持多语言环境与一键式极简下载](./创意工具/twitdloader-twitter-video-downloader.md) — 2025-02-17
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
