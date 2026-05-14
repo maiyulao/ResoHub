@@ -1168,6 +1168,7 @@
 - [白鹤快速脱单指南：从心态建设到高效实践的实操步骤](./大人学习课程/white-crane-dating-guide.md) — 2025-03-17
 - [立闻达《xing爱圣经》电子版资源下载及阅读指南](./大人学习课程/xing-ai-bible-download-guide.md) — 2025-03-12
 - [全球社交指南：通过梦想生活拓展国际交友圈的实操步骤](./大人学习课程/global-social-guide-international-friends-steps.md) — 2025-03-07
+- [成人飞行棋地图资源库：涵盖情侣、KTV及多种主题版本](./大人学习课程/adult-ludo-map-resources.md) — 2025-03-06
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
