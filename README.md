@@ -1274,6 +1274,7 @@
 - [鱼神密圈知识点拆解与实操学习指南](./大人学习课程/fish-god-circle-knowledge-guide.md) — 2025-02-18
 - [高效表白实操指南：从心态建设到话术拆解，提升恋爱成功率](./大人学习课程/confession-guide-for-dating-success.md) — 2025-02-15
 - [高效沟通实操指南：通过36个典型场景拆解高情商表达逻辑与话术技巧](./大人学习课程/effective-communication-guide-scenarios-and-tips.md) — 2025-02-14
+- [绳索技巧入门指南：《我的身体，我的心》第二季实操手册](./大人学习课程/rope-skills-guide-my-body-my-heart-season-2.md) — 2025-02-09
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
