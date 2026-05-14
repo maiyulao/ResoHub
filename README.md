@@ -1978,6 +1978,7 @@
 - [零基础英语学习指南：通过Sunny老师四维系统课看电影掌握语言技巧](./实战指南/zero-basis-english-learning-guide-sunny-movie-method.md) — 2025-03-16
 - [抖音千川投产优化实操指南：通过精细化运营实现付费流量的持续盈利](./实战指南/douyin-qianchuan-roi-optimization-guide.md) — 2025-03-16
 - [想用 Python 从零构建完整项目却不知如何串联？这份全栈开发进阶指南为你拆解路径](./实战指南/python-fullstack-development-guide-3.md) — 2025-03-15
+- [顾问式实战销售课程：系统化实操指南与学习资源获取](./实战指南/consultative-selling-course-guide.md) — 2025-03-14
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
