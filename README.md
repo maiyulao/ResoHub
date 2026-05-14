@@ -2138,6 +2138,7 @@
 - [抖音小店商品卡配置与图文运营实操课：涵盖千川投流技巧及线上学习路径](./实战指南/douyin-shop-product-card-guide-3.md) — 2025-02-23
 - [私域操盘手实战进阶：构建客户自循环增长体系与业绩转化模型](./实战指南/private-traffic-growth-and-conversion-model.md) — 2025-02-22
 - [清华大学 DeepSeek 学习资源与技术资料汇总](./实战指南/tsinghua-deepseek-learning-resources.md) — 2025-02-22
+- [美业门店直播实战指南：从系统化运营到业绩增长](./实战指南/beauty-salon-livestreaming-guide.md) — 2025-02-22
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
