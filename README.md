@@ -2095,6 +2095,7 @@
 - [短视频带货拍摄全流程：从零基础入门到实战进阶指南](./实战指南/short-video-ecommerce-shooting-guide.md) — 2025-02-28
 - [电商全链路逻辑拆解：21天从入门到实操的进阶路径](./实战指南/ecommerce-full-link-logic-21-day-guide.md) — 2025-02-28
 - [DeepSeek 行业落地指南：浙江大学 2025 年智能应用案例解析](./实战指南/deepseek-industry-guide-zju-2025-cases.md) — 2025-02-28
+- [高效利用GPT：从实操技巧到工作流提效指南](./实战指南/gpt-tips-and-workflow-guide.md) — 2025-02-27
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
