@@ -2234,6 +2234,7 @@
 - [Midjourney与SDS实操指南：通过26节视频课快速掌握AI绘画，从基础指令到高阶创作实现视觉突破](./实战指南/midjourney-sds-ai-painting-guide.md) — 2025-02-10
 - [从逻辑拆解到实操落地：构建个人IP的五步思维模型](./实战指南/personal-ip-building-model.md) — 2025-02-09
 - [影视后期全流程实操教程：涵盖剪辑与调色基础，适用自媒体新手入门](./实战指南/video-post-production-tutorial-for-beginners.md) — 2025-02-09
+- [DeepSeek 全维度实战指南：从基础配置到高级进阶技巧](./实战指南/deepseek-complete-practical-guide.md) — 2025-02-08
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
