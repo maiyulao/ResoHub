@@ -1148,6 +1148,7 @@
 - [如何使用 S4P 聚合搜索引擎快速检索学习资料：操作指南](./创意工具/s4p-search-engine-guide.md) — 2025-03-04
 - [HallowLib 电子书下载指南：通过 Z-Library 快速搜索与无限制获取资源的步骤](./创意工具/hallowlib-zlibrary-ebook-download-guide.md) — 2025-03-04
 - [X Download：支持高清导出与极速转换的 Twitter 视频下载指南](./创意工具/x-twitter-video-downloader-guide.md) — 2025-03-03
+- [如何使用 Image to Pixel Art Converter 将照片快速转换为复古像素画素材](./创意工具/image-to-pixel-art-converter-tutorial.md) — 2025-03-03
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
