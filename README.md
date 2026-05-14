@@ -449,6 +449,9 @@
 - [难以入眠或无法集中注意力？尝试用 ixHush 定制一套专属的白噪音组合](./iOS应用/customize-white-noise-with-ixhush.md) — 2025-05-02
 - [蛋播星球：多平台影视资源聚合应用指南](./iOS应用/danbo-planet-video-resource-guide.md) — 2025-03-18
 
+### iOS捷径指令
+- [如何使用 R⤓Download 实现 TikTok、Instagram 及 Snapchat 视频无水印下载](./iOS捷径指令/download-tiktok-instagram-snapchat-videos-without-watermark-r-download.md) — 2025-03-10
+
 ### Mac软件
 - [Mac 刷机时该选 Revive 还是 Restore？详解 DFU 恢复模式与 DFU-Tools 开源工具用法](./Mac软件/mac-dfu-revive-vs-restore-dfu-tools-guide.md) — 2026-05-04
 - [想监控网络流量但觉得 Wireshark 太复杂？试试轻量级开源工具 Sniffnet](./Mac软件/sniffnet-lightweight-wireshark-alternative.md) — 2026-04-25
