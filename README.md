@@ -2051,6 +2051,7 @@
 - [企业所得税实操要点与合规指南](./实战指南/corporate-income-tax-guide.md) — 2025-03-04
 - [抖音投流实战指南：通过精准流量投放实现营收倍增与规模超车](./实战指南/douyin-ads-growth-guide.md) — 2025-03-04
 - [想快速上手 AI 却不知从何学起？这份基础指南带你从零构建 AI 知识体系](./实战指南/ai-learning-guide-for-beginners.md) — 2025-03-04
+- [高效能AI工具实操指南：多场景应用与生产力提升方案](./实战指南/ai-tools-practical-guide-productivity.md) — 2025-03-04
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
