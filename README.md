@@ -1111,6 +1111,7 @@
 - [50T 亿苯网盘 Alist 资源库：支持 WebDAV 挂载与远程访问指南](./创意工具/50t-yiben-alist-webdav-guide.md) — 2025-03-14
 - [LITERA Reader：支持 PDF 与 EPUB 的全平台轻量化在线阅读方案](./创意工具/litera-reader-pdf-epub-online-reader.md) — 2025-03-14
 - [文档转换总在折腾格式？试试 To Markdown：无需注册即可快速将多种文档转为 Markdown](./创意工具/to-markdown-document-converter.md) — 2025-03-14
+- [在线键盘性能检测指南：功能实测与工具推荐](./创意工具/online-keyboard-performance-test-guide.md) — 2025-03-14
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
