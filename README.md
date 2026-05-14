@@ -310,6 +310,7 @@
 - [Tool ThinkInAI：通过兼容性检测优化 DeepSeek 模型部署，确保接口调用与功能对齐](./AI工具教程/thinkinai-deepseek-deployment-compatibility-optimization.md) — 2025-02-15
 - [想知道家乡话在地图上如何分布？通过 DialectMap 探索中国方言的多样性](./AI工具教程/explore-chinese-dialects-with-dialectmap.md) — 2025-02-15
 - [Hi Speaking：主打沉浸式跟读的在线英语学习工具](./AI工具教程/hi-speaking-immersive-english-learning-tool.md) — 2025-02-15
+- [高效精准的免费八字排盘工具指南](./AI工具教程/free-bazi-calculator-guide.md) — 2025-02-14
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
