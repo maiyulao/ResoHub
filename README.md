@@ -1987,6 +1987,7 @@
 - [顾问式实战销售课程：系统化实操指南与学习资源获取](./实战指南/consultative-selling-course-guide.md) — 2025-03-14
 - [AI电商实战指南：从自动化文案创作到视觉内容生成](./实战指南/ai-ecommerce-guide-copywriting-visuals.md) — 2025-03-14
 - [视频号冷启动全流程：从流量获取到直播间爆单的实操步骤](./实战指南/video-channel-cold-start-guide.md) — 2025-03-14
+- [大客户销售实战指南：通过五大核心模块构建系统化成交体系](./实战指南/key-account-sales-system-guide.md) — 2025-03-13
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
