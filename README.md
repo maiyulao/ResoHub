@@ -2152,6 +2152,7 @@
 - [面对DeepSeek引发的AI浪潮，非技术背景的普通人该如何寻找切入点并将其转化为实际竞争力？](./实战指南/deepseek-ai-guide-for-non-tech-people.md) — 2025-02-21
 - [拼多多虚拟商品经营全指南：从零起步到规模化变现](./实战指南/pinduoduo-virtual-goods-guide.md) — 2025-02-20
 - [事业单位考编全科资料库：涵盖最新考点精讲与高频真题集锦](./实战指南/shiye-danwei-exam-materials-library.md) — 2025-02-20
+- [想做爆款视频却没思路？拆解IP剪辑师的实操逻辑与创作套路](./实战指南/viral-video-creation-logic-for-ip-editors.md) — 2025-02-19
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
