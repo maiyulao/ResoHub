@@ -2239,6 +2239,7 @@
 - [影视后期全流程实操教程：涵盖剪辑与调色基础，适用自媒体新手入门](./实战指南/video-post-production-tutorial-for-beginners.md) — 2025-02-09
 - [DeepSeek 全维度实战指南：从基础配置到高级进阶技巧](./实战指南/deepseek-complete-practical-guide.md) — 2025-02-08
 - [小红书商业化实操指南：从系统运营逻辑到高效变现路径](./实战指南/xiaohongshu-commercialization-guide.md) — 2025-02-08
+- [抖音短视频搜索流量获取指南：从关键词布局到精准引流的实操步骤](./实战指南/douyin-short-video-search-traffic-guide.md) — 2025-02-08
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
