@@ -458,6 +458,7 @@
 - [网易云音乐无损音质解析指南：突破VIP限制免费下载高品质音频](./GitHub项目/netease-music-lossless-audio-download-guide.md) — 2025-03-08
 - [AdobeGenp 激活指南：通过通用补丁实现 Adobe 全系列软件解锁及功能验证](./GitHub项目/adobegenp-activation-guide-universal-patch.md) — 2025-03-02
 - [Admin IM 开源指南：实现多平台节点监控与 Docker 快速部署的高性能管理方案](./GitHub项目/admin-im-open-source-guide-docker-deployment.md) — 2025-03-01
+- [开源大语言模型前沿技术指南：资源获取与环境配置详解](./GitHub项目/open-source-llm-guide-resources-and-setup.md) — 2025-02-25
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
