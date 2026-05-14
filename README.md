@@ -435,6 +435,7 @@
 - [如何使用 GitHub Star Tracker 实时监测热门开源项目并追踪技术趋势](./GitHub项目/github-star-tracker-monitor-open-source-trends.md) — 2025-03-17
 - [李敖作品全集 5.0 数字化版本：在线阅读指南与访问路径](./GitHub项目/li-ao-complete-works-5-0-digital-guide.md) — 2025-03-16
 - [FilePizza：基于 WebRTC 的开源浏览器端点对点文件传输方案](./GitHub项目/filepizza-webrtc-p2p-file-transfer.md) — 2025-03-16
+- [cur8d.club 使用指南：从资源检索到创意实践的 3 个操作步骤](./GitHub项目/cur8d-club-user-guide.md) — 2025-03-12
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
