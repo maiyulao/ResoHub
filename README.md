@@ -313,6 +313,7 @@
 - [高效精准的免费八字排盘工具指南](./AI工具教程/free-bazi-calculator-guide.md) — 2025-02-14
 - [高效打造专业形象：免费AI头像生成工具实测与应用指南](./AI工具教程/best-free-ai-headshot-generators-guide.md) — 2025-02-13
 - [大模型实战进阶：从 AI 基础理论到 LLM 落地演示指南](./AI工具教程/llm-practical-guide-theory-to-deployment.md) — 2025-02-11
+- [OpenHealth：支持多源健康数据整合与AI个性化分析的开源助手部署指南](./AI工具教程/openhealth-deployment-guide-multi-source-data-ai-analysis.md) — 2025-02-10
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
