@@ -2200,6 +2200,7 @@
 - [张赟慧《极简风水入门》全集下载：适用初学者的基础指南及阅读要点](./实战指南/minimal-feng-shui-guide-zhang-yunhui.md) — 2025-02-15
 - [利用 DeepSeek 提升职场效率的实操步骤指南](./实战指南/deepseek-workplace-efficiency-guide.md) — 2025-02-14
 - [女性顶流IP实战指南：亿级流量操盘逻辑与核心能力构建](./实战指南/female-top-ip-growth-guide.md) — 2025-02-13
+- [AI实操训练营二期：以实战场景驱动技能内化，提供可复制的落地执行方案](./实战指南/ai-training-camp-phase-2-practical-execution.md) — 2025-02-13
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
