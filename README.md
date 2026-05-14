@@ -2031,6 +2031,7 @@
 - [大学生如何利用 ChatGPT 提升学习效率：核心应用场景指南](./实战指南/college-students-chatgpt-learning-efficiency-guide.md) — 2025-03-08
 - [大厂职级晋升全攻略：从核心能力构建到关键绩效突破的实操路径](./实战指南/big-company-career-promotion-guide.md) — 2025-03-08
 - [抖音短视频带货实战指南：从内容创作到转化闭环（第十期）](./实战指南/douyin-short-video-ecommerce-guide-10.md) — 2025-03-08
+- [想让AI真正提升工作效率？橘子老师带你从零构建AI实战能力](./实战指南/build-ai-practical-skills-with-teacher-orange.md) — 2025-03-08
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
