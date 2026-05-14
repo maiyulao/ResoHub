@@ -288,6 +288,7 @@
 - [Midjourney Sref 风格代码全集：通过海量参数库实现AI视觉风格的精准控制与快速复刻](./AI工具教程/midjourney-sref-style-codes-guide.md) — 2025-03-03
 - [ElevenLabs 推出 AI Engineer Pack：一站式开发者工具集，通过专属优惠降低 AI 工程构建成本](./AI工具教程/elevenlabs-ai-engineer-pack.md) — 2025-03-02
 - [想让AI把文字故事变成高清短视频？试试 Story-Flicks 的一键生成方案](./AI工具教程/story-flicks-ai-text-to-video.md) — 2025-03-02
+- [跃问AI：基于满血版DeepSeek-R1的场景化效率增强方案](./AI工具教程/yuewen-ai-deepseek-r1-efficiency-solution.md) — 2025-03-01
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
