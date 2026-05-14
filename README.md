@@ -2087,6 +2087,7 @@
 - [体制内高情商沟通指南：从实战场景到应用技巧的深度拆解](./实战指南/high-eq-communication-guide-for-civil-servants.md) — 2025-03-02
 - [TikTok跨境电商实操全攻略：从账号注册与定位到爆款短视频及直播间带货转化](./实战指南/tiktok-cross-border-ecommerce-guide-5.md) — 2025-03-01
 - [想做体育自媒体却不知从何下手？从文案构思到视频剪辑与账号运营的全流程实操指南](./实战指南/sports-self-media-guide.md) — 2025-03-01
+- [小蕾老师《英语语法1000题专项精讲》课程资源：适用场景与学习要点说明](./实战指南/xiaolei-english-grammar-1000-course-resources.md) — 2025-03-01
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
