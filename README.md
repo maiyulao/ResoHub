@@ -302,6 +302,7 @@
 - [当贝AI集成DeepSeek满血版：一站式免费调用通义千问、豆包等主流大模型实操指南](./AI工具教程/dangbei-ai-deepseek-llm-guide.md) — 2025-02-21
 - [想知道未来的流年运势？尝试用AI紫微斗数系统精准解析你的八字命盘](./AI工具教程/ai-ziwei-doushu-fortune-analysis.md) — 2025-02-21
 - [基于DeepSeek的言笔AI：实现学术论文查重、降重与高效生成](./AI工具教程/deepseek-yanbi-ai-academic-paper-optimization.md) — 2025-02-19
+- [AI Kungfu：零成本生成动态武术与太极视频的 AI 工具指南](./AI工具教程/ai-kungfu-free-dynamic-martial-arts-taichi-video-guide.md) — 2025-02-19
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
