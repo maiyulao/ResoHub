@@ -2250,6 +2250,7 @@
 - [小红书聚光投流实战陪跑：付费流量起步指南与投放实操要点](./实战指南/xiaohongshu-juguang-ads-guide.md) — 2025-02-08
 - [自律能力进阶指南：从习惯重塑到高效执行的实践路径](./实战指南/self-discipline-guide-habit-execution.md) — 2025-02-08
 - [想通过短视频和直播快速起量却不知从何入手？这套90节综合实操课带你打通从基础搭建到运营变现的全链路](./实战指南/short-video-livestreaming-masterclass-course.md) — 2025-02-06
+- [高薪进阶路径：从职场新人到百万年薪的能力构建指南](./实战指南/career-growth-guide-to-million-salary.md) — 2025-02-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
