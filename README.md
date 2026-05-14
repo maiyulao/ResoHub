@@ -2013,6 +2013,7 @@
 - [DeepSeek 全方位实操手册：从基础配置到高效进阶 (2025版)](./实战指南/deepseek-complete-guide-2025.md) — 2025-03-11
 - [紫微斗数实战指南：从古籍逻辑推演到现代命盘解析的完整体系](./实战指南/ziwei-dou-shu-practical-guide.md) — 2025-03-11
 - [日语零基础至N1全阶段VIP课程资源：含学习路径与适用指南](./实战指南/japanese-n1-vip-course-resources.md) — 2025-03-11
+- [想在TikTok电商快速起号并实现变现？这份从零到一的系统学习指南为你拆解全流程](./实战指南/tiktok-ecommerce-beginner-guide-monetization.md) — 2025-03-10
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
