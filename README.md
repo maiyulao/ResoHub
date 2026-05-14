@@ -1102,6 +1102,7 @@
 - [想找一个像 Notion 或 Outline 但能完全私有部署的开源文档平台？试试这款由法德政府背书的 Docs](./创意工具/open-source-private-docs-alternative-to-notion-outline.md) — 2025-03-18
 - [FolderPort：实现高效、加密的 P2P 文件夹实时同步与共享](./创意工具/folderport-p2p-folder-sync-share.md) — 2025-03-17
 - [给孩子讲睡前故事没灵感？BeddyStories 为 0-12 岁儿童提供全球经典故事库](./创意工具/beddystories-classic-bedtime-stories-for-kids.md) — 2025-03-14
+- [张维为语录检索与《这就是中国》表情包生成指南](./创意工具/zhang-wei-quotes-and-this-is-china-memes-guide.md) — 2025-03-14
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
