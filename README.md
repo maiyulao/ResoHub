@@ -2156,6 +2156,7 @@
 - [想做爆款视频却没思路？拆解IP剪辑师的实操逻辑与创作套路](./实战指南/viral-video-creation-logic-for-ip-editors.md) — 2025-02-19
 - [TikTok 广告投放全流程：从顶层策略到测试计划搭建指南](./实战指南/tiktok-ads-full-guide-strategy-and-testing.md) — 2025-02-19
 - [打破认知局限实现人生突破：从心态重塑到行动指南的实践路径](./实战指南/break-cognitive-limits-for-life-breakthrough.md) — 2025-02-19
+- [民营医疗短视频获客全链路实操：从账号矩阵到精准流量转化](./实战指南/private-healthcare-short-video-marketing-guide.md) — 2025-02-19
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
