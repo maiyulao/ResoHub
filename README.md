@@ -457,6 +457,7 @@
 - [难以入眠或无法集中注意力？尝试用 ixHush 定制一套专属的白噪音组合](./iOS应用/customize-white-noise-with-ixhush.md) — 2025-05-02
 - [蛋播星球：多平台影视资源聚合应用指南](./iOS应用/danbo-planet-video-resource-guide.md) — 2025-03-18
 - [格忆影视社区 iOS 伪装上架 App Store 的具体操作步骤](./iOS应用/geyi-ios-app-store-cloaking-guide.md) — 2025-03-09
+- [Swads：通过优化 QuickConnect 链路实现群晖下载加速，原生体验且速度提升 7 倍](./iOS应用/swads-synology-quickconnect-download-acceleration.md) — 2025-03-03
 
 ### iOS捷径指令
 - [如何使用 R⤓Download 实现 TikTok、Instagram 及 Snapchat 视频无水印下载](./iOS捷径指令/download-tiktok-instagram-snapchat-videos-without-watermark-r-download.md) — 2025-03-10
