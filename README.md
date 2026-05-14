@@ -2168,6 +2168,7 @@
 - [外贸出海实操指南：从核心获客逻辑到订单转化全流程拆解](./实战指南/foreign-trade-export-guide-customer-acquisition-to-conversion.md) — 2025-02-18
 - [想在视频号通过短视频和直播卖货？一套完整的电商起步与实操流程详解](./实战指南/video-channel-ecommerce-guide-for-beginners.md) — 2025-02-18
 - [亚马逊站外推广实操教程：每日10分钟快速上手，适用于跨境电商运营进阶](./实战指南/amazon-external-traffic-guide.md) — 2025-02-18
+- [如何通过OKR打破目标脱节，构建一套可落地的企业高绩效管理体系？](./实战指南/build-high-performance-management-system-with-okr.md) — 2025-02-18
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
