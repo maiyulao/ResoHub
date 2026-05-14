@@ -2215,6 +2215,7 @@
 - [淘宝直播MCN机构搭建指南：从零起步实现月销千万的实操路径](./实战指南/taobao-live-mcn-setup-guide.md) — 2025-02-12
 - [从零打造高变现素人IP：全平台带货实操指南与增长路径](./实战指南/build-monetized-influencer-ip-guide.md) — 2025-02-12
 - [女性提升个人财务价值的实操指南：从认知升级到财富积累的执行步骤](./实战指南/women-financial-growth-guide.md) — 2025-02-12
+- [读书账号从零起步运营指南：实操课程获取与新手避坑要点](./实战指南/reading-account-growth-guide.md) — 2025-02-12
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
