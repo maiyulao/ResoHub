@@ -636,6 +636,7 @@
 - [想研究《推背图》却不知从何处找起？这份详尽的古籍资料集为你提供参考](./书籍/tuibeitu-ancient-texts-guide.md) — 2025-03-11
 - [301本心理学精选书单：构建自我成长与情绪管理知识体系](./书籍/301-psychology-books-for-self-growth-and-emotional-management.md) — 2025-03-11
 - [艾克社交技巧：高效提升异性吸引力的实操指南](./书籍/acre-social-skills-attraction-guide.md) — 2025-02-26
+- [中信出版社2000册精品图书集锦：涵盖商业、管理及个人成长核心领域，打造全方位知识体系](./书籍/citic-press-2000-best-books-collection.md) — 2025-02-20
 
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
