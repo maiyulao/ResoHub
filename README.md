@@ -1177,6 +1177,7 @@
 - [使用怪异字体生成器制作时尚花哨文本的完整步骤](./创意工具/how-to-use-fancy-font-generator.md) — 2025-02-26
 - [想快速裁剪图片却担心隐私泄露或画质受损？试试这款免费安全的在线工具 Crop Image](./创意工具/free-secure-online-crop-image-tool.md) — 2025-02-26
 - [小狐搜搜：全网影视资源检索工具使用指南及获取路径](./创意工具/xiaohu-sousou-guide.md) — 2025-02-25
+- [想在小报童找高质量AI副业或变现专栏？这份精选导航帮你快速筛选](./创意工具/xiaobaotong-ai-side-hustle-guide.md) — 2025-02-24
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
