@@ -2252,6 +2252,7 @@
 - [CSDN Focus：高效净化网页体验，实现内容自由复制与跨平台去广告](./效率工具/csdn-focus-web-purification-ad-blocker.md) — 2025-02-26
 - [MultiPost 开源指南：通过浏览器扩展实现多社交平台内容一键同步发布](./效率工具/multipost-open-source-guide-social-media-sync-extension.md) — 2025-02-21
 - [社媒助手：支持抖音与小红书数据采集的工具安装及配置指南](./效率工具/social-media-assistant-douyin-xiaohongshu-setup-guide.md) — 2025-02-16
+- [115Master 部署指南：实现 115 网盘视频极速加载与智能字幕增强](./效率工具/115master-deployment-guide-fast-loading-smart-subtitles.md) — 2025-02-14
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
