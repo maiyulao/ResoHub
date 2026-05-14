@@ -1198,6 +1198,7 @@
 - [Chinese Ho 视觉学习资源指南：在线图片库实测与应用](./创意工具/chinese-ho-visual-learning-resources-guide.md) — 2025-02-20
 - [Home Apothecary：中医养生方剂库与家庭健康管理实操指南](./创意工具/home-apothecary-tcm-wellness-guide.md) — 2025-02-20
 - [Base64转SVG在线解码器：支持实时预览与浏览器直接运行](./创意工具/base64-to-svg-online-decoder.md) — 2025-02-19
+- [马拉松配速计算指南：通过精准的时间规划实现赛道突破](./创意工具/marathon-pace-calculator-guide.md) — 2025-02-19
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
