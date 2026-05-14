@@ -305,6 +305,7 @@
 - [AI Kungfu：零成本生成动态武术与太极视频的 AI 工具指南](./AI工具教程/ai-kungfu-free-dynamic-martial-arts-taichi-video-guide.md) — 2025-02-19
 - [AI Fortune Teller 在线算命工具：功能解析与免费使用指南](./AI工具教程/ai-fortune-teller-guide.md) — 2025-02-18
 - [DeepSeek-R1 满血版配置指南：实现免费、不限次智能写作与联网搜索](./AI工具教程/deepseek-r1-full-version-setup-guide.md) — 2025-02-18
+- [Animate Anyone 实操指南：将静态角色图转化为动态视频的步骤详解](./AI工具教程/animate-anyone-guide-static-image-to-video.md) — 2025-02-17
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
