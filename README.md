@@ -284,6 +284,7 @@
 - [想把照片或文字快速变成卡通画？试试这款支持文生图与图生图的免费AI生成器](./AI工具教程/free-ai-cartoon-generator-text-to-image-image-to-image.md) — 2025-03-09
 - [writing-helper 开源AI写作助手：安装部署指南与内容创作实操建议](./AI工具教程/writing-helper-installation-and-guide.md) — 2025-03-08
 - [高效利用 heyAIworld 筛选全球顶级 AI 工具的 3 个操作步骤](./AI工具教程/how-to-find-top-ai-tools-on-heyaiworld.md) — 2025-03-04
+- [AI 驱动的答案之书：通过智能启发式测试化解生活困境](./AI工具教程/ai-driven-answer-book-heuristic-testing.md) — 2025-03-03
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
