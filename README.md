@@ -1191,6 +1191,7 @@
 - [Temp Mail 临时邮箱：通过一次性匿名账户拦截垃圾邮件，实现无注册即用且 24 小时自动销毁](./创意工具/temp-mail-disposable-anonymous-email.md) — 2025-02-23
 - [Sniper Challenge：融合《鱿鱼游戏》机制的高风险第三人称射击体验](./创意工具/sniper-challenge-squid-game-tps.md) — 2025-02-22
 - [如何使用 TopTimeline 查询全球名人历史与重大事件的可视化时间轴](./创意工具/toptimeline-global-celebrity-history-event-timeline.md) — 2025-02-22
+- [Icons8 素材库使用指南：在线编辑与海量图标资源的获取及适用限制](./创意工具/icons8-guide-online-editor-and-resources.md) — 2025-02-21
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
