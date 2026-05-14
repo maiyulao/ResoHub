@@ -575,6 +575,7 @@
 - [使用 One Thing 优化 Mac 菜单栏任务流：从安装到高效专注的配置步骤](./Mac软件/optimize-mac-menu-bar-with-one-thing.md) — 2025-03-14
 - [DeepRant 游戏翻译工具使用指南：从安装到实现多语言实时互译的 4 个步骤](./Mac软件/deeprant-game-translation-guide.md) — 2025-03-14
 - [使用 WK Proxy 实现 HTTP 代理配置与数据包抓取的完整步骤](./Mac软件/wk-proxy-http-proxy-setup-packet-capture.md) — 2025-02-24
+- [Fluent M3U8：支持多平台的 m3u8 视频下载工具](./Mac软件/fluent-m3u8-video-downloader.md) — 2025-02-14
 
 ### Windows软件
 - [觉得 Win+V 记录太少且不够灵活？试试开源的本地剪贴板增强工具 ElegantClipboard](./Windows软件/elegant-clipboard-windows-clipboard-manager.md) — 2026-05-11
