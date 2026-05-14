@@ -2124,6 +2124,7 @@
 - [DeepSeek 深度解析：主流券商研究报告综合汇总](./实战指南/deepseek-brokerage-research-reports-summary.md) — 2025-02-24
 - [DeepSeek 提示词工程实战：从技术优化到 AIGC 场景落地](./实战指南/deepseek-prompt-engineering-guide.md) — 2025-02-24
 - [从模型训练到应用落地：AI大模型全链路开发实战指南](./实战指南/ai-llm-full-stack-development-guide.md) — 2025-02-24
+- [素人进阶探店达人实操指南：从零开始实现商业变现的五个步骤](./实战指南/guide-to-becoming-store-influencer-monetization.md) — 2025-02-23
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
