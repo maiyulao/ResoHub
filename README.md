@@ -291,6 +291,7 @@
 - [跃问AI：基于满血版DeepSeek-R1的场景化效率增强方案](./AI工具教程/yuewen-ai-deepseek-r1-efficiency-solution.md) — 2025-03-01
 - [GenAI 图像生成指南：摆脱版权限制，高效产出商用无版权图片](./AI工具教程/genai-image-generation-guide-copyright-free-commercial-images.md) — 2025-03-01
 - [TrendPublish：通过多源内容自动化采集与智能发布，提升公众号内容运营效率](./AI工具教程/trendpublish-automated-content-collection-and-publishing.md) — 2025-03-01
+- [面对 DeepSeek V3 的强势竞争，阿里新推出的 Qwen2.5-Max 网页版在实际体验中表现如何？](./AI工具教程/qwen2-5-max-vs-deepseek-v3-review.md) — 2025-02-28
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
