@@ -1228,6 +1228,7 @@
 - [章快图：无需安装的PDF在线骑缝章制作工具及使用指南](./创意工具/zhangkuaitu-online-pdf-seal-generator.md) — 2025-02-12
 - [MYCOMIC：一个无需付费的在线漫画阅读平台](./创意工具/mycomic-free-online-manga-reader.md) — 2025-02-12
 - [文件格式不兼容导致无法打开？试试这款全能在线转换工具 Converter App](./创意工具/online-file-converter-app.md) — 2025-02-12
+- [如何在晴空咖啡馆下载免费Galgame资源及安装补丁：详细操作指南](./创意工具/qingkong-cafe-galgame-download-install-guide.md) — 2025-02-11
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
