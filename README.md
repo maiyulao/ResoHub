@@ -595,6 +595,7 @@
 - [高情商社交指南：告别尬聊的沟通实操技巧](./书籍/high-eq-social-communication-tips.md) — 2025-03-18
 - [成人性健康指南：自我愉悦的技巧与实践进阶](./书籍/adult-sexual-health-guide-self-pleasure-tips.md) — 2025-03-14
 - [想研究《推背图》却不知从何处找起？这份详尽的古籍资料集为你提供参考](./书籍/tuibeitu-ancient-texts-guide.md) — 2025-03-11
+- [301本心理学精选书单：构建自我成长与情绪管理知识体系](./书籍/301-psychology-books-for-self-growth-and-emotional-management.md) — 2025-03-11
 
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
