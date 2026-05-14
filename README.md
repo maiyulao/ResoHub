@@ -1209,6 +1209,7 @@
 - [TwitDloader：高效保存 X/Twitter 高清视频的免费工具，支持多语言环境与一键式极简下载](./创意工具/twitdloader-twitter-video-downloader.md) — 2025-02-17
 - [NULLBR资源库：高价值数字化资产分享清单](./创意工具/nullbr-digital-assets-list.md) — 2025-02-17
 - [Markdown Poster：将 Markdown 文档高效转化为社交媒体美图的免费工具](./创意工具/markdown-poster-markdown-to-social-media-image-tool.md) — 2025-02-17
+- [KR18韩语成人影视资源站：高清在线播放与内容分类指南](./创意工具/kr18-korean-adult-video-guide.md) — 2025-02-16
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
