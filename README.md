@@ -2223,6 +2223,7 @@
 - [高效内容创作指南：深度优化 AI 提示词（Prompt）实操合集](./实战指南/ai-prompt-optimization-guide.md) — 2025-02-11
 - [小红书商单接单全流程指南：从账号起步到变现实操训练营](./实战指南/xiaohongshu-monetization-guide-3.md) — 2025-02-11
 - [校区获客难、转化率低？尝试用短视频内容构建高效的变现路径](./实战指南/campus-customer-acquisition-short-video-monetization.md) — 2025-02-11
+- [剪映特效实战指南：从快速上手到商业变现](./实战指南/capcut-effects-guide-monetization.md) — 2025-02-10
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
