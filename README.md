@@ -450,6 +450,7 @@
 - [想在手机上快速制作精美拼贴卡片，却厌倦了到处是广告的工具？试试这款免费开源的 MoE Card App](./iOS应用/moe-card-app-free-open-source-collage-maker.md) — 2025-06-18
 - [难以入眠或无法集中注意力？尝试用 ixHush 定制一套专属的白噪音组合](./iOS应用/customize-white-noise-with-ixhush.md) — 2025-05-02
 - [蛋播星球：多平台影视资源聚合应用指南](./iOS应用/danbo-planet-video-resource-guide.md) — 2025-03-18
+- [格忆影视社区 iOS 伪装上架 App Store 的具体操作步骤](./iOS应用/geyi-ios-app-store-cloaking-guide.md) — 2025-03-09
 
 ### iOS捷径指令
 - [如何使用 R⤓Download 实现 TikTok、Instagram 及 Snapchat 视频无水印下载](./iOS捷径指令/download-tiktok-instagram-snapchat-videos-without-watermark-r-download.md) — 2025-03-10
