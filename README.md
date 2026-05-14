@@ -2067,6 +2067,7 @@
 - [李松蔚心理咨询实操指南：20讲音频课程与配套课件学习步骤](./实战指南/li-songwei-psychological-counseling-guide-audio-course.md) — 2025-03-04
 - [如何利用ChatGPT重构业务流程，让个体掌控团队级的产出效率？](./实战指南/chatgpt-reconstruct-business-workflow-efficiency.md) — 2025-03-03
 - [豆包AI实战教程：从零基础到进阶的学习路径与资源获取指南](./实战指南/doubao-ai-tutorial-learning-path-and-resources.md) — 2025-03-03
+- [拼多多店铺冷启动全指南：从基础搭建至爆单增长的精细化运营实操](./实战指南/pinduoduo-shop-cold-start-guide.md) — 2025-03-02
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
