@@ -2116,6 +2116,7 @@
 - [私域操盘手进阶指南：从实操训练到结果交付的五个核心步骤](./实战指南/private-traffic-operator-guide-5-steps.md) — 2025-02-24
 - [企业短视频矩阵获客实操方案：账号搭建、精准引流路径及转化关键点](./实战指南/enterprise-short-video-matrix-acquisition-guide.md) — 2025-02-24
 - [如何设计2025年哪吒主题的课程表与开学第一课PPT？这里有全套模版方案](./实战指南/nezha-themed-course-schedule-ppt-templates-2025.md) — 2025-02-24
+- [财会实战Excel进阶指南：从基础操作到高效财务建模](./实战指南/excel-advanced-guide-for-accounting-financial-modeling.md) — 2025-02-24
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
