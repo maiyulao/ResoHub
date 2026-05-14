@@ -1214,6 +1214,7 @@
 - [Markdown Poster：将 Markdown 文档高效转化为社交媒体美图的免费工具](./创意工具/markdown-poster-markdown-to-social-media-image-tool.md) — 2025-02-17
 - [KR18韩语成人影视资源站：高清在线播放与内容分类指南](./创意工具/kr18-korean-adult-video-guide.md) — 2025-02-16
 - [万本小说：集成笔趣阁与知轩藏书精校资源的免费TXT全本下载站](./创意工具/wanben-novel-free-txt-download.md) — 2025-02-16
+- [找不到适合商业项目的免费图标？试试 Icon-Icons：支持多种格式下载的综合资源库](./创意工具/free-business-icons-icon-icons-library.md) — 2025-02-15
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
