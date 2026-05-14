@@ -653,6 +653,7 @@
 - [茶艺实操指南：从基础理论到进阶技法的全流程教学方案](./兴趣爱好/tea-art-practical-guide-basic-to-advanced.md) — 2025-04-20
 - [美颜修图实操指南：从基础到进阶的快速上手路径](./兴趣爱好/beauty-photo-editing-guide.md) — 2025-04-14
 - [游戏制作与高级渲染实操教程：资源获取及环境配置指南](./兴趣爱好/game-dev-advanced-rendering-resources-setup-guide.md) — 2025-03-03
+- [台球快速进阶指南：王孟南 30 天实战训练计划](./兴趣爱好/billiards-training-plan-wang-mengnan.md) — 2025-03-01
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
