@@ -2121,6 +2121,7 @@
 - [如何设计2025年哪吒主题的课程表与开学第一课PPT？这里有全套模版方案](./实战指南/nezha-themed-course-schedule-ppt-templates-2025.md) — 2025-02-24
 - [财会实战Excel进阶指南：从基础操作到高效财务建模](./实战指南/excel-advanced-guide-for-accounting-financial-modeling.md) — 2025-02-24
 - [DeepSeek 深度解析：主流券商研究报告综合汇总](./实战指南/deepseek-brokerage-research-reports-summary.md) — 2025-02-24
+- [DeepSeek 提示词工程实战：从技术优化到 AIGC 场景落地](./实战指南/deepseek-prompt-engineering-guide.md) — 2025-02-24
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
