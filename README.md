@@ -337,6 +337,7 @@
 - [Kazumi：支持实时超分与弹幕同步的开源番剧播放方案](./Android应用/kazumi-open-source-anime-player-upscaling-danmaku.md) — 2025-04-10
 - [高效管理手机短信：开源 Android 短信清理工具深度评测与指南](./Android应用/android-sms-cleaner-review-guide.md) — 2025-03-07
 - [Filmbudd 使用指南：从电影评分查询、观影标记到在线资源获取的完整步骤](./Android应用/filmbudd-user-guide.md) — 2025-02-24
+- [高效理财实践：基于AI语音识别与多维度预算的自动化记账方案](./Android应用/ai-voice-automated-budgeting-system.md) — 2025-02-19
 
 ### Category 9166
 - [如何使用 Data-Analysis-Agent 通过自然语言查询数据库：开源配置与操作指南](./Category 9166/data-analysis-agent-natural-language-database-query-guide.md) — 2026-05-12
