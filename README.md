@@ -489,6 +489,7 @@
 - [开源大语言模型前沿技术指南：资源获取与环境配置详解](./GitHub项目/open-source-llm-guide-resources-and-setup.md) — 2025-02-25
 - [想要在平板上统一管理 Home Assistant 设备？试试基于 React 开发的开源面板 Hass-Panel](./GitHub项目/hass-panel-react-home-assistant-dashboard.md) — 2025-02-22
 - [基于 Docker 的 KMS 服务部署指南：实现 Windows 与 Office 全版本永久激活](./GitHub项目/docker-kms-deployment-guide-windows-office-activation.md) — 2025-02-11
+- [全球互联网大厂开发岗位实时汇总：涵盖核心技术栈、薪资竞争力及申请路径的 Awesome Jobs 资源库](./GitHub项目/global-tech-jobs-awesome-resource-list.md) — 2025-02-06
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
