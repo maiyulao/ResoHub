@@ -2113,6 +2113,7 @@
 - [小红书资料号起号全流程：从选品、搭建到私域转化的实操步骤](./实战指南/xiaohongshu-profile-account-guide.md) — 2025-02-26
 - [想在小红书开店却不知如何起步？通过这97节VIP内部实操课掌握电商运营全流程](./实战指南/xiaohongshu-ecommerce-course-guide.md) — 2025-02-25
 - [DeepSeek 入门指南：从零开始的实操手册（秋叶版）](./实战指南/deepseek-beginner-guide-practical-manual.md) — 2025-02-25
+- [私域操盘手进阶指南：从实操训练到结果交付的五个核心步骤](./实战指南/private-traffic-operator-guide-5-steps.md) — 2025-02-24
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
