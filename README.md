@@ -2034,6 +2034,7 @@
 - [抖音短视频带货实战指南：从内容创作到转化闭环（第十期）](./实战指南/douyin-short-video-ecommerce-guide-10.md) — 2025-03-08
 - [想让AI真正提升工作效率？橘子老师带你从零构建AI实战能力](./实战指南/build-ai-practical-skills-with-teacher-orange.md) — 2025-03-08
 - [个体工商户与企业营业执照办理全流程指南](./实战指南/business-license-registration-guide.md) — 2025-03-07
+- [AI主播起号实操课：涵盖底层逻辑、剪辑技巧与运营进阶指南](./实战指南/ai-anchor-startup-guide.md) — 2025-03-07
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
