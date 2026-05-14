@@ -2089,6 +2089,7 @@
 - [想做体育自媒体却不知从何下手？从文案构思到视频剪辑与账号运营的全流程实操指南](./实战指南/sports-self-media-guide.md) — 2025-03-01
 - [小蕾老师《英语语法1000题专项精讲》课程资源：适用场景与学习要点说明](./实战指南/xiaolei-english-grammar-1000-course-resources.md) — 2025-03-01
 - [短视频带货拍摄全流程：从零基础入门到实战进阶指南](./实战指南/short-video-ecommerce-shooting-guide.md) — 2025-02-28
+- [电商全链路逻辑拆解：21天从入门到实操的进阶路径](./实战指南/ecommerce-full-link-logic-21-day-guide.md) — 2025-02-28
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
