@@ -2144,6 +2144,7 @@
 - [清华大学 DeepSeek 学习资源与技术资料汇总](./实战指南/tsinghua-deepseek-learning-resources.md) — 2025-02-22
 - [美业门店直播实战指南：从系统化运营到业绩增长](./实战指南/beauty-salon-livestreaming-guide.md) — 2025-02-22
 - [35天阅读变现实战指南：从知识输入到商业闭环的进阶路径](./实战指南/35-day-reading-monetization-guide.md) — 2025-02-22
+- [2025届高三春季开学摸底考：全国名校真题资源汇总](./实战指南/2025-gaokao-spring-mock-exam-resources.md) — 2025-02-21
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
