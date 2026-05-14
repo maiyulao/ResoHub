@@ -2178,6 +2178,7 @@
 - [亚马逊站外推广实操教程：每日10分钟快速上手，适用于跨境电商运营进阶](./实战指南/amazon-external-traffic-guide.md) — 2025-02-18
 - [如何通过OKR打破目标脱节，构建一套可落地的企业高绩效管理体系？](./实战指南/build-high-performance-management-system-with-okr.md) — 2025-02-18
 - [小红书90天从涨粉到变现的实战陪跑计划](./实战指南/xiaohongshu-90-day-growth-monetization-plan.md) — 2025-02-18
+- [想知道全球票房最高的10部电影长什么样？4K超清画质带你回顾影史巅峰之作](./实战指南/top-10-highest-grossing-movies-4k.md) — 2025-02-16
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
