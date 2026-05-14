@@ -1224,6 +1224,7 @@
 - [Colorsandfonts：通过色彩方案与字体配对优化 Web 视觉设计效率](./创意工具/colorsandfonts-web-visual-design-optimization.md) — 2025-02-14
 - [想找免费的考公考编学习资源？试试这个知识库：SaDuck](./创意工具/free-civil-service-exam-resources-saduck.md) — 2025-02-14
 - [爱推图：高质量免费图片资源库与在线视觉学习指南](./创意工具/itui-free-image-resources-visual-guide.md) — 2025-02-12
+- [章快图：无需安装的PDF在线骑缝章制作工具及使用指南](./创意工具/zhangkuaitu-online-pdf-seal-generator.md) — 2025-02-12
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
