@@ -585,6 +585,7 @@
 - [MiniRenamer v2.2.2 批量重命名操作指南：从安装到高效执行的完整步骤](./Windows软件/minirenamer-v2-2-2-batch-rename-guide.md) — 2025-03-28
 - [WechatDownload：高效导出微信公众号文章的批量下载方案](./Windows软件/wechatdownload-batch-export-official-account-articles.md) — 2025-03-25
 - [想知道谁把你删了或没通过你的好友申请？用 WechatRealFriends 快速筛查微信单向关系与拉黑状态](./Windows软件/wechat-real-friends-check-blocked-contacts.md) — 2025-03-24
+- [Windows 11 绿色版系统优化工具 v1.10：高效配置与性能调优指南](./Windows软件/windows-11-optimization-tool-v1-10.md) — 2025-03-04
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
