@@ -294,6 +294,7 @@
 - [面对 DeepSeek V3 的强势竞争，阿里新推出的 Qwen2.5-Max 网页版在实际体验中表现如何？](./AI工具教程/qwen2-5-max-vs-deepseek-v3-review.md) — 2025-02-28
 - [通过知乎直答免费调用 DeepSeek R1 满血版：配置指南与使用要点](./AI工具教程/deepseek-r1-zhihu-zhida-guide.md) — 2025-02-28
 - [Magic Resume：基于AI的开源简历编辑器，通过智能化引导实现高效求职文档构建](./AI工具教程/magic-resume-ai-open-source-resume-builder.md) — 2025-02-28
+- [Raphael AI 免注册图像生成工具：无需账号限制及部署环境说明](./AI工具教程/raphael-ai-image-generator-no-registration.md) — 2025-02-26
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
