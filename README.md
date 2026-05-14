@@ -1229,6 +1229,7 @@
 - [拆解柯李思《2020魅力原理》：构建个人影响力的核心逻辑](./大人学习课程/core-logic-of-influence-by-robert-cialdini.md) — 2025-02-26
 - [步某非烟第二季（A1-A1030）全集资源：完整收录全系列章节，支持高效查阅与同步阅读](./大人学习课程/bu-mou-fei-yan-season-2-full-collection.md) — 2025-02-24
 - [高效脱单指南：从心态重塑到社交实操的12项核心技巧](./大人学习课程/dating-guide-12-core-tips.md) — 2025-02-23
+- [小鹿情感《把妹话术终极指南》电子版下载：适用场景与实操注意事项](./大人学习课程/xiaolu-pick-up-lines-guide-download.md) — 2025-02-19
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
