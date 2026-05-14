@@ -2049,6 +2049,7 @@
 - [利用AI创作今日头条爆文的实操指南与变现路径](./实战指南/ai-toutiao-content-creation-guide.md) — 2025-03-05
 - [直播起号实操指南：通过精准标签构建高效数据模型，快速突破流量瓶颈](./实战指南/livestream-startup-guide-precision-tags-traffic-growth.md) — 2025-03-05
 - [企业所得税实操要点与合规指南](./实战指南/corporate-income-tax-guide.md) — 2025-03-04
+- [抖音投流实战指南：通过精准流量投放实现营收倍增与规模超车](./实战指南/douyin-ads-growth-guide.md) — 2025-03-04
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
