@@ -2204,6 +2204,7 @@
 - [AI实操训练营二期：以实战场景驱动技能内化，提供可复制的落地执行方案](./实战指南/ai-training-camp-phase-2-practical-execution.md) — 2025-02-13
 - [如何通过鬼谷子的识人术，快速洞察复杂人际关系中的对方底牌？](./实战指南/guiguzi-people-reading-skills-interpersonal-insight.md) — 2025-02-13
 - [磁力金牛：快手短视频带货剪辑实操指南](./实战指南/kuaishou-short-video-ecommerce-editing-guide.md) — 2025-02-13
+- [DeepSeek 本地部署全流程：从安装包配置到运行的实操指南](./实战指南/deepseek-local-deployment-guide.md) — 2025-02-13
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
