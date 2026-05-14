@@ -1181,6 +1181,7 @@
 - [想快速裁剪图片却担心隐私泄露或画质受损？试试这款免费安全的在线工具 Crop Image](./创意工具/free-secure-online-crop-image-tool.md) — 2025-02-26
 - [小狐搜搜：全网影视资源检索工具使用指南及获取路径](./创意工具/xiaohu-sousou-guide.md) — 2025-02-25
 - [想在小报童找高质量AI副业或变现专栏？这份精选导航帮你快速筛选](./创意工具/xiaobaotong-ai-side-hustle-guide.md) — 2025-02-24
+- [Roblox《咒术回战无限》礼包码汇总：最新兑换步骤与免费奖励领取方案](./创意工具/roblox-jujutsu-infinite-codes.md) — 2025-02-23
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
