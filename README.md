@@ -2066,6 +2066,7 @@
 - [阿抖：支持图文批量下载的抖音视频免费采集工具](./效率工具/adou-douyin-batch-downloader.md) — 2025-04-01
 - [网盘链接状态自动检测与密码智能填充工具：部署指南及使用注意事项](./效率工具/cloud-drive-link-checker-and-password-filler-guide.md) — 2025-03-21
 - [DeepSider 侧边栏助手：一站式调用 DeepSeek、Claude 及 GPT 等主流大模型](./效率工具/deepsider-ai-sidebar-assistant.md) — 2025-03-21
+- [Nanobrowser开源AI浏览器自动化框架：通过本地代理实现对网页操作的精准接管，打造可替代OpenAI Operator的自动化方案](./效率工具/nanobrowser-open-source-ai-browser-automation-framework.md) — 2025-03-10
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
