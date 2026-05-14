@@ -466,6 +466,7 @@
 
 ### iOS捷径指令
 - [如何使用 R⤓Download 实现 TikTok、Instagram 及 Snapchat 视频无水印下载](./iOS捷径指令/download-tiktok-instagram-snapchat-videos-without-watermark-r-download.md) — 2025-03-10
+- [Siri Ultra：通过快捷指令将 AI 大模型集成至 iPhone](./iOS捷径指令/siri-ultra-integrate-ai-llm-iphone-shortcuts.md) — 2025-03-01
 
 ### Mac软件
 - [Mac 刷机时该选 Revive 还是 Restore？详解 DFU 恢复模式与 DFU-Tools 开源工具用法](./Mac软件/mac-dfu-revive-vs-restore-dfu-tools-guide.md) — 2026-05-04
