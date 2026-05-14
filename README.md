@@ -316,6 +316,7 @@
 - [OpenHealth：支持多源健康数据整合与AI个性化分析的开源助手部署指南](./AI工具教程/openhealth-deployment-guide-multi-source-data-ai-analysis.md) — 2025-02-10
 - [如何使用朱雀大模型检测AI生成的文本与图片：操作指南](./AI工具教程/zh-ai-detection-guide.md) — 2025-02-10
 - [DeepSeek 官方提示词指南：通过结构化指令库快速提升模型输出质量](./AI工具教程/deepseek-official-prompt-guide-structured-instructions.md) — 2025-02-08
+- [AI NavHub 指南：高效筛选 2025 年度顶尖 AI 工具清单](./AI工具教程/ai-navhub-guide-top-ai-tools-2025.md) — 2025-02-08
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
