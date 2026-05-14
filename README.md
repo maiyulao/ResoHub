@@ -1165,6 +1165,7 @@
 - [想找高质量的 Anki 记忆卡片却不知从何搜起？这份 AnkiWeb 共享资源库下载与高效使用指南能帮你快速上手](./创意工具/ankiweb-shared-decks-download-guide.md) — 2025-03-02
 - [App Store 与 Steam 限免指南：实时追踪应用免费与特惠信息](./创意工具/app-store-steam-free-deals-guide.md) — 2025-03-02
 - [SVG Repo：50万+免版税矢量素材库，支持 AI 搜索与在线实时编辑](./创意工具/svg-repo-free-vector-icons-ai-search-editor.md) — 2025-03-02
+- [如何使用萤数制作精美的社交里程碑动画：操作指南](./创意工具/how-to-create-social-milestone-animations-with-yingshu.md) — 2025-02-28
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
