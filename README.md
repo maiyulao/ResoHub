@@ -447,6 +447,7 @@
 - [想在私有环境下搭建一个低功耗且响应极快的翻译服务？试试 MTranServer](./GitHub项目/mtranserver-low-power-fast-translation-service.md) — 2025-03-12
 - [想要快速制作液态金属风格的动态 Logo？试试开源工具 Liquid Logo](./GitHub项目/liquid-logo-open-source-tool.md) — 2025-03-08
 - [网易云音乐无损音质解析指南：突破VIP限制免费下载高品质音频](./GitHub项目/netease-music-lossless-audio-download-guide.md) — 2025-03-08
+- [AdobeGenp 激活指南：通过通用补丁实现 Adobe 全系列软件解锁及功能验证](./GitHub项目/adobegenp-activation-guide-universal-patch.md) — 2025-03-02
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
