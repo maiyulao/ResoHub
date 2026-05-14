@@ -1137,6 +1137,7 @@
 - [FontShow字体秀：通过批量实时对比与智能排版，高效筛选理想字体](./创意工具/fontshow-batch-font-comparison-smart-typography.md) — 2025-03-09
 - [日语自学资源包获取与高效利用指南：从网盘下载到学习路径规划](./创意工具/japanese-self-study-resources-guide.md) — 2025-03-08
 - [如何使用 MockUPhone 为手机界面快速生成多设备模型截图](./创意工具/mockuphone-mobile-device-mockups-guide.md) — 2025-03-08
+- [DiffRhythm：基于扩散模型的AI全流程音乐创作工具，实现人声与伴奏同步生成](./创意工具/diffrhythm-diffusion-ai-music-creation.md) — 2025-03-07
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
