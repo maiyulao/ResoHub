@@ -1249,6 +1249,7 @@
 - [高效脱单指南：从心态重塑到社交实操的12项核心技巧](./大人学习课程/dating-guide-12-core-tips.md) — 2025-02-23
 - [小鹿情感《把妹话术终极指南》电子版下载：适用场景与实操注意事项](./大人学习课程/xiaolu-pick-up-lines-guide-download.md) — 2025-02-19
 - [鱼神密圈知识点拆解与实操学习指南](./大人学习课程/fish-god-circle-knowledge-guide.md) — 2025-02-18
+- [高效表白实操指南：从心态建设到话术拆解，提升恋爱成功率](./大人学习课程/confession-guide-for-dating-success.md) — 2025-02-15
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
