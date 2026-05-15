@@ -2439,6 +2439,7 @@
 - [工薪族从0到30万资产积累的实操路径：分阶段执行指南](./实战指南/salary-earner-asset-accumulation-guide.md) — 2025-01-14
 - [黑马短视频实战训练营：38天全流程学习路径与资源获取指南](./实战指南/heima-short-video-training-guide.md) — 2025-01-14
 - [Snow人像厚涂进阶实战：从设计逻辑到绘画技法](./实战指南/snow-portrait-digital-painting-tutorial.md) — 2025-01-14
+- [如何高效链接高价值人脉：从认知到实操的晋级指南](./实战指南/how-to-build-high-value-connections.md) — 2025-01-14
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
