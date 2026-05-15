@@ -524,6 +524,7 @@
 - [全球互联网大厂开发岗位实时汇总：涵盖核心技术栈、薪资竞争力及申请路径的 Awesome Jobs 资源库](./GitHub项目/global-tech-jobs-awesome-resource-list.md) — 2025-02-06
 - [Bilive：实现B站直播高效录制、自动切片与字幕渲染的一站式投稿方案](./GitHub项目/bilive-bilibili-live-recording-slicing-subtitles.md) — 2025-02-01
 - [如何使用 TubeTube 基于 yt-dlp 下载 YouTube 视频：操作指南](./GitHub项目/tubetube-yt-dlp-youtube-download-guide.md) — 2025-01-27
+- [想要在不牺牲功能的前提下保障隐私？试试这款开源安全工具 Privacy sexy](./GitHub项目/privacy-sexy-open-source-security-tool.md) — 2025-01-08
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
