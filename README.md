@@ -1255,6 +1255,7 @@
 - [Redian：支持摸鱼模式的全网热点信息聚合工具](./创意工具/redian-hot-info-aggregator.md) — 2025-02-06
 - [如何使用音客英语进行高效听抄训练：操作全流程指南](./创意工具/ink-english-dictation-guide.md) — 2025-02-05
 - [PDF.is 综合 PDF 处理平台：一站式解决转换、编辑与管理需求](./创意工具/pdf-is-all-in-one-pdf-solution.md) — 2025-02-02
+- [iQIYIs影院：高画质免费在线影视资源聚合平台](./创意工具/iqiyi-cinema-free-movie-platform.md) — 2025-02-02
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
