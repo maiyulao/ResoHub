@@ -2284,6 +2284,7 @@
 - [想通过自媒体打造个人IP却不知从何起步？这份101节音频课程带你突破平台限制，构建更高维度的个人影响力](./实战指南/personal-ip-building-audio-course.md) — 2025-02-03
 - [抖店全渠道流量获取方案：无需直播与短视频的纯货架带货实操指南](./实战指南/douyin-store-all-channel-traffic-guide.md) — 2025-02-02
 - [AI 视觉商业化实战：从创作逻辑到变现场景的深度解析](./实战指南/ai-vision-commercialization-guide.md) — 2025-02-02
+- [樊登《可复制的领导力》企业版14天线上训练营：资源获取与适用指南](./实战指南/fandeng-reproducible-leadership-training-guide.md) — 2025-02-01
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
