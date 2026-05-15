@@ -2329,6 +2329,7 @@
 - [新媒体实操指南：60天陪跑计划全流程拆解](./实战指南/new-media-60-day-guide.md) — 2025-01-28
 - [想在小红书高效引流到私域却不知如何搭建链路？这份获客系统实操指南为你拆解](./实战指南/xiaohongshu-private-traffic-guide-2.md) — 2025-01-27
 - [直播间快速起号指南：7日打造爆款逻辑与实操要点](./实战指南/livestream-fast-growth-guide.md) — 2025-01-27
+- [对话卫哲：企业诊疗与经营破局的实操步骤指南](./实战指南/wei-zhe-corporate-diagnosis-and-operation-guide.md) — 2025-01-26
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
