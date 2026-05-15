@@ -1304,6 +1304,7 @@
 - [绳缚入门实操指南《我的身体，我的心》第一季：从基础安全原则到初学者绳结技巧的分层教学](./大人学习课程/shibari-beginner-guide-season-1-safety-and-knots.md) — 2025-02-06
 - [小林绳雾《S缚本事》全彩高清PDF实操指南](./大人学习课程/kobayashi-nawagiri-shibari-pdf-guide.md) — 2025-02-04
 - [恋爱沟通实操指南：掌握高效聊天模板，快速建立深度情感连接](./大人学习课程/dating-communication-guide-chat-templates.md) — 2025-02-01
+- [想找可可西yyy的学习资源？这份完整资料清单帮你快速上手](./大人学习课程/cocoa-west-learning-resources-guide.md) — 2025-01-31
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
