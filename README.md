@@ -351,6 +351,7 @@
 - [Company Researcher：一款专注于企业情报挖掘的开源 AI 搜索引擎](./AI工具教程/company-researcher-open-source-ai-search-engine.md) — 2025-01-11
 - [EmojiClick：基于 AI 语义分析的精准表情符号检索工具](./AI工具教程/emojiclick-ai-semantic-emoji-search.md) — 2025-01-09
 - [想要搭建一个像 Perplexity 那样能实时联网检索的 AI 搜索引擎？尝试用 Gemini 2.0 Flash 与 Grounding 实现开源替代方案](./AI工具教程/build-perplexity-ai-search-engine-gemini-2-flash-grounding.md) — 2025-01-08
+- [MiniPerplx 实测：轻量化 AI 搜索的效率与体验分析](./AI工具教程/miniperplx-review-efficiency-experience.md) — 2025-01-08
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
