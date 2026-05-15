@@ -2517,6 +2517,7 @@
 - [抖音本地生活实操指南：从流量获取到门店转化的全链路增长方案](./实战指南/douyin-local-life-growth-guide.md) — 2025-01-03
 - [小红书笔记带货实操指南：从选品到出单的 5 个关键步骤](./实战指南/xiaohongshu-ecommerce-guide-5-steps.md) — 2025-01-03
 - [中老年零基础快速上手剪映：从拍摄到特效发布的实操全流程](./实战指南/capcut-tutorial-for-beginners-seniors.md) — 2025-01-02
+- [科学销售系统大课（尝鲜版）：针对销售需求挖掘痛点的实操指南与资源获取](./实战指南/scientific-sales-system-needs-discovery-guide.md) — 2025-01-02
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
