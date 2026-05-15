@@ -2486,6 +2486,7 @@
 - [外贸实操指南：ChatGPT 提升业务效率的 30 个具体应用场景](./实战指南/chatgpt-foreign-trade-efficiency-scenarios.md) — 2025-01-08
 - [小红书流量变现实操指南：通过23节视频课构建知识IP，实现从内容创作到商业转化的闭环](./实战指南/xiaohongshu-monetization-guide-knowledge-ip.md) — 2025-01-07
 - [构建强大内心的30个心理实践步骤](./实战指南/30-steps-to-build-mental-strength.md) — 2025-01-07
+- [从工具链到能力集：清单式技能课程的效率重构](./实战指南/toolchain-to-capability-skill-course-efficiency.md) — 2025-01-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
