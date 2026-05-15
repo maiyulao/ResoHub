@@ -360,6 +360,7 @@
 - [如何通过 GE Chat 免费使用 GPT-4 镜像站：操作指南](./AI工具教程/use-gpt4-free-via-ge-chat-guide.md) — 2025-01-03
 - [微软开源 MarkItDown：支持多格式转 Markdown 的本地/在线工具及使用指南](./AI工具教程/microsoft-markitdown-guide.md) — 2025-01-03
 - [想知道 2024 年在 X 上发布了什么？尝试用 AI 分析工具生成你的年度推文回顾 Twitter Wrapped](./AI工具教程/2024-twitter-wrapped-ai-analysis-tool.md) — 2025-01-01
+- [Reditor：集成AI文案生成与违禁词检测的小红书编辑器使用指南](./AI工具教程/reditor-xiaohongshu-ai-editor-guide.md) — 2024-12-31
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
