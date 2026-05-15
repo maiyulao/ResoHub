@@ -1339,6 +1339,7 @@
 - [Lucky-Draw 开源抽奖程序：部署指南与年会适用环境配置](./创意工具/lucky-draw-deployment-guide-annual-meeting-config.md) — 2025-01-14
 - [如何使用 MissA 搜索引擎高效检索日本教师教学资源](./创意工具/missa-search-japan-teacher-resources.md) — 2025-01-14
 - [安知鱼 Hexo 主题详解：兼顾极简美学的 AI 文章摘要方案](./创意工具/anzhiyu-hexo-theme-ai-summary.md) — 2025-01-14
+- [使用 dnd-resume 快速生成在线简历的操作指南](./创意工具/dnd-resume-guide.md) — 2025-01-14
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
