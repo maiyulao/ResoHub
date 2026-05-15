@@ -1361,6 +1361,7 @@
 - [韩台热门综艺精选：最新节目单及其观看步骤指南](./创意工具/korean-taiwanese-variety-shows-guide.md) — 2025-01-10
 - [如何构建高效的AI Agent？详解Google 2024年智能体技术白皮书（中英双语版）](./创意工具/build-efficient-ai-agents-google-2024-whitepaper.md) — 2025-01-09
 - [高效解析图片元数据：Online EXIF Viewer 在线查看与分析 EXIF 信息](./创意工具/online-exif-viewer-analyze-image-metadata.md) — 2025-01-08
+- [互联网大厂薪酬体系解析：通过职级对标提升薪酬透明度](./创意工具/big-tech-salary-system-transparency.md) — 2025-01-06
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
