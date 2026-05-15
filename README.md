@@ -1309,6 +1309,7 @@
 - [高效开发与办公助手：Hamster Tools 免费在线工具集深度解析](./创意工具/hamster-tools-free-online-toolkit-review.md) — 2025-01-22
 - [方言文化图谱：全国地域语系交流与实操分享指南](./创意工具/chinese-dialect-culture-map-guide.md) — 2025-01-22
 - [深度评测 BestPDF：高效处理 PDF 文档的综合工具方案](./创意工具/bestpdf-review-comprehensive-pdf-tool.md) — 2025-01-21
+- [通过 MP4ba 免费下载高清电影的完整操作指南](./创意工具/mp4ba-free-hd-movie-download-guide.md) — 2025-01-21
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
