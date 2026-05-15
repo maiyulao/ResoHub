@@ -335,6 +335,7 @@
 - [深度解析 Kokoro TTS：高性能 AI 语音合成的实现与应用实践](./AI工具教程/kokoro-tts-deep-dive-implementation-and-practice.md) — 2025-01-26
 - [使用 ZColoring 快速制作 AI 涂色页的详细操作步骤](./AI工具教程/zcoloring-ai-coloring-page-tutorial.md) — 2025-01-26
 - [Logomate AI 使用指南：在线快速生成专业徽标的配置与操作流程](./AI工具教程/logomate-ai-user-guide.md) — 2025-01-26
+- [想让静态照片动起来却找不到好工具？试试这款免费的 PhotoToVideo AI 生成器](./AI工具教程/free-phototovideo-ai-generator.md) — 2025-01-24
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
