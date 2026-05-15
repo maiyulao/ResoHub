@@ -2297,6 +2297,7 @@
 - [短视频账号从0到1起号与创作运营全流程实操指南](./实战指南/short-video-account-growth-guide.md) — 2025-02-01
 - [Photoshop 零基础上手指南：系统化视频教学与实操素材集](./实战指南/photoshop-beginner-guide-video-tutorials-assets.md) — 2025-01-31
 - [新概念英语全套音视频资源：下载获取路径及学习环境配置指南](./实战指南/new-concept-english-audio-video-resources-guide.md) — 2025-01-31
+- [耶鲁大学全学科公开课资源指南：课程体系与学习路径解析](./实战指南/yale-university-open-courses-guide.md) — 2025-01-31
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
