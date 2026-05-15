@@ -2467,6 +2467,7 @@
 - [进阶级PPT视觉设计指南：实操技巧与模版获取途径](./实战指南/advanced-ppt-visual-design-guide.md) — 2025-01-10
 - [全媒体短视频流量优化实操指南：月入万级方案及商业定价参考](./实战指南/short-video-traffic-optimization-guide.md) — 2025-01-10
 - [从方法论到实操：直播公会负责人如何构建优质运营体系](./实战指南/live-streaming-agency-operation-system.md) — 2025-01-10
+- [理财实操指南：通过32个步骤实现资产增值](./实战指南/financial-management-guide-32-steps-asset-growth.md) — 2025-01-09
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
