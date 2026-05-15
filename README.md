@@ -328,6 +328,7 @@
 - [开源AI红包封面生成器：部署环境、获取路径及配置要点说明](./AI工具教程/open-source-ai-red-envelope-generator-guide.md) — 2025-02-02
 - [Awesome Open Source AI：可直接部署的开源人工智能工具集与集成指南](./AI工具教程/awesome-open-source-ai-tools-guide.md) — 2025-01-31
 - [想把文字食谱变成直观的成品图？试试 Recipe Book 这款 AI 文本转图像工具](./AI工具教程/recipe-book-ai-text-to-image-tool.md) — 2025-01-29
+- [Heck AI 联网搜索实测：集成 DeepSeek 与 GPT-4o 实现实时信息检索与深度分析](./AI工具教程/heck-ai-deepseek-gpt4o-web-search-review.md) — 2025-01-28
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
