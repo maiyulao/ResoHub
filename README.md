@@ -1268,6 +1268,7 @@
 - [使用 MinuteTimers 在线计时器的操作指南：从快速启动到自定义设置](./创意工具/minutetimers-online-timer-guide.md) — 2025-01-31
 - [零基础钢琴入门指南：利用免费在线模拟器快速上手，从基础指法到曲目练习全流程解析](./创意工具/beginner-piano-guide-free-online-simulator.md) — 2025-01-31
 - [Firework_Simulator：基于 Web 的多场景烟花动态效果模拟工具](./创意工具/firework-simulator-web-dynamic-effects-tool.md) — 2025-01-30
+- [XML Sitemap Generator：支持自定义配置的免费站点地图生成工具及部署指南](./创意工具/free-xml-sitemap-generator-guide.md) — 2025-01-29
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
