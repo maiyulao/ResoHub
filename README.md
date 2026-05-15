@@ -2516,6 +2516,7 @@
 - [C++设计模式视频教程：涵盖理论与实战案例，适用于架构进阶学习](./实战指南/cpp-design-patterns-video-course.md) — 2025-01-04
 - [抖音本地生活实操指南：从流量获取到门店转化的全链路增长方案](./实战指南/douyin-local-life-growth-guide.md) — 2025-01-03
 - [小红书笔记带货实操指南：从选品到出单的 5 个关键步骤](./实战指南/xiaohongshu-ecommerce-guide-5-steps.md) — 2025-01-03
+- [中老年零基础快速上手剪映：从拍摄到特效发布的实操全流程](./实战指南/capcut-tutorial-for-beginners-seniors.md) — 2025-01-02
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
