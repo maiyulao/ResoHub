@@ -1424,6 +1424,7 @@
 - [周梵：深度解析寻找灵魂伴侣的逻辑与实践路径](./大人学习课程/zhou-fan-finding-soulmate-logic-practice.md) — 2025-01-12
 - [男性AI辅助延时指南：核心发力技巧与实操要点](./大人学习课程/mens-ai-delay-guide-techniques.md) — 2025-01-09
 - [欧阳浮夸7日快速进阶特训方案：从入门到精通的实操步骤](./大人学习课程/ouyang-fu-kuah-7-day-training-plan.md) — 2025-01-06
+- [亲密关系进阶指南：提升情感质量的 36 个相处技巧](./大人学习课程/intimacy-relationship-guide-36-tips.md) — 2025-01-04
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
