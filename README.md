@@ -2421,6 +2421,7 @@
 - [小马宋营销实践课全集：适用营销从业者的技能提升资源（完结版）](./实战指南/xiao-ma-song-marketing-course-complete.md) — 2025-01-16
 - [解构日杂风影像：摄影师小蔡一壹的视觉语言与作品分析](./实战指南/japanese-magazine-style-photography-analysis-cai-yiyi.md) — 2025-01-16
 - [GPT商业变现实操指南：从提示词构建到自动化收益获取流程](./实战指南/gpt-monetization-guide-prompt-to-automation.md) — 2025-01-16
+- [从构图到出片：风光摄影全流程实操指南](./实战指南/landscape-photography-complete-guide.md) — 2025-01-16
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
