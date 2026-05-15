@@ -2257,6 +2257,7 @@
 - [外贸获客与商务谈判实战指南：40课时零基础起步教程](./实战指南/foreign-trade-customer-acquisition-and-negotiation-guide.md) — 2025-02-06
 - [打破常规：苏杰论产品思维的迭代与创新实践](./实战指南/su-jie-product-thinking-innovation.md) — 2025-02-06
 - [DeepSeek 全方位上手指南：从资源获取到实操部署的 5 个关键步骤](./实战指南/deepseek-complete-guide-deployment-steps.md) — 2025-02-06
+- [Midjourney 全能实操指南：从零基础入门到高级进阶的系统化教程（中英双语）](./实战指南/midjourney-complete-guide-beginner-to-advanced-2.md) — 2025-02-05
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
