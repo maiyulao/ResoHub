@@ -331,6 +331,7 @@
 - [Heck AI 联网搜索实测：集成 DeepSeek 与 GPT-4o 实现实时信息检索与深度分析](./AI工具教程/heck-ai-deepseek-gpt4o-web-search-review.md) — 2025-01-28
 - [想让AI说话像真人一样自然？尝试用 AnyVoice 实现高保真声音克隆](./AI工具教程/anyvoice-natural-ai-voice-cloning.md) — 2025-01-28
 - [AI 智能对联创作工具：实现联网实时生成的在线对联生成器](./AI工具教程/ai-couplet-generator-2.md) — 2025-01-27
+- [LearnGerman AI：支持口语实时反馈的免费德语在线学习工具及使用指南](./AI工具教程/learngerman-ai-free-german-learning-tool-guide.md) — 2025-01-26
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
