@@ -2473,6 +2473,7 @@
 - [从方法论到实操：直播公会负责人如何构建优质运营体系](./实战指南/live-streaming-agency-operation-system.md) — 2025-01-10
 - [理财实操指南：通过32个步骤实现资产增值](./实战指南/financial-management-guide-32-steps-asset-growth.md) — 2025-01-09
 - [小红书素人账号变现：7种实操模式及其适用场景与避坑指南](./实战指南/xiaohongshu-monetization-guide-for-beginners.md) — 2025-01-09
+- [从文档研读到结构化实操：高效AI提示词（Prompt）进阶指南](./实战指南/ai-prompt-engineering-guide.md) — 2025-01-08
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
