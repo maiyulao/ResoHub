@@ -753,6 +753,7 @@
 - [网文签约实操指南：从系统写作到高效投稿的过稿全流程](./兴趣爱好/web-novel-contract-guide-workflow.md) — 2025-01-16
 - [深度记忆与高效学习实操指南](./兴趣爱好/deep-memory-efficient-learning-guide.md) — 2025-01-11
 - [仇泽流行音乐作曲：从零起步的入门教学指南](./兴趣爱好/qiu-ze-pop-music-composition-guide.md) — 2025-01-10
+- [二次元伪厚涂插画绘制：从基础到完稿的实操步骤指南](./兴趣爱好/anime-pseudo-thick-painting-tutorial.md) — 2025-01-09
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
