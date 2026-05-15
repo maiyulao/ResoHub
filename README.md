@@ -2344,6 +2344,7 @@
 - [视频号从零起步指南：低成本获取流量的实操步骤](./实战指南/video-channel-growth-guide-low-cost-traffic.md) — 2025-01-26
 - [短视频带货陪跑：降低普通人入局门槛的实操路径](./实战指南/short-video-ecommerce-guide-for-beginners-2.md) — 2025-01-26
 - [医生如何摆脱流量焦虑？从内容底层逻辑出发，打造百万级爆款IP的五步实操法](./实战指南/doctor-ip-growth-strategy.md) — 2025-01-26
+- [私域流量变现全流程实操指南：从搭建链路到商业闭环的执行要点](./实战指南/private-traffic-monetization-guide.md) — 2025-01-26
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
