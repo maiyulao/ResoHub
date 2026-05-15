@@ -641,6 +641,7 @@
 - [OrbitRing 安装指南：适用于 macOS 的轻量级快速启动器配置与使用注意点](./Mac软件/orbitring-macos-installation-guide.md) — 2025-01-29
 - [Couplet：让桌面应用实现春联式双窗布局，提升跨平台分屏操作效率](./Mac软件/couplet-dual-window-layout-split-screen-efficiency.md) — 2025-01-23
 - [Keymap：一款用于记录与展示软件快捷键的本地 Web 应用](./Mac软件/keymap-software-shortcuts-web-app.md) — 2025-01-20
+- [零泉：一款高效且免费的全能型数字化素材管理工具](./Mac软件/lingquan-digital-asset-management-tool.md) — 2025-01-01
 
 ### Windows软件
 - [觉得 Win+V 记录太少且不够灵活？试试开源的本地剪贴板增强工具 ElegantClipboard](./Windows软件/elegant-clipboard-windows-clipboard-manager.md) — 2026-05-11
