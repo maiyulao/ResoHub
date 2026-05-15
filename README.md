@@ -2450,6 +2450,7 @@
 - [29节即兴表达实战课：职场沟通技巧训练与应用指南](./实战指南/29-lessons-improvisational-communication-skills-guide.md) — 2025-01-13
 - [手机摄影进阶指南：从基础构图到大片质感的实操步骤](./实战指南/mobile-photography-guide-composition-to-quality.md) — 2025-01-12
 - [视频号从零起步全流程：涵盖流量获取、直播间人货场配置与账号搭建实操指南](./实战指南/video-channel-startup-guide-traffic-and-setup.md) — 2025-01-12
+- [小红书个人IP打造：从0到1的60天实操进阶指南](./实战指南/xiaohongshu-personal-ip-guide.md) — 2025-01-12
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
