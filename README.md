@@ -2488,6 +2488,7 @@
 - [社媒助手：支持抖音与小红书数据采集的工具安装及配置指南](./效率工具/social-media-assistant-douyin-xiaohongshu-setup-guide.md) — 2025-02-16
 - [115Master 部署指南：实现 115 网盘视频极速加载与智能字幕增强](./效率工具/115master-deployment-guide-fast-loading-smart-subtitles.md) — 2025-02-14
 - [Chrome Extension Sync 安装指南：多设备插件同步与管理配置详解](./效率工具/chrome-extension-sync-guide.md) — 2025-01-16
+- [高效管理浏览器书签：懒猫书签清理工具实测与操作指南](./效率工具/lazycat-bookmarks-cleanup-guide.md) — 2025-01-15
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
