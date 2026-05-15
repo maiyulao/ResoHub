@@ -708,6 +708,7 @@
 - [艾克社交技巧：高效提升异性吸引力的实操指南](./书籍/acre-social-skills-attraction-guide.md) — 2025-02-26
 - [中信出版社2000册精品图书集锦：涵盖商业、管理及个人成长核心领域，打造全方位知识体系](./书籍/citic-press-2000-best-books-collection.md) — 2025-02-20
 - [从理论到实操：860本摄影专业书籍全集指南](./书籍/860-photography-books-guide.md) — 2025-02-15
+- [提升男性耐力与体能的训练指南：参考石原结实的强壮修炼法](./书籍/mens-endurance-fitness-guide-yui-ishihara-method.md) — 2025-01-07
 
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
