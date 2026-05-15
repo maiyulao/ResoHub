@@ -339,6 +339,7 @@
 - [如何利用 LLM 提升学术检索效率？解析论文搜索代理 PaSa 的实现机制](./AI工具教程/llm-academic-search-efficiency-pasa-mechanism.md) — 2025-01-22
 - [投递简历总是石沉大海？尝试用开源 AI 工具 Resume Matcher 优化匹配度](./AI工具教程/optimize-resume-with-resume-matcher-ai.md) — 2025-01-20
 - [想在母语环境中自然习得外语却不知如何起步？尝试用 Ries 打造零压力的 AI 语言学习场景](./AI工具教程/learn-foreign-language-with-ries-ai.md) — 2025-01-18
+- [ai_couplets 开源项目：基于 AI 的对联生成工具安装与配置指南](./AI工具教程/ai-couplets-installation-guide.md) — 2025-01-18
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
