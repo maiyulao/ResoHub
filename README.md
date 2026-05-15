@@ -2265,6 +2265,7 @@
 - [Stable Diffusion 虚拟模特实战：通过 AI 绘画重构电商产品图，实现低成本高效出片](./实战指南/stable-diffusion-ai-virtual-model-ecommerce-product-photography.md) — 2025-02-05
 - [想靠短视频变现却不知从何入手？这份全流程运营指南教你从内容创作到商业创收的实操路径](./实战指南/short-video-monetization-guide-3.md) — 2025-02-05
 - [B站内容运营实操指南：从起号到增长的执行路径](./实战指南/bilibili-content-operation-guide.md) — 2025-02-05
+- [手机摄影进阶指南：从视觉构图到光影处理的实操技巧](./实战指南/mobile-photography-advanced-guide.md) — 2025-02-04
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
