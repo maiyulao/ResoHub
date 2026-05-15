@@ -714,6 +714,7 @@
 - [游戏制作与高级渲染实操教程：资源获取及环境配置指南](./兴趣爱好/game-dev-advanced-rendering-resources-setup-guide.md) — 2025-03-03
 - [台球快速进阶指南：王孟南 30 天实战训练计划](./兴趣爱好/billiards-training-plan-wang-mengnan.md) — 2025-03-01
 - [零基础钢琴快速入门指南：通过分级视频课程实现从入门到实操的高效进阶](./兴趣爱好/beginner-piano-fast-track-guide.md) — 2025-02-16
+- [JOYKEYS现代键盘教学法：通过系统化逻辑重构指法，提升成人与儿童的演奏效率](./兴趣爱好/joykeys-modern-keyboard-teaching-method.md) — 2025-01-29
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
