@@ -341,6 +341,7 @@
 - [想在母语环境中自然习得外语却不知如何起步？尝试用 Ries 打造零压力的 AI 语言学习场景](./AI工具教程/learn-foreign-language-with-ries-ai.md) — 2025-01-18
 - [ai_couplets 开源项目：基于 AI 的对联生成工具安装与配置指南](./AI工具教程/ai-couplets-installation-guide.md) — 2025-01-18
 - [AniDoc：将动画草图高效转化为高保真上色作品的工具指南](./AI工具教程/anidoc-animation-sketch-to-high-fidelity-coloring-guide.md) — 2025-01-18
+- [2025年免费AI工具汇总：按功能分类及获取渠道指南](./AI工具教程/free-ai-tools-list-2025.md) — 2025-01-17
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
