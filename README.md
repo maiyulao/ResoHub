@@ -1297,6 +1297,7 @@
 - [51we 资源解析：如何高效检索抖音博主微密圈与觅圈私密内容](./创意工具/51we-douyin-mimiquan-miquan-guide.md) — 2025-01-24
 - [股迹追踪投资收益计算器：多维度理财盈亏核算指南](./创意工具/investment-profit-calculator-guide.md) — 2025-01-24
 - [如何在偷乐短剧在线免费观看热门短剧：操作指南](./创意工具/how-to-watch-tule-short-drama-free.md) — 2025-01-24
+- [想在 X (Twitter) 上运营高转化的福利账号？这份 XFuLiJi 学习指南为你拆解实操路径](./创意工具/x-twitter-high-conversion-guide.md) — 2025-01-24
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
