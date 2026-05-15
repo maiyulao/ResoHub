@@ -2494,6 +2494,7 @@
 - [想用 AI 提升效率却不知从何下手？这份零基础实操指南帮你快速落地](./实战指南/ai-efficiency-guide-for-beginners.md) — 2025-01-06
 - [女性商业IP私教：通过线上礼仪构建高价值变现能力](./实战指南/female-business-ip-online-etiquette-monetization.md) — 2025-01-06
 - [爆款带货视频制作全流程：从脚本策划到高效转化的操作指南](./实战指南/high-conversion-product-video-guide.md) — 2025-01-05
+- [想在TikTok通过短视频和直播实现海外带货？这份实操指南教你如何起号与转化](./实战指南/tiktok-ecommerce-guide-growth-conversion.md) — 2025-01-05
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
