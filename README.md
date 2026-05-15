@@ -2323,6 +2323,7 @@
 - [美食短视频拍摄全流程：从相机灯光设置到剪映美感调色指南](./实战指南/food-short-video-shooting-guide-lighting-and-editing.md) — 2025-01-28
 - [淘宝商家直播起步指南：从账号配置到首场实操的避坑流程](./实战指南/taobao-live-streaming-guide-for-beginners.md) — 2025-01-28
 - [新媒体实操指南：60天陪跑计划全流程拆解](./实战指南/new-media-60-day-guide.md) — 2025-01-28
+- [想在小红书高效引流到私域却不知如何搭建链路？这份获客系统实操指南为你拆解](./实战指南/xiaohongshu-private-traffic-guide-2.md) — 2025-01-27
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
