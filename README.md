@@ -2407,6 +2407,7 @@
 - [想在职场或社交圈快速建立个人品牌？试试这套21天影响力构建方案](./实战指南/21-day-personal-branding-influence-plan.md) — 2025-01-18
 - [精细化销售团队管理：从日常执行到效能闭环的实操模式](./实战指南/refined-sales-team-management-execution-and-efficiency.md) — 2025-01-16
 - [本地生活流量闭环构建指南：从获客到转化的实操步骤](./实战指南/local-life-traffic-closed-loop-guide.md) — 2025-01-16
+- [自媒体起号全流程指南：从环境搭建到内容分发的四个关键环节](./实战指南/self-media-startup-guide.md) — 2025-01-16
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
