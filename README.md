@@ -2334,6 +2334,7 @@
 - [高效时间管理：30个可立即执行的场景化优化方案](./实战指南/efficient-time-management-30-actionable-tips.md) — 2025-01-26
 - [尽职调查实操全指南：从核心维度到执行细节的深度解析](./实战指南/due-diligence-practical-guide.md) — 2025-01-26
 - [Google Ads 全流程实操指南：从关键词筛选到落地页策划与后台配置](./实战指南/google-ads-complete-guide-keyword-landing-page-setup.md) — 2025-01-26
+- [视频号从零起步指南：低成本获取流量的实操步骤](./实战指南/video-channel-growth-guide-low-cost-traffic.md) — 2025-01-26
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
