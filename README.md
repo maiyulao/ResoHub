@@ -1280,6 +1280,7 @@
 - [SaveTik Co：高效去除 TikTok 视频水印的下载指南](./创意工具/savetik-tiktok-watermark-remover-guide.md) — 2025-01-28
 - [淘趣工坊：一键生成高品质壁纸样机，让设计快速实现商业级视觉呈现](./创意工具/taoqu-workshop-wallpaper-mockup-generator.md) — 2025-01-28
 - [想提升摄影作品质感却找不到参考？试试这个高质量图片学习网站 COS酱](./创意工具/cos-chan-photography-reference-site.md) — 2025-01-27
+- [高效批量图片水印处理工具：支持快速标记与免费导出](./创意工具/batch-image-watermark-tool.md) — 2025-01-27
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
