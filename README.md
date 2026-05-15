@@ -1327,6 +1327,7 @@
 - [爱去小说网：支持TXT格式电子书免费下载及设备兼容说明](./创意工具/aiqu-novel-free-txt-download-compatibility.md) — 2025-01-16
 - [iOS Delta 模拟器游戏 ROM 资源下载指南与镜像站汇总](./创意工具/ios-delta-emulator-roms-download-guide.md) — 2025-01-16
 - [想用中文域名搭建关键词导航站？这份最完整的实操指南告诉你怎么做](./创意工具/chinese-domain-keyword-navigation-guide.md) — 2025-01-16
+- [如何计算实时会议成本：操作步骤与成本核算指南](./创意工具/calculate-real-time-meeting-cost-guide.md) — 2025-01-16
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
