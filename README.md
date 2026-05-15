@@ -1335,6 +1335,7 @@
 - [高效开源工具集：适用场景分析与获取指南](./创意工具/efficient-open-source-tools-guide.md) — 2025-01-16
 - [面对复杂计算不知从何下手？试试能解决各类实际问题的 Omni Calculator 全能计算器](./创意工具/omni-calculator-review.md) — 2025-01-16
 - [图片太大导致网页加载慢或上传失败？试试这款高效的免费压缩工具 SmallJPG](./创意工具/smalljpg-free-image-compressor-for-faster-page-load.md) — 2025-01-15
+- [Enpuz AI 英语语法分析工具：在线句法解析实操与学习指南](./创意工具/enpuz-ai-english-grammar-analysis-guide.md) — 2025-01-15
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
