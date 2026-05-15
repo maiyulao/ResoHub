@@ -2331,6 +2331,7 @@
 - [直播间快速起号指南：7日打造爆款逻辑与实操要点](./实战指南/livestream-fast-growth-guide.md) — 2025-01-27
 - [对话卫哲：企业诊疗与经营破局的实操步骤指南](./实战指南/wei-zhe-corporate-diagnosis-and-operation-guide.md) — 2025-01-26
 - [高效时间管理：30个可立即执行的场景化优化方案](./实战指南/efficient-time-management-30-actionable-tips.md) — 2025-01-26
+- [尽职调查实操全指南：从核心维度到执行细节的深度解析](./实战指南/due-diligence-practical-guide.md) — 2025-01-26
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
