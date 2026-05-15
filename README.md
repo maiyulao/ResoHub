@@ -773,6 +773,7 @@
 - [仇泽流行音乐作曲：从零起步的入门教学指南](./兴趣爱好/qiu-ze-pop-music-composition-guide.md) — 2025-01-10
 - [二次元伪厚涂插画绘制：从基础到完稿的实操步骤指南](./兴趣爱好/anime-pseudo-thick-painting-tutorial.md) — 2025-01-09
 - [想知道皮肤科医生如何科学护肤？协和医学院皮肤博士分享的13个美肤核心要点](./兴趣爱好/dermatologist-skincare-tips-pku-doctor.md) — 2025-01-02
+- [少年感人物插画实战指南：从薯苕风格设定到细节刻画的创作全流程](./兴趣爱好/youth-character-illustration-guide-shutiao-style.md) — 2024-12-31
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
