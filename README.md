@@ -2502,6 +2502,7 @@
 - [面对商业实操中的具体困惑，如何快速找到可落地的解决方案？老路商学课100讲全集详解](./实战指南/business-practical-solutions-laolu-course-100.md) — 2025-01-05
 - [高效职场沟通与写作：通过品牌化表达提升个人市场价值](./实战指南/workplace-communication-writing-personal-branding.md) — 2025-01-05
 - [餐饮菜单设计指南：通过 6 个核心步骤提升客单价与利润率](./实战指南/restaurant-menu-design-guide-increase-profit.md) — 2025-01-04
+- [全方位解析《中国民间故事集成》23册套装：内容体系与学术价值](./实战指南/chinese-folk-tales-collection-review.md) — 2025-01-04
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
