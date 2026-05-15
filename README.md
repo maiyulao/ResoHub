@@ -1329,6 +1329,7 @@
 - [想用中文域名搭建关键词导航站？这份最完整的实操指南告诉你怎么做](./创意工具/chinese-domain-keyword-navigation-guide.md) — 2025-01-16
 - [如何计算实时会议成本：操作步骤与成本核算指南](./创意工具/calculate-real-time-meeting-cost-guide.md) — 2025-01-16
 - [背单词总事半功倍？尝试用 Qwerty Learner 将词汇记忆转化为指尖肌肉记忆](./创意工具/qwerty-learner-vocabulary-muscle-memory.md) — 2025-01-16
+- [高效开源工具集：适用场景分析与获取指南](./创意工具/efficient-open-source-tools-guide.md) — 2025-01-16
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
