@@ -358,6 +358,7 @@
 - [3MinTop AI 读书工具：快速生成书籍摘要的获取指南与使用要点](./AI工具教程/3mintop-ai-book-summary-guide.md) — 2025-01-03
 - [TTS Importer：实现 Azure 语音合成服务在阅读软件中的高效集成](./AI工具教程/tts-importer-azure-speech-integration.md) — 2025-01-03
 - [如何通过 GE Chat 免费使用 GPT-4 镜像站：操作指南](./AI工具教程/use-gpt4-free-via-ge-chat-guide.md) — 2025-01-03
+- [微软开源 MarkItDown：支持多格式转 Markdown 的本地/在线工具及使用指南](./AI工具教程/microsoft-markitdown-guide.md) — 2025-01-03
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
