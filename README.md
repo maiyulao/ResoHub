@@ -1385,6 +1385,7 @@
 - [PDF 仿真扫描效果实现方案：将电子文档转化为扫描件质感](./创意工具/pdf-simulated-scan-effect-solution.md) — 2025-01-01
 - [高清成人益智拼图：免费在线交互体验指南](./创意工具/hd-adult-puzzles-online-guide.md) — 2025-01-01
 - [定制 2025 习惯追踪日历的步骤：从模版编辑到打印导出](./创意工具/customize-2025-habit-tracker-calendar-guide.md) — 2025-01-01
+- [Free Fireworks：无需安装的在线虚拟烟花模拟工具](./创意工具/free-fireworks-online-simulator.md) — 2024-12-31
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
