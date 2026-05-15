@@ -343,6 +343,7 @@
 - [AniDoc：将动画草图高效转化为高保真上色作品的工具指南](./AI工具教程/anidoc-animation-sketch-to-high-fidelity-coloring-guide.md) — 2025-01-18
 - [2025年免费AI工具汇总：按功能分类及获取渠道指南](./AI工具教程/free-ai-tools-list-2025.md) — 2025-01-17
 - [XiaoZhi AI：基于开源生态的 AI 语音硬件开发框架](./AI工具教程/xiaozhi-ai-open-source-voice-hardware-framework.md) — 2025-01-17
+- [Agents Marketplace 资源指南：支持多场景部署的 AI Agent 库获取与配置要点](./AI工具教程/agents-marketplace-resource-guide.md) — 2025-01-16
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
