@@ -1344,6 +1344,7 @@
 - [安知鱼 Hexo 主题详解：兼顾极简美学的 AI 文章摘要方案](./创意工具/anzhiyu-hexo-theme-ai-summary.md) — 2025-01-14
 - [使用 dnd-resume 快速生成在线简历的操作指南](./创意工具/dnd-resume-guide.md) — 2025-01-14
 - [开源简历生成工具猫步：从逻辑架构到高效出片的实操指南](./创意工具/maobu-open-source-resume-generator-guide.md) — 2025-01-13
+- [利用 Pandas 分析全球男性生殖器尺寸数据的实操指南](./创意工具/pandas-guide-global-male-genital-size-analysis.md) — 2025-01-12
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
