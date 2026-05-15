@@ -2509,6 +2509,7 @@
 - [全方位解析《中国民间故事集成》23册套装：内容体系与学术价值](./实战指南/chinese-folk-tales-collection-review.md) — 2025-01-04
 - [金牌运营型主播实战指南：从底层逻辑到全流程闭环的从零进阶路径](./实战指南/gold-standard-livestreamer-operational-guide.md) — 2025-01-04
 - [C++设计模式视频教程：涵盖理论与实战案例，适用于架构进阶学习](./实战指南/cpp-design-patterns-video-course.md) — 2025-01-04
+- [抖音本地生活实操指南：从流量获取到门店转化的全链路增长方案](./实战指南/douyin-local-life-growth-guide.md) — 2025-01-03
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
