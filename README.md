@@ -2267,6 +2267,7 @@
 - [B站内容运营实操指南：从起号到增长的执行路径](./实战指南/bilibili-content-operation-guide.md) — 2025-02-05
 - [手机摄影进阶指南：从视觉构图到光影处理的实操技巧](./实战指南/mobile-photography-advanced-guide.md) — 2025-02-04
 - [想在抖音商城快速起号开店却不知从何入手？这份2025年最新抖店运营全流程指南帮你快速扫盲](./实战指南/tiktok-shop-operation-guide-2025.md) — 2025-02-04
+- [小红书电商起步指南：从开店实操到全流程运营精通](./实战指南/xiaohongshu-ecommerce-guide.md) — 2025-02-04
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
