@@ -345,6 +345,7 @@
 - [XiaoZhi AI：基于开源生态的 AI 语音硬件开发框架](./AI工具教程/xiaozhi-ai-open-source-voice-hardware-framework.md) — 2025-01-17
 - [Agents Marketplace 资源指南：支持多场景部署的 AI Agent 库获取与配置要点](./AI工具教程/agents-marketplace-resource-guide.md) — 2025-01-16
 - [GE Chat：无需限制地调用 GPT-4o-mini 模型的免费公益平台](./AI工具教程/ge-chat-free-gpt-4o-mini-platform.md) — 2025-01-13
+- [叮当好记：高效实现音视频转录与内容摘要的AI工具](./AI工具教程/dingdang-ai-transcription-summary-tool.md) — 2025-01-13
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
