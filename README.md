@@ -1389,6 +1389,7 @@
 - [Free Fireworks：无需安装的在线虚拟烟花模拟工具](./创意工具/free-fireworks-online-simulator.md) — 2024-12-31
 - [打造极简黑白风：Notion 风格头像在线生成指南](./创意工具/notion-style-avatar-generator-guide.md) — 2024-12-31
 - [可灵AI灵感学院：官方免费课程获取路径及实操指南](./创意工具/kling-ai-inspiration-academy-guide.md) — 2024-12-31
+- [Language Tools Directory：高效语言学习工具的综合检索指南](./创意工具/language-tools-directory.md) — 2024-12-31
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
