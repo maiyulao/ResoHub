@@ -1311,6 +1311,7 @@
 - [恋爱沟通实操指南：掌握高效聊天模板，快速建立深度情感连接](./大人学习课程/dating-communication-guide-chat-templates.md) — 2025-02-01
 - [想找可可西yyy的学习资源？这份完整资料清单帮你快速上手](./大人学习课程/cocoa-west-learning-resources-guide.md) — 2025-01-31
 - [约会时总担心冷场或没话题？这份恋爱实操指南帮你掌握社交节奏](./大人学习课程/dating-conversation-guide-social-skills.md) — 2025-01-31
+- [面对闹婚乱象该如何应对？通过这些典型案例分析学习避坑指南](./大人学习课程/how-to-deal-with-naohun-cases-guide.md) — 2025-01-30
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
