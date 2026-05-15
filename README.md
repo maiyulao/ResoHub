@@ -1407,6 +1407,7 @@
 - [情感咨询师实战进阶课：从零构建月入5万+的副业盈利体系](./大人学习课程/emotional-consultant-advanced-course-profit-system.md) — 2025-01-16
 - [男性思维拆解：李坤、姚式瑾、邹顺顺教你高效沟通与情感经营](./大人学习课程/male-thinking-communication-emotional-management.md) — 2025-01-14
 - [周梵：深度解析寻找灵魂伴侣的逻辑与实践路径](./大人学习课程/zhou-fan-finding-soulmate-logic-practice.md) — 2025-01-12
+- [男性AI辅助延时指南：核心发力技巧与实操要点](./大人学习课程/mens-ai-delay-guide-techniques.md) — 2025-01-09
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
