@@ -1265,6 +1265,7 @@
 - [Cool Guides：通过可视化交互拆解复杂原理，让知识习得变得直观高效](./创意工具/cool-guides-visual-interactive-learning.md) — 2025-01-31
 - [想找无需付费且支持中英双语的漫画阅读站？试试 G社漫畫](./创意工具/free-bilingual-manga-reader-g-manga.md) — 2025-01-31
 - [使用 MinuteTimers 在线计时器的操作指南：从快速启动到自定义设置](./创意工具/minutetimers-online-timer-guide.md) — 2025-01-31
+- [零基础钢琴入门指南：利用免费在线模拟器快速上手，从基础指法到曲目练习全流程解析](./创意工具/beginner-piano-guide-free-online-simulator.md) — 2025-01-31
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
