@@ -2489,6 +2489,7 @@
 - [构建强大内心的30个心理实践步骤](./实战指南/30-steps-to-build-mental-strength.md) — 2025-01-07
 - [从工具链到能力集：清单式技能课程的效率重构](./实战指南/toolchain-to-capability-skill-course-efficiency.md) — 2025-01-06
 - [AI训练师进阶指南：从零起步到商业化变现的操作流程](./实战指南/ai-trainer-guide-to-monetization.md) — 2025-01-06
+- [想用 AI 提升效率却不知从何下手？这份零基础实操指南帮你快速落地](./实战指南/ai-efficiency-guide-for-beginners.md) — 2025-01-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
