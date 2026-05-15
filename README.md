@@ -600,6 +600,7 @@
 - [Fluent M3U8：支持多平台的 m3u8 视频下载工具](./Mac软件/fluent-m3u8-video-downloader.md) — 2025-02-14
 - [ChatWise 性能评测：响应速度位居 AI 聊天机器人前列](./Mac软件/chatwise-performance-benchmark-response-speed.md) — 2025-02-11
 - [想在同一个界面调用不同厂商的 AI 模型？试试支持多服务商集成的 Cherry Studio](./Mac软件/cherry-studio-multi-ai-model-integration.md) — 2025-01-30
+- [OrbitRing 安装指南：适用于 macOS 的轻量级快速启动器配置与使用注意点](./Mac软件/orbitring-macos-installation-guide.md) — 2025-01-29
 
 ### Windows软件
 - [觉得 Win+V 记录太少且不够灵活？试试开源的本地剪贴板增强工具 ElegantClipboard](./Windows软件/elegant-clipboard-windows-clipboard-manager.md) — 2026-05-11
