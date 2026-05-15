@@ -354,6 +354,7 @@
 - [MiniPerplx 实测：轻量化 AI 搜索的效率与体验分析](./AI工具教程/miniperplx-review-efficiency-experience.md) — 2025-01-08
 - [VidPic：支持浏览器直接运行的免费图片转视频工具及使用指南](./AI工具教程/vidpic-free-image-to-video-tool-guide.md) — 2025-01-07
 - [高效能 AI 助手对比：Chat01 如何成为 ChatGPT Pro 的替代方案](./AI工具教程/chat01-vs-chatgpt-pro-alternative.md) — 2025-01-06
+- [SmartExcel：通过自然语言快速构建复杂 Excel 公式，将需求直接转化为可执行指令](./AI工具教程/smartexcel-natural-language-to-excel-formulas.md) — 2025-01-04
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
