@@ -1358,6 +1358,7 @@
 - [害怕社交场合没话题？试试用泡学思维打破僵局并快速建立连接](./大人学习课程/social-conversation-tips-bubble-theory.md) — 2025-01-29
 - [恋爱关系进阶指南：从情感认知到实操技巧的训练步骤](./大人学习课程/relationship-growth-guide-skills-training.md) — 2025-01-26
 - [阿朱微密圈知识库：核心学习资料汇总与分级获取指南](./大人学习课程/azhu-mik-circle-knowledge-base-guide.md) — 2025-01-23
+- [如何通过《校长恋爱VIP 4.0》提升抖音社交实操能力：分步指南](./大人学习课程/improve-douyin-social-skills-principal-love-vip-4-guide.md) — 2025-01-20
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
