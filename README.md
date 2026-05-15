@@ -324,6 +324,7 @@
 - [GenSFX 使用指南：通过 AI 免费在线生成定制音效](./AI工具教程/gensfx-ai-free-online-sound-effects-guide.md) — 2025-02-05
 - [GenColor AI：高效将草图转化为专业线稿的免费工具](./AI工具教程/gencolor-ai-sketch-to-lineart-free-tool.md) — 2025-02-04
 - [写不出高质量文案或效率低下？尝试用笔灵AI构建全场景写作工作流](./AI工具教程/build-writing-workflow-with-biling-ai.md) — 2025-02-02
+- [Tattooer AI 纹身设计工具：支持创意草图生成及风格定制指南](./AI工具教程/tattooer-ai-tattoo-design-tool-guide.md) — 2025-02-02
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
