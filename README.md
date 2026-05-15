@@ -2363,6 +2363,7 @@
 - [视频号从零起步：全链路实操指南与运营体系构建](./实战指南/video-channel-operation-guide.md) — 2025-01-24
 - [摆脱低谷期的5套认知模型：通过重塑思维逻辑，实现人生状态的快速反弹](./实战指南/5-cognitive-models-to-overcome-low-points.md) — 2025-01-23
 - [想突破设计僵局却没灵感？尝试用这套国际顶尖PS创意课程重塑视觉思维](./实战指南/breakthrough-ps-creative-design-course.md) — 2025-01-23
+- [创业公司融资实操指南：从渠道寻找至资金到账的6个关键步骤](./实战指南/startup-fundraising-guide-6-steps.md) — 2025-01-23
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
