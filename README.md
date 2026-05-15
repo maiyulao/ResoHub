@@ -2275,6 +2275,7 @@
 - [知识IP课程开发指南：从内容品质到高效变现的实操逻辑](./实战指南/knowledge-ip-course-development-guide.md) — 2025-02-03
 - [NESS健康管理体系：通过科学干预提升生命质量，涵盖饮食优化、运动处方与心理调适的实操指南](./实战指南/ness-health-management-system-guide.md) — 2025-02-03
 - [想通过自媒体打造个人IP却不知从何起步？这份101节音频课程带你突破平台限制，构建更高维度的个人影响力](./实战指南/personal-ip-building-audio-course.md) — 2025-02-03
+- [抖店全渠道流量获取方案：无需直播与短视频的纯货架带货实操指南](./实战指南/douyin-store-all-channel-traffic-guide.md) — 2025-02-02
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
