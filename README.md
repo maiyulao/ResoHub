@@ -2286,6 +2286,7 @@
 - [AI 视觉商业化实战：从创作逻辑到变现场景的深度解析](./实战指南/ai-vision-commercialization-guide.md) — 2025-02-02
 - [樊登《可复制的领导力》企业版14天线上训练营：资源获取与适用指南](./实战指南/fandeng-reproducible-leadership-training-guide.md) — 2025-02-01
 - [萌宠短视频全链路运营：从内容实操到好物带货的进阶指南](./实战指南/pet-short-video-marketing-guide.md) — 2025-02-01
+- [短视频账号从0到1起号与创作运营全流程实操指南](./实战指南/short-video-account-growth-guide.md) — 2025-02-01
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
