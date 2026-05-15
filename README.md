@@ -2429,6 +2429,7 @@
 - [从构图到出片：风光摄影全流程实操指南](./实战指南/landscape-photography-complete-guide.md) — 2025-01-16
 - [哈佛高效学习法实操指南：15天习惯养成计划与认知升级路径](./实战指南/harvard-efficient-learning-guide-15day-plan.md) — 2025-01-16
 - [小红书IP商业化变现指南：从账号打造到店铺运营的实操步骤](./实战指南/xiaohongshu-ip-monetization-guide-2.md) — 2025-01-15
+- [简七理财基金组合配置指南：从筛选到建仓的实操步骤](./实战指南/jian7-fund-portfolio-guide.md) — 2025-01-14
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
