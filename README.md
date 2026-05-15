@@ -1257,6 +1257,7 @@
 - [PDF.is 综合 PDF 处理平台：一站式解决转换、编辑与管理需求](./创意工具/pdf-is-all-in-one-pdf-solution.md) — 2025-02-02
 - [iQIYIs影院：高画质免费在线影视资源聚合平台](./创意工具/iqiyi-cinema-free-movie-platform.md) — 2025-02-02
 - [如何使用 GIF Maker Free 快速制作免费在线 GIF 动画](./创意工具/how-to-use-gif-maker-free-online.md) — 2025-02-02
+- [DigitalMarketings 数字营销工具库：通过精准工具链驱动产品规模化增长](./创意工具/digital-marketing-tools-for-growth.md) — 2025-02-02
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
