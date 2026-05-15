@@ -1306,6 +1306,7 @@
 - [2025年香港银行卡开户全流程指南：办理要点与避坑实操](./创意工具/hong-kong-bank-account-guide-2025.md) — 2025-01-22
 - [Faps资源站指南：高效获取OnlyFans与Patreon付费内容，打破内容付费壁垒](./创意工具/faps-guide-onlyfans-patreon-content.md) — 2025-01-22
 - [如何快速核对原研药清单？Medicinex 常用药物目录查询指南](./创意工具/medicinex-drug-list-lookup-guide.md) — 2025-01-22
+- [高效开发与办公助手：Hamster Tools 免费在线工具集深度解析](./创意工具/hamster-tools-free-online-toolkit-review.md) — 2025-01-22
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
