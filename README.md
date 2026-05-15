@@ -2457,6 +2457,7 @@
 - [小红书个人IP打造：从0到1的60天实操进阶指南](./实战指南/xiaohongshu-personal-ip-guide.md) — 2025-01-12
 - [抖音招商团长业务实战指南：从获客渠道到运营转化全流程解析](./实战指南/douyin-merchant-leader-guide.md) — 2025-01-12
 - [解析断桥理论：通过切断情感依赖重建吸引力，实现关系修复的心理机制](./实战指南/bridge-theory-relationship-repair-psychology.md) — 2025-01-11
+- [提升企业宣传片质感的实操指南：从拍摄思维到影视级呈现的五个关键步骤](./实战指南/corporate-video-production-guide.md) — 2025-01-11
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
