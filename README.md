@@ -1248,6 +1248,7 @@
 - [Papergames.io：无需下载的在线益智游戏集，支持多浏览器环境访问](./创意工具/papergames-online-puzzle-games.md) — 2025-02-06
 - [一刻电影资源评测：高清电影BT下载站的使用体验与资源质量分析](./创意工具/yike-movie-review-bt-download-quality.md) — 2025-02-06
 - [Redian：支持摸鱼模式的全网热点信息聚合工具](./创意工具/redian-hot-info-aggregator.md) — 2025-02-06
+- [如何使用音客英语进行高效听抄训练：操作全流程指南](./创意工具/ink-english-dictation-guide.md) — 2025-02-05
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
