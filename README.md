@@ -2423,6 +2423,7 @@
 - [解构日杂风影像：摄影师小蔡一壹的视觉语言与作品分析](./实战指南/japanese-magazine-style-photography-analysis-cai-yiyi.md) — 2025-01-16
 - [GPT商业变现实操指南：从提示词构建到自动化收益获取流程](./实战指南/gpt-monetization-guide-prompt-to-automation.md) — 2025-01-16
 - [从构图到出片：风光摄影全流程实操指南](./实战指南/landscape-photography-complete-guide.md) — 2025-01-16
+- [哈佛高效学习法实操指南：15天习惯养成计划与认知升级路径](./实战指南/harvard-efficient-learning-guide-15day-plan.md) — 2025-01-16
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
