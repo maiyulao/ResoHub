@@ -727,6 +727,7 @@
 - [JOYKEYS现代键盘教学法：通过系统化逻辑重构指法，提升成人与儿童的演奏效率](./兴趣爱好/joykeys-modern-keyboard-teaching-method.md) — 2025-01-29
 - [ZBrush 角色建模全流程：从基础操作到高阶精修的进阶指南](./兴趣爱好/zbrush-character-modeling-complete-guide.md) — 2025-01-28
 - [Miaa 视觉情绪引导与氛围构建实操指南](./兴趣爱好/miaa-visual-emotion-and-atmosphere-guide.md) — 2025-01-26
+- [零基础学习陶笛：从入门到精通的完整实操指南](./兴趣爱好/learn-ocarina-complete-guide.md) — 2025-01-24
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
