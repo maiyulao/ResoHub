@@ -1276,6 +1276,7 @@
 - [XML Sitemap Generator：支持自定义配置的免费站点地图生成工具及部署指南](./创意工具/free-xml-sitemap-generator-guide.md) — 2025-01-29
 - [钵钵鸡图标库：面向商业设计的免费专业矢量素材资源指南](./创意工具/bobojichicken-icon-library-vector-resources.md) — 2025-01-29
 - [SaveTik Co：高效去除 TikTok 视频水印的下载指南](./创意工具/savetik-tiktok-watermark-remover-guide.md) — 2025-01-28
+- [淘趣工坊：一键生成高品质壁纸样机，让设计快速实现商业级视觉呈现](./创意工具/taoqu-workshop-wallpaper-mockup-generator.md) — 2025-01-28
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
