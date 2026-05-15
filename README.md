@@ -322,6 +322,7 @@
 - [悟空AI音效免费下载：适用场景及配置部署指南](./AI工具教程/wukong-ai-sfx-free-download-guide.md) — 2025-02-06
 - [想尝试AI生成动态脱衣效果？详解BraunclothBot的操作流程与实现原理](./AI工具教程/braunclothbot-tutorial-and-principles.md) — 2025-02-05
 - [GenSFX 使用指南：通过 AI 免费在线生成定制音效](./AI工具教程/gensfx-ai-free-online-sound-effects-guide.md) — 2025-02-05
+- [GenColor AI：高效将草图转化为专业线稿的免费工具](./AI工具教程/gencolor-ai-sketch-to-lineart-free-tool.md) — 2025-02-04
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
