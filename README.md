@@ -2431,6 +2431,7 @@
 - [小红书IP商业化变现指南：从账号打造到店铺运营的实操步骤](./实战指南/xiaohongshu-ip-monetization-guide-2.md) — 2025-01-15
 - [简七理财基金组合配置指南：从筛选到建仓的实操步骤](./实战指南/jian7-fund-portfolio-guide.md) — 2025-01-14
 - [粥左罗《成为时间管理高手》课程资源：适用人群、获取途径及学习要点说明](./实战指南/zhou-zuoluo-time-management-course-resources.md) — 2025-01-14
+- [以《道德经》为基石的极简生存哲学与低熵生活实践](./实战指南/taoist-minimalism-low-entropy-living.md) — 2025-01-14
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
