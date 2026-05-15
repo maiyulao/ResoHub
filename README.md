@@ -2392,6 +2392,7 @@
 - [面对财务尽调时不知从何下手？详解从基础逻辑到实操落地的全流程](./实战指南/financial-due-diligence-guide.md) — 2025-01-19
 - [财富增值逻辑拆解：韩秀云教授解析核心经济学原理](./实战指南/wealth-growth-logic-prof-han-xiuyun.md) — 2025-01-19
 - [面对复杂的商业决策不知从何下手？教你用数据分析方法拆解并解决实际问题](./实战指南/data-analysis-for-business-decision-making.md) — 2025-01-18
+- [高频实用搞笑转场素材库：提升视频节奏感与反差效果](./实战指南/funny-video-transition-assets-library.md) — 2025-01-18
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
