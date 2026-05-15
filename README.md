@@ -332,6 +332,7 @@
 - [想让AI说话像真人一样自然？尝试用 AnyVoice 实现高保真声音克隆](./AI工具教程/anyvoice-natural-ai-voice-cloning.md) — 2025-01-28
 - [AI 智能对联创作工具：实现联网实时生成的在线对联生成器](./AI工具教程/ai-couplet-generator-2.md) — 2025-01-27
 - [LearnGerman AI：支持口语实时反馈的免费德语在线学习工具及使用指南](./AI工具教程/learngerman-ai-free-german-learning-tool-guide.md) — 2025-01-26
+- [深度解析 Kokoro TTS：高性能 AI 语音合成的实现与应用实践](./AI工具教程/kokoro-tts-deep-dive-implementation-and-practice.md) — 2025-01-26
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
