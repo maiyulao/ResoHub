@@ -1347,6 +1347,7 @@
 - [面对闹婚乱象该如何应对？通过这些典型案例分析学习避坑指南](./大人学习课程/how-to-deal-with-naohun-cases-guide.md) — 2025-01-30
 - [害怕社交场合没话题？试试用泡学思维打破僵局并快速建立连接](./大人学习课程/social-conversation-tips-bubble-theory.md) — 2025-01-29
 - [恋爱关系进阶指南：从情感认知到实操技巧的训练步骤](./大人学习课程/relationship-growth-guide-skills-training.md) — 2025-01-26
+- [阿朱微密圈知识库：核心学习资料汇总与分级获取指南](./大人学习课程/azhu-mik-circle-knowledge-base-guide.md) — 2025-01-23
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
