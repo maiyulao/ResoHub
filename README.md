@@ -2302,6 +2302,7 @@
 - [耶鲁大学全学科公开课资源指南：课程体系与学习路径解析](./实战指南/yale-university-open-courses-guide.md) — 2025-01-31
 - [AI 驱动的表格自动化指南：Excel 与 WPS 快速出表实操技巧](./实战指南/ai-powered-spreadsheet-automation-guide.md) — 2025-01-31
 - [准备参加2025年6月英语六级考试？这份全程班课程方案帮你规划复习路径](./实战指南/cet-6-exam-june-2025-study-plan.md) — 2025-01-30
+- [DeepSeek 高效实操指南：从提示词优化到复杂任务拆解的进阶技巧](./实战指南/deepseek-advanced-guide-prompt-optimization-task-decomposition.md) — 2025-01-30
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
