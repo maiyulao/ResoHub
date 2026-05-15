@@ -744,6 +744,7 @@
 - [零基础学习陶笛：从入门到精通的完整实操指南](./兴趣爱好/learn-ocarina-complete-guide.md) — 2025-01-24
 - [2024无语魔女头像设计课程：教学资源下载及实操环境指南](./兴趣爱好/2024-muyu-witch-avatar-design-course.md) — 2025-01-24
 - [健身博主直播起步指南：从设备搭建到流量转化的实操流程](./兴趣爱好/fitness-livestreaming-guide-setup-to-conversion.md) — 2025-01-24
+- [网文签约实操指南：从系统写作到高效投稿的过稿全流程](./兴趣爱好/web-novel-contract-guide-workflow.md) — 2025-01-16
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
