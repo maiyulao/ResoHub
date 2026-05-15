@@ -1392,6 +1392,7 @@
 - [男性持久力进阶指南：通过系统化训练突破时间瓶颈，掌握核心控精技巧](./大人学习课程/mens-stamina-training-guide.md) — 2025-01-18
 - [高阶情感诱导指南：心理学层面的亲密关系掌控技巧](./大人学习课程/advanced-emotional-induction-psychology-intimacy-control.md) — 2025-01-16
 - [情感咨询师实战进阶课：从零构建月入5万+的副业盈利体系](./大人学习课程/emotional-consultant-advanced-course-profit-system.md) — 2025-01-16
+- [男性思维拆解：李坤、姚式瑾、邹顺顺教你高效沟通与情感经营](./大人学习课程/male-thinking-communication-emotional-management.md) — 2025-01-14
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
