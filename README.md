@@ -2480,6 +2480,7 @@
 - [从文档研读到结构化实操：高效AI提示词（Prompt）进阶指南](./实战指南/ai-prompt-engineering-guide.md) — 2025-01-08
 - [习惯性记账却看不懂资金流向？尝试用35天重建你的财务逻辑体系](./实战指南/rebuild-financial-logic-35-days.md) — 2025-01-08
 - [外贸实操指南：ChatGPT 提升业务效率的 30 个具体应用场景](./实战指南/chatgpt-foreign-trade-efficiency-scenarios.md) — 2025-01-08
+- [小红书流量变现实操指南：通过23节视频课构建知识IP，实现从内容创作到商业转化的闭环](./实战指南/xiaohongshu-monetization-guide-knowledge-ip.md) — 2025-01-07
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
