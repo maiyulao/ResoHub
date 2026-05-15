@@ -2522,6 +2522,7 @@
 - [科学销售系统大课（尝鲜版）：针对销售需求挖掘痛点的实操指南与资源获取](./实战指南/scientific-sales-system-needs-discovery-guide.md) — 2025-01-02
 - [成年人成长进阶指南：四册合订版阅读与实践步骤](./实战指南/adult-growth-guide-reading-and-practice.md) — 2025-01-02
 - [AI短视频全流程实操资源包：涵盖文/图/视生成方案及部署环境说明](./实战指南/ai-short-video-workflow-resource-kit.md) — 2025-01-01
+- [2024-2025 全平台跨年晚会观看指南与节目汇总](./实战指南/new-year-gala-guide-2025.md) — 2025-01-01
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
