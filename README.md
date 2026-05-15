@@ -2380,6 +2380,7 @@
 - [想在小红书开店却不知如何起步？7天实操指南带你从零搭建店铺并跑通变现链路](./实战指南/xiaohongshu-shop-startup-guide.md) — 2025-01-21
 - [UI设计全能实战教程：从基础理论到进阶项目的学习路径与资源指南](./实战指南/ui-design-complete-guide-learning-path.md) — 2025-01-21
 - [《觉醒之旅》短视频文案模型：基于生活小事的社会价值写作指南与实操模板](./实战指南/awakening-journey-short-video-copywriting-guide.md) — 2025-01-21
+- [iOS类今日头条App全流程开发指南：从环境搭建到功能实现实操教程](./实战指南/ios-toutiao-app-development-guide.md) — 2025-01-20
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
