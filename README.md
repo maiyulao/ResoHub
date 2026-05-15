@@ -1364,6 +1364,7 @@
 - [高效解析图片元数据：Online EXIF Viewer 在线查看与分析 EXIF 信息](./创意工具/online-exif-viewer-analyze-image-metadata.md) — 2025-01-08
 - [互联网大厂薪酬体系解析：通过职级对标提升薪酬透明度](./创意工具/big-tech-salary-system-transparency.md) — 2025-01-06
 - [ReadMedium：利用 AI 突破 Medium 付费墙的阅读指南](./创意工具/readmedium-ai-medium-paywall-guide.md) — 2025-01-06
+- [200篇天涯社区经典神贴集锦：深度复刻互联网早期的社会洞察与叙事巅峰](./创意工具/tianya-classic-threads-collection.md) — 2025-01-05
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
