@@ -728,6 +728,7 @@
 - [ZBrush 角色建模全流程：从基础操作到高阶精修的进阶指南](./兴趣爱好/zbrush-character-modeling-complete-guide.md) — 2025-01-28
 - [Miaa 视觉情绪引导与氛围构建实操指南](./兴趣爱好/miaa-visual-emotion-and-atmosphere-guide.md) — 2025-01-26
 - [零基础学习陶笛：从入门到精通的完整实操指南](./兴趣爱好/learn-ocarina-complete-guide.md) — 2025-01-24
+- [2024无语魔女头像设计课程：教学资源下载及实操环境指南](./兴趣爱好/2024-muyu-witch-avatar-design-course.md) — 2025-01-24
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
