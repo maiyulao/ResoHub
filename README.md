@@ -2388,6 +2388,7 @@
 - [科学饮食指南：从营养逻辑到健康习惯的二十一课实践](./实战指南/scientific-diet-guide-nutrition-and-habits.md) — 2025-01-20
 - [国学内容创业全流程实战指南：从起步到高复购变现的执行路径](./实战指南/sinology-content-entrepreneurship-guide.md) — 2025-01-19
 - [抖店从零到一全链路实操指南：可量化的运营增长模型与落地路径](./实战指南/douyin-shop-growth-guide.md) — 2025-01-19
+- [面对财务尽调时不知从何下手？详解从基础逻辑到实操落地的全流程](./实战指南/financial-due-diligence-guide.md) — 2025-01-19
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
