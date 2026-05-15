@@ -752,6 +752,7 @@
 - [健身博主直播起步指南：从设备搭建到流量转化的实操流程](./兴趣爱好/fitness-livestreaming-guide-setup-to-conversion.md) — 2025-01-24
 - [网文签约实操指南：从系统写作到高效投稿的过稿全流程](./兴趣爱好/web-novel-contract-guide-workflow.md) — 2025-01-16
 - [深度记忆与高效学习实操指南](./兴趣爱好/deep-memory-efficient-learning-guide.md) — 2025-01-11
+- [仇泽流行音乐作曲：从零起步的入门教学指南](./兴趣爱好/qiu-ze-pop-music-composition-guide.md) — 2025-01-10
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
