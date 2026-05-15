@@ -531,6 +531,7 @@
 - [如何使用 TubeTube 基于 yt-dlp 下载 YouTube 视频：操作指南](./GitHub项目/tubetube-yt-dlp-youtube-download-guide.md) — 2025-01-27
 - [想要在不牺牲功能的前提下保障隐私？试试这款开源安全工具 Privacy sexy](./GitHub项目/privacy-sexy-open-source-security-tool.md) — 2025-01-08
 - [LibreTranslate：构建私有化部署的开源机器翻译服务方案](./GitHub项目/libretranslate-self-hosted-open-source-translation-solution.md) — 2025-01-07
+- [Embykeeper 自动化签到脚本：支持多服务器保号配置与部署指南](./GitHub项目/embykeeper-automation-sign-in-guide.md) — 2025-01-05
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
