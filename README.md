@@ -1325,6 +1325,7 @@
 - [Z-Library 官网进不去或地址失效？这里有可长期追踪的最新镜像入口](./创意工具/z-library-latest-mirror-links.md) — 2025-01-17
 - [Library Genesis (LibGen) 指南：免费学术文献与电子书检索实操](./创意工具/library-genesis-libgen-guide.md) — 2025-01-17
 - [爱去小说网：支持TXT格式电子书免费下载及设备兼容说明](./创意工具/aiqu-novel-free-txt-download-compatibility.md) — 2025-01-16
+- [iOS Delta 模拟器游戏 ROM 资源下载指南与镜像站汇总](./创意工具/ios-delta-emulator-roms-download-guide.md) — 2025-01-16
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
