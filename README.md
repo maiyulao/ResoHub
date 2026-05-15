@@ -1304,6 +1304,7 @@
 - [小红书AI内容创作助手：通过智能化模版快速生成高点击率种草笔记，实现零成本高效出片](./创意工具/xiaohongshu-ai-content-creator-templates.md) — 2025-01-24
 - [2025年香港银行卡开户全流程指南：办理要点与避坑实操](./创意工具/hong-kong-bank-account-guide-2025.md) — 2025-01-22
 - [Faps资源站指南：高效获取OnlyFans与Patreon付费内容，打破内容付费壁垒](./创意工具/faps-guide-onlyfans-patreon-content.md) — 2025-01-22
+- [如何快速核对原研药清单？Medicinex 常用药物目录查询指南](./创意工具/medicinex-drug-list-lookup-guide.md) — 2025-01-22
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
