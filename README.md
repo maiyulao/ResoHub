@@ -2367,6 +2367,7 @@
 - [商业实战40讲：深度解析2025年商业逻辑与增长策略（视频课程）](./实战指南/business-logic-growth-strategies-2025.md) — 2025-01-23
 - [高效 AI 写作指南：从基础指令到高质量内容产出](./实战指南/ai-writing-guide-high-quality-content.md) — 2025-01-22
 - [跨境电商全流程实操指南：从零构建业务闭环，分阶段掌握出海核心链路](./实战指南/cross-border-ecommerce-operational-guide.md) — 2025-01-22
+- [如何像顶级管理专家那样掌控团队？拆解马云认可的管理实战技巧](./实战指南/master-team-management-jack-ma-tips.md) — 2025-01-22
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
