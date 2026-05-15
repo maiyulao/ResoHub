@@ -2461,6 +2461,7 @@
 - [抖音SEO实操指南：从入门到进阶的运营课程获取与学习要点](./实战指南/douyin-seo-guide-course.md) — 2025-01-11
 - [手机自拍进阶指南：核心功能详解与拍摄技巧](./实战指南/smartphone-selfie-guide-tips.md) — 2025-01-11
 - [视频号中老年带货实操：从精准引流到单场数百单的转化步骤](./实战指南/video-channel-elderly-ecommerce-guide.md) — 2025-01-10
+- [进阶级PPT视觉设计指南：实操技巧与模版获取途径](./实战指南/advanced-ppt-visual-design-guide.md) — 2025-01-10
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
