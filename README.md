@@ -1378,6 +1378,7 @@
 - [聚合搜：多平台网盘资源的一站式聚合检索工具](./创意工具/juhesou-cloud-disk-search-tool.md) — 2025-01-04
 - [使用 Trends24 实时追踪 X (Twitter) 全球热搜标签的 3 个步骤](./创意工具/track-x-twitter-trending-hashtags-trends24.md) — 2025-01-04
 - [eroBanXia 免费成人游戏资源库：下载指南与运行环境配置](./创意工具/erobanxia-adult-games-download-guide-setup.md) — 2025-01-01
+- [PDF 仿真扫描效果实现方案：将电子文档转化为扫描件质感](./创意工具/pdf-simulated-scan-effect-solution.md) — 2025-01-01
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
