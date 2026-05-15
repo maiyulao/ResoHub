@@ -2460,6 +2460,7 @@
 - [提升企业宣传片质感的实操指南：从拍摄思维到影视级呈现的五个关键步骤](./实战指南/corporate-video-production-guide.md) — 2025-01-11
 - [抖音SEO实操指南：从入门到进阶的运营课程获取与学习要点](./实战指南/douyin-seo-guide-course.md) — 2025-01-11
 - [手机自拍进阶指南：核心功能详解与拍摄技巧](./实战指南/smartphone-selfie-guide-tips.md) — 2025-01-11
+- [视频号中老年带货实操：从精准引流到单场数百单的转化步骤](./实战指南/video-channel-elderly-ecommerce-guide.md) — 2025-01-10
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
