@@ -2314,6 +2314,7 @@
 - [DeepSeek 高效实操指南：从提示词优化到复杂任务拆解的进阶技巧](./实战指南/deepseek-advanced-guide-prompt-optimization-task-decomposition.md) — 2025-01-30
 - [培训机构同城获客指南：从账号矩阵搭建至直播体验课转化](./实战指南/local-customer-acquisition-guide-for-training-centers.md) — 2025-01-29
 - [Temu跨境电商实操指南：从店铺开店到出单的全流程链路](./实战指南/temu-ecommerce-guide-setup-to-sales.md) — 2025-01-29
+- [2025年卫视春晚全集索引及央视历年春晚回顾指南](./实战指南/2025-spring-festival-gala-index-and-cctv-review-guide.md) — 2025-01-29
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
