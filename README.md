@@ -2442,6 +2442,7 @@
 - [Snow人像厚涂进阶实战：从设计逻辑到绘画技法](./实战指南/snow-portrait-digital-painting-tutorial.md) — 2025-01-14
 - [如何高效链接高价值人脉：从认知到实操的晋级指南](./实战指南/how-to-build-high-value-connections.md) — 2025-01-14
 - [亚马逊广告高阶实操指南：每日10分钟进阶方案与实战要点解析](./实战指南/amazon-ads-advanced-guide-daily-optimization.md) — 2025-01-13
+- [29节即兴表达实战课：职场沟通技巧训练与应用指南](./实战指南/29-lessons-improvisational-communication-skills-guide.md) — 2025-01-13
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
