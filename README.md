@@ -1317,6 +1317,7 @@
 - [通过 MP4ba 免费下载高清电影的完整操作指南](./创意工具/mp4ba-free-hd-movie-download-guide.md) — 2025-01-21
 - [国际IQ智商在线测评操作指南：从注册到获取报告的完整步骤](./创意工具/international-iq-test-guide.md) — 2025-01-20
 - [注视影视：无需注册的在线观影资源站（适用浏览器直接访问）](./创意工具/zhushi-movie-online-free.md) — 2025-01-19
+- [想把微信聊天记录备份并生成年度数据报告？试试开源工具 OhMyWeChat](./创意工具/ohmywechat-weixin-chat-backup-report.md) — 2025-01-17
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
