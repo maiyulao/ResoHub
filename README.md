@@ -673,6 +673,7 @@
 - [WeChatMsg：将微信聊天记录导出为结构化文档，支持定制化年度社交分析报告](./Windows软件/wechatmsg-export-chat-history-social-analysis-report.md) — 2025-03-04
 - [WeClipper 剪贴板助手：2.6MB 免安装轻量版，支持光标智能跟随同步](./Windows软件/weclipper-lightweight-clipboard-manager.md) — 2025-03-01
 - [Video2X 实操指南：利用机器学习实现视频超分辨率重建与帧率补偿](./Windows软件/video2x-guide-machine-learning-upscaling-interpolation.md) — 2025-02-10
+- [12306Bypass v1.16.45：高铁分流抢票软件功能解析与使用指南](./Windows软件/12306bypass-v1-16-45-guide.md) — 2025-01-16
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
