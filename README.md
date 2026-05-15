@@ -2437,6 +2437,7 @@
 - [粥左罗《成为时间管理高手》课程资源：适用人群、获取途径及学习要点说明](./实战指南/zhou-zuoluo-time-management-course-resources.md) — 2025-01-14
 - [以《道德经》为基石的极简生存哲学与低熵生活实践](./实战指南/taoist-minimalism-low-entropy-living.md) — 2025-01-14
 - [工薪族从0到30万资产积累的实操路径：分阶段执行指南](./实战指南/salary-earner-asset-accumulation-guide.md) — 2025-01-14
+- [黑马短视频实战训练营：38天全流程学习路径与资源获取指南](./实战指南/heima-short-video-training-guide.md) — 2025-01-14
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
