@@ -2706,6 +2706,7 @@
 - [总是担心谈判中被对方牵着走？通过这20个实操技巧，将输赢博弈转变为共赢方案](./实战指南/20-negotiation-tips-for-win-win-outcomes.md) — 2024-12-09
 - [婚礼摄影新手入门指南：从零开始的拍摄实操步骤](./实战指南/wedding-photography-beginner-guide.md) — 2024-12-08
 - [32套高情商沟通模型：适用场景分析与实操话术指南](./实战指南/32-high-eq-communication-models-guide.md) — 2024-12-08
+- [想在视频号通过直播课变现却不知如何起号？这份从0到1的带货实操方案为你拆解全流程](./实战指南/video-channel-livestream-monetization-guide.md) — 2024-12-08
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
