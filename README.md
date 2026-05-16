@@ -2803,6 +2803,7 @@
 - [抖音同城号引流实战指南：从账号搭建至实体店到店的完整操作流程](./实战指南/douyin-local-traffic-guide.md) — 2024-11-26
 - [Mike大学外贸入门教程：学习路径、资源获取与实操注意事项](./实战指南/mike-college-foreign-trade-guide.md) — 2024-11-26
 - [29GB 极高分辨率壁纸资源库：涵盖 4K 与 8K 超清画质合集](./实战指南/29gb-ultra-high-resolution-wallpapers-4k-8k.md) — 2024-11-26
+- [王建章摄影课实操指南：从初识到影像创作的进阶步骤](./实战指南/wang-jianzhang-photography-course-guide.md) — 2024-11-25
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
