@@ -2741,6 +2741,7 @@
 - [灰原丝滑运镜剪辑实战教程：理论解析与操作指南（含适用场景及注意事项）](./实战指南/haiyuan-smooth-camera-movement-tutorial.md) — 2024-12-05
 - [主流AI工具实操指南：从零到精通的技能进阶步骤清单](./实战指南/ai-tools-practical-guide-skill-roadmap.md) — 2024-12-05
 - [高效利用 GPT 自动化视频创作：从内容生成到中视频伙伴计划变现全流程](./实战指南/gpt-automated-video-creation-monetization-guide.md) — 2024-12-05
+- [Java 编程快速入门：从零基础到实战开发的全路径学习指南](./实战指南/java-programming-beginners-guide.md) — 2024-12-05
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
