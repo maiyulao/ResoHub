@@ -2682,6 +2682,7 @@
 - [Java并发编程实战：多线程核心机制与性能优化指南](./实战指南/java-concurrency-multithreading-performance-guide.md) — 2024-12-13
 - [快速掌握察言观色技巧：从微表情到行为分析的实操指南](./实战指南/master-social-cues-micro-expressions-behavior-analysis.md) — 2024-12-12
 - [想用 Python 快速上手数据采集？彭涛带你从零构建高效爬虫体系](./实战指南/python-data-collection-web-scraping-guide.md) — 2024-12-12
+- [名菜烹饪指南：100道经典菜品实操视频教程](./实战指南/classic-dishes-cooking-guide-videos.md) — 2024-12-11
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
