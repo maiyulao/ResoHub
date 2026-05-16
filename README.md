@@ -1545,6 +1545,7 @@
 - [黑五软件采购指南：从需求分析到高效下单的 5 个关键步骤](./创意工具/black-friday-software-buying-guide-5-steps.md) — 2024-11-24
 - [六色美图：无广告免费图片学习资源站](./创意工具/six-color-free-image-resources.md) — 2024-11-24
 - [如何利用 vCards CN 优化 iOS 与 Android 的来电及信息界面显示](./创意工具/optimize-ios-android-caller-id-with-vcards-cn.md) — 2024-11-24
+- [高效电子发票合并指南：在线排版与批量整合工具实操](./创意工具/electronic-invoice-merging-guide.md) — 2024-11-23
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
