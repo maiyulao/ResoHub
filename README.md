@@ -1452,6 +1452,7 @@
 - [基于 Goratings 数据的全球围棋棋手实时排名：评级机制解析与竞技强度分析](./创意工具/global-go-player-rankings-goratings-analysis.md) — 2024-12-18
 - [纯净中文成人文学库：收录 4.3 万篇无广告在线小说](./创意工具/chinese-adult-literature-library.md) — 2024-12-18
 - [如何使用 MECHKEYS 在线探索机械键盘历史档案：操作指南](./创意工具/mechkeys-mechanical-keyboard-archive-guide.md) — 2024-12-18
+- [想在 PC 上下载无 DRM 限制的 GOG 游戏？这里有获取免费完整版资源的可靠途径](./创意工具/download-drm-free-gog-games-pc.md) — 2024-12-17
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
