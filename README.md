@@ -1484,6 +1484,7 @@
 - [如何通过 MacVK 快速下载无会员、不限速的精品 Mac 软件：操作指南](./创意工具/macvk-fast-download-mac-software-guide.md) — 2024-12-11
 - [Ciallo TTS：高效文本转语音的免费在线方案，支持实时语音合成与多场景转换](./创意工具/ciallo-tts-free-online-text-to-speech.md) — 2024-12-11
 - [刷到心仪的短视频却无法保存原片？尝试用去多多免费去除小红书与抖音水印](./创意工具/remove-xiaohongshu-douyin-watermark-free.md) — 2024-12-10
+- [JaTra：日本教师教学视频预告片资源库](./创意工具/jatra-japan-teacher-video-trailers-library.md) — 2024-12-10
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
