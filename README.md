@@ -1449,6 +1449,7 @@
 - [IT远程求职导航：精选全球远程招聘平台，高效匹配开发与技术岗位](./创意工具/remote-it-jobs-platforms-guide.md) — 2024-12-19
 - [狗狗查：高效、精准的综合查询工具集](./创意工具/gogocha-comprehensive-search-tools.md) — 2024-12-18
 - [基于 Goratings 数据的全球围棋棋手实时排名：评级机制解析与竞技强度分析](./创意工具/global-go-player-rankings-goratings-analysis.md) — 2024-12-18
+- [纯净中文成人文学库：收录 4.3 万篇无广告在线小说](./创意工具/chinese-adult-literature-library.md) — 2024-12-18
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
