@@ -562,6 +562,7 @@
 - [视频转小红书笔记：高效生成高点击率图文内容的实用工具](./GitHub项目/video-to-xiaohongshu-notes-tools.md) — 2024-12-16
 - [Olares：构建私有云存储的开源自托管替代方案](./GitHub项目/olares-open-source-self-hosted-private-cloud-storage.md) — 2024-12-15
 - [解析 Sindre Sorhus 的开源哲学：如何打造高品质应用并维持全职开发状态](./GitHub项目/sindre-sorhus-open-source-philosophy.md) — 2024-12-15
+- [高效专注指南：White Noise Generator 在线白噪音工具使用详解](./GitHub项目/white-noise-generator-guide.md) — 2024-12-14
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
