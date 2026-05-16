@@ -1445,6 +1445,7 @@
 - [动态更新的进口原研药数据库：涵盖 400 余种核心药品目录](./创意工具/imported-innovative-drug-database.md) — 2024-12-21
 - [如何高效使用菟丝子资源社区检索磁力链接：分步操作指南](./创意工具/tusizi-community-magnet-search-guide.md) — 2024-12-20
 - [高效色彩管理：支持多格式转换的专业在线配色工具指南](./创意工具/professional-online-color-management-tool-guide.md) — 2024-12-20
+- [IT远程求职导航：精选全球远程招聘平台，高效匹配开发与技术岗位](./创意工具/remote-it-jobs-platforms-guide.md) — 2024-12-19
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
