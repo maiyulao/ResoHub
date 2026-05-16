@@ -2562,6 +2562,7 @@
 - [个人IP变现实战指南：通过体系化训练实现从零到百万博主的商业增长](./实战指南/personal-ip-monetization-guide.md) — 2024-12-29
 - [年会舞台背景怎么设计才出彩？这套2025新年主题海报模板帮你快速搞定](./实战指南/2025-annual-meeting-stage-design-templates.md) — 2024-12-28
 - [Word 生产力进阶：从基础操作到高效文档处理技巧](./实战指南/word-productivity-tips-guide.md) — 2024-12-28
+- [短视频爆款逻辑拆解：从内容策划到流量破圈的实操指南](./实战指南/short-video-viral-logic-guide.md) — 2024-12-27
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
