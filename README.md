@@ -668,6 +668,7 @@
 - [MagicMirror 实操指南：分步实现 AI 换脸、发型与穿搭定制](./Mac软件/magicmirror-ai-face-hair-outfit-guide.md) — 2024-12-29
 - [AigcPanel部署指南：从环境配置到实现视频合成与语音克隆的完整步骤](./Mac软件/aigcpanel-deployment-guide-video-synthesis-voice-cloning.md) — 2024-12-29
 - [Shortcat Mac版下载安装：通过全局命令面板实现全键盘操作 macOS 的配置指南](./Mac软件/shortcat-mac-download-install-guide.md) — 2024-12-27
+- [快速部署 Buzee 开源全文搜索应用的详细步骤](./Mac软件/deploy-buzee-open-source-full-text-search.md) — 2024-12-16
 
 ### Windows软件
 - [觉得 Win+V 记录太少且不够灵活？试试开源的本地剪贴板增强工具 ElegantClipboard](./Windows软件/elegant-clipboard-windows-clipboard-manager.md) — 2026-05-11
