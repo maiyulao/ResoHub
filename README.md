@@ -1561,6 +1561,7 @@
 - [17部下架短剧合集：完整资源获取及播放环境配置指南](./大人学习课程/17-removed-short-drama-collection-guide.md) — 2024-12-16
 - [铁牛《硬度改善与恢复课》课程资源：适用人群、获取途径及学习要点说明](./大人学习课程/tieniu-hardness-improvement-course-resources.md) — 2024-12-15
 - [想通过微信趣聊提升变现能力？揭秘“魔鬼咨询师”阮琦的实战陪跑逻辑](./大人学习课程/wechat-qu-liao-monstert-consultant-ruanqi-logic.md) — 2024-12-11
+- [正阳：构建亲密关系长期健康运行的实践指南](./大人学习课程/guide-to-healthy-long-term-intimate-relationships.md) — 2024-12-08
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
