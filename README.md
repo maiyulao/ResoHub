@@ -1440,6 +1440,7 @@
 - [识典古籍：集成AI解读能力的公益性古籍数字化阅读与检索平台](./创意工具/shidian-ancient-books-ai-platform.md) — 2024-12-21
 - [全国劳动法补偿金计算工具：支持多场景快速核算与数据校验](./创意工具/labor-law-compensation-calculator.md) — 2024-12-21
 - [动态更新的进口原研药数据库：涵盖 400 余种核心药品目录](./创意工具/imported-innovative-drug-database.md) — 2024-12-21
+- [如何高效使用菟丝子资源社区检索磁力链接：分步操作指南](./创意工具/tusizi-community-magnet-search-guide.md) — 2024-12-20
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
