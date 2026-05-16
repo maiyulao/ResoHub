@@ -1538,6 +1538,7 @@
 - [想听郭德纲的相声合集却找不到完整免费资源？这里有全集在线收听指南](./创意工具/guo-degang-xiangsheng-collection-free-guide.md) — 2024-11-28
 - [黑神话：悟空妖怪图鉴查询与收集全攻略：从解锁到完整攻略的实操步骤](./创意工具/black-myth-wukong-monster-guide-collection.md) — 2024-11-26
 - [Valorant 准星配置指南：代码数据库与自定义生成工具](./创意工具/valorant-crosshair-guide-codes-and-generator.md) — 2024-11-26
+- [KOTOMI RSS 使用指南：将 Anime 搜索结果转化为 RSS 订阅源的配置方法](./创意工具/kotomi-rss-guide-anime-search-to-rss.md) — 2024-11-25
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
