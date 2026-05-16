@@ -2690,6 +2690,7 @@
 - [想用 Python 快速上手数据采集？彭涛带你从零构建高效爬虫体系](./实战指南/python-data-collection-web-scraping-guide.md) — 2024-12-12
 - [名菜烹饪指南：100道经典菜品实操视频教程](./实战指南/classic-dishes-cooking-guide-videos.md) — 2024-12-11
 - [剪映全能实操指南：从特效运镜到高级转场，113节课详解视频创作进阶技巧](./实战指南/capcut-complete-guide-video-editing-skills.md) — 2024-12-11
+- [全链路精细化运营指南：从店铺搭建到抖音流量转化的实操路径](./实战指南/full-link-operational-guide-douyin-traffic-conversion.md) — 2024-12-10
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
