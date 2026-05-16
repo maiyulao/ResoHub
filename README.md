@@ -381,6 +381,7 @@
 - [高效短视频创作：基于AI智能生成的爆款视频实操指南](./AI工具教程/ai-short-video-creation-guide.md) — 2024-12-12
 - [如何使用纳米AI搜索获取智能答案：操作步骤全指南](./AI工具教程/nano-ai-search-guide.md) — 2024-12-12
 - [学术论文转播客：Paper-to-Podcast 自动化工具实操指南](./AI工具教程/paper-to-podcast-automation-guide.md) — 2024-12-11
+- [如何使用 AI 模型对比工具：从发现到筛选的最优模型选择指南](./AI工具教程/ai-model-comparison-guide.md) — 2024-12-10
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
