@@ -2616,6 +2616,7 @@
 - [从零开始的个人财务管理：一套可落地的理财实操指南](./实战指南/personal-finance-management-guide.md) — 2024-12-21
 - [总是感觉时间不够用？尝试这5个高效能管理策略来突破效率瓶颈](./实战指南/5-time-management-strategies-for-efficiency.md) — 2024-12-21
 - [抖音小店运营实操指南：从入驻到转化的全流程要点](./实战指南/douyin-shop-operation-guide.md) — 2024-12-21
+- [Linux 入门实战指南：韩顺平 7 日快速上手教程](./实战指南/linux-beginner-guide-han-shunping-7-days.md) — 2024-12-20
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
