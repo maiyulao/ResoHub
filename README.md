@@ -559,6 +559,7 @@
 - [职场压力量化指南：能耗标识工具实操手册](./GitHub项目/workplace-stress-quantification-guide.md) — 2024-12-25
 - [Fast Send 使用指南：实现点对点文件快速传输的 3 个步骤](./GitHub项目/fast-send-guide-p2p-file-transfer.md) — 2024-12-21
 - [如何通过可视化与简化术语解析复杂系统：ByteByteGoHq 系统设计指南操作步骤](./GitHub项目/visualize-simplify-complex-systems-bytebytego-guide.md) — 2024-12-20
+- [视频转小红书笔记：高效生成高点击率图文内容的实用工具](./GitHub项目/video-to-xiaohongshu-notes-tools.md) — 2024-12-16
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
