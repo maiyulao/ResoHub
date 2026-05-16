@@ -2652,6 +2652,7 @@
 - [重塑社交心智：通过性格优化突破人际沟通瓶颈，掌握深度链接的底层逻辑](./实战指南/reshape-social-mindset-personality-optimization-deep-connection.md) — 2024-12-16
 - [淘宝电商视频实操指南：从零开始的起步教程](./实战指南/taobao-ecommerce-video-guide.md) — 2024-12-16
 - [品牌设计与市场调研全流程实操指南：资源获取及应用要点](./实战指南/brand-design-market-research-guide.md) — 2024-12-15
+- [心智成熟度提升指南：30项心理训练实操清单](./实战指南/mental-maturity-training-checklist.md) — 2024-12-15
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
