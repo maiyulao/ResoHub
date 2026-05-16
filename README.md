@@ -380,6 +380,7 @@
 - [使用 PDFMathTranslate 实现 PDF 文档双语对照翻译的步骤指南](./AI工具教程/pdfmathtranslate-bilingual-translation-guide.md) — 2024-12-12
 - [高效短视频创作：基于AI智能生成的爆款视频实操指南](./AI工具教程/ai-short-video-creation-guide.md) — 2024-12-12
 - [如何使用纳米AI搜索获取智能答案：操作步骤全指南](./AI工具教程/nano-ai-search-guide.md) — 2024-12-12
+- [学术论文转播客：Paper-to-Podcast 自动化工具实操指南](./AI工具教程/paper-to-podcast-automation-guide.md) — 2024-12-11
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
