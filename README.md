@@ -1413,6 +1413,7 @@
 - [vtool subtitle：支持自定义字幕截图生成的工具及使用指南](./创意工具/vtool-subtitle-custom-screenshot-guide.md) — 2024-12-27
 - [ChatGPT Meme Generator：基于AI的梗图生成工具使用指南与环境配置](./创意工具/chatgpt-meme-generator-guide-and-setup-2.md) — 2024-12-26
 - [ChatGPT Meme Generator：基于AI的梗图生成工具使用指南与环境配置](./创意工具/chatgpt-meme-generator-guide-and-setup.md) — 2024-12-26
+- [Sound Box：高效构建专业白噪音环境的免费工具](./创意工具/sound-box-free-white-noise-tool.md) — 2024-12-26
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
