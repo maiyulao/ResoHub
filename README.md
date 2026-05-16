@@ -2765,6 +2765,7 @@
 - [小红书母婴虚拟资料获客与变现：从IP打造到盈利的实操步骤](./实战指南/xiaohongshu-maternal-virtual-products-monetization.md) — 2024-12-02
 - [想研究付鹏对宏观市场的深度分析？这里有他的演讲全文 PDF 供下载](./实战指南/fu-peng-macro-analysis-pdf-download.md) — 2024-12-02
 - [斯廷坎普品牌识别体系：构建品牌心智的七个核心维度及其应用逻辑](./实战指南/stinkamp-brand-identity-system-7-dimensions.md) — 2024-12-01
+- [抖音短视频切片实操指南：低门槛居家创业与时间管理方案](./实战指南/douyin-video-clipping-guide.md) — 2024-12-01
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
