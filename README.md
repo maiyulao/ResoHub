@@ -704,6 +704,7 @@
 - [Video2X 实操指南：利用机器学习实现视频超分辨率重建与帧率补偿](./Windows软件/video2x-guide-machine-learning-upscaling-interpolation.md) — 2025-02-10
 - [12306Bypass v1.16.45：高铁分流抢票软件功能解析与使用指南](./Windows软件/12306bypass-v1-16-45-guide.md) — 2025-01-16
 - [开源微信多开与防撤回补丁：实现消息留存与多账号并行，支持QQ及TIM兼容下载](./Windows软件/open-source-wechat-multi-instance-anti-recall-patch.md) — 2025-01-15
+- [wechatDataBackup：开源 PC 微信聊天记录导出方案](./Windows软件/wechat-data-backup-open-source-export-solution.md) — 2024-12-26
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
