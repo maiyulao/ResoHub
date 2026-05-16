@@ -2746,6 +2746,7 @@
 - [Java 编程快速入门：从零基础到实战开发的全路径学习指南](./实战指南/java-programming-beginners-guide.md) — 2024-12-05
 - [面对职场瓶颈或迷茫期，程序员该如何规划晋升与转型路径？](./实战指南/programmer-career-growth-and-transition-guide.md) — 2024-12-05
 - [Photoshop 2025 核心技能进阶指南：从基础操作到高级实战](./实战指南/photoshop-2025-advanced-guide.md) — 2024-12-04
+- [XSH云视频：无需付费的在线VIP视频解析方案](./实战指南/xsh-free-online-vip-video-parser.md) — 2024-12-04
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
