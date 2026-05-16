@@ -1526,6 +1526,7 @@
 - [Li番 Emby 电影库刮削元数据集 (1991-2023) 下载与配置指南](./创意工具/li-ban-emby-movie-metadata-guide.md) — 2024-12-01
 - [RoutineHub：iOS 快捷指令资源索引与自动化方案库](./创意工具/routinehub-ios-shortcuts-library.md) — 2024-12-01
 - [最新韩剧在线观看：免费影视资源站及访问注意事项](./创意工具/watch-korean-drama-free-online.md) — 2024-11-30
+- [SwapCode：集成临时邮箱与虚拟信息生成的在线工具指南](./创意工具/swapcode-temp-mail-virtual-info-guide.md) — 2024-11-30
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
