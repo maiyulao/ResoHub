@@ -2797,6 +2797,7 @@
 - [好物分享实操指南：零基础快速跑通短视频带货链路，构建从起号到变现的流量闭环](./实战指南/short-video-ecommerce-guide-zero-to-monetization.md) — 2024-11-27
 - [想在小红书开店却不知如何起步？这份从零到精通的店铺运营实操指南帮你快速上手](./实战指南/xiaohongshu-shop-operation-guide.md) — 2024-11-27
 - [抖音同城号引流实战指南：从账号搭建至实体店到店的完整操作流程](./实战指南/douyin-local-traffic-guide.md) — 2024-11-26
+- [Mike大学外贸入门教程：学习路径、资源获取与实操注意事项](./实战指南/mike-college-foreign-trade-guide.md) — 2024-11-26
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
