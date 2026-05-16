@@ -785,6 +785,7 @@
 - [少年感人物插画实战指南：从薯苕风格设定到细节刻画的创作全流程](./兴趣爱好/youth-character-illustration-guide-shutiao-style.md) — 2024-12-31
 - [高效家居收纳全指南：从空间规划到分类存储的实操步骤](./兴趣爱好/home-organization-guide-tips.md) — 2024-12-31
 - [网文创作实操指南：从起手式到签约全流程解析](./兴趣爱好/web-novel-writing-guide-to-contract.md) — 2024-12-28
+- [CAD从入门到精通：万老师分步教学实操指南](./兴趣爱好/cad-beginner-to-expert-guide.md) — 2024-12-27
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
