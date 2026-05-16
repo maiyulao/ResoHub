@@ -2724,6 +2724,7 @@
 - [学术论文核心写作实操手册：从逻辑构建到高效成稿](./实战指南/academic-writing-guide-logic-to-drafting.md) — 2024-12-07
 - [高效餐桌社交指南：从沟通技巧到资源转化的实操步骤](./实战指南/dining-table-networking-guide.md) — 2024-12-06
 - [高情商沟通实战指南：通过场景化聊天技巧提升恋爱吸引力，深度拆解从破冰到升温的对话逻辑](./实战指南/high-eq-communication-dating-attraction-guide.md) — 2024-12-06
+- [2024年学位英语考点解析与复习资源指南](./实战指南/2024-degree-english-exam-guide.md) — 2024-12-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
