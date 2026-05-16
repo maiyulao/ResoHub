@@ -646,6 +646,7 @@
 - [Couplet：让桌面应用实现春联式双窗布局，提升跨平台分屏操作效率](./Mac软件/couplet-dual-window-layout-split-screen-efficiency.md) — 2025-01-23
 - [Keymap：一款用于记录与展示软件快捷键的本地 Web 应用](./Mac软件/keymap-software-shortcuts-web-app.md) — 2025-01-20
 - [零泉：一款高效且免费的全能型数字化素材管理工具](./Mac软件/lingquan-digital-asset-management-tool.md) — 2025-01-01
+- [MagicMirror 实操指南：分步实现 AI 换脸、发型与穿搭定制](./Mac软件/magicmirror-ai-face-hair-outfit-guide.md) — 2024-12-29
 
 ### Windows软件
 - [觉得 Win+V 记录太少且不够灵活？试试开源的本地剪贴板增强工具 ElegantClipboard](./Windows软件/elegant-clipboard-windows-clipboard-manager.md) — 2026-05-11
