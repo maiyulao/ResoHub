@@ -377,6 +377,7 @@
 - [Fast-Powerful-Whisper API：高性能异步语音识别与翻译技术实现](./AI工具教程/fast-powerful-whisper-api-async-asr-translation.md) — 2024-12-17
 - [AIGIF：基于 AI 换脸技术的动态 GIF 表情包生成指南](./AI工具教程/aigif-ai-faceswap-dynamic-gif-guide.md) — 2024-12-17
 - [AI 亲吻视频生成指南：实现高自然度交互的工具选择与操作流程](./AI工具教程/ai-kissing-video-generation-guide.md) — 2024-12-14
+- [使用 PDFMathTranslate 实现 PDF 文档双语对照翻译的步骤指南](./AI工具教程/pdfmathtranslate-bilingual-translation-guide.md) — 2024-12-12
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
