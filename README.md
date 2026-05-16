@@ -2624,6 +2624,7 @@
 - [Linux 入门实战指南：韩顺平 7 日快速上手教程](./实战指南/linux-beginner-guide-han-shunping-7-days.md) — 2024-12-20
 - [高效记忆力进阶指南：从认知机制到实操技巧的系统化训练方案](./实战指南/memory-improvement-guide-systematic-training.md) — 2024-12-20
 - [害怕在众人面前开口？这十个实操步骤帮你把演讲焦虑转化为掌控力](./实战指南/overcome-public-speaking-anxiety-10-steps.md) — 2024-12-20
+- [黄执中《35天超级说服力》全集资源：适用场景与实操重点指南](./实战指南/huang-zhizhong-35-days-persuasion-guide.md) — 2024-12-19
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
