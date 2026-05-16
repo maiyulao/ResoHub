@@ -1488,6 +1488,7 @@
 - [刷到心仪的短视频却无法保存原片？尝试用去多多免费去除小红书与抖音水印](./创意工具/remove-xiaohongshu-douyin-watermark-free.md) — 2024-12-10
 - [JaTra：日本教师教学视频预告片资源库](./创意工具/jatra-japan-teacher-video-trailers-library.md) — 2024-12-10
 - [MisK 视觉学习资源站：在线浏览与图片素材获取指南](./创意工具/misk-visual-learning-resources-guide.md) — 2024-12-09
+- [通过 Numberpairs 益智游戏提升逻辑思维的实操步骤](./创意工具/improve-logic-thinking-with-numberpairs.md) — 2024-12-09
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
