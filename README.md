@@ -749,6 +749,7 @@
 - [wechatDataBackup：开源 PC 微信聊天记录导出方案](./Windows软件/wechat-data-backup-open-source-export-solution.md) — 2024-12-26
 - [XHS Spider：实现小红书内容高效批量采集，支持视频提取与图片去水印](./Windows软件/xhs-spider-xiaohongshu-batch-scraper.md) — 2024-12-13
 - [File Converter：高效且开源的本地文件格式转换工具](./Windows软件/file-converter-open-source-local-tool.md) — 2024-12-06
+- [如何使用 WEMO 备份微信朋友圈：操作全流程指南](./Windows软件/how-to-backup-wechat-moments-with-wemo.md) — 2024-12-06
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
