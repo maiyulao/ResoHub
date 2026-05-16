@@ -369,6 +369,7 @@
 - [Slea AI 快速构建品牌视觉：一款支持免费生成的智能 Logo 设计工具](./AI工具教程/slea-ai-free-logo-generator.md) — 2024-12-23
 - [如何使用 TikTok Voice Generator 实现免费 AI 文本转语音配音：操作全流程](./AI工具教程/free-tiktok-ai-voice-generator-guide.md) — 2024-12-22
 - [Sounds Effect：基于文本生成高质量音效的AI工具及其使用指南](./AI工具教程/sound-effect-ai-tool-guide.md) — 2024-12-22
+- [想给项目快速做个Logo却不想花钱请设计？试试开源的 LogoCreator](./AI工具教程/open-source-logocreator-free-logo-maker.md) — 2024-12-21
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
