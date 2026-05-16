@@ -1542,6 +1542,7 @@
 - [KOTOMI RSS 使用指南：将 Anime 搜索结果转化为 RSS 订阅源的配置方法](./创意工具/kotomi-rss-guide-anime-search-to-rss.md) — 2024-11-25
 - [IWantOut：全球移民经验共享与移居者互助社区](./创意工具/iwantout-global-migration-community.md) — 2024-11-25
 - [香港银行开户全流程指南：从账户申请、资金管理到注销关户的实操细节](./创意工具/hong-kong-bank-account-opening-guide-2.md) — 2024-11-25
+- [黑五软件采购指南：从需求分析到高效下单的 5 个关键步骤](./创意工具/black-friday-software-buying-guide-5-steps.md) — 2024-11-24
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
