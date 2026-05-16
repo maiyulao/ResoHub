@@ -726,6 +726,7 @@
 - [道学百年经典集成：50册核心文献分10辑系统呈现](./书籍/daoism-classics-collection-50-volumes.md) — 2025-01-02
 - [高情商沟通指南：从洞察潜台词到精准回应，构建深层信任与亲密关系](./书籍/high-eq-communication-guide.md) — 2024-12-30
 - [《无敌泡妞系统》PDF与ePub电子书下载及阅读指南](./书籍/invincible-pick-up-system-ebook-download.md) — 2024-12-29
+- [孩子读书不知道怎么选？这份涵盖1-9年级的149本经典书单及PDF可供参考](./书籍/classic-reading-list-grades-1-9-pdf.md) — 2024-12-29
 
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
