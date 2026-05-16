@@ -2661,6 +2661,7 @@
 - [2025年初级会计师考试：基础+押题课程资源（含适用版本与学习要点）](./实战指南/2025-junior-accountant-exam-course-resources.md) — 2024-12-15
 - [Python 实用脚本实战：从零构建自动化工具集](./实战指南/python-automation-scripts-guide.md) — 2024-12-14
 - [掌握抖音运镜的5个实操步骤：从基础推拉到高级转场](./实战指南/douyin-camera-movement-steps.md) — 2024-12-14
+- [寻找高品质成人游戏时不知从何入手？这份社区公认的镇群宝藏清单值得收藏](./实战指南/best-adult-games-community-recommendations-list.md) — 2024-12-14
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
