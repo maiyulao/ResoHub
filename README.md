@@ -2728,6 +2728,7 @@
 - [高情商沟通实战指南：通过场景化聊天技巧提升恋爱吸引力，深度拆解从破冰到升温的对话逻辑](./实战指南/high-eq-communication-dating-attraction-guide.md) — 2024-12-06
 - [2024年学位英语考点解析与复习资源指南](./实战指南/2024-degree-english-exam-guide.md) — 2024-12-06
 - [手机摄影全链路进阶指南：从基础入门到创意精通（韩松全集）](./实战指南/mobile-photography-complete-guide-hansong.md) — 2024-12-06
+- [2017-2024 生财有术知识库：亦仁关于商业实操的 7 年问答全集](./实战指南/shengcaiyushu-yiren-business-qa-2017-2024.md) — 2024-12-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
