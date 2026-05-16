@@ -1608,6 +1608,7 @@
 - [高效社交沟通指南：提升聊天质量的实操步骤](./大人学习课程/effective-social-communication-guide-2.md) — 2024-11-30
 - [《中国回春秘诀》PDF版下载：适用人群与阅读注意事项](./大人学习课程/china-rejuvenation-secrets-pdf-download.md) — 2024-11-29
 - [李熙墨的压力管理指南：DD保健操的实践与效用](./大人学习课程/li-ximo-stress-management-dd-exercise.md) — 2024-11-28
+- [男性综合素质提升指南：从体能到心理的系统训练方案](./大人学习课程/mens-comprehensive-improvement-guide.md) — 2024-11-27
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
