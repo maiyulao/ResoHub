@@ -1438,6 +1438,7 @@
 - [沉浸式成语闯关指南：通过互动游戏提升国学素养的实践路径](./创意工具/immersive-idiom-game-guide-chinese-culture.md) — 2024-12-22
 - [识典古籍：集成AI解读能力的公益性古籍数字化阅读与检索平台](./创意工具/shidian-ancient-books-ai-platform.md) — 2024-12-21
 - [全国劳动法补偿金计算工具：支持多场景快速核算与数据校验](./创意工具/labor-law-compensation-calculator.md) — 2024-12-21
+- [动态更新的进口原研药数据库：涵盖 400 余种核心药品目录](./创意工具/imported-innovative-drug-database.md) — 2024-12-21
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
