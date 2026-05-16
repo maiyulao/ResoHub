@@ -1419,6 +1419,7 @@
 - [企业信息免费查询指南：通过快查平台实现高效信用检索与数据分析](./创意工具/free-enterprise-information-lookup-guide.md) — 2024-12-25
 - [poscr 使用指南：通过四个步骤快速上手在线学习抖音技巧](./创意工具/poscr-douyin-learning-guide.md) — 2024-12-24
 - [Mik 站资源解析：Cosplay 学习资料与素材库指南](./创意工具/mik-cosplay-resources-guide.md) — 2024-12-24
+- [2024年度全球创意作品集精选：100个突破常规的个人网站设计案例](./创意工具/2024-best-creative-portfolio-website-designs.md) — 2024-12-24
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
