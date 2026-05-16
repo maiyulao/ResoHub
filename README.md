@@ -543,6 +543,7 @@
 - [LibreTranslate：构建私有化部署的开源机器翻译服务方案](./GitHub项目/libretranslate-self-hosted-open-source-translation-solution.md) — 2025-01-07
 - [Embykeeper 自动化签到脚本：支持多服务器保号配置与部署指南](./GitHub项目/embykeeper-automation-sign-in-guide.md) — 2025-01-05
 - [Alger Music Player 下载安装：支持多平台在线播放的免费音乐客户端](./GitHub项目/download-alger-music-player.md) — 2024-12-27
+- [quark-auto-save 使用指南：实现夸克网盘自动转存、签到与重命名](./GitHub项目/quark-auto-save-guide.md) — 2024-12-26
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
