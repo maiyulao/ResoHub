@@ -1402,6 +1402,7 @@
 - [全网盘资源一站式检索：通过聚合搜索实现海量云盘文件快速定位](./创意工具/cloud-drive-aggregate-search.md) — 2024-12-30
 - [NeoDB 使用指南：构建开放式书影音播客游戏标注库的步骤详解](./创意工具/neodb-guide-open-annotation-library.md) — 2024-12-30
 - [全球AI与真人视觉素材库：通过多维度图像学习提升创作审美](./创意工具/global-ai-human-visual-library-improve-creative-aesthetic.md) — 2024-12-28
+- [AI 角色面部匹配指南：快速检索影视剧中的神似角色](./创意工具/ai-character-face-matching-guide.md) — 2024-12-28
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
