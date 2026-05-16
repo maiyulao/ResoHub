@@ -2757,6 +2757,7 @@
 - [郑翔洲商业模式创新：94个实战案例深度解析](./实战指南/zheng-xiangzhou-business-model-innovation-94-cases.md) — 2024-12-03
 - [2024全球局势深度复盘：核心趋势解析与关键事件影响评估（刘怡）](./实战指南/2024-global-situation-review-trends-impact.md) — 2024-12-03
 - [想快速上手Go语言却不知从何开始？这份由布道者总结的22讲通关笔记为你指路](./实战指南/go-language-learning-guide-notes.md) — 2024-12-03
+- [曹雄峰商业思维案例笔记全集：适用场景与核心要点解析](./实战指南/cao-xiong-feng-business-thinking-notes.md) — 2024-12-02
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
