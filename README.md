@@ -1622,6 +1622,7 @@
 - [李熙墨的压力管理指南：DD保健操的实践与效用](./大人学习课程/li-ximo-stress-management-dd-exercise.md) — 2024-11-28
 - [男性综合素质提升指南：从体能到心理的系统训练方案](./大人学习课程/mens-comprehensive-improvement-guide.md) — 2024-11-27
 - [获取李素英 (leeesovely) 2024年10月8K无水印原版资料的操作指南](./大人学习课程/leeesovely-oct-2024-8k-original-guide.md) — 2024-11-25
+- [高效社交沟通实操手册：从破冰到建立深度连接的步骤指南](./大人学习课程/effective-social-communication-guide.md) — 2024-11-23
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
