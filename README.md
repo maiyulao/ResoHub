@@ -2793,6 +2793,7 @@
 - [闲鱼无货源实操指南：从入门到起号的执行链路](./实战指南/xianyu-no-inventory-guide.md) — 2024-11-28
 - [500套高质感PPT模板获取与快速应用指南](./实战指南/500-high-quality-ppt-templates-guide.md) — 2024-11-28
 - [从产品到品牌：提升销量与利润的3步落地实操指南](./实战指南/product-to-brand-guide.md) — 2024-11-28
+- [好物分享实操指南：零基础快速跑通短视频带货链路，构建从起号到变现的流量闭环](./实战指南/short-video-ecommerce-guide-zero-to-monetization.md) — 2024-11-27
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
