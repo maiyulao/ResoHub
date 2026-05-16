@@ -761,6 +761,7 @@
 - [孩子读书不知道怎么选？这份涵盖1-9年级的149本经典书单及PDF可供参考](./书籍/classic-reading-list-grades-1-9-pdf.md) — 2024-12-29
 - [想系统学习中医却不知从哪本开始？这份涵盖千册经典的中医书单帮你理清阅读顺序](./书籍/chinese-medicine-reading-list-guide.md) — 2024-12-23
 - [2024年度豆瓣高分书单：精选年度口碑佳作，分领域解析阅读趋势与核心价值](./书籍/2024-douban-best-books-list.md) — 2024-12-21
+- [男性健康全周期管理指南：基于《道法自然》的系统性调理方案与PDF实操手册](./书籍/mens-health-management-guide-dao-fa-zi-ran.md) — 2024-12-12
 
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
