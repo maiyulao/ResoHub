@@ -374,6 +374,7 @@
 - [CerebrasCoder 开源部署指南：基于自然语言快速构建 AI 网站应用](./AI工具教程/cerebrascoder-deployment-guide-ai-website-builder.md) — 2024-12-20
 - [PDF翻译后排版乱掉怎么解决？试试 SimplifyAI：基于 GPT 且能原样保留格式的文档翻译方案](./AI工具教程/simplifyai-pdf-translation-keep-layout.md) — 2024-12-20
 - [利用 Gemini 构建个性化英语口语陪练方案：Gemini Teacher 实践指南](./AI工具教程/build-personalized-english-speaking-coach-with-gemini.md) — 2024-12-19
+- [Fast-Powerful-Whisper API：高性能异步语音识别与翻译技术实现](./AI工具教程/fast-powerful-whisper-api-async-asr-translation.md) — 2024-12-17
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
