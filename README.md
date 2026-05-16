@@ -696,6 +696,7 @@
 - [V2sub：支持全格式音视频转换的 AI 智能字幕生成工具](./Mac软件/v2sub-ai-subtitle-generator.md) — 2024-12-06
 - [多平台直播录制方案：高效采集与存储工具实测](./Mac软件/multi-platform-livestream-recording-solutions.md) — 2024-12-06
 - [macOS 软件批量更新指南：使用 Latest 快速检查并升级应用](./Mac软件/macos-batch-update-apps-with-latest.md) — 2024-12-01
+- [macOS 录屏工具太臃肿或功能受限？尝试这款轻量开源的 QuickRecorder](./Mac软件/quickrecorder-lightweight-macos-screen-recorder.md) — 2024-12-01
 
 ### Windows软件
 - [觉得 Win+V 记录太少且不够灵活？试试开源的本地剪贴板增强工具 ElegantClipboard](./Windows软件/elegant-clipboard-windows-clipboard-manager.md) — 2026-05-11
