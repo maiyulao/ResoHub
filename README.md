@@ -2614,6 +2614,7 @@
 - [面对职场竞争压力，如何构建核心竞争力以实现不可替代？](./实战指南/build-core-competitiveness-at-work.md) — 2024-12-23
 - [平面设计从入门到实战：全套课程学习路径与源码课件获取步骤](./实战指南/graphic-design-learning-path-and-resources.md) — 2024-12-22
 - [从零开始的个人财务管理：一套可落地的理财实操指南](./实战指南/personal-finance-management-guide.md) — 2024-12-21
+- [总是感觉时间不够用？尝试这5个高效能管理策略来突破效率瓶颈](./实战指南/5-time-management-strategies-for-efficiency.md) — 2024-12-21
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
