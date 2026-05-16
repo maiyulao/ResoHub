@@ -2547,6 +2547,7 @@
 - [公众号流量主AI写作实操：低门槛内容量产方案](./实战指南/wechat-ai-writing-content-automation.md) — 2024-12-30
 - [21天结构化思维训练营：职场表达逻辑提升方案（含课程获取方式与学习环境要求）](./实战指南/21-day-structured-thinking-training-camp.md) — 2024-12-30
 - [张萌：构建高能效生活的自我管理体系](./实战指南/zhang-meng-self-management-system-for-high-efficiency-life.md) — 2024-12-30
+- [个人IP变现实战指南：通过体系化训练实现从零到百万博主的商业增长](./实战指南/personal-ip-monetization-guide.md) — 2024-12-29
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
