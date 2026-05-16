@@ -385,6 +385,7 @@
 - [Colorify Rocks：基于 AI 的配色方案生成工具及其使用指南](./AI工具教程/colorify-rocks-ai-color-palette-generator-guide.md) — 2024-12-09
 - [ClearerVoice-Studio：基于开源生态的 AI 语音增强与处理工具集](./AI工具教程/clearervoice-studio-ai-speech-enhancement-toolkit.md) — 2024-12-09
 - [TRELLIS：微软开源单图生成高精度3D模型的端到端框架](./AI工具教程/trellis-microsoft-single-image-to-3d-framework.md) — 2024-12-08
+- [OnionAISearch：通过多源AI聚合实现高效精准搜索，一站式打破信息孤岛](./AI工具教程/onionai-search-multi-source-ai-aggregation.md) — 2024-12-07
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
