@@ -1425,6 +1425,7 @@
 - [2024年度全球创意作品集精选：100个突破常规的个人网站设计案例](./创意工具/2024-best-creative-portfolio-website-designs.md) — 2024-12-24
 - [如何在故宫博物院官网下载 4K 高清壁纸：完整操作步骤指南](./创意工具/download-4k-wallpapers-palace-museum-guide.md) — 2024-12-24
 - [想搭建一个轻量且强大的导航页却不想花钱？试试开箱即用的发现导航](./创意工具/free-lightweight-navigation-page-fashenav.md) — 2024-12-24
+- [黑点工具：多场景在线工具导航站（含快捷访问与使用指引）](./创意工具/blackpoint-online-tools-navigation.md) — 2024-12-23
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
