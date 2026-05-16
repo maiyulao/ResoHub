@@ -1512,6 +1512,7 @@
 - [LoveMatters 中文版：成人性健康与性教育知识库，涵盖科学认知、关系处理及实操指南](./创意工具/lovematters-chinese-sexual-health-education.md) — 2024-12-04
 - [想快速制作个性化练字帖却找不到好工具？试试这款免费的在线生成器](./创意工具/free-online-custom-copybook-generator.md) — 2024-12-04
 - [中国医疗资源竞争力评估：医院综合实力与专科声誉量化分析报告](./创意工具/china-medical-resource-competitiveness-analysis.md) — 2024-12-04
+- [想快速分享屏幕却不想下载软件或注册账号？试试这款免安装的实时共享工具](./创意工具/fast-screen-share-no-install-no-registration.md) — 2024-12-04
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
