@@ -1522,6 +1522,7 @@
 - [异性社交心理破冰指南：魔卡实战技巧与认知提升](./大人学习课程/social-icebreaking-guide-moka-tips.md) — 2024-12-19
 - [想一次性看完《步某非烟》第一季全集？A1-A244完整合集资源汇总](./大人学习课程/bu-mou-fei-yan-season-1-full-collection.md) — 2024-12-19
 - [超清4K画质韩国女团视频集锦：涵盖30余部高清影像，深度还原舞台视觉细节](./大人学习课程/4k-kpop-girl-group-video-collection.md) — 2024-12-17
+- [17部下架短剧合集：完整资源获取及播放环境配置指南](./大人学习课程/17-removed-short-drama-collection-guide.md) — 2024-12-16
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
