@@ -1517,6 +1517,7 @@
 - [生如夏花成人知识库：资源获取路径、适用场景及访问指南](./创意工具/adult-knowledge-base-guide.md) — 2024-12-03
 - [Trends Radar：高效挖掘 Google Trends 趋势的免费关键词分析工具](./创意工具/trends-radar-google-trends-keyword-tool.md) — 2024-12-03
 - [想快速了解某个城市或地点的公共交通覆盖情况？试试用多寻地图一键查询铁路与公交辐射范围](./创意工具/check-public-transport-coverage-with-duoxun-map.md) — 2024-12-03
+- [如何使用 Picseal 为多品牌照片生成徕卡风格水印：操作指南](./创意工具/picseal-leica-style-watermark-guide.md) — 2024-12-02
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
