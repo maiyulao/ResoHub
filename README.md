@@ -2759,6 +2759,7 @@
 - [想快速上手Go语言却不知从何开始？这份由布道者总结的22讲通关笔记为你指路](./实战指南/go-language-learning-guide-notes.md) — 2024-12-03
 - [曹雄峰商业思维案例笔记全集：适用场景与核心要点解析](./实战指南/cao-xiong-feng-business-thinking-notes.md) — 2024-12-02
 - [秋叶AI办公实战训练营（首期）：从工具入门到高效工作流构建](./实战指南/qiuye-ai-office-camp-workflow.md) — 2024-12-02
+- [视频号快速起号指南：从账号搭建到流量变现的实操步骤](./实战指南/video-channel-growth-guide-2.md) — 2024-12-02
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
