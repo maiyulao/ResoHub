@@ -379,6 +379,7 @@
 - [AI 亲吻视频生成指南：实现高自然度交互的工具选择与操作流程](./AI工具教程/ai-kissing-video-generation-guide.md) — 2024-12-14
 - [使用 PDFMathTranslate 实现 PDF 文档双语对照翻译的步骤指南](./AI工具教程/pdfmathtranslate-bilingual-translation-guide.md) — 2024-12-12
 - [高效短视频创作：基于AI智能生成的爆款视频实操指南](./AI工具教程/ai-short-video-creation-guide.md) — 2024-12-12
+- [如何使用纳米AI搜索获取智能答案：操作步骤全指南](./AI工具教程/nano-ai-search-guide.md) — 2024-12-12
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
