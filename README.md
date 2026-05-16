@@ -364,6 +364,7 @@
 - [如何将复杂的 Git 仓库高效喂给 LLM？试试用 GitIngest 将代码库转换为提示词友好格式](./AI工具教程/how-to-use-gitingest-for-llm-codebase-prompts.md) — 2024-12-30
 - [PodRedit：基于语音转文字的播客内容搜索与发现工具（部署指南及使用要点）](./AI工具教程/podredit-speech-to-text-podcast-search-guide.md) — 2024-12-29
 - [想知道某个数字在历史上或科学中有什么特殊含义？试试用 Any Number 挖掘数字背后的冷知识](./AI工具教程/discover-number-meanings-with-any-number.md) — 2024-12-28
+- [如何使用 Tree Gnimoay 快速生成职场吐槽圣诞树：操作指南与步骤详解](./AI工具教程/tree-gnimoay-workplace-christmas-tree-guide.md) — 2024-12-24
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
