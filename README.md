@@ -2815,6 +2815,7 @@
 - [AI闪电品牌课：通过自动化文案与创意图生成，重构团队协作效能](./实战指南/ai-brand-course-automation-workflow.md) — 2024-11-25
 - [AI 绘画全流程指南：从底层原理到实战应用](./实战指南/ai-painting-complete-guide.md) — 2024-11-24
 - [短视频全链路实操指南：从体系化知识构建到爆款流量操盘的进阶路径](./实战指南/short-video-full-link-guide.md) — 2024-11-24
+- [想从 Python 基础进阶到高手？深度剖析《Python 编程高手之路》的核心实战路径](./实战指南/python-advanced-learning-path.md) — 2024-11-24
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
