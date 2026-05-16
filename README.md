@@ -2545,6 +2545,7 @@
 - [养老服务创业实操指南：从项目选择到月入2万的落地步骤](./实战指南/elderly-care-startup-guide-step-by-step.md) — 2025-01-01
 - [短视频内容怎么拍才能持续涨粉？拆解鹤老师的底层逻辑与创作方法论](./实战指南/short-video-growth-strategy-he-laoshi-methodology.md) — 2024-12-30
 - [公众号流量主AI写作实操：低门槛内容量产方案](./实战指南/wechat-ai-writing-content-automation.md) — 2024-12-30
+- [21天结构化思维训练营：职场表达逻辑提升方案（含课程获取方式与学习环境要求）](./实战指南/21-day-structured-thinking-training-camp.md) — 2024-12-30
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
