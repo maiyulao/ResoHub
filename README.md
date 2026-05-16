@@ -2666,6 +2666,7 @@
 - [掌握抖音运镜的5个实操步骤：从基础推拉到高级转场](./实战指南/douyin-camera-movement-steps.md) — 2024-12-14
 - [寻找高品质成人游戏时不知从何入手？这份社区公认的镇群宝藏清单值得收藏](./实战指南/best-adult-games-community-recommendations-list.md) — 2024-12-14
 - [想用 Midjourney 快速出图却不知如何写提示词？Jovi 视频课带你从零上手实践](./实战指南/midjourney-prompt-guide-jovi-course.md) — 2024-12-13
+- [林健：GPT零基础应用实操指南（全集）](./实战指南/lin-jian-gpt-beginner-guide-complete.md) — 2024-12-13
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
