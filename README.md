@@ -2785,6 +2785,7 @@
 - [高效新媒体内容创作实操手册：从核心传播逻辑到多平台写作技巧详解](./实战指南/new-media-content-creation-guide.md) — 2024-11-29
 - [小红书发文没流量？尝试这套热门引流实操方案](./实战指南/xiaohongshu-traffic-growth-guide-2.md) — 2024-11-29
 - [拼多多流量增长全解析：从底层逻辑到免费与付费实操方案](./实战指南/pinduoduo-traffic-growth-guide.md) — 2024-11-29
+- [高效燃脂全身汗出：全流程健身实操指南与动作拆解](./实战指南/full-body-fat-burn-workout-guide.md) — 2024-11-28
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
