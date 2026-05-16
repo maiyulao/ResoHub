@@ -2636,6 +2636,7 @@
 - [黄执中《35天超级说服力》全集资源：适用场景与实操重点指南](./实战指南/huang-zhizhong-35-days-persuasion-guide.md) — 2024-12-19
 - [高效掌握英语语法的400个核心公式：由清华学霸总结的逻辑拆解与实战应用指南](./实战指南/400-english-grammar-formulas-guide.md) — 2024-12-19
 - [想在小红书开店却不知从何入手？这份从零起步的店铺运营全指南帮你快速上手](./实战指南/xiaohongshu-shop-operation-guide-2.md) — 2024-12-18
+- [职场生存逻辑：36个核心潜规则解析](./实战指南/workplace-survival-logic-36-rules.md) — 2024-12-17
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
