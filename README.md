@@ -1509,6 +1509,7 @@
 - [YYeTs-人人影视全站数据库备份：含字幕资源，支持本地部署与离线下载](./创意工具/yyets-database-backup-subtitles-local-deployment.md) — 2024-12-08
 - [某豆学习视频资源库：BT磁力链接获取指南](./创意工具/moudou-learning-video-torrent-guide.md) — 2024-12-06
 - [翻应用：安卓 App 与 PC 软件资源获取指南（含下载路径与适用环境说明）](./创意工具/android-pc-software-download-guide.md) — 2024-12-06
+- [LoveMatters 中文版：成人性健康与性教育知识库，涵盖科学认知、关系处理及实操指南](./创意工具/lovematters-chinese-sexual-health-education.md) — 2024-12-04
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
