@@ -808,6 +808,7 @@
 - [居家健身入门指南：无器械训练方案与身体素质提升要点](./兴趣爱好/home-workout-guide-bodyweight-training.md) — 2024-12-24
 - [零基础宠物犬训练指南：从专业训犬师视角掌握实操技巧](./兴趣爱好/beginner-dog-training-guide-professional-tips.md) — 2024-12-23
 - [美声唱法零基础系统教程（20讲）：学习路径与实操指南](./兴趣爱好/bel-canto-beginner-systematic-tutorial.md) — 2024-12-22
+- [零基础魔术入门指南：跟随刘谦掌握核心技巧与表演逻辑](./兴趣爱好/magic-beginner-guide-liu-qian.md) — 2024-12-18
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
