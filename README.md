@@ -679,6 +679,7 @@
 - [Shortcat Mac版下载安装：通过全局命令面板实现全键盘操作 macOS 的配置指南](./Mac软件/shortcat-mac-download-install-guide.md) — 2024-12-27
 - [快速部署 Buzee 开源全文搜索应用的详细步骤](./Mac软件/deploy-buzee-open-source-full-text-search.md) — 2024-12-16
 - [HandBrake 全指南：开源跨平台视频压缩与转码实操详解](./Mac软件/handbrake-guide-video-compression-transcoding.md) — 2024-12-12
+- [Interview Coder：面向技术面试的隐形AI助手部署与使用指南](./Mac软件/interview-coder-deployment-guide.md) — 2024-12-11
 
 ### Windows软件
 - [觉得 Win+V 记录太少且不够灵活？试试开源的本地剪贴板增强工具 ElegantClipboard](./Windows软件/elegant-clipboard-windows-clipboard-manager.md) — 2026-05-11
