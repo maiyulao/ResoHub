@@ -2840,6 +2840,7 @@
 - [Chrome Extension Sync 安装指南：多设备插件同步与管理配置详解](./效率工具/chrome-extension-sync-guide.md) — 2025-01-16
 - [高效管理浏览器书签：懒猫书签清理工具实测与操作指南](./效率工具/lazycat-bookmarks-cleanup-guide.md) — 2025-01-15
 - [高效采集小红书多媒体内容：图片、视频与实况照片下载指南](./效率工具/xiaohongshu-multimedia-downloader-guide.md) — 2025-01-14
+- [想绕过网盘繁琐的下载页直接获取文件链接？试试这款开源的直链下载助手](./效率工具/open-source-direct-link-downloader-for-cloud-storage.md) — 2024-11-30
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
