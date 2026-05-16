@@ -2780,6 +2780,7 @@
 - [Python 全栈开发：从企业级架构设计到工业级落地实践](./实战指南/python-fullstack-enterprise-architecture-practice.md) — 2024-11-30
 - [高效新媒体内容创作实操手册：从核心传播逻辑到多平台写作技巧详解](./实战指南/new-media-content-creation-guide.md) — 2024-11-29
 - [小红书发文没流量？尝试这套热门引流实操方案](./实战指南/xiaohongshu-traffic-growth-guide-2.md) — 2024-11-29
+- [拼多多流量增长全解析：从底层逻辑到免费与付费实操方案](./实战指南/pinduoduo-traffic-growth-guide.md) — 2024-11-29
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
