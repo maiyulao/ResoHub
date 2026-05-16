@@ -426,6 +426,7 @@
 - [Alibi 手机行车记录仪：安装配置指南与硬件运行要求](./Android应用/alibi-dashcam-installation-guide-hardware-requirements.md) — 2025-02-10
 - [手机丢失后如何远程锁定并防止数据泄露？开源防盗方案 Stay Put 实测指南](./Android应用/remote-lock-phone-stay-put-guide.md) — 2025-01-17
 - [Nrfr 使用指南：无需 Root 权限修改 SIM 卡国家码](./Android应用/nrfr-guide-change-sim-country-code-no-root.md) — 2025-01-05
+- [BILIBILIAS：支持 4K 高清画质的 B 站视频解析与下载方案](./Android应用/bilibilias-bilibili-4k-video-downloader.md) — 2024-12-07
 
 ### Category 9166
 - [如何使用 Data-Analysis-Agent 通过自然语言查询数据库：开源配置与操作指南](./Category 9166/data-analysis-agent-natural-language-database-query-guide.md) — 2026-05-12
