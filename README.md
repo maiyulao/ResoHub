@@ -1477,6 +1477,7 @@
 - [16图床使用指南：从上传图片到生成外链的详细操作步骤](./创意工具/16-img-bed-guide-upload-to-external-link.md) — 2024-12-15
 - [BT影视资源站：支持磁力与种子下载的影视内容获取指南](./创意工具/bt-movie-torrent-download-guide.md) — 2024-12-13
 - [S图社：在线视觉设计学习与图像资源平台](./创意工具/s-design-learning-resource-platform.md) — 2024-12-12
+- [全能视频下载工具 X Video Downloader：支持 X (Twitter) 及千余家主流网站的视频提取](./创意工具/x-video-downloader-twitter-video-extractor.md) — 2024-12-12
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
