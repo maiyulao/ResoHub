@@ -845,6 +845,7 @@
 - [羽毛球进阶实战指南：三维度核心技术专项提升课](./兴趣爱好/badminton-advanced-skills-training-guide.md) — 2024-12-15
 - [从设备选型到花式调制：专业咖啡师实操进阶指南](./兴趣爱好/professional-barista-guide-equipment-and-brewing.md) — 2024-12-12
 - [郎朗钢琴全阶教学：从零基础到进阶技巧的系统化大师课指南](./兴趣爱好/lang-lang-piano-masterclass-guide.md) — 2024-12-06
+- [刘坚强《麻将学技术训练与技巧》全集：实战技巧指南及获取路径](./兴趣爱好/liu-jianqiang-mahjong-techniques-guide.md) — 2024-12-05
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
