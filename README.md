@@ -2569,6 +2569,7 @@
 - [短视频爆款逻辑拆解：从内容策划到流量破圈的实操指南](./实战指南/short-video-viral-logic-guide.md) — 2024-12-27
 - [构建从流量获取到业绩转化的全链路闭环系统：通过体系化搭建引流、转化与团队管理机制，实现业绩规模化增长](./实战指南/traffic-to-conversion-closed-loop-system.md) — 2024-12-27
 - [钱老师的阶层跃迁之路：从底层积累到实现财务自由](./实战指南/mr-qians-path-to-financial-freedom.md) — 2024-12-27
+- [从逻辑拆解到可视化呈现：绘制四大名著思维导图的四个步骤](./实战指南/four-steps-to-mind-map-four-classic-novels.md) — 2024-12-27
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
