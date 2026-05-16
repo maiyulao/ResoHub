@@ -690,6 +690,7 @@
 - [HandBrake 全指南：开源跨平台视频压缩与转码实操详解](./Mac软件/handbrake-guide-video-compression-transcoding.md) — 2024-12-12
 - [Interview Coder：面向技术面试的隐形AI助手部署与使用指南](./Mac软件/interview-coder-deployment-guide.md) — 2024-12-11
 - [Frpc-Desktop：基于可视化界面的跨平台内网穿透客户端开源解析](./Mac软件/frpc-desktop-open-source-analysis.md) — 2024-12-09
+- [V2sub：支持全格式音视频转换的 AI 智能字幕生成工具](./Mac软件/v2sub-ai-subtitle-generator.md) — 2024-12-06
 
 ### Windows软件
 - [觉得 Win+V 记录太少且不够灵活？试试开源的本地剪贴板增强工具 ElegantClipboard](./Windows软件/elegant-clipboard-windows-clipboard-manager.md) — 2026-05-11
