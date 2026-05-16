@@ -2696,6 +2696,7 @@
 - [全链路精细化运营指南：从店铺搭建到抖音流量转化的实操路径](./实战指南/full-link-operational-guide-douyin-traffic-conversion.md) — 2024-12-10
 - [极客时间《大厂设计进阶实战课》全集：课程获取路径与学习环境指南](./实战指南/geektime-design-advanced-course-guide.md) — 2024-12-09
 - [短视频运营核心逻辑：从底层思维到实操增长的系统化指南](./实战指南/short-video-operation-guide.md) — 2024-12-09
+- [男方家庭婚礼摄影：高级感摆拍姿势与构图实操指南](./实战指南/groom-family-wedding-photography-guide.md) — 2024-12-09
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
