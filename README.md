@@ -799,6 +799,7 @@
 - [CAD从入门到精通：万老师分步教学实操指南](./兴趣爱好/cad-beginner-to-expert-guide.md) — 2024-12-27
 - [居家健身入门指南：无器械训练方案与身体素质提升要点](./兴趣爱好/home-workout-guide-bodyweight-training.md) — 2024-12-24
 - [零基础宠物犬训练指南：从专业训犬师视角掌握实操技巧](./兴趣爱好/beginner-dog-training-guide-professional-tips.md) — 2024-12-23
+- [美声唱法零基础系统教程（20讲）：学习路径与实操指南](./兴趣爱好/bel-canto-beginner-systematic-tutorial.md) — 2024-12-22
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
