@@ -1460,6 +1460,7 @@
 - [想在 PC 上下载无 DRM 限制的 GOG 游戏？这里有获取免费完整版资源的可靠途径](./创意工具/download-drm-free-gog-games-pc.md) — 2024-12-17
 - [LiteMark：高效轻量化的图片标注方案](./创意工具/litemark-efficient-lightweight-image-annotation.md) — 2024-12-16
 - [如何使用 CountryMeters 实时查询全球人口动态数据：操作指南](./创意工具/how-to-use-countrymeters-world-population-data-guide.md) — 2024-12-16
+- [高效获取有声资源：免费在线听书平台指南](./创意工具/free-online-audiobook-platforms-guide.md) — 2024-12-15
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
