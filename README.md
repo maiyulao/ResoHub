@@ -1495,6 +1495,7 @@
 - [磁力家：高效检索磁力资源的在线搜索引擎](./创意工具/magnetic-search-engine.md) — 2024-12-08
 - [血液酒精浓度（BAC）在线计算指南：通过精准算法量化酒精代谢，分步骤解析影响浓度的关键变量](./创意工具/blood-alcohol-concentration-bac-calculator-guide.md) — 2024-12-08
 - [找不到心仪歌曲的歌词或下载资源？试试音微网：一站式免费音乐搜索与歌词查询方案](./创意工具/music-lyrics-search-solution-yinweiwang.md) — 2024-12-08
+- [YYeTs-人人影视全站数据库备份：含字幕资源，支持本地部署与离线下载](./创意工具/yyets-database-backup-subtitles-local-deployment.md) — 2024-12-08
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
