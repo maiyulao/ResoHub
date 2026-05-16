@@ -2703,6 +2703,7 @@
 - [短视频运营核心逻辑：从底层思维到实操增长的系统化指南](./实战指南/short-video-operation-guide.md) — 2024-12-09
 - [男方家庭婚礼摄影：高级感摆拍姿势与构图实操指南](./实战指南/groom-family-wedding-photography-guide.md) — 2024-12-09
 - [总是担心谈判中被对方牵着走？通过这20个实操技巧，将输赢博弈转变为共赢方案](./实战指南/20-negotiation-tips-for-win-win-outcomes.md) — 2024-12-09
+- [婚礼摄影新手入门指南：从零开始的拍摄实操步骤](./实战指南/wedding-photography-beginner-guide.md) — 2024-12-08
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
