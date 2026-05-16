@@ -2714,6 +2714,7 @@
 - [32套高情商沟通模型：适用场景分析与实操话术指南](./实战指南/32-high-eq-communication-models-guide.md) — 2024-12-08
 - [想在视频号通过直播课变现却不知如何起号？这份从0到1的带货实操方案为你拆解全流程](./实战指南/video-channel-livestream-monetization-guide.md) — 2024-12-08
 - [高效识人与用人：复旦讲师总结的15项实操技巧](./实战指南/fudan-lecturer-15-tips-for-talent-recruitment-and-management.md) — 2024-12-08
+- [UI设计师学习动效的实操路径：从零起步的进阶指南](./实战指南/ui-designer-motion-design-learning-path.md) — 2024-12-07
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
