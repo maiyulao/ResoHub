@@ -1521,6 +1521,7 @@
 - [想快速了解某个城市或地点的公共交通覆盖情况？试试用多寻地图一键查询铁路与公交辐射范围](./创意工具/check-public-transport-coverage-with-duoxun-map.md) — 2024-12-03
 - [如何使用 Picseal 为多品牌照片生成徕卡风格水印：操作指南](./创意工具/picseal-leica-style-watermark-guide.md) — 2024-12-02
 - [动态 M3U 播放列表生成器：实现个性化直播源定制指南](./创意工具/dynamic-m3u-playlist-generator-guide.md) — 2024-12-02
+- [Li番 Emby 电影库刮削元数据集 (1991-2023) 下载与配置指南](./创意工具/li-ban-emby-movie-metadata-guide.md) — 2024-12-01
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
