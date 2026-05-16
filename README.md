@@ -1509,6 +1509,7 @@
 - [高情商聊天实操指南：提升女性吸引力的沟通步骤详解](./大人学习课程/high-eq-chatting-guide-for-attraction.md) — 2024-12-26
 - [杨林《夫妻双修功》PDF电子版下载及阅读环境指南](./大人学习课程/fufu-shuangxiu-gong-pdf-download.md) — 2024-12-26
 - [男性盆底肌强化指南：改善核心功能与性健康训练实操](./大人学习课程/mens-pelvic-floor-exercises-core-and-sexual-health.md) — 2024-12-23
+- [异性社交心理破冰指南：魔卡实战技巧与认知提升](./大人学习课程/social-icebreaking-guide-moka-tips.md) — 2024-12-19
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
