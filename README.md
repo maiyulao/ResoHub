@@ -372,6 +372,7 @@
 - [想给项目快速做个Logo却不想花钱请设计？试试开源的 LogoCreator](./AI工具教程/open-source-logocreator-free-logo-maker.md) — 2024-12-21
 - [HivisionIDPhotos：基于 AI 的轻量化证件照生成方案](./AI工具教程/hivisionidphotos-ai-id-photo-generator.md) — 2024-12-21
 - [CerebrasCoder 开源部署指南：基于自然语言快速构建 AI 网站应用](./AI工具教程/cerebrascoder-deployment-guide-ai-website-builder.md) — 2024-12-20
+- [PDF翻译后排版乱掉怎么解决？试试 SimplifyAI：基于 GPT 且能原样保留格式的文档翻译方案](./AI工具教程/simplifyai-pdf-translation-keep-layout.md) — 2024-12-20
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
