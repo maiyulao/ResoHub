@@ -2777,6 +2777,7 @@
 - [Midjourney 全流程实操指南：从账号配置到高阶提示词技巧](./实战指南/midjourney-complete-guide-setup-to-advanced-prompts.md) — 2024-11-30
 - [超强学习能力养成术全集：高效能学习方法指南及资源下载](./实战指南/high-efficiency-learning-methods-guide.md) — 2024-11-30
 - [Python 全栈开发：从企业级架构设计到工业级落地实践](./实战指南/python-fullstack-enterprise-architecture-practice.md) — 2024-11-30
+- [高效新媒体内容创作实操手册：从核心传播逻辑到多平台写作技巧详解](./实战指南/new-media-content-creation-guide.md) — 2024-11-29
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
