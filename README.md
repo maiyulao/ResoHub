@@ -1597,6 +1597,7 @@
 - [想通过微信趣聊提升变现能力？揭秘“魔鬼咨询师”阮琦的实战陪跑逻辑](./大人学习课程/wechat-qu-liao-monstert-consultant-ruanqi-logic.md) — 2024-12-11
 - [正阳：构建亲密关系长期健康运行的实践指南](./大人学习课程/guide-to-healthy-long-term-intimate-relationships.md) — 2024-12-08
 - [高价值社交博弈：从心理机制到实操技巧的约会进阶指南](./大人学习课程/high-value-social-game-dating-guide.md) — 2024-12-06
+- [高效社交沟通指南：提升聊天质量的实操步骤](./大人学习课程/effective-social-communication-guide-2.md) — 2024-11-30
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
