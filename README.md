@@ -2717,6 +2717,7 @@
 - [UI设计师学习动效的实操路径：从零起步的进阶指南](./实战指南/ui-designer-motion-design-learning-path.md) — 2024-12-07
 - [ME老师达芬奇调色实战教程：资源下载与软件环境配置指南](./实战指南/me-davinci-resolve-tutorial-resources-and-setup.md) — 2024-12-07
 - [专业级PPT视觉设计指南：从逻辑构建到美学呈现](./实战指南/professional-ppt-visual-design-guide.md) — 2024-12-07
+- [学术论文核心写作实操手册：从逻辑构建到高效成稿](./实战指南/academic-writing-guide-logic-to-drafting.md) — 2024-12-07
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
