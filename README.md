@@ -1460,6 +1460,7 @@
 - [深度解析《坏男孩学院 1980》：通过自我重塑挽回爱情的心理路径](./大人学习课程/bad-boys-academy-1980-psychology-of-self-reconstruction.md) — 2025-01-02
 - [掌握情绪管理核心逻辑：拆解《情商基础》中的认知模型与实践路径](./大人学习课程/emotional-intelligence-cognitive-model-and-practice.md) — 2024-12-31
 - [心理韧性与自信心重塑指南：通过系统化训练建立稳固的内心支撑体系](./大人学习课程/resilience-and-confidence-rebuilding-guide.md) — 2024-12-31
+- [高效相亲实操指南：通过21项关键细节优化，提升初次见面成功率](./大人学习课程/blind-date-success-guide-21-tips.md) — 2024-12-28
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
