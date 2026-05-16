@@ -573,6 +573,7 @@
 - [高效专注指南：White Noise Generator 在线白噪音工具使用详解](./GitHub项目/white-noise-generator-guide.md) — 2024-12-14
 - [EasyTransfer：实现匿名端到端加密的文件传输，兼顾隐私安全与开源透明](./GitHub项目/easytransfer-anonymous-e2e-encrypted-file-transfer.md) — 2024-12-14
 - [面对技术博客关站，如何高效备份并整理积累的文字摘抄？](./GitHub项目/backup-and-organize-blog-notes.md) — 2024-12-13
+- [Pandora Helper：实现 ChatGPT Plus 与 Claude Pro 账号共享的开源方案](./GitHub项目/pandora-helper-chatgpt-claude-account-sharing.md) — 2024-12-08
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
