@@ -1534,6 +1534,7 @@
 - [想给另一半制造惊喜却没主意？试试这款能增加亲密感的飞行棋游戏](./创意工具/intimacy-flying-chess-game-surprise-partner.md) — 2024-11-29
 - [Poetry Strands：通过古诗连词机制重塑文学学习体验](./创意工具/poetry-strands-literary-learning-experience.md) — 2024-11-29
 - [想听郭德纲的相声合集却找不到完整免费资源？这里有全集在线收听指南](./创意工具/guo-degang-xiangsheng-collection-free-guide.md) — 2024-11-28
+- [黑神话：悟空妖怪图鉴查询与收集全攻略：从解锁到完整攻略的实操步骤](./创意工具/black-myth-wukong-monster-guide-collection.md) — 2024-11-26
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
