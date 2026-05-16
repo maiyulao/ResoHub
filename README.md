@@ -2750,6 +2750,7 @@
 - [Photoshop 2025 核心技能进阶指南：从基础操作到高级实战](./实战指南/photoshop-2025-advanced-guide.md) — 2024-12-04
 - [XSH云视频：无需付费的在线VIP视频解析方案](./实战指南/xsh-free-online-vip-video-parser.md) — 2024-12-04
 - [郑翔洲商业模式创新：94个实战案例深度解析](./实战指南/zheng-xiangzhou-business-model-innovation-94-cases.md) — 2024-12-03
+- [2024全球局势深度复盘：核心趋势解析与关键事件影响评估（刘怡）](./实战指南/2024-global-situation-review-trends-impact.md) — 2024-12-03
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
