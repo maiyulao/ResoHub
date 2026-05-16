@@ -2599,6 +2599,7 @@
 - [抖音图文带货实操指南：从内容创作到转化流程解析](./实战指南/douyin-image-text-ecommerce-guide.md) — 2024-12-24
 - [2024 豆瓣年度电影精选：高分佳作与趋势分析](./实战指南/2024-douban-best-movies-analysis.md) — 2024-12-24
 - [从零起步：小红书虚拟产品电商运营全流程操作指南](./实战指南/xiaohongshu-virtual-product-ecommerce-guide-2.md) — 2024-12-24
+- [面对职场竞争压力，如何构建核心竞争力以实现不可替代？](./实战指南/build-core-competitiveness-at-work.md) — 2024-12-23
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
