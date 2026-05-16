@@ -1605,6 +1605,7 @@
 - [高价值社交博弈：从心理机制到实操技巧的约会进阶指南](./大人学习课程/high-value-social-game-dating-guide.md) — 2024-12-06
 - [高效社交沟通指南：提升聊天质量的实操步骤](./大人学习课程/effective-social-communication-guide-2.md) — 2024-11-30
 - [《中国回春秘诀》PDF版下载：适用人群与阅读注意事项](./大人学习课程/china-rejuvenation-secrets-pdf-download.md) — 2024-11-29
+- [李熙墨的压力管理指南：DD保健操的实践与效用](./大人学习课程/li-ximo-stress-management-dd-exercise.md) — 2024-11-28
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
