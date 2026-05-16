@@ -2571,6 +2571,7 @@
 - [钱老师的阶层跃迁之路：从底层积累到实现财务自由](./实战指南/mr-qians-path-to-financial-freedom.md) — 2024-12-27
 - [从逻辑拆解到可视化呈现：绘制四大名著思维导图的四个步骤](./实战指南/four-steps-to-mind-map-four-classic-novels.md) — 2024-12-27
 - [年终总结与绩效考核模版集：涵盖调薪、评优及奖金申请场景的实操指南](./实战指南/year-end-review-performance-appraisal-templates.md) — 2024-12-26
+- [高效职场社交：18个实操层面的处世逻辑](./实战指南/professional-social-skills-18-logic.md) — 2024-12-26
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
