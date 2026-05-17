@@ -1613,6 +1613,7 @@
 - [如何让 ChatGPT 摆脱 AI 味？通过精准的角色设定优化对话质量](./创意工具/how-to-remove-ai-flavor-from-chatgpt-with-persona-settings.md) — 2024-11-03
 - [虎扑每日好身材大赛图集：资源获取路径与浏览指南](./创意工具/hupu-daily-body-gallery-guide.md) — 2024-11-01
 - [雨花阁：极简主义的磁力资源检索工具](./创意工具/yuhuage-minimalist-magnet-search-tool.md) — 2024-11-01
+- [天涯社区经典神贴在线阅读与检索指南：三步快速访问合集](./创意工具/tianya-classic-posts-reading-guide.md) — 2024-11-01
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
