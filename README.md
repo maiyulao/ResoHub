@@ -1605,6 +1605,7 @@
 - [高效PDF格式转换方案：支持多端在线操作，实现文档与图像的快速互转](./创意工具/efficient-pdf-conversion-online.md) — 2024-11-05
 - [AirPods Pro 2 听力测试功能：操作指南与评估原理分析](./创意工具/airpods-pro-2-hearing-test-guide-and-analysis.md) — 2024-11-05
 - [波兰影视资源站 35mm.online：合法且免费的修复版内容库](./创意工具/35mm-online-polish-movie-resource-site.md) — 2024-11-04
+- [大青龙经方实战笔记：深度解析中医经典名方及其临床应用知识体系](./创意工具/da-qing-long-jing-fang-clinical-notes.md) — 2024-11-04
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
