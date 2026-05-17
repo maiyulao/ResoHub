@@ -391,6 +391,7 @@
 - [kaze.ai 使用指南：无需安装的在线 AI 图片去水印工具及操作要点](./AI工具教程/kaze-ai-image-watermark-remover-guide.md) — 2024-11-28
 - [想快速做出专业海报却没时间学设计？试试这款免费 AI 在线生成器](./AI工具教程/free-ai-poster-generator.md) — 2024-11-26
 - [面对海量AI资讯不知如何筛选？尝试用开源工具 Wiseflow 搭建你的自动化情报挖掘系统](./AI工具教程/build-automated-intelligence-system-with-wiseflow.md) — 2024-11-25
+- [Future Planner 使用指南：通过 3 个步骤计算你的财务自由时间表](./AI工具教程/future-planner-financial-freedom-guide.md) — 2024-11-23
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
