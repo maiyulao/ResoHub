@@ -2873,6 +2873,7 @@
 - [婚恋关系心理学：96个实操要点与认知模型](./实战指南/relationship-psychology-96-tips-and-models.md) — 2024-11-16
 - [解析男哥的成功逻辑：因果论如何驱动阶层跃迁](./实战指南/nangge-success-logic-causality-class-mobility.md) — 2024-11-16
 - [16天自动化获客文案特训营6.0：实操变现技巧与全流程指南](./实战指南/16-day-automated-customer-acquisition-copywriting-camp-60.md) — 2024-11-16
+- [居家风水实操指南：简明讲座资源及环境应用要点](./实战指南/home-feng-shui-practical-guide.md) — 2024-11-16
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
