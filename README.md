@@ -715,6 +715,7 @@
 - [macOS 录屏工具太臃肿或功能受限？尝试这款轻量开源的 QuickRecorder](./Mac软件/quickrecorder-lightweight-macos-screen-recorder.md) — 2024-12-01
 - [so-novel 开源小说下载工具：支持跨平台部署与免安装快速启动](./Mac软件/so-novel-open-source-novel-downloader.md) — 2024-11-26
 - [Windsurf：Codeium 打造的 AI 原生编辑器，通过深度上下文感知实现流畅的端到端编程体验](./Mac软件/windsurf-codeium-ai-native-ide.md) — 2024-11-16
+- [LICEcap 评测：轻量化 GIF 屏幕录制工具的操作指南与实测](./Mac软件/licecap-review-gif-screen-recorder-guide.md) — 2024-11-12
 
 ### Windows软件
 - [觉得 Win+V 记录太少且不够灵活？试试开源的本地剪贴板增强工具 ElegantClipboard](./Windows软件/elegant-clipboard-windows-clipboard-manager.md) — 2026-05-11
