@@ -1647,6 +1647,7 @@
 - [DL熊猫：高效下载 X (Twitter) 视频的实用工具指南](./创意工具/dl-panda-twitter-video-downloader-guide.md) — 2024-10-22
 - [搜搜盘：高效定位全网盘资源的聚合搜索工具，支持多平台快速索引与精准筛选](./创意工具/sousoupan-cloud-resource-search-tool.md) — 2024-10-22
 - [基督教在线传教海报设计指南与素材方案](./创意工具/christian-online-mission-poster-design-guide.md) — 2024-10-22
+- [使用 EIZO Monitor Test 在线检测显示器质量的详细步骤](./创意工具/eizo-monitor-test-guide.md) — 2024-10-22
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
