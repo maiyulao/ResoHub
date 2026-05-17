@@ -3014,6 +3014,7 @@
 - [手机摄影后期全流程实操：从色彩调优到细节精修（含完整源码课件）](./实战指南/mobile-photography-post-processing-guide.md) — 2024-10-26
 - [电商赛道如何避坑且高效盈利？详解竞争对手分析系统与8大盈利体系](./实战指南/ecommerce-profit-strategy-and-competitor-analysis.md) — 2024-10-25
 - [实战主播进阶指南：从产品逻辑、用户洞察到人性把控的维度解析](./实战指南/livestreamer-advanced-guide-product-logic-user-insight-human-nature.md) — 2024-10-25
+- [从基础到高分的985名校学习路径：高效提分操作指南](./实战指南/985-study-path-guide.md) — 2024-10-25
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
