@@ -2986,6 +2986,7 @@
 - [想把玄学内容转化为稳定收益？拆解一套可落地的知识变现路径与商业模式](./实战指南/metaphysics-knowledge-monetization-business-model.md) — 2024-10-29
 - [媒老板销售文案训练营全集：实战卖货技巧与千万级转化案例分析](./实战指南/media-boss-sales-copywriting-training-camp.md) — 2024-10-29
 - [电商起步没流量怎么破？拆解一套可复制的线上流量增长体系](./实战指南/ecommerce-traffic-growth-system.md) — 2024-10-28
+- [成龙动作电影经典作品清单与回顾](./实战指南/jakie-chan-action-movies-list-review.md) — 2024-10-28
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
