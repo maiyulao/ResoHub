@@ -1694,6 +1694,7 @@
 - [魔镜原创摄影系列：瑜伽裤拍摄技巧与视觉呈现操作指南](./大人学习课程/yoga-pants-photography-guide.md) — 2024-11-08
 - [2020-2023年河北教师教学实录：涵盖三年度核心知识点与课堂笔记精选](./大人学习课程/hebei-teacher-teaching-records-2020-2023.md) — 2024-11-05
 - [推特优质学习资源精选：多媒体图文与视频资料汇总](./大人学习课程/best-twitter-learning-resources-collection.md) — 2024-11-03
+- [早泄全解析：发病机制、临床诊断与治疗方案](./大人学习课程/premature-ejaculation-guide.md) — 2024-11-02
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
