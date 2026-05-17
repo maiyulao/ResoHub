@@ -2969,6 +2969,7 @@
 - [利用AI高效运营小红书：从账号搭建到实现盈利的实操全流程](./实战指南/ai-xiaohongshu-growth-and-monetization-guide.md) — 2024-11-01
 - [白夜剧场117部有声小说全集资源汇总](./实战指南/white-night-theater-117-audiobooks-collection.md) — 2024-11-01
 - [手机拍摄运营实战指南：全赛道场景模拟与移动端影像创作教程](./实战指南/mobile-photography-operation-guide.md) — 2024-10-31
+- [Stable Diffusion 进阶实战：从 2.0 机甲重绘到高品质 B 端 3D 图标设计](./实战指南/stable-diffusion-advanced-mecha-redrawing-3d-icons.md) — 2024-10-31
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
