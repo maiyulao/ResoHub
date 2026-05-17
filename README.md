@@ -609,6 +609,7 @@
 - [想安装旧版微信但找不到官方下载入口？Mac与Windows历史版本归档指南](./GitHub项目/download-old-version-wechat-mac-windows-guide.md) — 2024-11-14
 - [Mac 强制开启 Apple Intelligence 与 Xcode LLM：通过 Darwin Eligibility Override 绕过硬件限制](./GitHub项目/mac-force-enable-apple-intelligence-xcode-llm-darwin-eligibility-override.md) — 2024-11-12
 - [GitHub 快速上手指南：从账号注册到项目提交的实操步骤](./GitHub项目/github-beginner-guide-registration-to-commit.md) — 2024-11-08
+- [想让IPTV直播源不再失效？试试用Guovin TV实现自动化更新](./GitHub项目/guovin-tv-iptv-auto-update.md) — 2024-10-31
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
