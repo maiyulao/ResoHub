@@ -1685,6 +1685,7 @@
 - [随机女性短视频素材集：编号2345系列](./创意工具/random-women-short-video-assets-2345.md) — 2024-10-11
 - [爱壹帆高清视频资源库：提供海量免费在线播放，支持多端流畅观影与极速加载](./创意工具/aiyifan-hd-video-library.md) — 2024-10-11
 - [SoundGator：高品质免版税音效资源库指南](./创意工具/soundgator-royalty-free-sound-effects-guide.md) — 2024-10-10
+- [想在浏览器中直接运行19+成人游戏？试试 LusGodd 在线玩无需下载](./创意工具/play-lusgodd-online-browser-adult-games.md) — 2024-10-09
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
