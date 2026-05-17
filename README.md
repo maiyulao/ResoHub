@@ -1672,6 +1672,7 @@
 - [韩剧短剧往期资源合集：支持多平台观看及内容筛选指南](./大人学习课程/korean-short-drama-collection-guide.md) — 2024-11-23
 - [抖音高颜值博主短视频精选：涵盖热门视觉风格与优质内容合集](./大人学习课程/douyin-beautiful-bloggers-short-video-collection.md) — 2024-11-18
 - [脱单实战指南：从零开始的社交破冰与心智建设](./大人学习课程/dating-guide-social-icebreaking-mindset.md) — 2024-11-17
+- [魔镜原创摄影系列：瑜伽裤拍摄技巧与视觉呈现操作指南](./大人学习课程/yoga-pants-photography-guide.md) — 2024-11-08
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
