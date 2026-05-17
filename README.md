@@ -2891,6 +2891,7 @@
 - [抖音直播全流程话术指南：从高转化文案到场景化引导技巧](./实战指南/douyin-livestream-scripts-guide.md) — 2024-11-13
 - [健康养生类素人IP起号指南：从账号矩阵搭建至月入万元的实操步骤](./实战指南/health-wellness-ip-startup-guide.md) — 2024-11-13
 - [斯图尔特·戴蒙德沃顿商学院谈判课程资源：学习路径与实战要点解析](./实战指南/stuart-diamond-wharton-negotiation-course-guide.md) — 2024-11-13
+- [小红书笔记带货与无人直播：从策略布局到实操落地](./实战指南/xiaohongshu-ecommerce-and-unmanned-livestreaming.md) — 2024-11-13
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
