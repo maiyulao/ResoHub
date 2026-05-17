@@ -463,6 +463,7 @@
 - [想在手机没在身边时实时接收来电和短信通知？试试开源免费的 Notify Me](./Android应用/notify-me-open-source-phone-notifications.md) — 2024-10-19
 - [影梭：无需Root权限的开源虚拟定位方案](./Android应用/opensource-virtual-location-no-root.md) — 2024-10-19
 - [LocalSend：无需配置的开源局域网互传方案，支持多平台高效同步文件](./Android应用/localsend-open-source-local-file-transfer.md) — 2024-10-19
+- [Ucmate多平台视频与音乐下载指南：支持YouTube及主流站点，含安装与使用要点](./Android应用/ucmate-video-music-download-guide.md) — 2024-10-08
 
 ### Category 9166
 - [如何使用 Data-Analysis-Agent 通过自然语言查询数据库：开源配置与操作指南](./Category 9166/data-analysis-agent-natural-language-database-query-guide.md) — 2026-05-12
