@@ -1558,6 +1558,7 @@
 - [全格式在线压缩工具 FreeCompress：一站式实现音视频、文档及代码文件的体积优化](./创意工具/freecompress-online-file-compression-tool.md) — 2024-11-21
 - [KMSCX：自动化KMS激活脚本生成指南](./创意工具/kmscx-automated-kms-activation-script-guide.md) — 2024-11-21
 - [高效离线存储 Spotify 音乐：免费下载工具的功能实现与操作指南](./创意工具/download-spotify-music-offline-guide.md) — 2024-11-21
+- [独立开发者海外公司注册指南：办理流程、适用场景与避坑要点](./创意工具/overseas-company-registration-guide-for-indie-hackers.md) — 2024-11-20
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
