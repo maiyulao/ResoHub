@@ -874,6 +874,7 @@
 - [刘坚强《麻将学技术训练与技巧》全集：实战技巧指南及获取路径](./兴趣爱好/liu-jianqiang-mahjong-techniques-guide.md) — 2024-12-05
 - [爱棋道少儿围棋1-6段全阶课程体系详解](./兴趣爱好/aiqidao-children-go-curriculum-1-6-dan.md) — 2024-12-01
 - [台球分级教学资源（入门至进阶1-4级）：适用场景与获取指南](./兴趣爱好/billiards-grading-teaching-resources-guide.md) — 2024-11-21
+- [从零开始的吉他进阶指南：由基础入门至高级演奏的系统学习路径](./兴趣爱好/guitar-learning-guide-beginner-to-advanced.md) — 2024-11-12
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
