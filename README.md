@@ -2828,6 +2828,7 @@
 - [团购直播话术实操教程：含场景模版与适用环境指南](./实战指南/group-buy-livestreaming-scripts-guide.md) — 2024-11-24
 - [思维逆转术全集：认知升级实操指南与核心方法论下载](./实战指南/cognitive-upgrade-methodology-guide.md) — 2024-11-23
 - [小红书电商起步指南：从零基础到店铺实操的运营全流程](./实战指南/xiaohongshu-ecommerce-guide-for-beginners-2.md) — 2024-11-23
+- [通过21个核心环节拆解被动成交逻辑：天龙七步实操指南](./实战指南/passive-sales-logic-tianlong-7-steps-guide.md) — 2024-11-22
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
