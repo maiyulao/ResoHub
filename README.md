@@ -1601,6 +1601,7 @@
 - [Google Play 应用 APK 在线提取与第三方下载渠道指南（含环境要求与注意事项）](./创意工具/google-play-apk-online-extractor-download-guide.md) — 2024-11-07
 - [Switch游戏资源库：支持免费下载及安装环境配置指南](./创意工具/switch-game-library-free-download-install-guide.md) — 2024-11-05
 - [小红书私域引流方案：高效生成加微引导图的实操指南](./创意工具/xiaohongshu-private-traffic-guide-images.md) — 2024-11-05
+- [高效PDF格式转换方案：支持多端在线操作，实现文档与图像的快速互转](./创意工具/efficient-pdf-conversion-online.md) — 2024-11-05
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
