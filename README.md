@@ -1668,6 +1668,7 @@
 - [成人文学创作与阅读技巧：从入门到进阶的操作指南](./创意工具/adult-literature-writing-reading-guide.md) — 2024-10-17
 - [AICU：B站用户评论与弹幕查询工具（安装指南及使用环境）](./创意工具/aicu-bilibili-comment-bullet-chat-tool-guide.md) — 2024-10-17
 - [想把一张大图快速切分成多张小图？试试这款在线图片分割工具](./创意工具/online-image-splitter-tool.md) — 2024-10-16
+- [全国各省市事业单位考编资讯汇总及配套复习资源下载指南](./创意工具/china-public-institution-exam-info-and-resources.md) — 2024-10-16
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
