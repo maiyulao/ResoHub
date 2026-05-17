@@ -455,6 +455,7 @@
 - [如何使用剂安安 App 快速分析食品配料表：操作指南](./Android应用/jian-an-app-food-ingredient-analysis-guide.md) — 2024-10-31
 - [找不到冷门资源的磁力链接？试试这款无广告的BT种子搜索工具比特舟Pro](./Android应用/bitzhou-pro-bt-torrent-search-tool.md) — 2024-10-26
 - [想在手机没在身边时实时接收来电和短信通知？试试开源免费的 Notify Me](./Android应用/notify-me-open-source-phone-notifications.md) — 2024-10-19
+- [影梭：无需Root权限的开源虚拟定位方案](./Android应用/opensource-virtual-location-no-root.md) — 2024-10-19
 
 ### Category 9166
 - [如何使用 Data-Analysis-Agent 通过自然语言查询数据库：开源配置与操作指南](./Category 9166/data-analysis-agent-natural-language-database-query-guide.md) — 2026-05-12
