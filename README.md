@@ -2887,6 +2887,7 @@
 - [抖音图文带货实操指南：从零起步到月入万元的15天执行计划](./实战指南/douyin-graphic-commerce-guide-15-day-plan.md) — 2024-11-14
 - [影视解说混剪搬运全流程实操指南：从素材获取到成品输出的完整教学](./实战指南/movie-commentary-video-editing-guide.md) — 2024-11-14
 - [高效沟通与谈判实操指南：掌握化解冲突并达成目标的对话技巧](./实战指南/effective-communication-and-negotiation-guide.md) — 2024-11-14
+- [从零到精通：Adobe Premiere Pro 视频剪辑实战全流程教程](./实战指南/adobe-premiere-pro-video-editing-tutorial.md) — 2024-11-13
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
