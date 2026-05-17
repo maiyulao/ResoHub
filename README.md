@@ -818,6 +818,7 @@
 - [2024年度豆瓣高分书单：精选年度口碑佳作，分领域解析阅读趋势与核心价值](./书籍/2024-douban-best-books-list.md) — 2024-12-21
 - [男性健康全周期管理指南：基于《道法自然》的系统性调理方案与PDF实操手册](./书籍/mens-health-management-guide-dao-fa-zi-ran.md) — 2024-12-12
 - [掌握社交情商：提升人际交往能力的实践指南](./书籍/master-social-intelligence-guide.md) — 2024-12-11
+- [想在一个月内快速提升个人魅力并赢得心仪男性的好感？试试这套28天进阶方案](./书籍/28-day-charm-improvement-guide.md) — 2024-11-04
 
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
