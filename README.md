@@ -914,6 +914,7 @@
 - [台球分级教学资源（入门至进阶1-4级）：适用场景与获取指南](./兴趣爱好/billiards-grading-teaching-resources-guide.md) — 2024-11-21
 - [从零开始的吉他进阶指南：由基础入门至高级演奏的系统学习路径](./兴趣爱好/guitar-learning-guide-beginner-to-advanced.md) — 2024-11-12
 - [高效塑形指南：每周3小时的科学健身方案与实践](./兴趣爱好/efficient-body-sculpting-3-hour-weekly-workout-plan.md) — 2024-10-30
+- [100余道家常菜实操教程：零基础上手指南与核心烹饪技巧](./兴趣爱好/100-home-cooking-recipes-guide-and-tips.md) — 2024-10-17
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
