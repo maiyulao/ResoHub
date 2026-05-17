@@ -2937,6 +2937,7 @@
 - [职场人AI效率指南：从零开始掌握ChatGPT的实用进阶路径](./实战指南/ai-efficiency-guide-chatgpt-learning-path.md) — 2024-11-06
 - [健身门店抖音同城获客指南：从短视频直播引流到标准化承接的实操步骤](./实战指南/gym-douyin-local-customer-acquisition-guide.md) — 2024-11-06
 - [获取8000张淘宝内衣买家秀图片的实操流程](./实战指南/taobao-lingerie-buyer-show-images-guide.md) — 2024-11-06
+- [外贸AI实操课程：从基础配置到进阶应用（含场景实操与获取指南）](./实战指南/foreign-trade-ai-practical-course.md) — 2024-11-05
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
