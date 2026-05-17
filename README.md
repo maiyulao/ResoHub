@@ -2857,6 +2857,7 @@
 - [青少年社交能力培养：24 课时实操训练指南](./实战指南/teen-social-skills-training-guide.md) — 2024-11-18
 - [想看孙艺珍的电影却不知从哪部开始？这份主演作品清单帮你快速筛选](./实战指南/son-ye-jin-movie-list-guide.md) — 2024-11-17
 - [28天短视频运营求职实战：从项目操作到拿到Offer的执行步骤](./实战指南/28-day-short-video-career-guide.md) — 2024-11-17
+- [YouTube 运营实战训练营：国内系统化教学方案及长期流量获取指南](./实战指南/youtube-growth-training-guide.md) — 2024-11-17
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
