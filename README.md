@@ -751,6 +751,7 @@
 - [Ryujinx 安装与配置指南：从环境搭建到运行 Switch 游戏的完整步骤](./Mac软件/ryujinx-installation-and-configuration-guide.md) — 2024-11-10
 - [想在 M 系列芯片 Mac 上安装 macOS 12 或更高版本虚拟机？试试开源工具 VirtualBuddy](./Mac软件/virtualbuddy-macos-vm-m-series-mac.md) — 2024-10-27
 - [想要快速绘制手绘感线框图？试试这款轻量化原型工具 Frame0](./Mac软件/frame0-lightweight-hand-drawn-wireframe-tool.md) — 2024-10-22
+- [DeskPad：macOS 虚拟显示器开源方案，支持通过屏幕共享扩展显示空间](./Mac软件/deskpad-macos-virtual-display-open-source.md) — 2024-10-12
 
 ### Windows软件
 - [觉得 Win+V 记录太少且不够灵活？试试开源的本地剪贴板增强工具 ElegantClipboard](./Windows软件/elegant-clipboard-windows-clipboard-manager.md) — 2026-05-11
