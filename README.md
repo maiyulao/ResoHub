@@ -3081,6 +3081,7 @@
 - [Python爬虫实战指南：通过10个完整项目快速掌握数据抓取全流程](./实战指南/python-crawler-projects-guide.md) — 2024-10-15
 - [AI 驱动静态照片动态化：让亲人影像“活起来”的实操指南](./实战指南/ai-animate-static-photos-guide.md) — 2024-10-14
 - [零门槛图文带货实操指南：无需出镜与发货的获利步骤详解](./实战指南/zero-threshold-graphic-affiliate-guide.md) — 2024-10-13
+- [小红书爆款内容拆解：从底层逻辑到21天实操指南](./实战指南/xiaohongshu-content-strategy-guide.md) — 2024-10-13
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
