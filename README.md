@@ -1559,6 +1559,7 @@
 - [KMSCX：自动化KMS激活脚本生成指南](./创意工具/kmscx-automated-kms-activation-script-guide.md) — 2024-11-21
 - [高效离线存储 Spotify 音乐：免费下载工具的功能实现与操作指南](./创意工具/download-spotify-music-offline-guide.md) — 2024-11-21
 - [独立开发者海外公司注册指南：办理流程、适用场景与避坑要点](./创意工具/overseas-company-registration-guide-for-indie-hackers.md) — 2024-11-20
+- [深度解析 NSF Sw：面向成年用户的短视频学习平台指南](./创意工具/nsfsw-short-video-learning-guide.md) — 2024-11-20
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
