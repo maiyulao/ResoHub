@@ -3086,6 +3086,7 @@
 - [零门槛图文带货实操指南：无需出镜与发货的获利步骤详解](./实战指南/zero-threshold-graphic-affiliate-guide.md) — 2024-10-13
 - [小红书爆款内容拆解：从底层逻辑到21天实操指南](./实战指南/xiaohongshu-content-strategy-guide.md) — 2024-10-13
 - [职场社交中的饮酒艺术：从心态建设到实操技巧的《酒饮真经》指南](./实战指南/workplace-drinking-etiquette-guide-2.md) — 2024-10-13
+- [茶饮连锁线上增长实战指南：从精细化运营提升门店单店产出与用户留存](./实战指南/tea-chain-online-growth-guide.md) — 2024-10-13
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
