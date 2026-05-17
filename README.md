@@ -2945,6 +2945,7 @@
 - [外贸AI实操课程：从基础配置到进阶应用（含场景实操与获取指南）](./实战指南/foreign-trade-ai-practical-course.md) — 2024-11-05
 - [跨行入职指南：职场新人如何快速识别并捕捉成长机会](./实战指南/career-change-growth-opportunities-guide.md) — 2024-11-05
 - [面试识人指南：通过行为痕迹精准评估候选人的操作步骤](./实战指南/interview-candidate-assessment-guide.md) — 2024-11-04
+- [万象台高投产实操指南：底层逻辑拆解与多计划工具组合配置方案](./实战指南/wanxiangtai-high-roi-guide-logic-and-tools-config.md) — 2024-11-04
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
