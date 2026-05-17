@@ -2952,6 +2952,7 @@
 - [抖音私域转化体系构建指南：从流量引导到长期盈利的实操链路](./实战指南/douyin-private-traffic-conversion-guide.md) — 2024-11-04
 - [命理行业入局指南：从零起步实现日入千元的实操步骤](./实战指南/numerology-business-guide-daily-1000-income.md) — 2024-11-04
 - [如何通过行为痕迹精准洞察员工状态，实现高效且灵活的管理？](./实战指南/employee-behavior-insights-flexible-management.md) — 2024-11-03
+- [淘系直搜实操指南：直通车协同手淘搜索的进阶运营方案](./实战指南/taobao-search-direct-train-guide.md) — 2024-11-03
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
