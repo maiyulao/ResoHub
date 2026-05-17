@@ -1627,6 +1627,7 @@
 - [RadioStay：全球多语种在线广播站资源获取及使用指南](./创意工具/radiostay-global-online-radio-guide.md) — 2024-10-30
 - [独立开发者资源库：1000 余项免费工具与开发素材指南](./创意工具/indie-developer-resources-guide.md) — 2024-10-30
 - [NFD网盘直链解析：通过开源方案实现云盘资源直接下载，支持多平台链接快速转换](./创意工具/nfd-direct-link-parser-open-source.md) — 2024-10-29
+- [Storytale 资源库：高效获取专业插图与设计素材](./创意工具/storytale-resource-library.md) — 2024-10-28
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
