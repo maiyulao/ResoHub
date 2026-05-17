@@ -1555,6 +1555,7 @@
 - [Book18 使用指南：快速访问免费在线成人小说资源的步骤详解](./创意工具/book18-user-guide-free-online-adult-novels.md) — 2024-11-21
 - [音乐魔石：支持全网无损MP3格式免费下载的资源站及使用指南](./创意工具/music-magic-stone-free-lossless-mp3-download-guide.md) — 2024-11-21
 - [想在地图上快速对比各平台租房信息？试试这个多源房源爬虫聚合方案](./创意工具/multi-source-rental-housing-crawler-aggregator.md) — 2024-11-21
+- [全格式在线压缩工具 FreeCompress：一站式实现音视频、文档及代码文件的体积优化](./创意工具/freecompress-online-file-compression-tool.md) — 2024-11-21
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
