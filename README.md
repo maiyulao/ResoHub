@@ -2932,6 +2932,7 @@
 - [从零到精通：16课时直播间精细化运营全维度实操指南](./实战指南/livestream-operation-guide-masterclass.md) — 2024-11-06
 - [企业裂变增长实操指南：从策略制定到执行的17个核心步骤](./实战指南/enterprise-growth-hacking-guide-17-steps.md) — 2024-11-06
 - [小石头商业摄影全能班课程资源：适用实操场景及学习要点说明](./实战指南/xiaoshitou-commercial-photography-course-resources.md) — 2024-11-06
+- [职场人AI效率指南：从零开始掌握ChatGPT的实用进阶路径](./实战指南/ai-efficiency-guide-chatgpt-learning-path.md) — 2024-11-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
