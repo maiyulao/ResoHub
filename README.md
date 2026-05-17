@@ -595,6 +595,7 @@
 - [YTCH 安装指南：将 YouTube 频道转化为电视线性频道流的配置方案](./GitHub项目/ytch-installation-guide-youtube-to-linear-channel.md) — 2024-11-22
 - [wechat-dump-rs：针对微信 4.0 聊天记录数据库的解密实现方案](./GitHub项目/wechat-dump-rs-decryption-solution.md) — 2024-11-17
 - [面对不记得设备初始密码的窘境？这份涵盖3000余家厂商的默认凭据清单可帮你快速恢复访问](./GitHub项目/default-password-list-3000-vendors.md) — 2024-11-16
+- [想安装旧版微信但找不到官方下载入口？Mac与Windows历史版本归档指南](./GitHub项目/download-old-version-wechat-mac-windows-guide.md) — 2024-11-14
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
