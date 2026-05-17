@@ -404,6 +404,7 @@
 - [面对写作效率低或灵感枯竭的困境，如何利用言笔AI快速产出高质量内容？](./AI工具教程/improve-writing-efficiency-with-yanbi-ai.md) — 2024-11-06
 - [讯飞星火认知大模型指令集指南：核心能力与应用实践](./AI工具教程/xinghuo-cognitive-model-prompt-guide.md) — 2024-11-03
 - [高效内容生产：基于AI助理的爆款文章创作指南](./AI工具教程/ai-powered-content-creation-guide.md) — 2024-11-03
+- [利用 ChatGPT 自动化创作小红书爆款内容：从提示词构建到内容分发全流程指南](./AI工具教程/chatgpt-xiaohongshu-automation-guide.md) — 2024-11-02
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
