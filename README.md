@@ -2865,6 +2865,7 @@
 - [短视频带货实操指南：构建高效变现链路与长期增长逻辑](./实战指南/short-video-ecommerce-guide-monetization-growth.md) — 2024-11-17
 - [面对资产增值缓慢且缺乏方向的焦虑，如何构建一套可落地的家庭财富增长方案？](./实战指南/family-wealth-growth-strategy.md) — 2024-11-17
 - [小红书第19期商家陪跑计划：通过平台引流实现淘宝爆款升级的实操指南](./实战指南/xiaohongshu-merchant-guide-taobao-traffic-growth.md) — 2024-11-17
+- [婚恋关系心理学：96个实操要点与认知模型](./实战指南/relationship-psychology-96-tips-and-models.md) — 2024-11-16
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
