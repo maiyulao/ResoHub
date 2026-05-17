@@ -1594,6 +1594,7 @@
 - [狐狸君：高质量磁力影视资源检索与下载指南](./创意工具/fox-magnet-movie-resource-guide.md) — 2024-11-10
 - [尿酸高、痛风怎么吃？详解卫健委2024版成人高尿酸血症及三项食养指南](./创意工具/gout-hyperuricemia-diet-guide-2024.md) — 2024-11-09
 - [实操英语习得：将语言视为动态系统，解答学习常见痛点](./创意工具/english-acquisition-dynamic-systems-approach.md) — 2024-11-09
+- [想找高质量的成人文学阅读资源？这份精选小说网站清单为你提供参考](./创意工具/best-adult-literature-websites-list.md) — 2024-11-07
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
