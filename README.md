@@ -1678,6 +1678,7 @@
 - [XiaoJieJie：基于随机算法的在线女性人像生成与展示平台](./创意工具/xiaojiejie-random-ai-female-portrait-generator.md) — 2024-10-13
 - [全网VIP视频资源解析指南：突破播放限制，实现高清内容实时在线观看](./创意工具/vip-video-resource-parsing-guide.md) — 2024-10-13
 - [笔记本电脑价格对比指南：从选择工具到筛选最优报价的实操步骤](./创意工具/laptop-price-comparison-guide.md) — 2024-10-13
+- [BestGirlSX 全球图像资源库：访问路径、适用场景及使用注意事项](./创意工具/bestgirlsx-image-library-guide.md) — 2024-10-12
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
