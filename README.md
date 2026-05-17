@@ -624,6 +624,7 @@
 - [恶意软件分析资源清单：涵盖学习路径、实战工具与环境搭建指南](./GitHub项目/malware-analysis-resources-guide.md) — 2024-10-21
 - [想快速上手出海业务却找不到实操指南？这份 2024 版龙哥大航海手册帮你理清路径](./GitHub项目/2024-global-business-guide-longge-handbook.md) — 2024-10-18
 - [程序员转岗公务员：从技术栈切换到体制内竞争的实操手册](./GitHub项目/programmer-to-civil-servant-guide-2.md) — 2024-10-18
+- [如何使用 DrawStampUtils 在线制作电子印章：具体操作步骤指南](./GitHub项目/how-to-create-electronic-seal-with-drawstamputils.md) — 2024-10-18
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
