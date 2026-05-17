@@ -403,6 +403,7 @@
 - [梦境含义难以捉摸？尝试用这款AI解梦工具解析潜意识信号](./AI工具教程/ai-dream-interpreter-analyze-subconscious.md) — 2024-11-06
 - [面对写作效率低或灵感枯竭的困境，如何利用言笔AI快速产出高质量内容？](./AI工具教程/improve-writing-efficiency-with-yanbi-ai.md) — 2024-11-06
 - [讯飞星火认知大模型指令集指南：核心能力与应用实践](./AI工具教程/xinghuo-cognitive-model-prompt-guide.md) — 2024-11-03
+- [高效内容生产：基于AI助理的爆款文章创作指南](./AI工具教程/ai-powered-content-creation-guide.md) — 2024-11-03
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
