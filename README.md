@@ -2929,6 +2929,7 @@
 - [利用 AI 快速产出高转化卖课文案的 4 步操作指南](./实战指南/ai-high-conversion-course-copywriting-guide.md) — 2024-11-07
 - [2024福布斯中国副业100榜单查询：适用场景与核心选品分析](./实战指南/2024-forbes-china-side-hustle-100-analysis.md) — 2024-11-07
 - [淘宝短视频上下滑流量获取指南：适用场景、转化技巧及直通车对比分析](./实战指南/taobao-short-video-traffic-guide.md) — 2024-11-06
+- [从零到精通：16课时直播间精细化运营全维度实操指南](./实战指南/livestream-operation-guide-masterclass.md) — 2024-11-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
