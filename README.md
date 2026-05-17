@@ -410,6 +410,7 @@
 - [HackAIGC 平台部署指南：支持 NSFW 内容生成且无审查限制的 AI 环境配置](./AI工具教程/hackaigc-deployment-guide-nsfw-uncensored-ai.md) — 2024-10-28
 - [PaperAI 实测：基于真实文献检索与精准引用的 AI 论文写作指南](./AI工具教程/paperai-review-ai-academic-writing-guide.md) — 2024-10-27
 - [Curatle：利用AI重塑购物搜索的智能化体验](./AI工具教程/curatle-ai-shopping-search-experience.md) — 2024-10-26
+- [Luna AI：高效集成的一站式AI换脸技术方案](./AI工具教程/luna-ai-faceswap-solution.md) — 2024-10-18
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
