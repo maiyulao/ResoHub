@@ -1607,6 +1607,7 @@
 - [波兰影视资源站 35mm.online：合法且免费的修复版内容库](./创意工具/35mm-online-polish-movie-resource-site.md) — 2024-11-04
 - [大青龙经方实战笔记：深度解析中医经典名方及其临床应用知识体系](./创意工具/da-qing-long-jing-fang-clinical-notes.md) — 2024-11-04
 - [使用 ToePub 免费转换电子书格式的详细操作步骤](./创意工具/toepub-free-ebook-converter-guide.md) — 2024-11-03
+- [如何让 ChatGPT 摆脱 AI 味？通过精准的角色设定优化对话质量](./创意工具/how-to-remove-ai-flavor-from-chatgpt-with-persona-settings.md) — 2024-11-03
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
