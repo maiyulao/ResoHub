@@ -2902,6 +2902,7 @@
 - [总在刷手机却停不下来？尝试这30个实用技巧摆脱数字化依赖](./实战指南/30-tips-to-break-digital-dependency.md) — 2024-11-11
 - [直通车精准投放指南：从低成本引流到系统化实操](./实战指南/zhitongche-precision-targeting-guide.md) — 2024-11-11
 - [想通过小红书情感虚拟资料变现却不知如何起步？详解黄岛主绿茶计划项目的实操逻辑与变现路径](./实战指南/xiaohongshu-emotional-digital-products-monetization-guide.md) — 2024-11-11
+- [Temu跨境电商全链路实操指南：12天快速完成从入驻核价到正式售卖的闭环流程](./实战指南/temu-ecommerce-onboarding-guide-12-days.md) — 2024-11-10
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
