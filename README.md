@@ -3035,6 +3035,7 @@
 - [TikTok 新手实操避坑手册：核心风险点与避雷指南](./实战指南/tiktok-beginner-guide-avoid-risks.md) — 2024-10-21
 - [GPT自媒体爆文实操指南：14天构建AI创作流，实现内容产出量级突破与变现转化](./实战指南/gpt-content-creation-guide-ai-workflow.md) — 2024-10-21
 - [电商企业股权设计实战：从激励机制到价值增长的10次深度解析](./实战指南/ecommerce-equity-design-guide.md) — 2024-10-20
+- [电商企业财税规划实操指南：从财务管理到线上课学习的五个关键步骤](./实战指南/ecommerce-tax-financial-planning-guide.md) — 2024-10-20
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
