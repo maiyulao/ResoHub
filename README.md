@@ -2845,6 +2845,7 @@
 - [高转化朋友圈运营：基于社交心理学的内容设计与信任构建](./实战指南/high-conversion-wechat-moments-strategy.md) — 2024-11-21
 - [面对繁琐的重复性办公任务，如何利用 AI 工具实现效率翻倍？详解慕课网 AI 高效办公训练营实战指南](./实战指南/ai-office-efficiency-guide-imooc.md) — 2024-11-20
 - [小红书全链路引流实操指南：从账号搭建到精准获客](./实战指南/xiaohongshu-traffic-guide-account-to-acquisition.md) — 2024-11-20
+- [基于CSDN构建的小区物业管理系统：实现业主服务数字化与物业运维高效化](./实战指南/community-property-management-system-csdn.md) — 2024-11-20
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
