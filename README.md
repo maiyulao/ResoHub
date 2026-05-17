@@ -591,6 +591,7 @@
 - [Linux 核心实战指南：从基础指令到系统运维的体系化进阶教程](./GitHub项目/linux-kernel-practical-guide.md) — 2024-11-29
 - [想提升英文输入速度却找不到好工具？试试这款在线打字练习平台](./GitHub项目/best-online-english-typing-practice-tool.md) — 2024-11-22
 - [YTCH 安装指南：将 YouTube 频道转化为电视线性频道流的配置方案](./GitHub项目/ytch-installation-guide-youtube-to-linear-channel.md) — 2024-11-22
+- [wechat-dump-rs：针对微信 4.0 聊天记录数据库的解密实现方案](./GitHub项目/wechat-dump-rs-decryption-solution.md) — 2024-11-17
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
