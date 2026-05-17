@@ -3091,6 +3091,7 @@
 - [职场社交中的饮酒艺术：从心态建设到实操技巧的《酒饮真经》指南](./实战指南/workplace-drinking-etiquette-guide-2.md) — 2024-10-13
 - [茶饮连锁线上增长实战指南：从精细化运营提升门店单店产出与用户留存](./实战指南/tea-chain-online-growth-guide.md) — 2024-10-13
 - [社群运营实操指南：9 种互动技巧与 8 款高效工具的配置步骤](./实战指南/community-operation-guide-interaction-tips-and-tools.md) — 2024-10-12
+- [面对时代的不确定性总感到迷茫？钱琨在《认知力》中揭示如何通过升级思维模式成为明白人](./实战指南/cognitive-power-qiankun-mindset-upgrade.md) — 2024-10-12
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
