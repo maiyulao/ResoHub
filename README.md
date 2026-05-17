@@ -3019,6 +3019,7 @@
 - [JavaScript 核心原理深度解析：学习路径、环境配置与关键知识点指南](./实战指南/javascript-core-principles-guide.md) — 2024-10-25
 - [拆解 52 家独角兽企业的商业模式与盈利路径](./实战指南/52-unicorn-business-models-and-profit-paths.md) — 2024-10-24
 - [明星切片实操训练营：掌握短视频流量变现路径，通过明星IP快速实现商业增收](./实战指南/celebrity-clip-monetization-training.md) — 2024-10-22
+- [想尝试短视频带货但不敢出镜？AI数字人如何帮新手低门槛起号获利](./实战指南/ai-digital-human-short-video-ecommerce-for-beginners.md) — 2024-10-22
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
