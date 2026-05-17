@@ -3049,6 +3049,7 @@
 - [青少年财商启蒙全集：10讲构建基础金钱观](./实战指南/teen-financial-literacy-guide.md) — 2024-10-19
 - [想尝试不同体位却不知如何起步？跟随 Nancy 罗南希掌握提升亲密感的实践技巧](./实战指南/intimacy-tips-with-nancy-ronan.md) — 2024-10-19
 - [青山调色系统实战课：掌握色彩逻辑，实现从基础理论到工业级调色应用的进阶提升](./实战指南/qingshan-color-grading-course.md) — 2024-10-18
+- [电商盈利实操：通过爆款产品策划系统升级实现利润增长](./实战指南/ecommerce-profit-growth-product-strategy.md) — 2024-10-18
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
