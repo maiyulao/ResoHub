@@ -1672,6 +1672,7 @@
 - [全国各省市事业单位考编资讯汇总及配套复习资源下载指南](./创意工具/china-public-institution-exam-info-and-resources.md) — 2024-10-16
 - [某物丧志：面向设计学习的在线图像资源库获取与使用指南](./创意工具/online-image-resource-guide-for-design-learning.md) — 2024-10-15
 - [找不到高质量的种子资源？尝试使用 The Torrent Database 综合磁力搜索引擎](./创意工具/the-torrent-database-magnet-search-engine.md) — 2024-10-15
+- [想知道影子图书馆是否还能访问？通过 SLUM 实时监控服务状态并获取最新可用地址](./创意工具/shadow-library-status-slum-mirror-links.md) — 2024-10-15
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
