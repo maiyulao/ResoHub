@@ -406,6 +406,7 @@
 - [高效内容生产：基于AI助理的爆款文章创作指南](./AI工具教程/ai-powered-content-creation-guide.md) — 2024-11-03
 - [利用 ChatGPT 自动化创作小红书爆款内容：从提示词构建到内容分发全流程指南](./AI工具教程/chatgpt-xiaohongshu-automation-guide.md) — 2024-11-02
 - [ChatGPT 公益 API 接口：免费获取方式与环境部署指南](./AI工具教程/free-chatgpt-api-guide.md) — 2024-10-30
+- [YesNoTarot 快速决策指南：通过 AI 塔罗牌实现即时答案与深度意涵解析](./AI工具教程/yesnotarot-ai-decision-guide.md) — 2024-10-28
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
