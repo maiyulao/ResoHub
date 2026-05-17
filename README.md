@@ -2893,6 +2893,7 @@
 - [斯图尔特·戴蒙德沃顿商学院谈判课程资源：学习路径与实战要点解析](./实战指南/stuart-diamond-wharton-negotiation-course-guide.md) — 2024-11-13
 - [小红书笔记带货与无人直播：从策略布局到实操落地](./实战指南/xiaohongshu-ecommerce-and-unmanned-livestreaming.md) — 2024-11-13
 - [薇安销售高手进阶指南：28天实操训练全流程步骤解析](./实战指南/vian-sales-expert-28day-training-guide.md) — 2024-11-12
+- [南掌柜淘系标品爆款实操课（第17期）：5天线上训练营获取指南与学习要点](./实战指南/nan-zhanggui-taoxi-course-17.md) — 2024-11-12
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
