@@ -399,6 +399,7 @@
 - [高效图片转Excel免费工具：支持多场景表格识别与导出指南](./AI工具教程/free-image-to-excel-converter-guide.md) — 2024-11-10
 - [高效出图：免费AI图像生成工具推荐及上手操作指南](./AI工具教程/free-ai-image-generator-guide.md) — 2024-11-09
 - [Humanizar IA 深度评测：通过语义重构消除 AI 痕迹，实现文本自然化表达](./AI工具教程/humanizar-ai-review-natural-text-generation.md) — 2024-11-09
+- [East im 资源库：无需注册即可直接调用的全能型 AI 工具集成平台](./AI工具教程/east-im-ai-tools-platform.md) — 2024-11-07
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
