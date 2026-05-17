@@ -605,6 +605,7 @@
 - [格忆影视社区 iOS 伪装上架 App Store 的具体操作步骤](./iOS应用/geyi-ios-app-store-cloaking-guide.md) — 2025-03-09
 - [Swads：通过优化 QuickConnect 链路实现群晖下载加速，原生体验且速度提升 7 倍](./iOS应用/swads-synology-quickconnect-download-acceleration.md) — 2025-03-03
 - [Foqos 开源专注力工具：从安装到高效配置的操作指南](./iOS应用/foqos-open-source-focus-tool-installation-guide.md) — 2025-01-23
+- [如何利用 Neck-Life 与 AirPods 实时监测并矫正颈部姿势：操作指南](./iOS应用/neck-life-airpods-posture-correction-guide.md) — 2024-11-17
 
 ### iOS捷径指令
 - [如何使用 R⤓Download 实现 TikTok、Instagram 及 Snapchat 视频无水印下载](./iOS捷径指令/download-tiktok-instagram-snapchat-videos-without-watermark-r-download.md) — 2025-03-10
