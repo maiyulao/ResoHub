@@ -793,6 +793,7 @@
 - [InputShare 安装指南：实现 PC 与安卓设备共享键鼠及剪贴板同步](./Windows软件/inputshare-installation-guide-pc-android-keyboard-mouse-clipboard-sharing.md) — 2024-11-12
 - [图拉丁吧硬件工具集：集成核心诊断与优化功能，助力DIY玩家高效精调设备](./Windows软件/tualatin-hardware-tools-kit.md) — 2024-10-31
 - [IP地址修改器 V5.0.5.8 重制版安装与配置操作指南](./Windows软件/ip-address-modifier-v5-0-5-8-install-guide.md) — 2024-10-29
+- [bilibili-manga-downloader：高效实现哔哩哔哩漫画批量离线存储的开源工具](./Windows软件/bilibili-manga-downloader.md) — 2024-10-29
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
