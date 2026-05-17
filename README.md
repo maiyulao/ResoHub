@@ -2901,6 +2901,7 @@
 - [南掌柜淘系标品爆款实操课（第17期）：5天线上训练营获取指南与学习要点](./实战指南/nan-zhanggui-taoxi-course-17.md) — 2024-11-12
 - [总在刷手机却停不下来？尝试这30个实用技巧摆脱数字化依赖](./实战指南/30-tips-to-break-digital-dependency.md) — 2024-11-11
 - [直通车精准投放指南：从低成本引流到系统化实操](./实战指南/zhitongche-precision-targeting-guide.md) — 2024-11-11
+- [想通过小红书情感虚拟资料变现却不知如何起步？详解黄岛主绿茶计划项目的实操逻辑与变现路径](./实战指南/xiaohongshu-emotional-digital-products-monetization-guide.md) — 2024-11-11
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
