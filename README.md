@@ -3021,6 +3021,7 @@
 - [明星切片实操训练营：掌握短视频流量变现路径，通过明星IP快速实现商业增收](./实战指南/celebrity-clip-monetization-training.md) — 2024-10-22
 - [想尝试短视频带货但不敢出镜？AI数字人如何帮新手低门槛起号获利](./实战指南/ai-digital-human-short-video-ecommerce-for-beginners.md) — 2024-10-22
 - [Facebook出海获客全流程指南：从零构建高转化营销体系，详解产品推广与精准引流实操](./实战指南/facebook-user-acquisition-guide.md) — 2024-10-22
+- [电商多渠道布局实操课：8大体系渠道拓展指南与线上学习资源](./实战指南/ecommerce-multi-channel-expansion-guide.md) — 2024-10-22
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
