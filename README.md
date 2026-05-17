@@ -414,6 +414,7 @@
 - [Bilin AI：无广告的跨语言智能搜索工具](./AI工具教程/bilin-ai-ad-free-cross-language-search-tool.md) — 2024-10-17
 - [Video AI Hub 使用指南：从工具筛选到视频生成的实操步骤](./AI工具教程/video-ai-hub-guide-tool-selection-to-generation.md) — 2024-10-15
 - [Chunkr：基于视觉模型的开源 PDF 数据提取方案](./AI工具教程/chunkr-open-source-pdf-extraction-vision-model.md) — 2024-10-12
+- [Zeli 使用指南：三步实现 Hacker News 与 AI 论文的中文阅读](./AI工具教程/zeli-guide-hacker-news-ai-papers-chinese-reading.md) — 2024-10-11
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
