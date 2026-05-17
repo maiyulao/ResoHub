@@ -394,6 +394,7 @@
 - [Future Planner 使用指南：通过 3 个步骤计算你的财务自由时间表](./AI工具教程/future-planner-financial-freedom-guide.md) — 2024-11-23
 - [基于 OpenAI 视觉能力构建的自动化验证码识别方案](./AI工具教程/openai-vision-captcha-automation.md) — 2024-11-18
 - [如何使用五十弦 AI 搜索引擎实现以图搜诗词：操作指南](./AI工具教程/how-to-use-wuxishian-ai-image-to-poem-search.md) — 2024-11-18
+- [Text Behind Image：开源在线设计工具，实现文本与图像的层级遮挡效果](./AI工具教程/text-behind-image-online-design-tool.md) — 2024-11-16
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
