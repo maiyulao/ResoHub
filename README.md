@@ -1599,6 +1599,7 @@
 - [实操英语习得：将语言视为动态系统，解答学习常见痛点](./创意工具/english-acquisition-dynamic-systems-approach.md) — 2024-11-09
 - [想找高质量的成人文学阅读资源？这份精选小说网站清单为你提供参考](./创意工具/best-adult-literature-websites-list.md) — 2024-11-07
 - [Google Play 应用 APK 在线提取与第三方下载渠道指南（含环境要求与注意事项）](./创意工具/google-play-apk-online-extractor-download-guide.md) — 2024-11-07
+- [Switch游戏资源库：支持免费下载及安装环境配置指南](./创意工具/switch-game-library-free-download-install-guide.md) — 2024-11-05
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
