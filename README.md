@@ -3038,6 +3038,7 @@
 - [电商企业股权设计实战：从激励机制到价值增长的10次深度解析](./实战指南/ecommerce-equity-design-guide.md) — 2024-10-20
 - [电商企业财税规划实操指南：从财务管理到线上课学习的五个关键步骤](./实战指南/ecommerce-tax-financial-planning-guide.md) — 2024-10-20
 - [舒老师《产品文案痛苦60讲》资源：侧重用户视角的文案逻辑训练与实操指南](./实战指南/shu-product-copywriting-course-guide.md) — 2024-10-20
+- [iPhone 16 Pro 贴黑边膜导致屏幕显示偏移？用这张校准壁纸精准对齐](./实战指南/iphone-16-pro-screen-alignment-wallpaper.md) — 2024-10-20
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
