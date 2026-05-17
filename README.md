@@ -1638,6 +1638,7 @@
 - [如何使用 NewsNow 实时追踪全球新闻与热门趋势：操作指南](./创意工具/how-to-use-newsnow-track-global-news-trends.md) — 2024-10-27
 - [JA Comics 资源指南：通过 3D 视角掌握 Fan 漫画创作技巧与实操方法](./创意工具/ja-comics-guide-3d-fan-manga-creation.md) — 2024-10-26
 - [ICP域名备案状态查询指南：使用备案查询网核实网站登记情况](./创意工具/icp-filing-status-lookup-guide.md) — 2024-10-26
+- [如何访问并使用 Ero Movies 在线观看经典电影：操作指南](./创意工具/how-to-use-ero-movies-guide.md) — 2024-10-25
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
