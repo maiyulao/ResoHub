@@ -2980,6 +2980,7 @@
 - [Stable Diffusion 进阶实战：从 2.0 机甲重绘到高品质 B 端 3D 图标设计](./实战指南/stable-diffusion-advanced-mecha-redrawing-3d-icons.md) — 2024-10-31
 - [音效剪辑逻辑指南：从听感构建到后期实操的进阶路径](./实战指南/sound-effects-editing-guide.md) — 2024-10-29
 - [小红书电商从零到一实操指南：新人快速上手的运营步骤清单](./实战指南/xiaohongshu-ecommerce-guide-for-beginners.md) — 2024-10-29
+- [想把玄学内容转化为稳定收益？拆解一套可落地的知识变现路径与商业模式](./实战指南/metaphysics-knowledge-monetization-business-model.md) — 2024-10-29
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
