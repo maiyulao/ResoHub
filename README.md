@@ -1641,6 +1641,7 @@
 - [如何访问并使用 Ero Movies 在线观看经典电影：操作指南](./创意工具/how-to-use-ero-movies-guide.md) — 2024-10-25
 - [Temp.now 临时邮箱使用指南：快速获取匿名邮箱及注意事项](./创意工具/temp-now-temporary-email-guide.md) — 2024-10-25
 - [网络流量压力测试面板：实时消耗与负载监控工具](./创意工具/network-traffic-stress-test-panel.md) — 2024-10-25
+- [随机Fan号生成与动图学习平台：404页面故障分析及对策](./创意工具/random-fan-id-generator-gif-learning-404-analysis.md) — 2024-10-24
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
