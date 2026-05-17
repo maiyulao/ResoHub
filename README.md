@@ -1658,6 +1658,7 @@
 - [高效磁力链接检索指南：在线搜索引擎使用与资源定位技巧](./创意工具/magnetic-link-search-guide.md) — 2024-10-20
 - [使用 qqbirthday 查询 QQ 注册时间的具体操作步骤](./创意工具/how-to-check-qq-registration-date-with-qqbirthday.md) — 2024-10-20
 - [日本旅宿选择指南：避坑要点与预订实操清单](./创意工具/japan-accommodation-guide-tips-booking.md) — 2024-10-18
+- [使用 RecordScreen.io 在线录屏的详细操作步骤](./创意工具/recordscreen-io-tutorial.md) — 2024-10-18
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
