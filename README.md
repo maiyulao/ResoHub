@@ -1578,6 +1578,7 @@
 - [想找免费的 OnlyFans 资源却不知从何入手？Segirl 在线平台提供便捷的浏览与获取方案](./创意工具/free-onlyfans-resources-segirl-platform.md) — 2024-11-14
 - [天涯经典神贴播客：全集免费资源索引](./创意工具/tianya-classic-posts-podcast-resources.md) — 2024-11-14
 - [Gimhoy 音乐盘：构建支持无限制 MP3 外链的私人网络音乐库](./创意工具/gimhoy-private-music-library-mp3-hotlink.md) — 2024-11-14
+- [明查：澎湃新闻事实核查机制与全球验证实践](./创意工具/the-paper-fact-checking-mechanism-and-practice.md) — 2024-11-12
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
