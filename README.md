@@ -1567,6 +1567,7 @@
 - [iOS 应用提取指南：从 iPA Dump 导出与下载软件的完整步骤](./创意工具/ios-app-extraction-ipa-dump-guide.md) — 2024-11-20
 - [杯玖黄油资源库：免费下载指南及兼容性安装注意点](./创意工具/beiju-butter-download-guide-installation.md) — 2024-11-17
 - [想找高质量 OnlyFans 资源却不想付费？MasterF 为你提供专业的免费在线学习方案](./创意工具/free-onlyfans-resources-masterf-guide.md) — 2024-11-16
+- [YY书屋：稀有小说资源汇总（含解压密码）](./创意工具/yy-library-rare-novels-collection.md) — 2024-11-16
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
