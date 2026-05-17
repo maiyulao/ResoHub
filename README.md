@@ -447,6 +447,7 @@
 - [Nrfr 使用指南：无需 Root 权限修改 SIM 卡国家码](./Android应用/nrfr-guide-change-sim-country-code-no-root.md) — 2025-01-05
 - [BILIBILIAS：支持 4K 高清画质的 B 站视频解析与下载方案](./Android应用/bilibilias-bilibili-4k-video-downloader.md) — 2024-12-07
 - [影视类 App 审核总被拒？尝试用蒙太奇官网的 iOS 伪装上架方案绕过限制](./Android应用/ios-app-review-bypass-montage-solution.md) — 2024-11-08
+- [如何使用剂安安 App 快速分析食品配料表：操作指南](./Android应用/jian-an-app-food-ingredient-analysis-guide.md) — 2024-10-31
 
 ### Category 9166
 - [如何使用 Data-Analysis-Agent 通过自然语言查询数据库：开源配置与操作指南](./Category 9166/data-analysis-agent-natural-language-database-query-guide.md) — 2026-05-12
