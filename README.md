@@ -1631,6 +1631,7 @@
 - [NFD网盘直链解析：通过开源方案实现云盘资源直接下载，支持多平台链接快速转换](./创意工具/nfd-direct-link-parser-open-source.md) — 2024-10-29
 - [Storytale 资源库：高效获取专业插图与设计素材](./创意工具/storytale-resource-library.md) — 2024-10-28
 - [全球历史影像库：海量国内外珍稀老照片与视频的一站式专业检索平台](./创意工具/global-historical-archive-platform.md) — 2024-10-28
+- [如何使用 NewsNow 实时追踪全球新闻与热门趋势：操作指南](./创意工具/how-to-use-newsnow-track-global-news-trends.md) — 2024-10-27
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
