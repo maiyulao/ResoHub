@@ -3023,6 +3023,7 @@
 - [想尝试短视频带货但不敢出镜？AI数字人如何帮新手低门槛起号获利](./实战指南/ai-digital-human-short-video-ecommerce-for-beginners.md) — 2024-10-22
 - [Facebook出海获客全流程指南：从零构建高转化营销体系，详解产品推广与精准引流实操](./实战指南/facebook-user-acquisition-guide.md) — 2024-10-22
 - [电商多渠道布局实操课：8大体系渠道拓展指南与线上学习资源](./实战指南/ecommerce-multi-channel-expansion-guide.md) — 2024-10-22
+- [考研复试汇报PPT模板（94套）：涵盖多专业场景，含下载路径及修改建议](./实战指南/postgraduate-interview-ppt-templates.md) — 2024-10-22
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
