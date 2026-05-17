@@ -3065,6 +3065,7 @@
 - [李唐yo充电系列全集：涵盖43期实战技巧，从基础理论到进阶应用分层解析](./实战指南/li-tang-yo-charging-series-complete-guide.md) — 2024-10-18
 - [韩超AI人工智能进阶实操：从AIGC技术应用到行业变现的执行步骤](./实战指南/ai-advanced-practice-aigc-to-monetization.md) — 2024-10-17
 - [哈佛大学全系列公开课资源：提供中英双语字幕，支持高效学术进阶与专业知识习得](./实战指南/harvard-university-free-online-courses.md) — 2024-10-16
+- [千川投放入门指南：从账号配置到首单起量操作全流程](./实战指南/qianchuan-beginner-guide-setup-to-first-order.md) — 2024-10-16
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
