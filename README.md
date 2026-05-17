@@ -3099,6 +3099,7 @@
 - [小红书笔记阅读量低、难以破圈？尝试这套爆款逻辑实现流量阶梯式增长](./实战指南/xiaohongshu-growth-strategy-viral-logic.md) — 2024-10-11
 - [AI商业变现实战指南：零基础入门路径与创收实操方案](./实战指南/ai-monetization-guide-for-beginners.md) — 2024-10-11
 - [小红书高权重账号构建指南：从标签定义到自动化涨粉实操](./实战指南/xiaohongshu-high-authority-account-guide.md) — 2024-10-10
+- [高效打造专业演示文稿：从基础快捷操作到高级视觉排版的全流程实操指南](./实战指南/professional-presentation-guide-tips-and-layout.md) — 2024-10-09
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
