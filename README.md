@@ -1675,6 +1675,7 @@
 - [找不到高质量的种子资源？尝试使用 The Torrent Database 综合磁力搜索引擎](./创意工具/the-torrent-database-magnet-search-engine.md) — 2024-10-15
 - [想知道影子图书馆是否还能访问？通过 SLUM 实时监控服务状态并获取最新可用地址](./创意工具/shadow-library-status-slum-mirror-links.md) — 2024-10-15
 - [TwitterXZ：高效提取推特高清视频，支持多分辨率快速保存与离线观看](./创意工具/twitterxz-high-quality-video-downloader.md) — 2024-10-15
+- [XiaoJieJie：基于随机算法的在线女性人像生成与展示平台](./创意工具/xiaojiejie-random-ai-female-portrait-generator.md) — 2024-10-13
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
