@@ -2921,6 +2921,7 @@
 - [个人商业变现指南：从模式构建到价值升级的实操路径](./实战指南/personal-business-monetization-guide.md) — 2024-11-08
 - [外贸实操进阶指南：从获客渠道、社媒运营到谈判沟通的快速入行路径](./实战指南/foreign-trade-practical-guide-for-beginners.md) — 2024-11-08
 - [巨量千川广告投放：从底层逻辑到实操技巧的进阶指南](./实战指南/ocean-engine-ads-guide.md) — 2024-11-07
+- [财富积累的底层逻辑：从认知升级到价值交换的实践路径](./实战指南/wealth-accumulation-logic-cognition-value-exchange.md) — 2024-11-07
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
