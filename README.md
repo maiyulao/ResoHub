@@ -1574,6 +1574,7 @@
 - [韩漫资源库：高质量在线漫画阅读平台指南](./创意工具/korean-manhwa-resource-guide.md) — 2024-11-15
 - [转换云：支持付费加密音乐格式的高效在线转换方案](./创意工具/cloud-convert-paid-encrypted-music-formats.md) — 2024-11-15
 - [想找免费的 OnlyFans 资源却不知从何入手？Segirl 在线平台提供便捷的浏览与获取方案](./创意工具/free-onlyfans-resources-segirl-platform.md) — 2024-11-14
+- [天涯经典神贴播客：全集免费资源索引](./创意工具/tianya-classic-posts-podcast-resources.md) — 2024-11-14
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
