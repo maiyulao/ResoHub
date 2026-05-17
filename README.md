@@ -3008,6 +3008,7 @@
 - [电商视觉营销策划：从体系构建到实战落地的8大核心模块](./实战指南/e-commerce-visual-marketing-strategy-8-modules.md) — 2024-10-26
 - [短视频创业实操指南：从底层逻辑构建到运营全链路拆解](./实战指南/short-video-entrepreneurship-guide.md) — 2024-10-26
 - [拼多多短视频带货：自动化搬运实操指南与全流程配置](./实战指南/pinduoduo-short-video-automation-guide.md) — 2024-10-26
+- [手机摄影后期全流程实操：从色彩调优到细节精修（含完整源码课件）](./实战指南/mobile-photography-post-processing-guide.md) — 2024-10-26
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
