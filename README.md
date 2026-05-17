@@ -2909,6 +2909,7 @@
 - [Temu跨境电商全链路实操指南：12天快速完成从入驻核价到正式售卖的闭环流程](./实战指南/temu-ecommerce-onboarding-guide-12-days.md) — 2024-11-10
 - [剑桥高级口语流利度进阶训练指南](./实战指南/cambridge-cae-speaking-fluency-guide.md) — 2024-11-10
 - [解析言若非小红书种草营：如何通过站外流量构建品牌增长路径](./实战指南/yanruofei-xiaohongshu-brand-growth-strategy.md) — 2024-11-09
+- [短视频变现实操指南：从底层逻辑拆解到对标账号分析与表现力提升](./实战指南/short-video-monetization-guide-2.md) — 2024-11-09
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
