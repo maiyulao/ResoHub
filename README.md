@@ -3093,6 +3093,7 @@
 - [社群运营实操指南：9 种互动技巧与 8 款高效工具的配置步骤](./实战指南/community-operation-guide-interaction-tips-and-tools.md) — 2024-10-12
 - [面对时代的不确定性总感到迷茫？钱琨在《认知力》中揭示如何通过升级思维模式成为明白人](./实战指南/cognitive-power-qiankun-mindset-upgrade.md) — 2024-10-12
 - [小红书笔记阅读量低、难以破圈？尝试这套爆款逻辑实现流量阶梯式增长](./实战指南/xiaohongshu-growth-strategy-viral-logic.md) — 2024-10-11
+- [AI商业变现实战指南：零基础入门路径与创收实操方案](./实战指南/ai-monetization-guide-for-beginners.md) — 2024-10-11
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
