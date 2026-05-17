@@ -2931,6 +2931,7 @@
 - [淘宝短视频上下滑流量获取指南：适用场景、转化技巧及直通车对比分析](./实战指南/taobao-short-video-traffic-guide.md) — 2024-11-06
 - [从零到精通：16课时直播间精细化运营全维度实操指南](./实战指南/livestream-operation-guide-masterclass.md) — 2024-11-06
 - [企业裂变增长实操指南：从策略制定到执行的17个核心步骤](./实战指南/enterprise-growth-hacking-guide-17-steps.md) — 2024-11-06
+- [小石头商业摄影全能班课程资源：适用实操场景及学习要点说明](./实战指南/xiaoshitou-commercial-photography-course-resources.md) — 2024-11-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
