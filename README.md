@@ -621,6 +621,7 @@
 - [想让IPTV直播源不再失效？试试用Guovin TV实现自动化更新](./GitHub项目/guovin-tv-iptv-auto-update.md) — 2024-10-31
 - [YanG-1989 维护的国内外高清 IPTV m3u 直播源更新指南](./GitHub项目/yang-1989-iptv-m3u-update-guide.md) — 2024-10-27
 - [恶意软件分析资源清单：涵盖学习路径、实战工具与环境搭建指南](./GitHub项目/malware-analysis-resources-guide.md) — 2024-10-21
+- [想快速上手出海业务却找不到实操指南？这份 2024 版龙哥大航海手册帮你理清路径](./GitHub项目/2024-global-business-guide-longge-handbook.md) — 2024-10-18
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
