@@ -2994,6 +2994,7 @@
 - [电商起步没流量怎么破？拆解一套可复制的线上流量增长体系](./实战指南/ecommerce-traffic-growth-system.md) — 2024-10-28
 - [成龙动作电影经典作品清单与回顾](./实战指南/jakie-chan-action-movies-list-review.md) — 2024-10-28
 - [高效销售的人际破局术：从心理博弈到信任建立的实操全指南](./实战指南/sales-interpersonal-skills-guide.md) — 2024-10-28
+- [双十一活动怎么规划才不乱？一套可复用的电商运营模版帮你理清逻辑](./实战指南/double-11-ecommerce-operation-template.md) — 2024-10-27
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
