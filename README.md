@@ -2876,6 +2876,7 @@
 - [居家风水实操指南：简明讲座资源及环境应用要点](./实战指南/home-feng-shui-practical-guide.md) — 2024-11-16
 - [高效职场社交：从潜规则认知到关系构建的实操指南](./实战指南/professional-networking-guide.md) — 2024-11-15
 - [本地生活商家增长指南：从底层逻辑到直播人货场与私域运营的实操步骤](./实战指南/local-business-growth-guide-livestreaming-and-private-traffic.md) — 2024-11-15
+- [Midjourney 与 Stable Diffusion 商业摄影实操指南：从 AI 生成到商业应用](./实战指南/midjourney-stable-diffusion-commercial-photography-guide.md) — 2024-11-15
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
