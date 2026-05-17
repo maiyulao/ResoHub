@@ -1584,6 +1584,7 @@
 - [Gimhoy 音乐盘：构建支持无限制 MP3 外链的私人网络音乐库](./创意工具/gimhoy-private-music-library-mp3-hotlink.md) — 2024-11-14
 - [明查：澎湃新闻事实核查机制与全球验证实践](./创意工具/the-paper-fact-checking-mechanism-and-practice.md) — 2024-11-12
 - [WW漫画资源获取指南：在线成人漫画阅读环境与访问注意事项](./创意工具/ww-manga-access-guide.md) — 2024-11-10
+- [狐狸君：高质量磁力影视资源检索与下载指南](./创意工具/fox-magnet-movie-resource-guide.md) — 2024-11-10
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
