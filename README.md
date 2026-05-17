@@ -1736,6 +1736,7 @@
 - [推特优质学习资源精选：多媒体图文与视频资料汇总](./大人学习课程/best-twitter-learning-resources-collection.md) — 2024-11-03
 - [早泄全解析：发病机制、临床诊断与治疗方案](./大人学习课程/premature-ejaculation-guide.md) — 2024-11-02
 - [日不落帝国奇欲记安装指南：从解压到启动的完整操作步骤](./大人学习课程/empire-sun-never-sets-installation-guide.md) — 2024-10-28
+- [早泄临床治疗指南：实现长期康复的实操手册（译本）](./大人学习课程/premature-ejaculation-clinical-treatment-guide.md) — 2024-10-20
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
