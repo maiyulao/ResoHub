@@ -837,6 +837,7 @@
 - [掌握社交情商：提升人际交往能力的实践指南](./书籍/master-social-intelligence-guide.md) — 2024-12-11
 - [想在一个月内快速提升个人魅力并赢得心仪男性的好感？试试这套28天进阶方案](./书籍/28-day-charm-improvement-guide.md) — 2024-11-04
 - [想在 Kindle 上阅读原汁原味的亚马逊电子书？这里有一套 AZW3 格式的原版资源合集](./书籍/kindle-amazon-azw3-ebook-collection.md) — 2024-10-27
+- [高效社交破冰：从话题引导到情感共鸣的实操步骤指南](./书籍/social-ice-breaking-guide.md) — 2024-10-21
 
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
