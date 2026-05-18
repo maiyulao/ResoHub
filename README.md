@@ -1731,6 +1731,7 @@
 - [如何在奥德彪计划下载免费PS游戏资源及PC游戏修改器：操作全流程](./创意工具/download-free-ps-pc-games-mods-guide.md) — 2024-09-26
 - [基于 Go 语言实现的在线五子棋人机对战系统](./创意工具/go-online-gomoku-pvp-system.md) — 2024-09-26
 - [Buon Dua 资源指南：真人与 AI 结合的在线绘画学习平台获取及使用要点](./创意工具/buon-dua-resource-guide.md) — 2024-09-25
+- [Typing Word：基于浏览器的在线单词记忆工具及使用指南](./创意工具/typing-word-online-vocabulary-tool-guide.md) — 2024-09-24
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
