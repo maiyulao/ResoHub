@@ -3325,6 +3325,7 @@
 - [从零开始制作短视频：起号、拍摄与剪辑全流程操作指南](./实战指南/short-video-creation-guide-from-scratch.md) — 2024-09-04
 - [本地生活团购实操指南：从账号起号到高转化变现的全流程培训课程](./实战指南/local-life-group-buying-guide.md) — 2024-09-03
 - [短视频口播IP从零到一实操指南：拆解创业核心方法论](./实战指南/short-video-ip-guide-methodology.md) — 2024-09-03
+- [小红书种草如何才能精准破圈？拆解辛言流量实战班的内容营销链路](./实战指南/xiaohongshu-content-marketing-growth-strategy.md) — 2024-09-03
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
