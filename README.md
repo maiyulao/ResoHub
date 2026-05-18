@@ -3284,6 +3284,7 @@
 - [想学 Illustrator 却不知从何入手？一套由浅入深的基础操作指南](./实战指南/illustrator-beginner-guide-basics.md) — 2024-09-11
 - [AIGC商业变现实操训练营：从工具应用到盈利链路的落地指南](./实战指南/aigc-monetization-training-camp-guide.md) — 2024-09-10
 - [小红书高效引流实操：通过内容复刻快速突破万级流量并实现日入四位数（以减肥赛道为例）](./实战指南/xiaohongshu-traffic-growth-guide-weight-loss-niche.md) — 2024-09-10
+- [1688诚信通全流程实操指南：通过17课时体系化构建从开店到高效运营的增长路径](./实战指南/1688-chengxintong-complete-guide-growth-path.md) — 2024-09-10
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
