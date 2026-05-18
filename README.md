@@ -3334,6 +3334,7 @@
 - [电商金牌客服实操指南：通过服务能力升级驱动店铺业绩增长](./实战指南/ecommerce-customer-service-guide-for-growth.md) — 2024-09-02
 - [想学Python数据分析却不知从何入手？这份入门指南帮你快速上手](./实战指南/python-data-analysis-beginners-guide.md) — 2024-09-02
 - [倪海厦中医临床教学全集：核心理论与实操指南](./实战指南/ni-haixia-tcm-clinical-teaching-guide.md) — 2024-09-02
+- [淘系高阶全链路运营指南：从精准选品到千万级店铺增长的系统化实操手册](./实战指南/taobao-full-link-operation-guide.md) — 2024-09-02
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
