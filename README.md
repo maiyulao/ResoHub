@@ -3257,6 +3257,7 @@
 - [小红书电商实操指南 4.0：从零构建闭环增长体系的陪跑计划](./实战指南/xiaohongshu-ecommerce-growth-guide-40.md) — 2024-09-15
 - [从零到变现：ChatGPT 商业化运营全流程实操指南（100 步详解）](./实战指南/chatgpt-commercialization-guide-100-steps.md) — 2024-09-15
 - [如何从学习迷茫中突围？这份被240万人验证有效的学霸进阶路径值得参考](./实战指南/how-to-overcome-learning-confusion-study-guide.md) — 2024-09-14
+- [AI绘画全链路进阶指南：通过30个实战模块实现从零基础到专业级创作的跨越](./实战指南/ai-painting-advanced-guide-30-modules.md) — 2024-09-14
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
