@@ -3159,6 +3159,7 @@
 - [利用GPT高效产出真人感文章：从指令优化到日产百篇的实操全流程](./实战指南/gpt-human-like-content-workflow.md) — 2024-10-01
 - [想在抖音通过图书带货变现却不知如何起步？这份从0到1的账号运营全流程指南为你拆解](./实战指南/douyin-book-selling-guide-from-0-to-1.md) — 2024-09-30
 - [拆解 MrBeast 爆款视频逻辑：员工培训手册核心要点分析](./实战指南/mrbeast-video-logic-employee-training-manual.md) — 2024-09-30
+- [小红书账号被封且手机号无法解绑？尝试这套最新的号源释放与申诉方案](./实战指南/xiaohongshu-account-ban-unbind-phone-solution.md) — 2024-09-30
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
