@@ -1758,6 +1758,7 @@
 - [法定退休年龄精准测算工具：快速核定退休时间并解析计算逻辑](./创意工具/retirement-age-calculator-logic.md) — 2024-09-17
 - [Public Work：高效检索无版权图片的专业搜索引擎，通过多维筛选快速定位可商用视觉资源](./创意工具/public-work-copyright-free-image-search-engine.md) — 2024-09-17
 - [ACG全彩漫画在线阅读平台：多维度资源索引与浏览指南](./创意工具/acg-full-color-manga-reading-guide.md) — 2024-09-16
+- [学生证在线生成操作指南（内部测试版）](./创意工具/student-id-generator-guide-beta.md) — 2024-09-16
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
