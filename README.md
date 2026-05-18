@@ -431,6 +431,7 @@
 - [Face Animator：实现头像实时表情驱动与动态交互的AI方案](./AI工具教程/face-animator-realtime-expression-ai-solution.md) — 2024-08-28
 - [auto-video-generator：基于主题自动生成解说视频的AI工具及部署指南](./AI工具教程/auto-video-generator-ai-tool-deployment-guide.md) — 2024-08-28
 - [Fish Audio 开源语音合成方案：实现高保真文本转语音与快速语音克隆](./AI工具教程/fish-audio-open-source-tts-voice-cloning.md) — 2024-08-27
+- [VideoLingo：基于 AI 的开源英语视频全自动翻译与配音方案](./AI工具教程/videolingo-ai-open-source-video-translation-dubbing.md) — 2024-08-26
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
