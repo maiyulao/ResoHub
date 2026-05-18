@@ -640,6 +640,7 @@
 - [UptimeFlare：开源免费的服务器状态监控方案，支持实时监测与自动化告警](./GitHub项目/uptimeflare-open-source-server-monitoring.md) — 2024-10-05
 - [douyin_upload：实现抖音视频自动化上传的工具指南](./GitHub项目/douyin-upload-automation-guide.md) — 2024-10-01
 - [Crawl4AI 实测：专为大模型设计的开源 Web 数据抓取方案](./GitHub项目/crawl4ai-review-open-source-web-scraping-for-llm.md) — 2024-10-01
+- [高效英语习得资源库：从核心工具到进阶素材的系统化学习指南](./GitHub项目/efficient-english-learning-resources-guide.md) — 2024-09-30
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
