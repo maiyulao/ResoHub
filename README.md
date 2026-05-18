@@ -636,6 +636,7 @@
 - [Mybili：一键备份 Bilibili 收藏夹，实现视频清单的本地化离线存储与管理](./GitHub项目/mybili-bilibili-favorites-backup-tool.md) — 2024-10-07
 - [想在网页中快速部署一个美观的二维码生成功能？试试开源工具 qrframe](./GitHub项目/deploy-beautiful-qr-code-with-qrframe.md) — 2024-10-06
 - [WBO：一款开源免费的在线协作白板，支持实时同步与团队共创](./GitHub项目/wbo-open-source-collaborative-whiteboard.md) — 2024-10-05
+- [UptimeFlare：开源免费的服务器状态监控方案，支持实时监测与自动化告警](./GitHub项目/uptimeflare-open-source-server-monitoring.md) — 2024-10-05
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
