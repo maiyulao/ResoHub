@@ -1701,6 +1701,7 @@
 - [如何使用 JRKAN 直播观看免费体育赛事：操作指南与步骤详解](./创意工具/how-to-watch-free-sports-with-jrkan.md) — 2024-10-06
 - [MEITU131 高清壁纸集：专业级视觉设计素材库](./创意工具/meitu131-hd-wallpapers-design-assets.md) — 2024-10-06
 - [Kimivod 使用指南：快速访问免费高清影视资源的步骤清单](./创意工具/kimivod-guide-free-hd-movies-steps.md) — 2024-10-04
+- [想绕过网盘下载页直接获取文件链接？试试这款直链提取工具](./创意工具/cloud-drive-direct-link-extractor.md) — 2024-10-04
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
