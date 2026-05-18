@@ -3124,6 +3124,7 @@
 - [厌倦了被收割的打工人如何转型，通过打造超级个体在月入10万+中寻找阶层跃迁路径](./实战指南/career-transition-to-solopreneur-high-income.md) — 2024-10-06
 - [AI 时代家庭教育的逻辑重构：从知识传递转向能力培养与认知升级](./实战指南/ai-era-family-education-logic-reconstruction.md) — 2024-10-05
 - [5天实操指南：打造淘系非标品类全店爆款的直播课程步骤](./实战指南/5-day-guide-taobao-non-standard-livestream-course.md) — 2024-10-05
+- [千川付费推广实操指南：28讲全流程策略拆解与逻辑应用详解](./实战指南/qianchuan-paid-promotion-guide.md) — 2024-10-05
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
