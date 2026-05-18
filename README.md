@@ -3349,6 +3349,7 @@
 - [人力资源管理实务：从招聘、绩效到组织发展的职场进阶指南](./实战指南/hr-management-practice-guide.md) — 2024-09-01
 - [高效餐桌社交指南：从沟通技巧到资源变现的27个实操步骤](./实战指南/dining-table-social-guide-27-steps.md) — 2024-08-31
 - [陈幸直播必修课：提升自然流量的暖场互动实操方法论及应用指南](./实战指南/chenxing-livestream-natural-traffic-interaction-guide.md) — 2024-08-31
+- [体制内职场进阶指南：从生存到晋升的44个实操步骤](./实战指南/career-advancement-guide-government-system.md) — 2024-08-31
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
