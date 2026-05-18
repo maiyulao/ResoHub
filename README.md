@@ -3395,6 +3395,7 @@
 - [Word 高阶实操指南：从基础应用到效率专家进阶课程](./实战指南/word-advanced-guide-efficiency-course.md) — 2024-08-27
 - [Kristin英语VIP会员课：185节核心课程内容详解](./实战指南/kristin-english-vip-course-details.md) — 2024-08-26
 - [闲鱼电商实战进阶指南：通过第二期特训营掌握高转化经营技巧与私域增长路径](./实战指南/xianyu-ecommerce-advanced-guide-growth-strategies.md) — 2024-08-25
+- [《黑神话：悟空》综合资源指南：网络加速方案与游戏修改工具汇总](./实战指南/black-myth-wukong-resources-accelerator-and-mods.md) — 2024-08-25
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
