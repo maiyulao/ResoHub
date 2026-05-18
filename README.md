@@ -642,6 +642,7 @@
 - [Crawl4AI 实测：专为大模型设计的开源 Web 数据抓取方案](./GitHub项目/crawl4ai-review-open-source-web-scraping-for-llm.md) — 2024-10-01
 - [高效英语习得资源库：从核心工具到进阶素材的系统化学习指南](./GitHub项目/efficient-english-learning-resources-guide.md) — 2024-09-30
 - [123云盘第三方下载工具：突破流量限制的安装与配置指南](./GitHub项目/123pan-third-party-downloader-guide.md) — 2024-09-26
+- [Wereadscan：微信读书已购图书PDF本地化导出工具及配置指南](./GitHub项目/wereadscan-pdf-export-guide.md) — 2024-09-26
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
