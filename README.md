@@ -1710,6 +1710,7 @@
 - [Photo Album 在线摄影套图库：学习资源获取与使用指南](./创意工具/photo-album-online-photography-guide.md) — 2024-10-02
 - [Appstorrent：Mac 软件激活版资源获取指南](./创意工具/appstorrent-mac-software-activation-guide.md) — 2024-10-02
 - [混合盘：一站式聚合全网网盘资源，通过统一索引实现快速精准检索](./创意工具/mixed-disk-all-in-one-cloud-resource-index.md) — 2024-10-01
+- [防身实用技巧指南：知识点汇总与实操注意事项](./创意工具/self-defense-tips-guide.md) — 2024-09-30
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
