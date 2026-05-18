@@ -788,6 +788,7 @@
 - [想让大模型真正帮到语言学习？试试 Verbiverse 智能辅助工具](./Mac软件/verbiverse-ai-language-learning-tool.md) — 2024-09-12
 - [如何安装并配置 PCSX2 运行 PS2 游戏：全流程操作指南](./Mac软件/install-configure-pcsx2-ps2-emulator-guide.md) — 2024-09-11
 - [利用 misakaX 在国行 iOS 设备上激活 Apple Intelligence 的配置指南与注意事项](./Mac软件/activate-apple-intelligence-ios-misakax-guide.md) — 2024-09-08
+- [Markdown 文章排版太繁琐？试试文颜，实现全自动的美化排版](./Mac软件/markdown-auto-formatting-with-wenyan.md) — 2024-09-08
 
 ### Windows软件
 - [觉得 Win+V 记录太少且不够灵活？试试开源的本地剪贴板增强工具 ElegantClipboard](./Windows软件/elegant-clipboard-windows-clipboard-manager.md) — 2026-05-11
