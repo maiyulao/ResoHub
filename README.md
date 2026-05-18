@@ -1751,6 +1751,7 @@
 - [构建高质量教育资源库：通过系统化网盘管理，为孩子提供全方位的学习支撑](./创意工具/build-high-quality-education-resource-library-cloud-storage-management.md) — 2024-09-18
 - [如何检索并阅读天涯社区经典神贴全集：操作指南与资源获取步骤](./创意工具/how-to-read-tianya-classic-posts-guide.md) — 2024-09-18
 - [想要快速制作一张专业的个人名片？试试 AI 驱动的 IntroCard 生成器](./创意工具/ai-introcard-professional-business-card-generator.md) — 2024-09-17
+- [法定退休年龄精准测算工具：快速核定退休时间并解析计算逻辑](./创意工具/retirement-age-calculator-logic.md) — 2024-09-17
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
