@@ -1721,6 +1721,7 @@
 - [法定延迟退休时间测算工具：退休日期与年限精准计算器](./创意工具/retirement-age-calculator.md) — 2024-09-28
 - [SoAli 资源检索指南：高效定位网盘文件的免费搜索工具及使用技巧](./创意工具/soali-resource-search-guide.md) — 2024-09-28
 - [想通过图片高效学习但找不到好工具？试试这个在线图片学习平台](./创意工具/efficient-image-learning-platform.md) — 2024-09-28
+- [fnd.io：全球 App Store 与 iTunes 关键词搜索分析工具](./创意工具/fnd-io-app-store-itunes-keyword-analysis-tool.md) — 2024-09-28
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
