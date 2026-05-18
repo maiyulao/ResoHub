@@ -1800,6 +1800,7 @@
 - [两份文档内容怎么快速比对？试试这款支持实时差异分析与合并的 Text Compare 工具](./创意工具/fast-text-compare-diff-tool.md) — 2024-09-05
 - [如何使用 Freaky Fancy Font Generator 生成个性化奇异字体：操作指南](./创意工具/how-to-use-freaky-fancy-font-generator.md) — 2024-09-04
 - [小鹏奇啪行全集下载：全球猎奇文化真人秀观看指南与资源说明](./创意工具/xpeng-qipaxing-full-download-guide.md) — 2024-09-03
+- [胖虎影视：高清无广告的免费在线剧影资源库](./创意工具/panghu-movie-free-hd-streaming.md) — 2024-09-03
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
