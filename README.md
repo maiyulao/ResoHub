@@ -862,6 +862,7 @@
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
 - [想实现浪潮式快速出货？拆解力安深圳闭门会中批量促成成交的实操路径](./互联网营销/lian-shenzhen-closed-door-meeting-batch-sales-strategy.md) — 2025-03-21
 - [GPT自媒体实战进阶：基于“调教心流法 3.0”的AI内容创作体系](./互联网营销/gpt-content-creation-flow-method-30.md) — 2024-11-07
+- [私域增长实战指南：11个可复制的精准获客策略与执行链路](./互联网营销/private-traffic-growth-strategies-guide.md) — 2024-10-07
 
 ### 兴趣爱好
 - [家里东西总是在整理后迅速回潮？掌握这套收纳逻辑，让空间持久有序](./e585b4e8b6a3e788b1e5a5bd/home-organization-logic-for-lasting-order.md) — 2025-12-07
