@@ -3262,6 +3262,7 @@
 - [如何从学习迷茫中突围？这份被240万人验证有效的学霸进阶路径值得参考](./实战指南/how-to-overcome-learning-confusion-study-guide.md) — 2024-09-14
 - [AI绘画全链路进阶指南：通过30个实战模块实现从零基础到专业级创作的跨越](./实战指南/ai-painting-advanced-guide-30-modules.md) — 2024-09-14
 - [想在小红书快速起号并变现？复盘28天IP特训营实战路径，拆解从涨粉到盈利的执行细节](./实战指南/xiaohongshu-growth-and-monetization-guide.md) — 2024-09-14
+- [老板想在抖音打造个人IP却不知从何切入？资深编导拆解商业模式重构的实操路径](./实战指南/douyin-personal-ip-business-model-guide.md) — 2024-09-13
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
