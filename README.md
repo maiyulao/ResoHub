@@ -830,6 +830,7 @@
 - [IP地址修改器 V5.0.5.8 重制版安装与配置操作指南](./Windows软件/ip-address-modifier-v5-0-5-8-install-guide.md) — 2024-10-29
 - [bilibili-manga-downloader：高效实现哔哩哔哩漫画批量离线存储的开源工具](./Windows软件/bilibili-manga-downloader.md) — 2024-10-29
 - [AsrTools：集成剪映、快手及必剪接口的智能语音转文字工具使用指南](./Windows软件/asrtools-speech-to-text-guide.md) — 2024-10-09
+- [chrome_updater：实现便携版 Chrome 快速版本校验与自动更新的工具指南](./Windows软件/chrome-updater-portable-version-check-and-auto-update.md) — 2024-09-25
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
