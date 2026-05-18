@@ -417,6 +417,7 @@
 - [Zeli 使用指南：三步实现 Hacker News 与 AI 论文的中文阅读](./AI工具教程/zeli-guide-hacker-news-ai-papers-chinese-reading.md) — 2024-10-11
 - [YuanbaoPowerAI：集成对话、绘图与图像放大的全能AI工具集](./AI工具教程/yuanbaopowerai-all-in-one-ai-toolset.md) — 2024-10-09
 - [使用 Youtube-Whisper 将视频高效转换为文字的实操步骤](./AI工具教程/youtube-whisper-video-to-text-guide.md) — 2024-10-04
+- [PDF to Audio Converter：将PDF文档转换为AI音频播客与讲座的实用指南](./AI工具教程/pdf-to-audio-converter-guide.md) — 2024-09-25
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
