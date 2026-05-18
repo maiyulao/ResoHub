@@ -3242,6 +3242,7 @@
 - [美业门店提升团购订单的直播实操指南：从筹备到转化的全流程步骤](./实战指南/beauty-salon-livestreaming-guide-for-group-buying-orders.md) — 2024-09-16
 - [直播带货运营实操课程：从入门到进阶的实训方案与学习指南](./实战指南/livestreaming-commerce-operation-course.md) — 2024-09-16
 - [基于Java全栈开发的代驾服务平台：乐尚代驾项目实战解析](./实战指南/java-fullstack-driver-service-platform-leshang.md) — 2024-09-16
+- [家居风水实操指南：15日快速优化居住环境以提升运势](./实战指南/home-feng-shui-optimization-guide.md) — 2024-09-16
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
