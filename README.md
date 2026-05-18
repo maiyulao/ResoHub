@@ -1839,6 +1839,7 @@
 - [如何通过AK情感私教提升亲密关系：实操指南与步骤清单](./大人学习课程/improve-intimacy-with-ak-emotional-coaching-guide.md) — 2024-09-26
 - [AI 赋能亲密关系：通过科学算法提升情感链接的实践指南](./大人学习课程/ai-powered-intimate-relationships-guide.md) — 2024-09-23
 - [面对心仪女生却不知如何开场？这份微信聊天实操指南帮你打破僵局](./大人学习课程/wechat-chatting-guide-for-girls.md) — 2024-09-20
+- [如何通过柯李思（Chris）良叔的《魅力系统私教课》重塑个人社交影响力？](./大人学习课程/chris-charisma-system-social-influence.md) — 2024-09-19
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
