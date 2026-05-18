@@ -3253,6 +3253,7 @@
 - [家居风水实操指南：15日快速优化居住环境以提升运势](./实战指南/home-feng-shui-optimization-guide.md) — 2024-09-16
 - [闲鱼店铺快速起量实操指南：从账号设置到流量获取的5个关键步骤](./实战指南/xianyu-shop-growth-guide.md) — 2024-09-15
 - [小红书电商实操指南 4.0：从零构建闭环增长体系的陪跑计划](./实战指南/xiaohongshu-ecommerce-growth-guide-40.md) — 2024-09-15
+- [从零到变现：ChatGPT 商业化运营全流程实操指南（100 步详解）](./实战指南/chatgpt-commercialization-guide-100-steps.md) — 2024-09-15
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
