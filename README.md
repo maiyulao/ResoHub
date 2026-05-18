@@ -3267,6 +3267,7 @@
 - [老板想在抖音打造个人IP却不知从何切入？资深编导拆解商业模式重构的实操路径](./实战指南/douyin-personal-ip-business-model-guide.md) — 2024-09-13
 - [半无人直播实操指南：从零到一的配置与运营全流程](./实战指南/semi-automated-livestreaming-guide.md) — 2024-09-13
 - [Python全栈开发实战指南：从基础语法到工业级项目部署的进阶路径](./实战指南/python-fullstack-development-guide-2.md) — 2024-09-12
+- [从0到1打造差异化账号：瀚文视频起家实操拆解指南](./实战指南/building-differentiated-video-accounts-guide.md) — 2024-09-12
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
