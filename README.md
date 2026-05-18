@@ -3428,6 +3428,7 @@
 - [Cookie-share 使用指南：通过 Cookie 共享实现账号免登录访问及管理](./效率工具/cookie-share-guide-account-access-management.md) — 2024-09-30
 - [Best Cookier 深度评测：兼顾高效管理与极简设计的 Cookie 浏览器插件](./效率工具/best-cookier-review.md) — 2024-09-15
 - [高效过滤B站广告植入：通过浏览器插件精准跳过视频“恰饭”片段](./效率工具/skip-bilibili-ad-segments-browser-extension.md) — 2024-08-31
+- [myuserscripts 增强插件：通过功能扩展优化网易云音乐使用体验，实现高效的辅助功能集成](./效率工具/myuserscripts-neteasecloudmusic-enhancement.md) — 2024-08-30
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
