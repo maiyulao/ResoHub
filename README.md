@@ -3387,6 +3387,7 @@
 - [想用AI写作赚到钱却不知从何入手？这份指令指南帮你把AI潜能转化为实际收益](./实战指南/make-money-with-ai-writing-prompt-guide.md) — 2024-08-28
 - [私域获客与营销增长指南：从精准引流到认知升级的变现链路](./实战指南/private-traffic-growth-guide.md) — 2024-08-27
 - [如何通过斯坦福极简心理学提升青少年认知：实操步骤指南](./实战指南/stanford-psychology-teen-cognition-guide.md) — 2024-08-27
+- [高效求职指南：从职场竞争策略到斩获心仪 Offer](./实战指南/efficient-job-search-guide-strategy-to-offer.md) — 2024-08-27
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
