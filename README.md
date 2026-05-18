@@ -1823,6 +1823,7 @@
 - [选路由器时纠结CPU型号？这份性能天梯图帮你快速对比](./创意工具/router-cpu-performance-tier-list.md) — 2024-08-30
 - [高效获取矢量图标：SVGLOGO 在线素材库使用指南](./创意工具/svglogo-online-library-guide.md) — 2024-08-29
 - [如何使用 Spacemiss 获取 4K 高清素材：分步操作指南](./创意工具/how-to-get-4k-stock-footage-with-spacemiss.md) — 2024-08-29
+- [面对海量书单却不知从何读起？试试这个专注图书推荐的选书网站](./创意工具/best-book-recommendation-website.md) — 2024-08-29
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
