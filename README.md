@@ -3341,6 +3341,7 @@
 - [倪海厦中医临床教学全集：核心理论与实操指南](./实战指南/ni-haixia-tcm-clinical-teaching-guide.md) — 2024-09-02
 - [淘系高阶全链路运营指南：从精准选品到千万级店铺增长的系统化实操手册](./实战指南/taobao-full-link-operation-guide.md) — 2024-09-02
 - [深度解析徐文浩《AI大模型之美》：揭秘生成式人工智能的底层逻辑与演进路径](./实战指南/beauty-of-ai-large-models-xu-wenhao.md) — 2024-09-02
+- [花爷副业起跑营（第4期）：三周实操指南，涵盖副业筛选与快速启动流程](./实战指南/huaye-side-hustle-camp-phase-4-guide.md) — 2024-09-01
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
