@@ -427,6 +427,7 @@
 - [厚朴AI真题捕手：针对AP/IB/A-Level考题的智能解析与答案检索工具](./AI工具教程/houpu-ai-exam-solver-ap-ib-a-level.md) — 2024-09-04
 - [想让静态原画动起来？尝试用 AnimeGen 快速生成 AI 动画图片](./AI工具教程/animegen-ai-animation-generator.md) — 2024-09-04
 - [HivisionIDPhoto：基于AI的轻量化证件照生成工具安装与使用指南](./AI工具教程/hivisionidphoto-installation-and-usage-guide.md) — 2024-09-02
+- [想在照片中快速更换衣服且不失真？详解 Kolors Virtual Try-On 的一键虚拟试衣实现方案](./AI工具教程/kolors-virtual-try-on-guide.md) — 2024-08-29
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
