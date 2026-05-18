@@ -872,6 +872,7 @@
 - [虚拟信用卡生成工具 CardGen：快速构建测试卡号，高效验证支付流程与系统兼容性](./Windows软件/cardgen-virtual-credit-card-generator.md) — 2024-09-17
 - [如何使用 163MusicLyrics 下载歌曲歌词：操作全流程指南](./Windows软件/how-to-download-lyrics-with-163musiclyrics.md) — 2024-09-01
 - [CardGen 信用卡测试号生成工具：适用环境与获取指南](./Windows软件/cardgen-credit-card-generator-guide.md) — 2024-08-28
+- [PDFQFZ：开源免费的PDF骑缝章自动化盖章工具](./Windows软件/pdfqfz-open-source-pdf-stamp-tool.md) — 2024-08-26
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
