@@ -893,6 +893,7 @@
 - [GPT自媒体实战进阶：基于“调教心流法 3.0”的AI内容创作体系](./互联网营销/gpt-content-creation-flow-method-30.md) — 2024-11-07
 - [私域增长实战指南：11个可复制的精准获客策略与执行链路](./互联网营销/private-traffic-growth-strategies-guide.md) — 2024-10-07
 - [自媒体编导进阶指南：从通识逻辑到流量实操的思维重构](./互联网营销/self-media-director-guide-logic-to-traffic.md) — 2024-09-28
+- [闪亮猫自媒体美学进阶指南：从视觉体系构建到博主调性塑造](./互联网营销/shiny-cat-social-media-aesthetic-guide.md) — 2024-09-14
 
 ### 兴趣爱好
 - [家里东西总是在整理后迅速回潮？掌握这套收纳逻辑，让空间持久有序](./e585b4e8b6a3e788b1e5a5bd/home-organization-logic-for-lasting-order.md) — 2025-12-07
