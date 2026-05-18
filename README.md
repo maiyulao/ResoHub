@@ -3218,6 +3218,7 @@
 - [视频号知识IP从0到1起号指南：平台差异分析与实战案例拆解](./实战指南/video-channel-knowledge-ip-guide.md) — 2024-09-20
 - [TikTok海外短视频获利实操指南：从零起步的入局路径解析](./实战指南/tiktok-monetization-guide-for-beginners.md) — 2024-09-20
 - [如何利用灰度蒙版精准控制局部明暗？摄影后期进阶技法详解](./实战指南/luminosity-masking-guide-for-photo-editing.md) — 2024-09-19
+- [新个体竞争力重塑：六大核心能力实战课](./实战指南/individual-competitiveness-core-skills-course.md) — 2024-09-19
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
