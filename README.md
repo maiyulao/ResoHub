@@ -1718,6 +1718,7 @@
 - [Tapedeck 磁带博物馆：60-90 年代磁带设计演进在线资源及浏览指南](./创意工具/tapedeck-cassette-design-guide.md) — 2024-09-29
 - [文本差异对比指南：Diff Text 在线工具高效用法](./创意工具/diff-text-online-tool-guide.md) — 2024-09-29
 - [常用VPS一键安装脚本库：支持主流Linux发行版及更新维护指南](./创意工具/vps-one-click-install-scripts-guide.md) — 2024-09-29
+- [法定延迟退休时间测算工具：退休日期与年限精准计算器](./创意工具/retirement-age-calculator.md) — 2024-09-28
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
