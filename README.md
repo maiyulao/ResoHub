@@ -1813,6 +1813,7 @@
 - [如何高效筛选小报童高价值专栏：从搜索到订阅的实操指南](./创意工具/how-to-find-high-value-xiaobaotong-columns.md) — 2024-09-01
 - [盐选会员内容免费获取指南：适用环境与访问注意事项](./创意工具/salt-selection-membership-free-guide.md) — 2024-09-01
 - [Vectorizer：高效将PNG图片转换为SVG矢量图的免费在线工具，支持无损放大与路径优化](./创意工具/vectorizer-png-to-svg-online-tool.md) — 2024-08-31
+- [想在不损失画质的前提下减小视频体积？试试本地无损压缩工具 tools cosrod](./创意工具/lossless-video-compression-tools-cosrod.md) — 2024-08-31
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
