@@ -650,6 +650,7 @@
 - [123云盘第三方下载工具：突破流量限制的安装与配置指南](./GitHub项目/123pan-third-party-downloader-guide.md) — 2024-09-26
 - [Wereadscan：微信读书已购图书PDF本地化导出工具及配置指南](./GitHub项目/wereadscan-pdf-export-guide.md) — 2024-09-26
 - [如何使用 Simple Icons 获取全球热门品牌的 SVG 图标：操作指南](./GitHub项目/how-to-use-simple-icons-svg.md) — 2024-09-25
+- [中文推特优质博主指南：awesome_twitter_CN 资源汇总](./GitHub项目/awesome-twitter-cn-guide.md) — 2024-09-19
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
