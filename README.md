@@ -801,6 +801,7 @@
 - [利用 misakaX 在国行 iOS 设备上激活 Apple Intelligence 的配置指南与注意事项](./Mac软件/activate-apple-intelligence-ios-misakax-guide.md) — 2024-09-08
 - [Markdown 文章排版太繁琐？试试文颜，实现全自动的美化排版](./Mac软件/markdown-auto-formatting-with-wenyan.md) — 2024-09-08
 - [Itsycal Mac 评测：轻量化菜单栏日历的实用指南](./Mac软件/itsycal-mac-review-guide.md) — 2024-08-30
+- [DeeplxFile 使用指南：基于 Deeplx 接口的无文件大小限制翻译工具](./Mac软件/deeplx-file-guide.md) — 2024-08-28
 
 ### Windows软件
 - [觉得 Win+V 记录太少且不够灵活？试试开源的本地剪贴板增强工具 ElegantClipboard](./Windows软件/elegant-clipboard-windows-clipboard-manager.md) — 2026-05-11
