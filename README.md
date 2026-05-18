@@ -3293,6 +3293,7 @@
 - [如何拍出韩系人像的通透感？从灯光布局到实操技巧的系统教学](./实战指南/korean-style-portrait-lighting-tutorial.md) — 2024-09-09
 - [财务数字化转型：AI赋能财务人员进阶实操视频集](./实战指南/financial-digital-transformation-ai-training-videos.md) — 2024-09-09
 - [抖音短视频从零到爆款的实操指南：通过系统化运营训练，掌握流量增长的核心路径与创作技巧](./实战指南/douyin-short-video-growth-guide.md) — 2024-09-09
+- [武千行直播实操指南：从账号定位、店铺搭建到选品策略](./实战指南/wu-qianhang-livestreaming-guide.md) — 2024-09-08
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
