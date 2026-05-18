@@ -3137,6 +3137,7 @@
 - [视频号起号全流程：从机制解析到爆款内容创作的实操指南](./实战指南/video-channel-growth-guide.md) — 2024-10-04
 - [想在小红书起号却不知如何变现？这份100天自律成长指南教你打造个人IP并实现月入四位数增收](./实战指南/xiaohongshu-ip-monetization-guide.md) — 2024-10-04
 - [外贸获客全攻略：融合传统实操技巧与前沿数字化开发渠道的综合指南](./实战指南/foreign-trade-customer-acquisition-guide.md) — 2024-10-03
+- [深度拆解李笑来写作课（第一期）：从逻辑构建到表达实操的系统学习笔记](./实战指南/li-xiaolai-writing-course-notes-part1.md) — 2024-10-03
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
