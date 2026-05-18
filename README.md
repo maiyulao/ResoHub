@@ -1715,6 +1715,7 @@
 - [绅士会Suo动漫图片资源获取与使用指南](./创意工具/suo-anime-image-guide.md) — 2024-09-29
 - [Tapedeck 磁带博物馆：60-90 年代磁带设计演进在线资源及浏览指南](./创意工具/tapedeck-cassette-design-guide.md) — 2024-09-29
 - [文本差异对比指南：Diff Text 在线工具高效用法](./创意工具/diff-text-online-tool-guide.md) — 2024-09-29
+- [常用VPS一键安装脚本库：支持主流Linux发行版及更新维护指南](./创意工具/vps-one-click-install-scripts-guide.md) — 2024-09-29
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
