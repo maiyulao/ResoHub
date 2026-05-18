@@ -3277,6 +3277,7 @@
 - [线索型商家小风车直播实操指南：从零构建留资与带货转化体系](./实战指南/lead-gen-xiaofengche-livestream-guide.md) — 2024-09-11
 - [快手无人直播带货实操指南：构建全天候自动运转的销售系统，实现从零起步到规模化营收的闭环搭建](./实战指南/kuaishou-unmanned-livestreaming-guide.md) — 2024-09-11
 - [想学 Illustrator 却不知从何入手？一套由浅入深的基础操作指南](./实战指南/illustrator-beginner-guide-basics.md) — 2024-09-11
+- [AIGC商业变现实操训练营：从工具应用到盈利链路的落地指南](./实战指南/aigc-monetization-training-camp-guide.md) — 2024-09-10
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
