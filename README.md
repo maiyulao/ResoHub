@@ -782,6 +782,7 @@
 - [DeskPad：macOS 虚拟显示器开源方案，支持通过屏幕共享扩展显示空间](./Mac软件/deskpad-macos-virtual-display-open-source.md) — 2024-10-12
 - [MemoMe：高效备份新浪微博内容的开源工具（原 Speechless）](./Mac软件/memome-weibo-backup-tool.md) — 2024-09-16
 - [想让大模型真正帮到语言学习？试试 Verbiverse 智能辅助工具](./Mac软件/verbiverse-ai-language-learning-tool.md) — 2024-09-12
+- [如何安装并配置 PCSX2 运行 PS2 游戏：全流程操作指南](./Mac软件/install-configure-pcsx2-ps2-emulator-guide.md) — 2024-09-11
 
 ### Windows软件
 - [觉得 Win+V 记录太少且不够灵活？试试开源的本地剪贴板增强工具 ElegantClipboard](./Windows软件/elegant-clipboard-windows-clipboard-manager.md) — 2026-05-11
