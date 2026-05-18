@@ -657,6 +657,7 @@
 - [ZGQ-inc 全能资源聚合库：一站式集成书源、图源及多类实时订阅规则](./GitHub项目/zgq-inc-resource-aggregation-library.md) — 2024-09-16
 - [如何使用 Link Preview 快速预览磁力链接内容](./GitHub项目/how-to-use-link-preview-for-magnet-links.md) — 2024-09-14
 - [利用 Cloudflare Worker 部署 Proxy EX：实现 OpenAI 与 GitHub 加速的操作指南](./GitHub项目/deploy-proxy-ex-cloudflare-worker-openai-github-acceleration.md) — 2024-09-14
+- [利用 Discord 构建开源免费图床：discord-image 实践指南](./GitHub项目/build-free-image-hosting-with-discord-image-guide.md) — 2024-09-09
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
