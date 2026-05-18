@@ -1767,6 +1767,7 @@
 - [Vave BG 商业级 AI 素材库：提供高精度壁纸与可商用图像资源](./创意工具/vave-bg-commercial-ai-image-library.md) — 2024-09-15
 - [构建专业民间故事资源库：从内容采集到平台搭建的实操指南](./创意工具/build-folk-tale-resource-library-guide.md) — 2024-09-15
 - [Xfollow 平台指南：在线获取抖音短视频创作技巧与实操案例](./创意工具/xfollow-douyin-short-video-guide.md) — 2024-09-14
+- [Minipic：高效实现图片无损压缩与格式转换的在线工具](./创意工具/minipic-image-compressor-converter.md) — 2024-09-13
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
