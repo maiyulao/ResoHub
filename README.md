@@ -3111,6 +3111,7 @@
 - [视频号短视频变现全流程指南：从零起步的实操路径与商业逻辑](./实战指南/video-channel-monetization-guide.md) — 2024-10-08
 - [高客单品类直播爆单指南：通过人货场协同优化实现精准转化与业绩增长](./实战指南/high-ticket-livestreaming-growth-guide.md) — 2024-10-08
 - [205GB超清原盘纪录片精选：11部4K收藏级影像，涵盖极致画质与深度视听体验](./实战指南/205gb-4k-ultra-hd-documentary-collection.md) — 2024-10-08
+- [核心岗位面试真题库：高频考点与实战答案解析](./实战指南/core-position-interview-questions-and-answers.md) — 2024-10-07
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
