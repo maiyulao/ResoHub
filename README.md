@@ -668,6 +668,7 @@
 - [高效构建专业简历：开源工具 91化简深度解析与实践指南](./GitHub项目/91huajian-resume-builder-guide.md) — 2024-09-02
 - [Mini-Cover：一款极简主义的开源封面生成工具](./GitHub项目/mini-cover-minimalist-open-source-cover-generator.md) — 2024-08-31
 - [wechat-article-exporter：高效还原公众号文章原貌的导出方案，支持样式精准同步与结构化保存](./GitHub项目/wechat-article-exporter-efficient-export-solution.md) — 2024-08-30
+- [俄罗斯方块网页版：无需下载的在线免费游玩指南](./GitHub项目/tetris-online-free-guide.md) — 2024-08-29
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
