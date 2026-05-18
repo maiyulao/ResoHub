@@ -1746,6 +1746,7 @@
 - [想找安全可靠的Java游戏下载资源？试试这个专门的游戏小站](./创意工具/safe-java-games-download-site.md) — 2024-09-20
 - [DeepLX Dashboard：通过可视化管理实现每日 50 万字符的免费翻译 API 配额](./创意工具/deeplx-dashboard-free-translation-api-quota.md) — 2024-09-20
 - [Pochacco在线随机视频资源：访问方式与环境兼容性说明](./创意工具/pochacco-random-video-access-guide.md) — 2024-09-19
+- [炸了么：基于全球千级节点的网络拨测与运维监控实战指南](./创意工具/zhaleme-network-monitoring-guide.md) — 2024-09-19
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
