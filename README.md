@@ -1881,6 +1881,7 @@
 - [如何通过柯李思（Chris）良叔的《魅力系统私教课》重塑个人社交影响力？](./大人学习课程/chris-charisma-system-social-influence.md) — 2024-09-19
 - [深度社交心理学：提升女性好感度与关系进阶的实操指南](./大人学习课程/social-psychology-guide-for-women-attraction.md) — 2024-09-18
 - [香草老师高清视频课程：10集实操教学要点解析](./大人学习课程/vanilla-teacher-video-course-tips.md) — 2024-09-17
+- [TikTok 1-8月无水印视频资源汇总：三上系列精选合集](./大人学习课程/tiktok-no-watermark-videos-mikami-collection.md) — 2024-09-08
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
