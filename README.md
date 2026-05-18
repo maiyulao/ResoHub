@@ -1792,6 +1792,7 @@
 - [高效寻找远程岗位：国内外远程工作聚合平台筛选与使用指南](./创意工具/remote-job-platforms-guide.md) — 2024-09-07
 - [磁力龟BT种子搜索指南：支持多平台访问的磁力链接获取与使用注意点](./创意工具/magnetic-turtle-bt-torrent-search-guide.md) — 2024-09-07
 - [freemp3cn 使用指南：支持在线试听与 MP3 格式免费下载](./创意工具/freemp3cn-guide-free-mp3-download.md) — 2024-09-06
+- [想在浏览器里直接玩 Flash 游戏却被提示缺少插件？试试这个无需安装的在线站点 oldswf](./创意工具/play-flash-games-online-oldswf.md) — 2024-09-06
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
