@@ -1789,6 +1789,7 @@
 - [深言达意：基于语义检索的智能写作与精准词句查寻工具](./创意工具/semantic-search-intelligent-writing-tool.md) — 2024-09-09
 - [TorrentGalaxy 种子与磁力链接搜索操作指南](./创意工具/torrentgalaxy-search-guide.md) — 2024-09-09
 - [高效寻找远程岗位：国内外远程工作聚合平台筛选与使用指南](./创意工具/remote-job-platforms-guide.md) — 2024-09-07
+- [磁力龟BT种子搜索指南：支持多平台访问的磁力链接获取与使用注意点](./创意工具/magnetic-turtle-bt-torrent-search-guide.md) — 2024-09-07
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
