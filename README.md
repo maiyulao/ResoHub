@@ -897,6 +897,7 @@
 - [PC 硬件组装与系统维护实操指南（全彩图解版）](./书籍/pc-hardware-assembly-and-system-maintenance-guide.md) — 2024-09-20
 - [傅思伟性教育指南：家庭性知识传授的完整操作步骤](./书籍/fushiwei-sex-education-guide-family-steps.md) — 2024-09-15
 - [医学专业书籍库（48GB）下载与分类整理指南](./书籍/medical-books-library-download-guide.md) — 2024-09-07
+- [男性勃起功能障碍防治指南：从生理机制到临床治疗的综合干预方案](./书籍/erectile-dysfunction-prevention-and-treatment-guide.md) — 2024-09-06
 
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
