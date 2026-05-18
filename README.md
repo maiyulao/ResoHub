@@ -1741,6 +1741,7 @@
 - [获取《经济学人》与《纽约客》等英语外刊的完整下载步骤](./创意工具/download-english-magazines-economist-new-yorker.md) — 2024-09-23
 - [Tampermonkey 实用脚本合集：安装指南、适用场景及配置注意事项](./创意工具/tampermonkey-useful-scripts-guide.md) — 2024-09-23
 - [高效切分图片的在线免费工具：Image Splitter 使用指南](./创意工具/image-splitter-guide.md) — 2024-09-23
+- [想找安全可靠的Java游戏下载资源？试试这个专门的游戏小站](./创意工具/safe-java-games-download-site.md) — 2024-09-20
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
