@@ -1808,6 +1808,7 @@
 - [Resilio Sync 共享密钥中文索引：免费资源获取路径及同步环境配置指南](./创意工具/resilio-sync-shared-keys-guide.md) — 2024-09-03
 - [如何使用 Signature Animation 制作开源在线签名动画：操作指南](./创意工具/how-to-create-open-source-signature-animation-guide.md) — 2024-09-02
 - [69书吧：纯净无广告的免费小说阅读指南](./创意工具/69shuba-free-novel-reading-guide.md) — 2024-09-01
+- [如何高效筛选小报童高价值专栏：从搜索到订阅的实操指南](./创意工具/how-to-find-high-value-xiaobaotong-columns.md) — 2024-09-01
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
