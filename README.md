@@ -3131,6 +3131,7 @@
 - [镜头口播实战进阶：拆解三大核心方法论与情绪化内容技巧](./实战指南/camera-speaking-advanced-guide-methodology-and-emotional-content.md) — 2024-10-05
 - [从单店盈利到连锁规模化：门店经营增长实操指南](./实战指南/store-growth-scaling-guide.md) — 2024-10-05
 - [视频号起号全流程：从机制解析到爆款内容创作的实操指南](./实战指南/video-channel-growth-guide.md) — 2024-10-04
+- [想在小红书起号却不知如何变现？这份100天自律成长指南教你打造个人IP并实现月入四位数增收](./实战指南/xiaohongshu-ip-monetization-guide.md) — 2024-10-04
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
