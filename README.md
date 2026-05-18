@@ -867,6 +867,7 @@
 - [chrome_updater：实现便携版 Chrome 快速版本校验与自动更新的工具指南](./Windows软件/chrome-updater-portable-version-check-and-auto-update.md) — 2024-09-25
 - [虚拟信用卡生成工具 CardGen：快速构建测试卡号，高效验证支付流程与系统兼容性](./Windows软件/cardgen-virtual-credit-card-generator.md) — 2024-09-17
 - [如何使用 163MusicLyrics 下载歌曲歌词：操作全流程指南](./Windows软件/how-to-download-lyrics-with-163musiclyrics.md) — 2024-09-01
+- [CardGen 信用卡测试号生成工具：适用环境与获取指南](./Windows软件/cardgen-credit-card-generator-guide.md) — 2024-08-28
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
