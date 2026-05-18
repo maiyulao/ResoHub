@@ -3116,6 +3116,7 @@
 - [205GB超清原盘纪录片精选：11部4K收藏级影像，涵盖极致画质与深度视听体验](./实战指南/205gb-4k-ultra-hd-documentary-collection.md) — 2024-10-08
 - [核心岗位面试真题库：高频考点与实战答案解析](./实战指南/core-position-interview-questions-and-answers.md) — 2024-10-07
 - [小红书商家博主训练营 5.0：通过内容运营提升商业增长能级](./实战指南/xiaohongshu-merchant-blogger-camp-5-growth.md) — 2024-10-07
+- [实战英语口语指南：通过《趣味英语100说》掌握地道表达与场景应用](./实战指南/practical-english-speaking-guide-100-phrases.md) — 2024-10-07
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
