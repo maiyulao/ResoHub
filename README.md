@@ -1705,6 +1705,7 @@
 - [想绕过网盘下载页直接获取文件链接？试试这款直链提取工具](./创意工具/cloud-drive-direct-link-extractor.md) — 2024-10-04
 - [iptv-org 全球公开直播源 m3u 资源：涵盖 3.7 万个频道及其部署环境与配置要点](./创意工具/iptv-org-m3u-global-channels-setup-guide.md) — 2024-10-03
 - [Photo Album 在线摄影套图库：学习资源获取与使用指南](./创意工具/photo-album-online-photography-guide.md) — 2024-10-02
+- [Appstorrent：Mac 软件激活版资源获取指南](./创意工具/appstorrent-mac-software-activation-guide.md) — 2024-10-02
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
