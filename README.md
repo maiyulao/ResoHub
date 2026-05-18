@@ -1826,6 +1826,7 @@
 - [阿尔法角色求爱实操指南：从准备到表白的完整步骤](./大人学习课程/alpha-character-courting-guide.md) — 2024-10-03
 - [浪迹教育《聊天六部法》资源获取及实操指南：适用场景与核心要点说明](./大人学习课程/langji-chat-six-methods-guide.md) — 2024-09-28
 - [如何通过AK情感私教提升亲密关系：实操指南与步骤清单](./大人学习课程/improve-intimacy-with-ak-emotional-coaching-guide.md) — 2024-09-26
+- [AI 赋能亲密关系：通过科学算法提升情感链接的实践指南](./大人学习课程/ai-powered-intimate-relationships-guide.md) — 2024-09-23
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
