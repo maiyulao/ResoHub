@@ -3210,6 +3210,7 @@
 - [如何构建小红书私教营：从底层逻辑到定位的实操指南](./实战指南/build-xiaohongshu-coaching-camp-guide.md) — 2024-09-23
 - [短视频口播IP商业变现实操：从内容创作到生意转化的全流程指南](./实战指南/short-video-ip-monetization-guide.md) — 2024-09-21
 - [小红书图文发了没流量？拆解爆款逻辑与单篇起量引流的实操方案](./实战指南/xiaohongshu-traffic-growth-guide.md) — 2024-09-21
+- [视频号知识IP从0到1起号指南：平台差异分析与实战案例拆解](./实战指南/video-channel-knowledge-ip-guide.md) — 2024-09-20
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
