@@ -3323,6 +3323,7 @@
 - [拍出来的照片总觉得没重点？尝试这几套手机摄影构图法，让画面瞬间具备高级感](./实战指南/mobile-photography-composition-tips.md) — 2024-09-05
 - [手艺人账号起号实操课：运营流程与环境配置指南](./实战指南/craftsman-account-setup-guide.md) — 2024-09-05
 - [从零开始制作短视频：起号、拍摄与剪辑全流程操作指南](./实战指南/short-video-creation-guide-from-scratch.md) — 2024-09-04
+- [本地生活团购实操指南：从账号起号到高转化变现的全流程培训课程](./实战指南/local-life-group-buying-guide.md) — 2024-09-03
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
