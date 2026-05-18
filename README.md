@@ -633,6 +633,7 @@
 - [如何使用 DrawStampUtils 在线制作电子印章：具体操作步骤指南](./GitHub项目/how-to-create-electronic-seal-with-drawstamputils.md) — 2024-10-18
 - [ip-geoaddress-generator：通过 IP 模拟真实地理位置地址的工具实现](./GitHub项目/ip-geoaddress-generator-tool.md) — 2024-10-17
 - [高效寻找远程工作的资源清单与申请指南](./GitHub项目/remote-job-resources-and-guide.md) — 2024-10-08
+- [Mybili：一键备份 Bilibili 收藏夹，实现视频清单的本地化离线存储与管理](./GitHub项目/mybili-bilibili-favorites-backup-tool.md) — 2024-10-07
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
