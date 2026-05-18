@@ -3148,6 +3148,7 @@
 - [高情商的实操路径：从认知升级到行为模式的系统性优化](./实战指南/high-eq-practical-path-optimization.md) — 2024-10-01
 - [如何规划古典音乐领域的职业路径？这份职业生涯发展研修班全集为你提供答案](./实战指南/classical-music-career-path-guide.md) — 2024-10-01
 - [知乎高赞专栏精选：748篇深度好文汇总](./实战指南/zhihu-best-columns-748-articles.md) — 2024-10-01
+- [300款小吃实操配方集：从核心技术解析到标准化量化教程](./实战指南/300-street-food-recipes-guide.md) — 2024-10-01
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
