@@ -3229,6 +3229,7 @@
 - [如何在 Windows 通知栏配置 ToastFish 实时背单词](./效率工具/windows-notification-toastfish-vocab-setup.md) — 2024-11-11
 - [Cloud Document Converter：飞书文档导出工具安装与使用指南](./效率工具/cloud-document-converter-feishu-guide.md) — 2024-10-18
 - [MaoXian Web Clipper：开源网页快照保存方案，实现单文件离线存档与精准内容裁剪](./效率工具/maoxian-web-clipper-open-source-web-snapshot-archiving.md) — 2024-10-13
+- [Cookie-share 使用指南：通过 Cookie 共享实现账号免登录访问及管理](./效率工具/cookie-share-guide-account-access-management.md) — 2024-09-30
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
