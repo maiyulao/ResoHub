@@ -1775,6 +1775,7 @@
 - [通过趣味问答掌握百科知识：解析“炒饭小测验”应用的学习机制与实践体验](./创意工具/fried-rice-quiz-learning-mechanism.md) — 2024-09-12
 - [想找无需屏蔽、可直接流畅阅读的韩国漫画站？试试漫小肆](./创意工具/best-korean-manga-site-manxiaosi.md) — 2024-09-11
 - [xtik 视频学习平台：通过在线实战案例提升短视频创作技巧与运营能力](./创意工具/xtik-short-video-learning-platform.md) — 2024-09-10
+- [想找高清影视资源却总被广告干扰？这两个BT站点能让你免费在线观看](./创意工具/best-free-hd-movie-bt-sites.md) — 2024-09-10
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
