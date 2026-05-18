@@ -3364,6 +3364,7 @@
 - [短视频商业变现实操指南：从标准化起号到核心盈利链路构建](./实战指南/short-video-monetization-guide.md) — 2024-08-30
 - [医疗行业小红书引流实操指南：从账号搭建到流量转化的执行步骤](./实战指南/medical-xiaohongshu-traffic-guide.md) — 2024-08-30
 - [《恋爱学理学》魔卡资源下载：适用环境及安装注意事项](./实战指南/love-science-moka-download-install-guide.md) — 2024-08-30
+- [Python实现验证码识别：从模型构建到部署的深度学习全流程实战指南](./实战指南/python-captcha-recognition-deep-learning-guide.md) — 2024-08-29
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
