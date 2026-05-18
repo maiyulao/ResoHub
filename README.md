@@ -3197,6 +3197,7 @@
 - [AI驱动图文带货：通过内容自动化重构流量转化路径，实现低成本精准获客](./实战指南/ai-driven-content-automation-for-traffic-conversion.md) — 2024-09-25
 - [男性用户增长逻辑分析：如何将高价值流量转化为稳定收益](./实战指南/male-user-growth-and-monetization-logic.md) — 2024-09-24
 - [小红书旅游博主起号指南：从内容创作到流量实操的完整路径](./实战指南/xiaohongshu-travel-blogger-guide.md) — 2024-09-23
+- [千川投放实操指南：从核心痛点突破到全链路问题解决](./实战指南/qianchuan-ads-operational-guide.md) — 2024-09-23
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
