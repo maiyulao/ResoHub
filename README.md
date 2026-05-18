@@ -3192,6 +3192,7 @@
 - [视频号直播带货第七期陪跑营：算法逻辑拆解与起号实操指南](./实战指南/video-channel-livestream-commerce-camp-7-algorithm-guide.md) — 2024-09-26
 - [主播进阶实战营：系统化拆解直播痛点，攻克 90% 播主共性难题](./实战指南/livestreamer-advanced-training-camp.md) — 2024-09-25
 - [AI驱动图文带货：通过内容自动化重构流量转化路径，实现低成本精准获客](./实战指南/ai-driven-content-automation-for-traffic-conversion.md) — 2024-09-25
+- [男性用户增长逻辑分析：如何将高价值流量转化为稳定收益](./实战指南/male-user-growth-and-monetization-logic.md) — 2024-09-24
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
