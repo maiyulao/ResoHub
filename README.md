@@ -3202,6 +3202,7 @@
 - [小红书旅游博主起号指南：从内容创作到流量实操的完整路径](./实战指南/xiaohongshu-travel-blogger-guide.md) — 2024-09-23
 - [千川投放实操指南：从核心痛点突破到全链路问题解决](./实战指南/qianchuan-ads-operational-guide.md) — 2024-09-23
 - [想在闲鱼做无货源电商却不知从何起步？这份零基础实战陪跑指南帮你快速上手](./实战指南/xianyu-dropshipping-beginner-guide.md) — 2024-09-23
+- [如何构建小红书私教营：从底层逻辑到定位的实操指南](./实战指南/build-xiaohongshu-coaching-camp-guide.md) — 2024-09-23
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
