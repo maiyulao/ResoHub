@@ -3376,6 +3376,7 @@
 - [Temu跨境电商全链路实操指南：从商品发布到发货售卖的完整流程](./实战指南/temu-cross-border-ecommerce-full-guide.md) — 2024-08-29
 - [如何引导孩子建立心理韧性：刘轩的实操教学步骤](./实战指南/building-psychological-resilience-children-liu-xuan.md) — 2024-08-28
 - [王江涛英语四级全程班：课程体系与学习路径解析](./实战指南/wangjiangtao-cet4-course-pathway.md) — 2024-08-28
+- [想用AI写作赚到钱却不知从何入手？这份指令指南帮你把AI潜能转化为实际收益](./实战指南/make-money-with-ai-writing-prompt-guide.md) — 2024-08-28
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
