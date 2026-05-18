@@ -3229,6 +3229,7 @@
 - [为什么你的短视频播放量总在徘徊？拆解商业化爆款背后的底层逻辑](./实战指南/short-video-views-growth-logic.md) — 2024-09-18
 - [视频号全流程实操指南：从起号逻辑、选品策略到带货转化](./实战指南/video-channel-complete-guide-strategy.md) — 2024-09-18
 - [如何高效搜集并整理抖音优质女性博主视频：操作指南](./实战指南/collect-douyin-female-influencers-guide.md) — 2024-09-18
+- [实体商家精准获客实操指南：从策略拆解到落地执行](./实战指南/local-business-customer-acquisition-guide.md) — 2024-09-18
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
