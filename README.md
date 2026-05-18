@@ -1736,6 +1736,7 @@
 - [如何配置 eja.tv 全球 4000+ 免费 IPTV 直播源：详细操作指南](./创意工具/configure-eja-tv-free-iptv-guide.md) — 2024-09-23
 - [获取《经济学人》与《纽约客》等英语外刊的完整下载步骤](./创意工具/download-english-magazines-economist-new-yorker.md) — 2024-09-23
 - [Tampermonkey 实用脚本合集：安装指南、适用场景及配置注意事项](./创意工具/tampermonkey-useful-scripts-guide.md) — 2024-09-23
+- [高效切分图片的在线免费工具：Image Splitter 使用指南](./创意工具/image-splitter-guide.md) — 2024-09-23
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
