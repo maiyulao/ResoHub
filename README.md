@@ -660,6 +660,7 @@
 - [利用 Discord 构建开源免费图床：discord-image 实践指南](./GitHub项目/build-free-image-hosting-with-discord-image-guide.md) — 2024-09-09
 - [如何快速获取可用于注册账号的真实美国地址？实测有效的地址生成方案](./GitHub项目/get-real-us-address-for-registration.md) — 2024-09-08
 - [出海网站收款全流程实操指南：从方案选择到资金到账](./GitHub项目/cross-border-payment-guide-for-websites.md) — 2024-09-08
+- [写 Markdown 笔记时如何快速转化为思维导图？试试开源工具 markmap](./GitHub项目/markdown-to-mindmap-with-markmap.md) — 2024-09-05
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
