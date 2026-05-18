@@ -420,6 +420,7 @@
 - [PDF to Audio Converter：将PDF文档转换为AI音频播客与讲座的实用指南](./AI工具教程/pdf-to-audio-converter-guide.md) — 2024-09-25
 - [想用 Suno AI 做歌但写不出好词？试试 Snon Lyric 自动化生成歌词](./AI工具教程/suno-ai-snon-lyric-generator.md) — 2024-09-23
 - [如何使用 GeoSpy AI 识别照片地理位置：操作步骤全指南](./AI工具教程/geospy-ai-photo-location-guide.md) — 2024-09-20
+- [Napkin AI 实测：将文字快速转化为可视化图表的 AI 工具](./AI工具教程/napkin-ai-review-text-to-visuals.md) — 2024-09-16
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
