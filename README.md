@@ -3168,6 +3168,7 @@
 - [手机短视频创作全流程：从零起步到达人的操作指南](./实战指南/mobile-short-video-creation-guide.md) — 2024-09-29
 - [AI 2.0 零基础入门教程：学习路径、环境配置与实操指南](./实战指南/ai-2-0-beginner-guide.md) — 2024-09-29
 - [美国家庭生活场景常用英语8000句：实用对话资源及应用指南](./实战指南/us-family-life-english-phrases-guide.md) — 2024-09-28
+- [早餐创业实操指南：从摊位选址到开店经营的全流程解析](./实战指南/breakfast-business-guide-startup-to-operation.md) — 2024-09-28
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
