@@ -939,6 +939,7 @@
 - [高效塑形指南：每周3小时的科学健身方案与实践](./兴趣爱好/efficient-body-sculpting-3-hour-weekly-workout-plan.md) — 2024-10-30
 - [100余道家常菜实操教程：零基础上手指南与核心烹饪技巧](./兴趣爱好/100-home-cooking-recipes-guide-and-tips.md) — 2024-10-17
 - [高效自学指南：构建可迁移至多领域的知识习得体系](./兴趣爱好/efficient-self-learning-knowledge-system.md) — 2024-10-03
+- [7天快速上手：通过埃德蒙写作营创作7篇种草文案的实操步骤](./兴趣爱好/7-day-edmond-writing-camp-guide.md) — 2024-09-28
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
