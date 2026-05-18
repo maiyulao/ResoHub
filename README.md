@@ -1802,6 +1802,7 @@
 - [小鹏奇啪行全集下载：全球猎奇文化真人秀观看指南与资源说明](./创意工具/xpeng-qipaxing-full-download-guide.md) — 2024-09-03
 - [胖虎影视：高清无广告的免费在线剧影资源库](./创意工具/panghu-movie-free-hd-streaming.md) — 2024-09-03
 - [Earth.fm 资源指南：利用 900 余款自然音效优化睡眠与冥想状态](./创意工具/earth-fm-nature-sounds-sleep-meditation-guide.md) — 2024-09-03
+- [Resilio Sync 共享密钥中文索引：免费资源获取路径及同步环境配置指南](./创意工具/resilio-sync-shared-keys-guide.md) — 2024-09-03
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
