@@ -3358,6 +3358,7 @@
 - [陈幸直播必修课：提升自然流量的暖场互动实操方法论及应用指南](./实战指南/chenxing-livestream-natural-traffic-interaction-guide.md) — 2024-08-31
 - [体制内职场进阶指南：从生存到晋升的44个实操步骤](./实战指南/career-advancement-guide-government-system.md) — 2024-08-31
 - [心理灵客松明：通过积极情绪管理化解压力实操指南](./实战指南/positive-emotion-stress-management-guide.md) — 2024-08-31
+- [新东方考博英语通用全程班资源：适用场景、获取途径及学习注意事项](./实战指南/new-easton-phd-english-course-resources.md) — 2024-08-30
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
