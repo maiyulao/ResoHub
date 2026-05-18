@@ -3312,6 +3312,7 @@
 - [王昕招商方案拆解：渠道代理核心逻辑与实操落地指南](./实战指南/wangxin-channel-agency-strategy-guide.md) — 2024-09-07
 - [抖音小店全流程实操指南：从开店到出单的步骤详解](./实战指南/douyin-shop-complete-guide-setup-to-sales.md) — 2024-09-06
 - [亚马逊最新算法逻辑解析与高效转化实操指南](./实战指南/amazon-algorithm-logic-and-conversion-guide.md) — 2024-09-06
+- [AI绘画实操指南：从入门到精通的全流程解析](./实战指南/ai-painting-guide-beginner-to-expert.md) — 2024-09-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
