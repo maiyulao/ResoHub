@@ -1930,6 +1930,7 @@
 - [白鸭《约会高手》：魔卡情感社交技巧深度解析](./大人学习课程/dating-master-moka-social-skills-analysis.md) — 2024-09-02
 - [异性同学性心理分析与行为模式研究资料下载及适用场景说明](./大人学习课程/opposite-sex-psychology-behavior-patterns-study.md) — 2024-08-31
 - [熙墨爱经亲密关系进阶指南：12日实操计划及适用场景说明](./大人学习课程/ximo-love-intimacy-guide-12day-plan.md) — 2024-08-30
+- [如何通过科学引导改善夫妻性生活质量？详解《夫妻性生活内参》的核心观点](./大人学习课程/improve-marital-sex-life-guide.md) — 2024-08-28
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
