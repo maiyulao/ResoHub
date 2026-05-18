@@ -878,6 +878,7 @@
 - [数字化古籍获取指南：从《易经》《山海经》到《永乐大典》的检索与下载步骤](./书籍/digital-ancient-chinese-texts-guide.md) — 2024-10-07
 - [解构YP的成瘾机制：千薇芝视角下的心理驱动与行为逻辑](./书籍/yp-addiction-mechanism-psychological-drivers.md) — 2024-10-01
 - [高效学习的40个实操技巧：从基础习惯到进阶方法的执行清单](./书籍/40-effective-learning-tips-checklist.md) — 2024-09-24
+- [PC 硬件组装与系统维护实操指南（全彩图解版）](./书籍/pc-hardware-assembly-and-system-maintenance-guide.md) — 2024-09-20
 
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
