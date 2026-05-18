@@ -3303,6 +3303,7 @@
 - [AI商业变现实操指南：从工具上手到盈利落地的具体步骤](./实战指南/ai-monetization-practical-guide.md) — 2024-09-08
 - [人像摄影精修与审美调色实操指南](./实战指南/portrait-photography-retouching-and-color-grading-guide.md) — 2024-09-08
 - [微信公众号全链路获客指南：通过搜一搜排名优化实现从被动流量到实战变现的闭环增长](./实战指南/wechat-official-account-customer-acquisition-guide.md) — 2024-09-07
+- [王昕招商方案拆解：渠道代理核心逻辑与实操落地指南](./实战指南/wangxin-channel-agency-strategy-guide.md) — 2024-09-07
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
