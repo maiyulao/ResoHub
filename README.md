@@ -3331,6 +3331,7 @@
 - [短视频口播IP从零到一实操指南：拆解创业核心方法论](./实战指南/short-video-ip-guide-methodology.md) — 2024-09-03
 - [小红书种草如何才能精准破圈？拆解辛言流量实战班的内容营销链路](./实战指南/xiaohongshu-content-marketing-growth-strategy.md) — 2024-09-03
 - [速卖通跨境电商运营全链路实操指南](./实战指南/aliexpress-ecommerce-operation-guide.md) — 2024-09-02
+- [电商金牌客服实操指南：通过服务能力升级驱动店铺业绩增长](./实战指南/ecommerce-customer-service-guide-for-growth.md) — 2024-09-02
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
