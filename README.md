@@ -3233,6 +3233,7 @@
 - [如何高效搜集并整理抖音优质女性博主视频：操作指南](./实战指南/collect-douyin-female-influencers-guide.md) — 2024-09-18
 - [实体商家精准获客实操指南：从策略拆解到落地执行](./实战指南/local-business-customer-acquisition-guide.md) — 2024-09-18
 - [21天摄影进阶指南：掌握意境构图与光影表达](./实战指南/21-day-photography-guide-composition-lighting.md) — 2024-09-18
+- [小红书电商全链路实操指南：从零基础起步到实现高效转化的进阶路径](./实战指南/xiaohongshu-ecommerce-guide-beginner-to-conversion.md) — 2024-09-17
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
