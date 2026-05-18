@@ -1749,6 +1749,7 @@
 - [炸了么：基于全球千级节点的网络拨测与运维监控实战指南](./创意工具/zhaleme-network-monitoring-guide.md) — 2024-09-19
 - [如何使用 Real-Address-Generator 生成全球真实地理地址：操作指南](./创意工具/how-to-use-real-address-generator.md) — 2024-09-19
 - [构建高质量教育资源库：通过系统化网盘管理，为孩子提供全方位的学习支撑](./创意工具/build-high-quality-education-resource-library-cloud-storage-management.md) — 2024-09-18
+- [如何检索并阅读天涯社区经典神贴全集：操作指南与资源获取步骤](./创意工具/how-to-read-tianya-classic-posts-guide.md) — 2024-09-18
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
