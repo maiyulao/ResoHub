@@ -1797,6 +1797,7 @@
 - [freemp3cn 使用指南：支持在线试听与 MP3 格式免费下载](./创意工具/freemp3cn-guide-free-mp3-download.md) — 2024-09-06
 - [想在浏览器里直接玩 Flash 游戏却被提示缺少插件？试试这个无需安装的在线站点 oldswf](./创意工具/play-flash-games-online-oldswf.md) — 2024-09-06
 - [两份文档内容怎么快速比对？试试这款支持实时差异分析与合并的 Text Compare 工具](./创意工具/fast-text-compare-diff-tool.md) — 2024-09-05
+- [如何使用 Freaky Fancy Font Generator 生成个性化奇异字体：操作指南](./创意工具/how-to-use-freaky-fancy-font-generator.md) — 2024-09-04
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
