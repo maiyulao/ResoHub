@@ -1781,6 +1781,7 @@
 - [HotList Web：全网热点实时聚合与热搜趋势监测平台](./创意工具/hotlist-web-realtime-hot-trends-monitor.md) — 2024-09-10
 - [全球签证要求全指南：一站式查询各国入境条件与办理流程](./创意工具/global-visa-requirements-guide.md) — 2024-09-10
 - [国产模型训练数据集分享：无水印学习资源指南](./创意工具/chinese-llm-training-datasets-guide.md) — 2024-09-09
+- [深言达意：基于语义检索的智能写作与精准词句查寻工具](./创意工具/semantic-search-intelligent-writing-tool.md) — 2024-09-09
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
