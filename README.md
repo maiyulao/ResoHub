@@ -3142,6 +3142,7 @@
 - [外贸获客全攻略：融合传统实操技巧与前沿数字化开发渠道的综合指南](./实战指南/foreign-trade-customer-acquisition-guide.md) — 2024-10-03
 - [深度拆解李笑来写作课（第一期）：从逻辑构建到表达实操的系统学习笔记](./实战指南/li-xiaolai-writing-course-notes-part1.md) — 2024-10-03
 - [高通过率简历实操指南：通过核心竞争力重构与结构化呈现，精准击中HR筛选痛点](./实战指南/high-pass-rate-resume-guide.md) — 2024-10-02
+- [想在小红书通过私域获客和带货实现月入10万？这套商单变现实操方案告诉你怎么做](./实战指南/xiaohongshu-private-traffic-monetization-guide.md) — 2024-10-02
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
