@@ -423,6 +423,7 @@
 - [Napkin AI 实测：将文字快速转化为可视化图表的 AI 工具](./AI工具教程/napkin-ai-review-text-to-visuals.md) — 2024-09-16
 - [黑神话：悟空 AI 攻略问答库：在线实时查询与使用指南](./AI工具教程/black-myth-wukong-ai-guide-qa.md) — 2024-09-15
 - [想知道在 AI 眼中你几岁？试试这款免费的面部年龄检测工具](./AI工具教程/ai-face-age-detection-tool.md) — 2024-09-10
+- [RandomX AI中文名生成器：适用场景、获取路径与配置要点](./AI工具教程/randomx-ai-chinese-name-generator.md) — 2024-09-04
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
