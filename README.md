@@ -3122,6 +3122,7 @@
 - [实战英语口语指南：通过《趣味英语100说》掌握地道表达与场景应用](./实战指南/practical-english-speaking-guide-100-phrases.md) — 2024-10-07
 - [职场社交进阶指南：从沟通技巧到人脉经营的五步实操法](./实战指南/workplace-networking-guide-5-steps.md) — 2024-10-06
 - [厌倦了被收割的打工人如何转型，通过打造超级个体在月入10万+中寻找阶层跃迁路径](./实战指南/career-transition-to-solopreneur-high-income.md) — 2024-10-06
+- [AI 时代家庭教育的逻辑重构：从知识传递转向能力培养与认知升级](./实战指南/ai-era-family-education-logic-reconstruction.md) — 2024-10-05
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
