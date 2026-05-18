@@ -3362,6 +3362,7 @@
 - [新东方考博英语通用全程班资源：适用场景、获取途径及学习注意事项](./实战指南/new-easton-phd-english-course-resources.md) — 2024-08-30
 - [短视频商业变现实操指南：从标准化起号到核心盈利链路构建](./实战指南/short-video-monetization-guide.md) — 2024-08-30
 - [医疗行业小红书引流实操指南：从账号搭建到流量转化的执行步骤](./实战指南/medical-xiaohongshu-traffic-guide.md) — 2024-08-30
+- [《恋爱学理学》魔卡资源下载：适用环境及安装注意事项](./实战指南/love-science-moka-download-install-guide.md) — 2024-08-30
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
