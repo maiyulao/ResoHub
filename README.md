@@ -3177,6 +3177,7 @@
 - [美国家庭生活场景常用英语8000句：实用对话资源及应用指南](./实战指南/us-family-life-english-phrases-guide.md) — 2024-09-28
 - [早餐创业实操指南：从摊位选址到开店经营的全流程解析](./实战指南/breakfast-business-guide-startup-to-operation.md) — 2024-09-28
 - [小红书笔记带货全流程实操：从内容起号到高效转化的变现指南](./实战指南/xiaohongshu-monetization-guide-2.md) — 2024-09-28
+- [想看纪录片却不知如何筛选？这13部知乎高分之作值得收藏](./实战指南/best-zhihu-documentaries-recommendations.md) — 2024-09-27
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
