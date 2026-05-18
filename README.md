@@ -3286,6 +3286,7 @@
 - [小红书高效引流实操：通过内容复刻快速突破万级流量并实现日入四位数（以减肥赛道为例）](./实战指南/xiaohongshu-traffic-growth-guide-weight-loss-niche.md) — 2024-09-10
 - [1688诚信通全流程实操指南：通过17课时体系化构建从开店到高效运营的增长路径](./实战指南/1688-chengxintong-complete-guide-growth-path.md) — 2024-09-10
 - [Excel可视化实操指南：从核心图表选择到高效数据呈现的进阶技巧](./实战指南/excel-data-visualization-guide.md) — 2024-09-09
+- [如何拍出韩系人像的通透感？从灯光布局到实操技巧的系统教学](./实战指南/korean-style-portrait-lighting-tutorial.md) — 2024-09-09
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
