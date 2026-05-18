@@ -1777,6 +1777,7 @@
 - [xtik 视频学习平台：通过在线实战案例提升短视频创作技巧与运营能力](./创意工具/xtik-short-video-learning-platform.md) — 2024-09-10
 - [想找高清影视资源却总被广告干扰？这两个BT站点能让你免费在线观看](./创意工具/best-free-hd-movie-bt-sites.md) — 2024-09-10
 - [HotList Web：全网热点实时聚合与热搜趋势监测平台](./创意工具/hotlist-web-realtime-hot-trends-monitor.md) — 2024-09-10
+- [全球签证要求全指南：一站式查询各国入境条件与办理流程](./创意工具/global-visa-requirements-guide.md) — 2024-09-10
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
