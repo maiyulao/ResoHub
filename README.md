@@ -858,6 +858,7 @@
 - [想在 Kindle 上阅读原汁原味的亚马逊电子书？这里有一套 AZW3 格式的原版资源合集](./书籍/kindle-amazon-azw3-ebook-collection.md) — 2024-10-27
 - [高效社交破冰：从话题引导到情感共鸣的实操步骤指南](./书籍/social-ice-breaking-guide.md) — 2024-10-21
 - [网络安全与渗透测试学习书单：分级资源下载及环境配置指南](./书籍/cybersecurity-penetration-testing-books-resources-guide.md) — 2024-10-14
+- [数字化古籍获取指南：从《易经》《山海经》到《永乐大典》的检索与下载步骤](./书籍/digital-ancient-chinese-texts-guide.md) — 2024-10-07
 
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
