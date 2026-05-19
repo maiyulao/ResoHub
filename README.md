@@ -1855,6 +1855,7 @@
 - [PDC 哲学文档中心论文库：检索指南与资源获取方法](./创意工具/pdc-philosophy-docs-retrieval-guide.md) — 2024-08-25
 - [如何使用 Snap Douyin 下载抖音与 TikTok 无水印视频：操作指南](./创意工具/snap-douyin-download-tiktok-douyin-no-watermark.md) — 2024-08-25
 - [伦li小站中文域名学习资源：访问路径与环境配置指南](./创意工具/lunli-chinese-domain-learning-resources-guide.md) — 2024-08-24
+- [Sticky Notes：高效协作的在线数字便利贴工具](./创意工具/sticky-notes-online-collaboration-tool.md) — 2024-08-23
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
