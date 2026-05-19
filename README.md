@@ -717,6 +717,7 @@
 - [如何使用开源工具 Slogan Word 优化文本排版：操作指南](./GitHub项目/how-to-use-slogan-word-for-text-layout-optimization.md) — 2024-08-16
 - [处理海量数据导出时频繁出现内存溢出？试试阿里开源的 EasyExcel](./GitHub项目/easyexcel-solve-out-of-memory-large-data-export.md) — 2024-08-15
 - [电视与广播图标资源集：直连下载地址、适用场景及配置指南](./GitHub项目/tv-radio-icon-set-download-guide.md) — 2024-08-08
+- [developer2gwy：程序员转岗公务员备考指南与实践路径说明](./GitHub项目/programmer-to-civil-servant-guide.md) — 2024-07-31
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
