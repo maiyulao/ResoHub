@@ -3508,6 +3508,7 @@
 - [快手抖音账号实操培训：5980元课程大纲及核心运营链路解析](./实战指南/kuaishou-douyin-training-course-outline.md) — 2024-08-14
 - [豆神大语文《北大学霸高效学习法》资源下载：适用场景与学习要点指南](./实战指南/doushen-pku-study-method-download-guide.md) — 2024-08-13
 - [视频号内容运营全流程：从起步到精进的金牌实操指南](./实战指南/video-channel-content-operation-guide.md) — 2024-08-13
+- [国外动物美食纪录片解说全流程实操指南](./实战指南/animal-food-documentary-guide.md) — 2024-08-13
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
