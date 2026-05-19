@@ -1961,6 +1961,7 @@
 - [数字化手写体生成工具：通过模拟真实书写笔迹将电子文本转换为手写文稿](./创意工具/digital-handwriting-generator-tool.md) — 2024-07-26
 - [Favoree：YouTube 高质量内容分级导航站（含访问指南与筛选逻辑）](./创意工具/favoree-youtube-content-navigation-guide.md) — 2024-07-25
 - [海角社区资源导航：解锁版学习站点与免费内容获取指南](./创意工具/haijiao-resource-navigation-guide.md) — 2024-07-25
+- [如何使用 Zoom Earth 实时监测全球天气、雨雷达与气象预报](./创意工具/zoom-earth-real-time-weather-radar-forecast.md) — 2024-07-24
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
