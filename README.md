@@ -3440,6 +3440,7 @@
 - [ChatGPT 商业化实操：从高效运营到盈利变现的路径解析](./实战指南/chatgpt-commercialization-guide-and-monetization.md) — 2024-08-22
 - [黑神话：悟空 100G 免安装完整版：一键启动离线体验，附带功能修改器](./实战指南/black-myth-wukong-100g-offline-edition-with-trainer.md) — 2024-08-21
 - [想找大量完结广播剧却不知从何入手？这里有 700 余部精品资源推荐](./实战指南/best-completed-audio-drama-resources-list.md) — 2024-08-21
+- [英语单词记不住且缺乏系统方法？尝试刘一男的零基础4000词逆袭方案](./实战指南/english-vocabulary-learning-method-liu-yinan.md) — 2024-08-20
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
