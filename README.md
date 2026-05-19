@@ -440,6 +440,7 @@
 - [面对生活迷茫或抉择困境？尝试用 AI 塔罗师为你解读现状：塔罗耳语在线占卜指南](./AI工具教程/ai-tarot-reading-guide.md) — 2024-08-24
 - [想要生成电影级质感的AI图像却苦于参数难调？试试基于 Flux.1 Pro 的 Fluximg 高品质绘图工具](./AI工具教程/fluximg-flux-1-pro-ai-image-generator.md) — 2024-08-23
 - [MinerU：实现 PDF 与多格式文档高质量数据提取的开源工具](./AI工具教程/mineru-open-source-pdf-data-extraction-tool.md) — 2024-08-22
+- [Brev.ai 实测：一款无需安装的免费 AI 音乐创作工具](./AI工具教程/brev-ai-review-free-ai-music-generator.md) — 2024-08-22
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
