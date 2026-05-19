@@ -2021,6 +2021,7 @@
 - [提升视频课程训练效果的实操步骤指南](./大人学习课程/improve-video-course-training-guide.md) — 2024-08-15
 - [如何得体地开启与陌生女生的社交对话而不显突兀？](./大人学习课程/how-to-start-conversation-with-strange-girls.md) — 2024-08-14
 - [海兵：解析约会社交中的心理博弈与沟通密码](./大人学习课程/dating-psychology-and-communication-secrets.md) — 2024-08-11
+- [身体激活训练：6节针对性技巧课获取指南及实操要点](./大人学习课程/body-activation-training-guide.md) — 2024-08-10
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
