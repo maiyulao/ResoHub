@@ -3523,6 +3523,7 @@
 - [顾悦教授英语口语全攻略：从基础到精通的系统学习路径](./实战指南/prof-guyue-english-speaking-guide.md) — 2024-08-12
 - [提升职场竞争力：宋晓阳沟通技巧实操指南](./实战指南/song-xiaoyang-communication-skills-guide.md) — 2024-08-11
 - [手机摄影剪切美学：通过构图重塑视觉焦点，实现极简影像实操指南](./实战指南/mobile-photography-cropping-composition-guide.md) — 2024-08-11
+- [维多利亚的秘密2005-2018年全集回顾：核心秀场集锦及幕后访谈解析](./实战指南/victoria-secret-fashion-show-2005-2018-retrospective.md) — 2024-08-10
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
