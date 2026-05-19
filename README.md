@@ -1020,6 +1020,7 @@
 - [7天快速上手：通过埃德蒙写作营创作7篇种草文案的实操步骤](./兴趣爱好/7-day-edmond-writing-camp-guide.md) — 2024-09-28
 - [想学钢琴却没时间报班？这套成人零基础速成视频课帮你快速上手](./兴趣爱好/adult-piano-beginner-fast-track-course.md) — 2024-08-25
 - [刘谦扑克魔术教学资源：实操技巧解析与练习注意事项](./兴趣爱好/liu-qian-poker-magic-tutorial.md) — 2024-08-17
+- [乒乓球专业进阶指南：从核心技术突破到实战体系构建的系统化教学课程](./兴趣爱好/table-tennis-advanced-training-guide.md) — 2024-08-16
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
