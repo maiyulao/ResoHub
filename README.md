@@ -3538,6 +3538,7 @@
 - [面对复杂数据不知从何下手？通过这36节课构建Excel从入门到精通的技能体系](./实战指南/master-excel-skills-course.md) — 2024-08-07
 - [40天粤语速成指南：从零基础到精通广港两地口语](./实战指南/40-day-cantonese-learning-guide.md) — 2024-08-07
 - [从零搭建抖音小店：精细化电商运营实操步骤指南](./实战指南/tiktok-shop-setup-and-operation-guide.md) — 2024-08-07
+- [通用社交技巧指南：适用场景分析与实操进阶方案](./实战指南/social-skills-guide-and-practical-strategies.md) — 2024-08-07
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
