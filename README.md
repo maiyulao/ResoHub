@@ -1974,6 +1974,7 @@
 - [想快速确认当前网络出口 IP 及其地理位置？试试这款全方位在线查询工具](./创意工具/check-network-exit-ip-location-tool.md) — 2024-07-22
 - [LU 在线工具集：集成多场景实用功能，高效解决开发与办公碎片化需求](./创意工具/lu-online-tools-collection.md) — 2024-07-21
 - [汉服网：专注纯净视觉素材的汉服美学学习平台](./创意工具/hanfu-aesthetic-learning-platform.md) — 2024-07-21
+- [FinalShell 离线激活方案与操作指南](./创意工具/finalshell-offline-activation-guide.md) — 2024-07-21
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
