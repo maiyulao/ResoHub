@@ -3594,6 +3594,7 @@
 - [高价值小吃全品类教程：涵盖核心配方与商业实操细节](./实战指南/high-value-snacks-tutorial-recipes-business-guide.md) — 2024-07-31
 - [如何利用人工智能重构商业设计流程？y园糖AIGC创世计划课程实战指南](./实战指南/ai-business-design-workflow-guide.md) — 2024-07-31
 - [提升社交能力的72个实操技巧：从入门到精通的练习指南](./实战指南/72-social-skills-tips-guide.md) — 2024-07-31
+- [陈少珊：解析电商财务体系，构建业务与经营管理的复合能力](./实战指南/chen-shaoshan-ecommerce-financial-system-management.md) — 2024-07-30
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
