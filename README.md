@@ -1962,6 +1962,7 @@
 - [Favoree：YouTube 高质量内容分级导航站（含访问指南与筛选逻辑）](./创意工具/favoree-youtube-content-navigation-guide.md) — 2024-07-25
 - [海角社区资源导航：解锁版学习站点与免费内容获取指南](./创意工具/haijiao-resource-navigation-guide.md) — 2024-07-25
 - [如何使用 Zoom Earth 实时监测全球天气、雨雷达与气象预报](./创意工具/zoom-earth-real-time-weather-radar-forecast.md) — 2024-07-24
+- [想选购HiFi音频设备却被专业术语困扰？在Woodenears吾等益耳寻找客观的数码测评与科普指南](./创意工具/hifi-audio-buying-guide-woodenears.md) — 2024-07-24
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
