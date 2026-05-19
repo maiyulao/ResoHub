@@ -3516,6 +3516,7 @@
 - [国外动物美食纪录片解说全流程实操指南](./实战指南/animal-food-documentary-guide.md) — 2024-08-13
 - [高阶社交博弈指南：从心态重塑到实战技巧的恋爱全流程攻略](./实战指南/advanced-social-game-dating-guide.md) — 2024-08-12
 - [顾悦教授英语口语全攻略：从基础到精通的系统学习路径](./实战指南/prof-guyue-english-speaking-guide.md) — 2024-08-12
+- [提升职场竞争力：宋晓阳沟通技巧实操指南](./实战指南/song-xiaoyang-communication-skills-guide.md) — 2024-08-11
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
