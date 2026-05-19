@@ -1960,6 +1960,7 @@
 - [在线电子印章生成工具：支持浏览器直接制作与导出，适用办公文档签名](./创意工具/online-electronic-seal-generator.md) — 2024-07-26
 - [数字化手写体生成工具：通过模拟真实书写笔迹将电子文本转换为手写文稿](./创意工具/digital-handwriting-generator-tool.md) — 2024-07-26
 - [Favoree：YouTube 高质量内容分级导航站（含访问指南与筛选逻辑）](./创意工具/favoree-youtube-content-navigation-guide.md) — 2024-07-25
+- [海角社区资源导航：解锁版学习站点与免费内容获取指南](./创意工具/haijiao-resource-navigation-guide.md) — 2024-07-25
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
