@@ -3449,6 +3449,7 @@
 - [从基础到进阶：算法与数据结构实战突破指南](./实战指南/algorithms-data-structures-guide.md) — 2024-08-20
 - [准备计算机等级考试却不知从何入手？这份高效复习资料包帮你快速通关](./实战指南/ncre-exam-study-guide-package.md) — 2024-08-20
 - [欧阳春晓30天居家普拉提计划：高效塑形与身材管理指南](./实战指南/ouyang-chunxiao-30day-home-pilates-plan.md) — 2024-08-20
+- [想在小红书把兴趣转化为收入？从零起步实现涨粉与变现的实操路径](./实战指南/xiaohongshu-monetization-guide.md) — 2024-08-19
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
