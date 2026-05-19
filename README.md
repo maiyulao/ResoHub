@@ -728,6 +728,7 @@
 - [商用免版权中英文字体库：涵盖开源免费资源及其授权细节指南](./GitHub项目/commercial-free-fonts-guide.md) — 2024-07-25
 - [高性能多语言OCR方案：基于ONNX加速的PaddleOCR轻量化实现，兼顾80+语种支持与极速推理](./GitHub项目/high-performance-multilingual-ocr-paddleocr-onnx.md) — 2024-07-19
 - [如何使用中文网字计划获取免费商用 Web 字体：操作指南](./GitHub项目/get-free-commercial-web-fonts-chinese-net-fonts.md) — 2024-07-19
+- [开源编程电子书库：涵盖多语言开发实战与技术进阶的免费资源合集](./GitHub项目/open-source-programming-ebooks-collection.md) — 2024-07-17
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
