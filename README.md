@@ -1039,6 +1039,7 @@
 - [刘谦扑克魔术教学资源：实操技巧解析与练习注意事项](./兴趣爱好/liu-qian-poker-magic-tutorial.md) — 2024-08-17
 - [乒乓球专业进阶指南：从核心技术突破到实战体系构建的系统化教学课程](./兴趣爱好/table-tennis-advanced-training-guide.md) — 2024-08-16
 - [iPad质感插画教程：22课时全集（含素材获取与设备配置指南）](./兴趣爱好/ipad-textured-illustration-course-full-set.md) — 2024-08-12
+- [尹航乒乓球教学视频资源：适用进阶训练及核心技术要点解析](./兴趣爱好/yin-hang-table-tennis-training-videos.md) — 2024-08-11
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
