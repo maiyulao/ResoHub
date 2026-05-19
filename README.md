@@ -1899,6 +1899,7 @@
 - [Logo System：涵盖 700 余款设计案例的互联网标志灵感库](./创意工具/logo-system-internet-design-inspiration-library.md) — 2024-08-15
 - [Music Immm 纯净音乐播放方案：通过极简界面与无广告设计，构建高效的本地音频管理体验](./创意工具/music-immm-minimalist-local-audio-player.md) — 2024-08-15
 - [PayPal 手续费计算工具：支持多币种结算与实时费率核算](./创意工具/paypal-fee-calculator.md) — 2024-08-13
+- [使用 miniPaint 实现浏览器端图片编辑的详细步骤](./创意工具/browser-image-editing-with-minipaint.md) — 2024-08-12
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
