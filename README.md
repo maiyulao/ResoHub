@@ -3555,6 +3555,7 @@
 - [破解内容营销底层逻辑：小红书品牌60天训练营第6期，复刻GMV 2亿级增长路径](./实战指南/xiaohongshu-content-marketing-gmv-growth-camp.md) — 2024-08-06
 - [2024中级软考网络工程师备考指南：核心考点解析与全套源码课件实操指南](./实战指南/2024-network-engineer-exam-guide.md) — 2024-08-06
 - [想复盘雷军近五年的年度演讲精髓？这里有 2020-2024 年的完整演讲文稿汇总](./实战指南/lei-jun-annual-speech-transcripts-2020-2024.md) — 2024-08-06
+- [想开美食店却找不到靠谱配方？这份万级商业实操指南帮你避坑](./实战指南/food-business-recipe-guide.md) — 2024-08-05
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
