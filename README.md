@@ -3631,6 +3631,7 @@
 - [抖店商品卡起店全流程：从选品、自然流获取到达人协作的实操步骤](./实战指南/douyin-shop-product-card-guide.md) — 2024-07-25
 - [销售竞争情报实战指南：从高效搜集到深度分析的闭环应用体系](./实战指南/sales-competitive-intelligence-guide.md) — 2024-07-25
 - [拼多多店群获取自然流量实操指南：从选品、拍单到月入万元的具体步骤](./实战指南/pinduoduo-store-cluster-natural-traffic-guide.md) — 2024-07-25
+- [亚马逊蓝海选品实操指南：趋势分析方法与获取路径详解](./实战指南/amazon-niche-product-research-guide.md) — 2024-07-25
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
