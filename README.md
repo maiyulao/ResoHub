@@ -1885,6 +1885,7 @@
 - [502book 小说检索指南：全网资源搜索路径与使用注意事项](./创意工具/502book-novel-search-guide.md) — 2024-08-18
 - [如何利用 Mixkit 获取免费商用 4K 视频素材：操作指南](./创意工具/mixkit-free-4k-stock-videos-guide.md) — 2024-08-17
 - [下载狗：支持100+主流网站的无水印视频提取工具（免费版）](./创意工具/xiazagou-watermark-remover-video-downloader.md) — 2024-08-17
+- [全球虚拟地址与身份信息生成工具：免费获取随机个人资料](./创意工具/random-identity-generator-free.md) — 2024-08-15
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
