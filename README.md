@@ -3494,6 +3494,7 @@
 - [拼多多出单难、爆款难维持？详解从底层逻辑到实操链路的全维度运营方案](./实战指南/pinduoduo-operation-strategy-guide.md) — 2024-08-15
 - [学而思高中全科学习资料集锦：核心考点与课程体系解析](./实战指南/xueersi-high-school-study-materials-core-points-curriculum.md) — 2024-08-14
 - [7000部高粘性付费短剧资源库：覆盖热门爽文题材，支持实时同步更新](./实战指南/7000-paid-short-drama-resources-library.md) — 2024-08-14
+- [建筑师AI实操指南：从零构建人工智能辅助设计工作流](./实战指南/ai-guide-for-architects-workflow.md) — 2024-08-14
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
