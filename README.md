@@ -723,6 +723,7 @@
 - [电视与广播图标资源集：直连下载地址、适用场景及配置指南](./GitHub项目/tv-radio-icon-set-download-guide.md) — 2024-08-08
 - [developer2gwy：程序员转岗公务员备考指南与实践路径说明](./GitHub项目/programmer-to-civil-servant-guide.md) — 2024-07-31
 - [如何使用 Anitabi Map 标记并共享动画取景地地标与实拍对比图](./GitHub项目/anitabi-map-anime-location-sharing-guide.md) — 2024-07-27
+- [商用免版权中英文字体库：涵盖开源免费资源及其授权细节指南](./GitHub项目/commercial-free-fonts-guide.md) — 2024-07-25
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
