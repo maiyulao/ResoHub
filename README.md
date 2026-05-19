@@ -965,6 +965,7 @@
 - [获取知乎盐选会员内容（1-57）的具体操作步骤](./书籍/get-zhihu-salt-member-content-guide.md) — 2024-08-18
 - [科学维护肾功能的五个关键步骤与日常护理指南](./书籍/key-steps-for-kidney-function-maintenance-and-care.md) — 2024-08-15
 - [《阿尔法之路》PDF下载：面向男性的脱单攻略及阅读指南](./书籍/way-of-the-alpha-pdf-download-guide.md) — 2024-08-07
+- [34类行业电子书资源库：涵盖多领域专业知识，提供全量EPUB格式下载](./书籍/34-industry-ebook-library-epub-download.md) — 2024-08-07
 
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
