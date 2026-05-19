@@ -3560,6 +3560,7 @@
 - [想在抖音小店通过商品卡出单但没囤货？尝试这套7天快速起量实操方案](./实战指南/douyin-shop-product-card-7day-strategy.md) — 2024-08-05
 - [闲鱼无货源4.0实操指南：新手快速上手的全流程方案](./实战指南/xianyu-dropshipping-guide-4-0.md) — 2024-08-05
 - [AI绘画全流程实操指南：通过30课时体系化训练，从零构建主流AI绘画核心技法与商业应用能力](./实战指南/ai-painting-full-guide-commercial-application.md) — 2024-08-05
+- [Oracle 关系型数据库 2023 版：核心架构与实战指南](./实战指南/oracle-database-2023-architecture-guide.md) — 2024-08-05
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
