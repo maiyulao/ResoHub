@@ -946,6 +946,7 @@
 - [自媒体编导进阶指南：从通识逻辑到流量实操的思维重构](./互联网营销/self-media-director-guide-logic-to-traffic.md) — 2024-09-28
 - [闪亮猫自媒体美学进阶指南：从视觉体系构建到博主调性塑造](./互联网营销/shiny-cat-social-media-aesthetic-guide.md) — 2024-09-14
 - [招商方案实操指南：从逻辑构建到系统落地（含1980元课程精华）](./互联网营销/investment-promotion-guide-logic-to-implementation.md) — 2024-08-31
+- [知识星球个人IP全链路构建指南：从定位策略到私域变现的系统化实操课程](./互联网营销/knowledge-planet-personal-ip-guide.md) — 2024-08-20
 
 ### 兴趣爱好
 - [家里东西总是在整理后迅速回潮？掌握这套收纳逻辑，让空间持久有序](./e585b4e8b6a3e788b1e5a5bd/home-organization-logic-for-lasting-order.md) — 2025-12-07
