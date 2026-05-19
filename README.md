@@ -3610,6 +3610,7 @@
 - [Stable Diffusion 商业级实操指南：从零起步的 AI 绘画进阶路径](./实战指南/stable-diffusion-commercial-guide.md) — 2024-07-29
 - [情感赛道IP实操全指南：通过18节短视频与直播联动课程，构建普通人的个人影响力变现路径](./实战指南/emotional-ip-monetization-guide.md) — 2024-07-29
 - [酒席社交话术全集：适用场景拆解与高情商沟通技巧指南](./实战指南/banquet-social-communication-skills-guide.md) — 2024-07-28
+- [Shopify建站全流程实操指南：从零起步快速搭建跨境电商独立站](./实战指南/shopify-store-setup-guide-for-beginners.md) — 2024-07-28
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
