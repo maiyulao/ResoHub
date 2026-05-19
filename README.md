@@ -3498,6 +3498,9 @@
 ### 浏览器插件
 - [PageTalk 开源解析：轻量化 AI 浏览器插件的功能与实践](./浏览器插件/pagetalk-open-source-ai-browser-extension.md) — 2025-04-26
 
+### 演示分类
+- [OpenCyvis 开源项目：基于虚拟显示器的 Android AI Agent 部署与配置指南](./演示分类/opencyvis-%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae%ef%bc%9a%e5%9f%ba%e4%ba%8e%e8%99%9a%e6%8b%9f%e6%98%be%e7%a4%ba%e5%99%a8%e7%9a%84-android-ai-agent-%e9%83%a8%e7%bd%b2%e4%b8%8e%e9%85%8.md) — 2026-05-19
+
 ### 福利
 - [想免费试用美区Apple娱乐服务？Apple Card用户如何领取五大订阅福利全指南](./福利/apple-card-free-subscription-guide.md) — 2025-04-20
 
