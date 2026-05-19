@@ -3673,6 +3673,7 @@
 - [小红书从零起步获利实操指南：从账号搭建到变现的完整步骤](./实战指南/xiaohongshu-profit-guide-step-by-step.md) — 2024-07-20
 - [面对不同业务场景不知如何起草合同？这份全品类协议模版库帮你快速构建法律框架](./实战指南/contract-template-library-for-business-scenarios.md) — 2024-07-20
 - [杜子健《情商密码》实操指南：社交逻辑与沟通技巧内化笔记](./实战指南/emotional-intelligence-code-guide-social-skills.md) — 2024-07-20
+- [全行业运营知识体系图谱：涵盖300余份实战指南，分维度拆解各领域核心能力模型](./实战指南/industry-operations-knowledge-map.md) — 2024-07-19
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
