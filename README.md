@@ -3662,6 +3662,7 @@
 - [21天减脂塑形实操指南：Rosie私教课训练计划及步骤](./实战指南/21-day-fat-loss-shaping-guide-rosie-training-plan.md) — 2024-07-21
 - [从零起步：小龙社长短视频运营实操全流程指南](./实战指南/short-video-operation-guide-xiaolong-shezhang.md) — 2024-07-21
 - [AI 创富实操指南：从构建终身学习体系到实现自动化增收的步骤详解](./实战指南/ai-wealth-creation-guide-automation-income.md) — 2024-07-21
+- [少儿编程学习资源清单：核心课程分类与选择指南](./实战指南/kids-programming-learning-resources-guide.md) — 2024-07-20
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
