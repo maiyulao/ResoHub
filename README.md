@@ -1968,6 +1968,7 @@
 - [日式JK风格摄影指南：高质感素材库与审美学习资源](./创意工具/japanese-jk-style-photography-guide.md) — 2024-07-23
 - [Wandhi：集成多平台检索的音乐搜索与下载工具](./创意工具/wandhi-music-search-downloader.md) — 2024-07-23
 - [AllPoCo成人漫画绘画学习指南：从基础到进阶的操作步骤](./创意工具/allpoco-adult-manga-drawing-guide.md) — 2024-07-22
+- [JetBrains 全系列软件激活服务器：实现高效授权管理与实时更新维护](./创意工具/jetbrains-activation-server-license-management.md) — 2024-07-22
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
