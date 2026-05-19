@@ -1934,6 +1934,7 @@
 - [递增式SIP投资回报计算器：在线测算阶梯式定投收益及资金规划工具](./创意工具/incremental-sip-return-calculator.md) — 2024-08-03
 - [Query.Domains：高效执行批量域名可用性检测与 WHOIS 信息查询](./创意工具/query-domains-bulk-domain-availability-whois-lookup.md) — 2024-08-03
 - [获取 FreeGalgame 免费资源的详细操作指南](./创意工具/freegalgame-guide.md) — 2024-08-03
+- [实战经验沉淀：通过知识共享打破认知局限](./创意工具/knowledge-sharing-break-cognitive-limits.md) — 2024-08-02
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
