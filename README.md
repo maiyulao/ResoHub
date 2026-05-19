@@ -492,6 +492,9 @@
 ### Category 9166
 - [如何使用 Data-Analysis-Agent 通过自然语言查询数据库：开源配置与操作指南](./Category 9166/data-analysis-agent-natural-language-database-query-guide.md) — 2026-05-12
 
+### Category 9183
+- [使用88查查询企业工商信息与经营风险的操作指南](./Category 9183/88cha-enterprise-credit-risk-guide.md) — 2026-05-15
+
 ### GitHub项目
 - [Lofi Radio Web：集成专注计时功能的开源网页播放器](./GitHub项目/lofi-radio-web-open-source-player.md) — 2026-05-01
 - [AList 部署指南：支持多云盘聚合与 WebDAV 挂载的自托管存储网关](./GitHub项目/alist-deployment-guide-cloud-storage-gateway.md) — 2026-04-24
