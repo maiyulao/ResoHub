@@ -940,6 +940,7 @@
 - [男性勃起功能障碍防治指南：从生理机制到临床治疗的综合干预方案](./书籍/erectile-dysfunction-prevention-and-treatment-guide.md) — 2024-09-06
 - [掌握M属性攻略：从心理分析到实操引导的进阶指南](./书籍/m-attribute-guide-psychology-and-practice.md) — 2024-08-27
 - [男性体能增强与营养补给操作指南](./书籍/mens-fitness-and-nutrition-guide.md) — 2024-08-22
+- [获取知乎盐选会员内容（1-57）的具体操作步骤](./书籍/get-zhihu-salt-member-content-guide.md) — 2024-08-18
 
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
