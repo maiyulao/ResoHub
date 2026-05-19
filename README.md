@@ -433,6 +433,7 @@
 - [Fish Audio 开源语音合成方案：实现高保真文本转语音与快速语音克隆](./AI工具教程/fish-audio-open-source-tts-voice-cloning.md) — 2024-08-27
 - [VideoLingo：基于 AI 的开源英语视频全自动翻译与配音方案](./AI工具教程/videolingo-ai-open-source-video-translation-dubbing.md) — 2024-08-26
 - [无需付费且不限次数：FLUX.1 AI 文本生成图像操作指南](./AI工具教程/free-unlimited-flux-1-ai-image-generation-guide.md) — 2024-08-25
+- [基于 Dify 构建的开源 AI 数字人开发框架：AWESOME-DIGITAL-HUMAN](./AI工具教程/awesome-digital-human-dify-framework.md) — 2024-08-25
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
