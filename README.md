@@ -456,6 +456,7 @@
 - [Luvvoice：无字数限制的免费在线AI语音合成工具](./AI工具教程/luvvoice-free-unlimited-ai-text-to-speech.md) — 2024-08-09
 - [想给视频加AI翻译配音但怕操作太复杂？试试开源免费的 EasyVideoTrans](./AI工具教程/easyvideotrans-ai-video-translation-dubbing.md) — 2024-08-07
 - [卦语AI：支持在线免费起卦的周易占卜工具及使用指南](./AI工具教程/guayu-ai-zhouyi-divination-tool-guide.md) — 2024-08-06
+- [TikTok 风格文字转语音在线生成工具：免费使用指南与环境配置](./AI工具教程/tiktok-text-to-speech-free-guide-setup.md) — 2024-08-06
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
