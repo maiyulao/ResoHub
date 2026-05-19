@@ -3678,6 +3678,7 @@
 - [小红书无货源精细化运营：从基础起步到进阶增长的实操全流程](./实战指南/xiaohongshu-dropshipping-growth-guide.md) — 2024-07-19
 - [掌握38种小语种的语言学习资源获取指南](./实战指南/guide-to-learning-resources-for-38-minor-languages.md) — 2024-07-19
 - [21天健身轻食食谱方案：适用人群、饮食计划及执行要点](./实战指南/21-day-fitness-light-meal-plan.md) — 2024-07-19
+- [Dessi AI 实用指南：实现无限制换脸与成人图像生成](./实战指南/dessi-ai-guide-unlimited-faceswap-adult-image-generation.md) — 2024-07-19
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
