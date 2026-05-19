@@ -3650,6 +3650,7 @@
 - [全专业考研考证知识点思维导图资源库](./实战指南/postgraduate-exam-mindmap-resources-2.md) — 2024-07-23
 - [Shopee跨境电商全流程实操指南：从基础配置到进阶运营的完整体系](./实战指南/shopee-cross-border-ecommerce-guide.md) — 2024-07-23
 - [高价值PPT实战指南：70个提升商业演示含金量的核心技巧](./实战指南/high-value-ppt-business-presentation-tips.md) — 2024-07-23
+- [型男进阶指南：坏男孩学院形象重塑计划](./实战指南/bad-boy-style-guide-image-remake.md) — 2024-07-22
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
