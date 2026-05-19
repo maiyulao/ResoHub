@@ -3557,6 +3557,7 @@
 - [想复盘雷军近五年的年度演讲精髓？这里有 2020-2024 年的完整演讲文稿汇总](./实战指南/lei-jun-annual-speech-transcripts-2020-2024.md) — 2024-08-06
 - [想开美食店却找不到靠谱配方？这份万级商业实操指南帮你避坑](./实战指南/food-business-recipe-guide.md) — 2024-08-05
 - [想在抖音小店通过商品卡出单但没囤货？尝试这套7天快速起量实操方案](./实战指南/douyin-shop-product-card-7day-strategy.md) — 2024-08-05
+- [闲鱼无货源4.0实操指南：新手快速上手的全流程方案](./实战指南/xianyu-dropshipping-guide-4-0.md) — 2024-08-05
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
