@@ -1982,6 +1982,7 @@
 - [FinalShell 离线激活方案与操作指南](./创意工具/finalshell-offline-activation-guide.md) — 2024-07-21
 - [人类大脑功能高清图解资源：下载路径、适用场景及使用要点](./创意工具/human-brain-function-diagrams-resource.md) — 2024-07-19
 - [王竹子：英语字母学习指南与教学实操](./创意工具/english-alphabet-learning-guide-teaching-practice.md) — 2024-07-18
+- [Twitter Vid：高效提取推特高清视频的在线工具，支持多种分辨率选择与快速无损保存](./创意工具/twitter-vid-high-quality-video-downloader.md) — 2024-07-18
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
