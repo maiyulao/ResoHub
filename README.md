@@ -1921,6 +1921,7 @@
 - [反诈实战指南：典型骗局拆解与防骗经验汇总](./创意工具/anti-fraud-guide-scams-and-tips.md) — 2024-08-06
 - [NioLeads：高效提取 Sales Navigator 潜在客户与 LinkedIn 邮箱地址](./创意工具/nioleads-extract-sales-navigator-linkedin-emails.md) — 2024-08-06
 - [ACGKNOW 免费汉化成人游戏下载与安装指南](./创意工具/accknow-free-adult-games-download-install-guide.md) — 2024-08-06
+- [成人向游戏资源站索引与下载指南](./创意工具/adult-game-resources-index-download-guide.md) — 2024-08-06
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
