@@ -1839,6 +1839,7 @@
 - [ShotEasy 在线截图美化工具：浏览器端快速实现带背景图的套壳截图](./创意工具/shoteasy-online-screenshot-beautifier.md) — 2024-08-27
 - [Favicon Extractor：高效提取与分析网站图标的实用工具](./创意工具/favicon-extractor-tool.md) — 2024-08-27
 - [小草磁力资源索引：磁力链接检索方法与使用注意事项](./创意工具/xiaocao-magnet-index-guide.md) — 2024-08-27
+- [PDC 哲学文档中心论文库：检索指南与资源获取方法](./创意工具/pdc-philosophy-docs-retrieval-guide.md) — 2024-08-25
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
