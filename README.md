@@ -1863,6 +1863,7 @@
 - [LingoHut：支持45+种语言的零基础免费学习平台，通过阶梯式课程实现快速入门](./创意工具/lingohut-free-language-learning-platform.md) — 2024-08-22
 - [单词森林 (Word Forest) 词汇学习工具：Web端在线使用指南与功能要点](./创意工具/word-forest-web-guide-features.md) — 2024-08-22
 - [如何获取并配置免费的小火箭（Shadowrocket）共享Apple ID：操作指南](./创意工具/get-configure-free-shadowrocket-shared-apple-id-guide.md) — 2024-08-21
+- [如何在猫耳FM收听在线广播剧：从注册到体验弹幕音图的操作指南](./创意工具/how-to-listen-to-radio-drama-on-maoer-fm.md) — 2024-08-21
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
