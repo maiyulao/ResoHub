@@ -1874,6 +1874,7 @@
 - [Azure TTS 文本转语音实操指南：高效实现自然人声合成及其免费方案解析](./创意工具/azure-tts-guide-natural-voice-synthesis.md) — 2024-08-20
 - [SnapTik 高清视频下载指南：实现 4K/8K 原画质无损保存，支持多分辨率在线快速导出](./创意工具/snaptik-hd-video-download-guide.md) — 2024-08-20
 - [502book 小说检索指南：全网资源搜索路径与使用注意事项](./创意工具/502book-novel-search-guide.md) — 2024-08-18
+- [如何利用 Mixkit 获取免费商用 4K 视频素材：操作指南](./创意工具/mixkit-free-4k-stock-videos-guide.md) — 2024-08-17
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
