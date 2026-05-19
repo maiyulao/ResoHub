@@ -912,6 +912,7 @@
 - [PDFQFZ：开源免费的PDF骑缝章自动化盖章工具](./Windows软件/pdfqfz-open-source-pdf-stamp-tool.md) — 2024-08-26
 - [想在电脑上导出并查看微信聊天记录？尝试用 PyWxDump 解密数据库实现本地读取](./Windows软件/export-wechat-chat-history-pywxdump.md) — 2024-08-16
 - [高保真FLAC音乐无损下载指南：实现全平台免费获取原音品质音频的实用方案](./Windows软件/high-fidelity-flac-lossless-download-guide.md) — 2024-08-15
+- [高效抖音视频批量去水印方案：实现无损下载与自动化采集](./Windows软件/tiktok-video-batch-watermark-remover.md) — 2024-08-10
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
