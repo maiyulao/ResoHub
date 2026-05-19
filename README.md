@@ -3535,6 +3535,7 @@
 - [零基础通过AI绘画进阶艺术创作的实操指南](./实战指南/ai-art-creation-guide-for-beginners.md) — 2024-08-09
 - [高中3500核心词汇：40篇短文记忆法及适用场景指南](./实战指南/high-school-3500-core-vocabulary-short-stories-guide.md) — 2024-08-09
 - [小红书笔记带货实操指南：从账号搭建到高转化出单的完整步骤](./实战指南/xiaohongshu-ecommerce-guide-setup-to-conversion.md) — 2024-08-08
+- [面对复杂数据不知从何下手？通过这36节课构建Excel从入门到精通的技能体系](./实战指南/master-excel-skills-course.md) — 2024-08-07
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
