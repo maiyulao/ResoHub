@@ -3544,6 +3544,7 @@
 - [通用社交技巧指南：适用场景分析与实操进阶方案](./实战指南/social-skills-guide-and-practical-strategies.md) — 2024-08-07
 - [俞敏洪与艾力英语学习全指南：从零基础到精通的实操路径](./实战指南/yu-minhong-aily-english-learning-guide.md) — 2024-08-07
 - [自建别墅全周期指南：从规划到完工的实操图解 PDF](./实战指南/self-build-villa-complete-guide-pdf.md) — 2024-08-07
+- [抖音小店从开店到出单的全流程操作指南](./实战指南/douyin-shop-setup-to-sales-guide.md) — 2024-08-07
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
