@@ -1018,6 +1018,7 @@
 - [高效自学指南：构建可迁移至多领域的知识习得体系](./兴趣爱好/efficient-self-learning-knowledge-system.md) — 2024-10-03
 - [7天快速上手：通过埃德蒙写作营创作7篇种草文案的实操步骤](./兴趣爱好/7-day-edmond-writing-camp-guide.md) — 2024-09-28
 - [想学钢琴却没时间报班？这套成人零基础速成视频课帮你快速上手](./兴趣爱好/adult-piano-beginner-fast-track-course.md) — 2024-08-25
+- [刘谦扑克魔术教学资源：实操技巧解析与练习注意事项](./兴趣爱好/liu-qian-poker-magic-tutorial.md) — 2024-08-17
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
