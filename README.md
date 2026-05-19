@@ -1929,6 +1929,7 @@
 - [AI 羊毛资源获取指南：适用场景与省钱实操要点](./创意工具/ai-resources-saving-guide.md) — 2024-08-04
 - [高质量透明背景PNG素材库：免费高清设计资源下载指南](./创意工具/high-quality-transparent-png-resources-guide.md) — 2024-08-04
 - [递增式SIP投资回报计算器：在线测算阶梯式定投收益及资金规划工具](./创意工具/incremental-sip-return-calculator.md) — 2024-08-03
+- [Query.Domains：高效执行批量域名可用性检测与 WHOIS 信息查询](./创意工具/query-domains-bulk-domain-availability-whois-lookup.md) — 2024-08-03
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
