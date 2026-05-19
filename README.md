@@ -1956,6 +1956,7 @@
 - [通过 ResourceBoy 获取海量免费设计资源的具体步骤](./创意工具/get-free-design-resources-with-resourceboy.md) — 2024-07-27
 - [想查询权威的医药信息却不知从何入手？试试这个国家认证的全类型查询平台](./创意工具/official-medicine-information-platform.md) — 2024-07-26
 - [在线电子印章生成工具：支持浏览器直接制作与导出，适用办公文档签名](./创意工具/online-electronic-seal-generator.md) — 2024-07-26
+- [数字化手写体生成工具：通过模拟真实书写笔迹将电子文本转换为手写文稿](./创意工具/digital-handwriting-generator-tool.md) — 2024-07-26
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
