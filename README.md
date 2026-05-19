@@ -1867,6 +1867,7 @@
 - [如何在猫耳FM收听在线广播剧：从注册到体验弹幕音图的操作指南](./创意工具/how-to-listen-to-radio-drama-on-maoer-fm.md) — 2024-08-21
 - [黑神话：悟空：核心攻略与实时情报汇总](./创意工具/black-myth-wukong-guide-and-intel.md) — 2024-08-20
 - [Azure TTS 文本转语音实操指南：高效实现自然人声合成及其免费方案解析](./创意工具/azure-tts-guide-natural-voice-synthesis.md) — 2024-08-20
+- [SnapTik 高清视频下载指南：实现 4K/8K 原画质无损保存，支持多分辨率在线快速导出](./创意工具/snaptik-hd-video-download-guide.md) — 2024-08-20
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
