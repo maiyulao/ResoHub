@@ -3569,6 +3569,7 @@
 - [Oracle 关系型数据库 2023 版：核心架构与实战指南](./实战指南/oracle-database-2023-architecture-guide.md) — 2024-08-05
 - [2025年考研英语刘晓燕全程班学习路径与操作指南](./实战指南/2025-liu-xiaoyan-english-study-guide.md) — 2024-08-05
 - [停止精神内耗：通过认知重构与行为干预实现心理自洽的实践手册](./实战指南/stop-mental-exhaustion-cognitive-restructuring-guide.md) — 2024-08-03
+- [人力资源管理全实操指南：80本核心业务知识库](./实战指南/hr-management-practical-guide-knowledge-base.md) — 2024-08-03
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
