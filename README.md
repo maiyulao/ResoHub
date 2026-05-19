@@ -1945,6 +1945,7 @@
 - [PandaTV 韩国主播视频内容分析与学习指南](./创意工具/pandatv-korean-streamer-content-analysis-guide.md) — 2024-07-30
 - [123APPS全能工具箱：音频、视频与PDF编辑转换操作指南](./创意工具/123apps-all-in-one-toolbox-guide.md) — 2024-07-30
 - [免费艺术签名在线设计工具：实现个性化手写体快速生成](./创意工具/free-online-artistic-signature-generator.md) — 2024-07-30
+- [1. 访问 TiQu.cc 2. 输入链接 3. 选择格式 4. 免费下载跨平台音视频资源](./创意工具/how-to-download-media-via-tiqu-cc.md) — 2024-07-29
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
