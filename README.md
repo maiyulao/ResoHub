@@ -449,6 +449,7 @@
 - [橙篇：支持长图文解析与专业知识检索的免费AI创作工具](./AI工具教程/chengpian-ai-writing-tool.md) — 2024-08-15
 - [想给照片换脸、修复模糊人像或快速去除水印？试试这款一站式 Image AI 工具集](./AI工具教程/image-ai-toolkit-face-swap-restore-watermark-remover.md) — 2024-08-14
 - [AIResumeBuilder：高效构建专业简历的免费AI工具](./AI工具教程/airesumebuilder-free-ai-tool.md) — 2024-08-14
+- [如何使用 Headcanon Generator 为虚拟角色快速构建脑补设定](./AI工具教程/how-to-use-headcanon-generator-for-character-development.md) — 2024-08-14
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
