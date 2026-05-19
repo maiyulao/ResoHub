@@ -3439,6 +3439,7 @@
 - [1986版《西游记》及2000版续集：4K修复中英双语全集（未删减版）](./实战指南/journey-to-the-west-1986-2000-4k-remastered-full-collection.md) — 2024-08-22
 - [ChatGPT 商业化实操：从高效运营到盈利变现的路径解析](./实战指南/chatgpt-commercialization-guide-and-monetization.md) — 2024-08-22
 - [黑神话：悟空 100G 免安装完整版：一键启动离线体验，附带功能修改器](./实战指南/black-myth-wukong-100g-offline-edition-with-trainer.md) — 2024-08-21
+- [想找大量完结广播剧却不知从何入手？这里有 700 余部精品资源推荐](./实战指南/best-completed-audio-drama-resources-list.md) — 2024-08-21
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
