@@ -3675,6 +3675,7 @@
 - [杜子健《情商密码》实操指南：社交逻辑与沟通技巧内化笔记](./实战指南/emotional-intelligence-code-guide-social-skills.md) — 2024-07-20
 - [全行业运营知识体系图谱：涵盖300余份实战指南，分维度拆解各领域核心能力模型](./实战指南/industry-operations-knowledge-map.md) — 2024-07-19
 - [小红书无货源精细化运营：从基础起步到进阶增长的实操全流程](./实战指南/xiaohongshu-dropshipping-growth-guide.md) — 2024-07-19
+- [掌握38种小语种的语言学习资源获取指南](./实战指南/guide-to-learning-resources-for-38-minor-languages.md) — 2024-07-19
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
