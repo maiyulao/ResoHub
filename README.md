@@ -3462,6 +3462,7 @@
 - [想一次性补完《异形》全系列却不知观看顺序？这份电影合集指南为你理清时间线](./实战指南/alien-movie-watch-order-timeline-guide.md) — 2024-08-19
 - [Python全栈开发实战：涵盖爬虫、数据分析与AI应用课程指南](./实战指南/python-fullstack-development-course-guide.md) — 2024-08-19
 - [高频实用现代幽默风绿幕人物素材集：场景分类与应用指南](./实战指南/modern-humor-green-screen-character-assets-guide.md) — 2024-08-18
+- [多平台电视盒子适用：直播软件安装包下载及配置指南](./实战指南/tv-box-iptv-app-install-guide.md) — 2024-08-17
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
