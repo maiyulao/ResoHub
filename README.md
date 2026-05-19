@@ -2098,6 +2098,7 @@
 - [掌控社交主导权：坏男孩学院的相亲实战策略与心理博弈指南](./大人学习课程/bad-boy-academy-dating-strategies-psychology.md) — 2024-07-29
 - [在纯男校的环境里，如何处理一段不被允许的校园恋爱？](./大人学习课程/forbidden-romance-in-all-boys-school.md) — 2024-07-27
 - [浓好咖啡 MF01117 瑜伽视觉设计分析与学习要点](./大人学习课程/nonghao-coffee-mf01117-yoga-visual-design-analysis.md) — 2024-07-26
+- [坏男孩学院：官方入门指南与核心课程解析](./大人学习课程/bad-boys-academy-guide-and-courses.md) — 2024-07-20
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
