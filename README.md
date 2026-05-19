@@ -3644,6 +3644,7 @@
 - [Midjourney 实用指南：从零起步掌握 AI 绘画创作流](./实战指南/midjourney-beginner-guide-ai-art-workflow.md) — 2024-07-24
 - [抖音电商带货全流程实操：从橱窗好物推荐到随心推短视频推广（80课时详解）](./实战指南/douyin-ecommerce-guide-showcase-and-promotion.md) — 2024-07-24
 - [如何通过优化销售模式提升业绩？销售系统化实战指南](./实战指南/optimize-sales-model-for-performance-guide.md) — 2024-07-23
+- [60部欧美电影精选：高尺度剧情片推荐清单](./实战指南/best-60-western-adult-drama-movies-list.md) — 2024-07-23
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
