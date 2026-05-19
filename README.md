@@ -460,6 +460,7 @@
 - [灵办AI：面向学习与办公的免费AI助手指南](./AI工具教程/lingban-ai-guide.md) — 2024-08-05
 - [大同搜索：聚焦高质量数据的AI检索实践](./AI工具教程/datong-search-ai-retrieval-high-quality-data.md) — 2024-08-05
 - [高效移除图片背景：在线AI抠图工具实操指南](./AI工具教程/ai-background-remover-guide.md) — 2024-08-02
+- [AudioNotes 高效音频转录方案：将音视频快速转化为结构化 Markdown 笔记](./AI工具教程/audionotes-audio-to-markdown-transcription.md) — 2024-07-28
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
