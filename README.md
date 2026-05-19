@@ -1927,6 +1927,7 @@
 - [成人向游戏资源站索引与下载指南](./创意工具/adult-game-resources-index-download-guide.md) — 2024-08-06
 - [猫看白噪音：无需安装的免费在线环境音平台](./创意工具/cat-white-noise-free-online-ambient-sound.md) — 2024-08-05
 - [AI 羊毛资源获取指南：适用场景与省钱实操要点](./创意工具/ai-resources-saving-guide.md) — 2024-08-04
+- [高质量透明背景PNG素材库：免费高清设计资源下载指南](./创意工具/high-quality-transparent-png-resources-guide.md) — 2024-08-04
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
