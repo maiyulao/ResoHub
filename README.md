@@ -1953,6 +1953,7 @@
 - [如何在线阅读旋元佑《英语魔法师之语法俱乐部》：操作步骤指南](./创意工具/read-english-magician-grammar-club-online.md) — 2024-07-29
 - [在京东APP里找不到成人学习资料入口？教你通过隐藏路径快速开启](./创意工具/jd-app-adult-learning-hidden-path.md) — 2024-07-28
 - [Windows 精简版系统镜像下载指南：适用场景、版本选择与安装注意事项](./创意工具/windows-lite-version-download-guide.md) — 2024-07-27
+- [通过 ResourceBoy 获取海量免费设计资源的具体步骤](./创意工具/get-free-design-resources-with-resourceboy.md) — 2024-07-27
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
