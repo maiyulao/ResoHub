@@ -452,6 +452,7 @@
 - [如何使用 Headcanon Generator 为虚拟角色快速构建脑补设定](./AI工具教程/how-to-use-headcanon-generator-for-character-development.md) — 2024-08-14
 - [Outfitify：基于AI的穿搭方案评估与风格优化工具](./AI工具教程/outfitify-ai-outfit-evaluation-style-optimizer.md) — 2024-08-13
 - [利用免费AI歌曲生成器创作音乐的完整步骤指南](./AI工具教程/complete-guide-to-free-ai-song-generators.md) — 2024-08-13
+- [在线雷诺曼占卜工具：免费使用指南与操作注意事项](./AI工具教程/free-online-lenormand-divination-guide.md) — 2024-08-12
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
