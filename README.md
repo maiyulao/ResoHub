@@ -1969,6 +1969,7 @@
 - [如何通过科学引导改善夫妻性生活质量？详解《夫妻性生活内参》的核心观点](./大人学习课程/improve-marital-sex-life-guide.md) — 2024-08-28
 - [高价值知识库：精选领域经典学习资源及其分级应用指南](./大人学习课程/high-value-knowledge-base-learning-resources-guide.md) — 2024-08-25
 - [总是因为沟通不畅而争吵？尝试这套哈佛亲密关系法，用15天重建高情商相处模式](./大人学习课程/harvard-relationship-method-15-days-communication.md) — 2024-08-24
+- [提升恋爱吸引力的实操指南：从心态建设到社交技巧的进阶步骤](./大人学习课程/dating-attraction-guide-mindset-and-social-skills.md) — 2024-08-21
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
