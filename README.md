@@ -1044,6 +1044,7 @@
 - [iPad质感插画教程：22课时全集（含素材获取与设备配置指南）](./兴趣爱好/ipad-textured-illustration-course-full-set.md) — 2024-08-12
 - [尹航乒乓球教学视频资源：适用进阶训练及核心技术要点解析](./兴趣爱好/yin-hang-table-tennis-training-videos.md) — 2024-08-11
 - [韩语零基础入门指南：从零起步至 TOPIK I 级考证](./兴趣爱好/korean-beginner-guide-to-topik-1.md) — 2024-08-11
+- [2024主流手机硬件维修实操指南：从故障诊断到部件更换的全流程视频教程](./兴趣爱好/2024-smartphone-hardware-repair-guide.md) — 2024-08-09
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
