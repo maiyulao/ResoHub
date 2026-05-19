@@ -3467,6 +3467,7 @@
 - [高频实用现代幽默风绿幕人物素材集：场景分类与应用指南](./实战指南/modern-humor-green-screen-character-assets-guide.md) — 2024-08-18
 - [多平台电视盒子适用：直播软件安装包下载及配置指南](./实战指南/tv-box-iptv-app-install-guide.md) — 2024-08-17
 - [克服社交恐惧与公开表达焦虑：高效沟通的实操指南](./实战指南/overcome-social-anxiety-communication-guide.md) — 2024-08-17
+- [同城本地生活流量实操指南：7天掌握本地推获客技巧](./实战指南/local-life-traffic-guide-7days.md) — 2024-08-16
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
