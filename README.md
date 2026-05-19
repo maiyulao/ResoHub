@@ -1906,6 +1906,7 @@
 - [PayPal 手续费计算工具：支持多币种结算与实时费率核算](./创意工具/paypal-fee-calculator.md) — 2024-08-13
 - [使用 miniPaint 实现浏览器端图片编辑的详细步骤](./创意工具/browser-image-editing-with-minipaint.md) — 2024-08-12
 - [PaywallBuster 使用指南：通过浏览器扩展解锁新闻付费文章的获取方法与限制](./创意工具/paywallbuster-guide-unlock-news-articles.md) — 2024-08-11
+- [Upwork 全方位指南：探索全球领先的自由职业生态系统](./创意工具/upwork-complete-guide-freelance-ecosystem.md) — 2024-08-10
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
