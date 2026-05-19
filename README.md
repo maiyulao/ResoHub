@@ -3666,6 +3666,7 @@
 - [从定位到千川：零基础 30 天好物分享实操全流程训练营](./实战指南/zero-basis-qianchuan-training-camp.md) — 2024-07-20
 - [知识付费商业闭环拆解：从产品设计到高客单转化，实现月入十万的变现逻辑](./实战指南/knowledge-payment-business-closed-loop-monetization.md) — 2024-07-20
 - [亚马逊跨境电商实操指南：从店铺搭建到Facebook营销推广的完整学习步骤](./实战指南/amazon-ecommerce-guide-store-setup-facebook-marketing.md) — 2024-07-20
+- [小红书从零起步获利实操指南：从账号搭建到变现的完整步骤](./实战指南/xiaohongshu-profit-guide-step-by-step.md) — 2024-07-20
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
