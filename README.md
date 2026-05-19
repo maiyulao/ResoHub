@@ -444,6 +444,7 @@
 - [通过AI量化分析微博账号：从发帖习惯到性格画像的深度解构](./AI工具教程/ai-quantitative-analysis-weibo-user-profiling.md) — 2024-08-19
 - [文多多 AIPPT 操作指南：从主题输入到演示文稿生成的完整步骤](./AI工具教程/wenduoduo-aippt-guide-steps.md) — 2024-08-19
 - [利用 AI 生成信息图表的完整操作指南](./AI工具教程/ai-infographic-guide.md) — 2024-08-18
+- [主流AI图像生成工具对比：ChatGPT DALL-E 3及替代方案获取指南](./AI工具教程/ai-image-generator-comparison-dalle3-alternatives.md) — 2024-08-16
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
