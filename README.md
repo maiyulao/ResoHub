@@ -3625,6 +3625,7 @@
 - [小红书虚拟产品电商实操指南：20节全流程课程（含从起号到变现步骤）](./实战指南/xiaohongshu-virtual-product-ecommerce-guide.md) — 2024-07-27
 - [抖音电商实操全指南：从底层逻辑到全链路增长，覆盖老板、运营与主播的核心能力构建](./实战指南/douyin-ecommerce-growth-guide.md) — 2024-07-27
 - [认知金钱运作逻辑：通过重塑财富心理模型，构建实现财务自由的底层路径](./实战指南/money-logic-wealth-mindset-financial-freedom.md) — 2024-07-26
+- [TEMU跨境电商实操指南：从趋势选品到店铺运营的全流程解析（27讲）](./实战指南/temu-cross-border-ecommerce-guide-selection-to-operation.md) — 2024-07-26
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
