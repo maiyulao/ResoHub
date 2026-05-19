@@ -2004,6 +2004,7 @@
 - [乌鸦救赎密桃：通过对话重塑社交互动的情感温度](./大人学习课程/crow-redemption-peach-social-interaction-emotion.md) — 2024-08-18
 - [如何通过精准刺激前列腺 P 点，提升男性高潮的快感强度？](./大人学习课程/enhance-male-orgasm-prostate-p-spot-stimulation.md) — 2024-08-16
 - [提升视频课程训练效果的实操步骤指南](./大人学习课程/improve-video-course-training-guide.md) — 2024-08-15
+- [如何得体地开启与陌生女生的社交对话而不显突兀？](./大人学习课程/how-to-start-conversation-with-strange-girls.md) — 2024-08-14
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
