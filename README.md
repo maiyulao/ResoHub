@@ -505,6 +505,7 @@
 - [影梭：无需Root权限的开源虚拟定位方案](./Android应用/opensource-virtual-location-no-root.md) — 2024-10-19
 - [LocalSend：无需配置的开源局域网互传方案，支持多平台高效同步文件](./Android应用/localsend-open-source-local-file-transfer.md) — 2024-10-19
 - [Ucmate多平台视频与音乐下载指南：支持YouTube及主流站点，含安装与使用要点](./Android应用/ucmate-video-music-download-guide.md) — 2024-10-08
+- [客厅大屏必备：电视盒子精选应用软件清单](./Android应用/best-tv-box-apps-list.md) — 2024-08-05
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
