@@ -3648,6 +3648,7 @@
 - [60部欧美电影精选：高尺度剧情片推荐清单](./实战指南/best-60-western-adult-drama-movies-list.md) — 2024-07-23
 - [全专业考研考证知识点思维导图资源库](./实战指南/postgraduate-exam-mindmap-resources-2.md) — 2024-07-23
 - [Shopee跨境电商全流程实操指南：从基础配置到进阶运营的完整体系](./实战指南/shopee-cross-border-ecommerce-guide.md) — 2024-07-23
+- [高价值PPT实战指南：70个提升商业演示含金量的核心技巧](./实战指南/high-value-ppt-business-presentation-tips.md) — 2024-07-23
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
