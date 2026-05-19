@@ -1937,6 +1937,7 @@
 - [实战经验沉淀：通过知识共享打破认知局限](./创意工具/knowledge-sharing-break-cognitive-limits.md) — 2024-08-02
 - [RoamRank：全球数字游民定居城市评测与选择指南](./创意工具/roamrank-digital-nomad-city-guide.md) — 2024-08-02
 - [SeGi 全球视觉艺术与图像学习资源指南](./创意工具/segi-visual-arts-imaging-learning-guide.md) — 2024-08-01
+- [Polaroidy：将现代照片转化为经典宝丽来风格的滤镜工具](./创意工具/polaroidy-vintage-photo-filter-tool.md) — 2024-08-01
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
