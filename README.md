@@ -446,6 +446,7 @@
 - [利用 AI 生成信息图表的完整操作指南](./AI工具教程/ai-infographic-guide.md) — 2024-08-18
 - [主流AI图像生成工具对比：ChatGPT DALL-E 3及替代方案获取指南](./AI工具教程/ai-image-generator-comparison-dalle3-alternatives.md) — 2024-08-16
 - [Linly-Dubbing 部署指南：支持多语言视频AI翻译与配音的开源工具实操](./AI工具教程/linly-dubbing-deployment-guide.md) — 2024-08-16
+- [橙篇：支持长图文解析与专业知识检索的免费AI创作工具](./AI工具教程/chengpian-ai-writing-tool.md) — 2024-08-15
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
