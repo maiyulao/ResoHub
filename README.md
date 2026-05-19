@@ -3617,6 +3617,7 @@
 - [Shopify建站全流程实操指南：从零起步快速搭建跨境电商独立站](./实战指南/shopify-store-setup-guide-for-beginners.md) — 2024-07-28
 - [抖店商品卡流量获取：从实操落地到快速出单的8小时视频训练指南](./实战指南/douyin-shop-product-card-traffic-guide.md) — 2024-07-27
 - [2024巴黎奥运开幕式多版本观看指南：粤语、BBC及CCTV版获取步骤](./实战指南/paris-2024-olympics-opening-ceremony-watching-guide.md) — 2024-07-27
+- [小红书虚拟产品电商实操指南：20节全流程课程（含从起号到变现步骤）](./实战指南/xiaohongshu-virtual-product-ecommerce-guide.md) — 2024-07-27
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
