@@ -510,6 +510,7 @@
 - [Ucmate多平台视频与音乐下载指南：支持YouTube及主流站点，含安装与使用要点](./Android应用/ucmate-video-music-download-guide.md) — 2024-10-08
 - [客厅大屏必备：电视盒子精选应用软件清单](./Android应用/best-tv-box-apps-list.md) — 2024-08-05
 - [电视家 5.0 升级版安装包：适配智能电视的配置要求与部署指南](./Android应用/dianshijia-5-upgrade-install-guide.md) — 2024-07-31
+- [支付宝与微信钱包余额模拟器 v1.7：通过界面仿真实现数值自定义，支持快速生成账户余额截图](./Android应用/alipay-wechat-balance-simulator-v1-7.md) — 2024-07-30
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
