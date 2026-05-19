@@ -850,6 +850,7 @@
 - [DeeplxFile 使用指南：基于 Deeplx 接口的无文件大小限制翻译工具](./Mac软件/deeplx-file-guide.md) — 2024-08-28
 - [Riffo 深度评测：高效实现 AI 驱动的批量文件智能重命名](./Mac软件/riffo-ai-batch-file-renamer-review.md) — 2024-08-14
 - [想把漫画压缩包快速转成电子书？试试 Comic2Books，支持 ZIP、PDF 等多种格式高效转换 EPUB](./Mac软件/comic2books-manga-to-epub-converter.md) — 2024-08-10
+- [芦笋直播助手快速上手指南：30秒配置多平台专业直播间](./Mac软件/asparagus-live-assistant-quick-start-guide.md) — 2024-08-03
 
 ### Windows软件
 - [觉得 Win+V 记录太少且不够灵活？试试开源的本地剪贴板增强工具 ElegantClipboard](./Windows软件/elegant-clipboard-windows-clipboard-manager.md) — 2026-05-11
