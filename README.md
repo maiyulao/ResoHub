@@ -3481,6 +3481,7 @@
 - [掌控人生的实操指南：跟随TED创始人的步骤实现自我管理](./实战指南/ted-founder-self-management-guide.md) — 2024-08-16
 - [小红书无货源电商：基于螺旋增长模型的快速起号实操指南](./实战指南/xiaohongshu-dropshipping-spiral-growth-guide.md) — 2024-08-16
 - [南掌柜GPT与AI绘图13期教程：涵盖小红书爆款文案引导、AI换脸及客服话术实操指南](./实战指南/nanzhanghui-gpt-ai-drawing-tutorial-13.md) — 2024-08-15
+- [房产销售实战指南：从入门到顶尖业绩的 25 个核心能力维度](./实战指南/real-estate-sales-guide-25-core-skills.md) — 2024-08-15
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
