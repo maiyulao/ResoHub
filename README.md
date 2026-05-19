@@ -727,6 +727,7 @@
 - [如何使用 Anitabi Map 标记并共享动画取景地地标与实拍对比图](./GitHub项目/anitabi-map-anime-location-sharing-guide.md) — 2024-07-27
 - [商用免版权中英文字体库：涵盖开源免费资源及其授权细节指南](./GitHub项目/commercial-free-fonts-guide.md) — 2024-07-25
 - [高性能多语言OCR方案：基于ONNX加速的PaddleOCR轻量化实现，兼顾80+语种支持与极速推理](./GitHub项目/high-performance-multilingual-ocr-paddleocr-onnx.md) — 2024-07-19
+- [如何使用中文网字计划获取免费商用 Web 字体：操作指南](./GitHub项目/get-free-commercial-web-fonts-chinese-net-fonts.md) — 2024-07-19
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
