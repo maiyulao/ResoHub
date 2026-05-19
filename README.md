@@ -436,6 +436,7 @@
 - [基于 Dify 构建的开源 AI 数字人开发框架：AWESOME-DIGITAL-HUMAN](./AI工具教程/awesome-digital-human-dify-framework.md) — 2024-08-25
 - [NarratoAI：实现影视解说脚本生成与自动化剪辑的集成方案](./AI工具教程/narratoai-automated-video-script-and-editing-solution.md) — 2024-08-24
 - [Logo.surf 文本生成方案：快速将文字转化为品牌 Logo 与网站图标](./AI工具教程/logo-surf-text-to-logo-generator.md) — 2024-08-24
+- [面对生活迷茫或抉择困境？尝试用 AI 塔罗师为你解读现状：塔罗耳语在线占卜指南](./AI工具教程/ai-tarot-reading-guide.md) — 2024-08-24
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
