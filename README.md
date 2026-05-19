@@ -493,6 +493,9 @@
 ### Category 9166
 - [如何使用 Data-Analysis-Agent 通过自然语言查询数据库：开源配置与操作指南](./Category 9166/data-analysis-agent-natural-language-database-query-guide.md) — 2026-05-12
 
+### Category 9167
+- [使用 TablePro 管理多数据库：从安装配置到 AI 辅助 SQL 编写的实操指南](./Category 9167/tablepro-multi-database-management-guide.md) — 2026-05-16
+
 ### Category 9183
 - [使用88查查询企业工商信息与经营风险的操作指南](./Category 9183/88cha-enterprise-credit-risk-guide.md) — 2026-05-15
 
