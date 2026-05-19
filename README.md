@@ -3447,6 +3447,7 @@
 - [英语单词记不住且缺乏系统方法？尝试刘一男的零基础4000词逆袭方案](./实战指南/english-vocabulary-learning-method-liu-yinan.md) — 2024-08-20
 - [从基础到进阶：算法与数据结构实战突破指南](./实战指南/algorithms-data-structures-guide.md) — 2024-08-20
 - [准备计算机等级考试却不知从何入手？这份高效复习资料包帮你快速通关](./实战指南/ncre-exam-study-guide-package.md) — 2024-08-20
+- [欧阳春晓30天居家普拉提计划：高效塑形与身材管理指南](./实战指南/ouyang-chunxiao-30day-home-pilates-plan.md) — 2024-08-20
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
