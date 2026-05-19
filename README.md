@@ -3589,6 +3589,7 @@
 - [想搭建一个界面简洁且不臃肿的在线音乐播放器？试试开源项目 SPlayer](./实战指南/build-minimalist-music-player-with-splayer.md) — 2024-08-01
 - [视频号直播间没流量怎么破？尝试这三套冷启动策略，实现单场直播快速破圈](./实战指南/video-channel-livestream-traffic-cold-start-strategies.md) — 2024-07-31
 - [高价值小吃全品类教程：涵盖核心配方与商业实操细节](./实战指南/high-value-snacks-tutorial-recipes-business-guide.md) — 2024-07-31
+- [如何利用人工智能重构商业设计流程？y园糖AIGC创世计划课程实战指南](./实战指南/ai-business-design-workflow-guide.md) — 2024-07-31
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
