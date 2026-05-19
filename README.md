@@ -462,6 +462,7 @@
 - [高效移除图片背景：在线AI抠图工具实操指南](./AI工具教程/ai-background-remover-guide.md) — 2024-08-02
 - [AudioNotes 高效音频转录方案：将音视频快速转化为结构化 Markdown 笔记](./AI工具教程/audionotes-audio-to-markdown-transcription.md) — 2024-07-28
 - [ChandlerAi 资源指南：集成 GPT-4o 与 Claude 3.5 Sonnet 的免费调用方案及配置要点](./AI工具教程/chandlerai-gpt-4o-claude-3-5-sonnet-free-guide.md) — 2024-07-22
+- [AI 图像背景扩展操作指南：从上传到无缝补全的 3 个步骤](./AI工具教程/ai-image-background-extension-guide.md) — 2024-07-20
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
