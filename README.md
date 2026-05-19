@@ -3602,6 +3602,7 @@
 - [小红书私域实操指南：在存量市场挖掘中长期增长红利](./实战指南/xiaohongshu-private-traffic-guide.md) — 2024-07-30
 - [风水玄学典籍合集：下载路径、版本兼容性及阅读指南](./实战指南/fengshui-metaphysics-books-collection.md) — 2024-07-29
 - [想尝试 Web3 开发却不知从何入手？从基础入门到 4 大主流区块链实战的全流程指南](./实战指南/web3-development-beginners-guide-blockchain-roadmap.md) — 2024-07-29
+- [雅客先生 Excel 全体系课程：从零基础到高效进阶的实操路径](./实战指南/excel-complete-course-zero-to-advanced.md) — 2024-07-29
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
