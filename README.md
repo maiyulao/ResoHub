@@ -3412,6 +3412,7 @@
 - [Python运维自动化实战教程：学习路径、环境配置与资源下载指南](./实战指南/python-ops-automation-guide.md) — 2024-08-24
 - [小红书全链路获客指南：从矩阵式免费引流到付费投流的实操路径](./实战指南/xiaohongshu-customer-acquisition-guide.md) — 2024-08-24
 - [从拍摄到调色：掌握达芬奇剪辑全流程的实操步骤](./实战指南/davinci-resolve-editing-workflow-guide.md) — 2024-08-24
+- [航拍进阶指南：从零基础到专业级影像创作](./实战指南/aerial-photography-advanced-guide.md) — 2024-08-24
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
