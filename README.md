@@ -3553,6 +3553,7 @@
 - [自建别墅全周期指南：从规划到完工的实操图解 PDF](./实战指南/self-build-villa-complete-guide-pdf.md) — 2024-08-07
 - [抖音小店从开店到出单的全流程操作指南](./实战指南/douyin-shop-setup-to-sales-guide.md) — 2024-08-07
 - [破解内容营销底层逻辑：小红书品牌60天训练营第6期，复刻GMV 2亿级增长路径](./实战指南/xiaohongshu-content-marketing-gmv-growth-camp.md) — 2024-08-06
+- [2024中级软考网络工程师备考指南：核心考点解析与全套源码课件实操指南](./实战指南/2024-network-engineer-exam-guide.md) — 2024-08-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
