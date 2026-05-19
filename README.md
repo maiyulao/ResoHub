@@ -2073,6 +2073,7 @@
 - [女性社交与情绪价值提升全攻略](./大人学习课程/women-social-emotional-value-guide.md) — 2024-08-05
 - [乌鸦救赎破局全流程攻略：关系升级至恋人的关键步骤与触发条件](./大人学习课程/crow-redemption-romance-guide.md) — 2024-07-31
 - [掌控社交主导权：坏男孩学院的相亲实战策略与心理博弈指南](./大人学习课程/bad-boy-academy-dating-strategies-psychology.md) — 2024-07-29
+- [在纯男校的环境里，如何处理一段不被允许的校园恋爱？](./大人学习课程/forbidden-romance-in-all-boys-school.md) — 2024-07-27
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
