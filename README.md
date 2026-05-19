@@ -3587,6 +3587,7 @@
 - [餐饮短视频拍摄实战：从基础摄影技巧到店面实操指南](./实战指南/catering-short-video-shooting-guide.md) — 2024-08-01
 - [从摄影到AI绘画：视觉创作者的进阶实操指南](./实战指南/photography-to-ai-art-guide.md) — 2024-08-01
 - [想搭建一个界面简洁且不臃肿的在线音乐播放器？试试开源项目 SPlayer](./实战指南/build-minimalist-music-player-with-splayer.md) — 2024-08-01
+- [视频号直播间没流量怎么破？尝试这三套冷启动策略，实现单场直播快速破圈](./实战指南/video-channel-livestream-traffic-cold-start-strategies.md) — 2024-07-31
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
