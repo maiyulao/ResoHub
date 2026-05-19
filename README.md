@@ -3455,6 +3455,7 @@
 - [想在小红书把兴趣转化为收入？从零起步实现涨粉与变现的实操路径](./实战指南/xiaohongshu-monetization-guide.md) — 2024-08-19
 - [抖音图书带货实战起号3.0：从零到一的突破路径与实操指南](./实战指南/douyin-book-sales-guide-30.md) — 2024-08-19
 - [88个实操赚钱项目清单：涵盖适用场景与执行要点下载指南](./实战指南/88-money-making-projects-list.md) — 2024-08-19
+- [想一次性补完《异形》全系列却不知观看顺序？这份电影合集指南为你理清时间线](./实战指南/alien-movie-watch-order-timeline-guide.md) — 2024-08-19
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
