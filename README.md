@@ -3531,6 +3531,7 @@
 - [维多利亚的秘密2005-2018年全集回顾：核心秀场集锦及幕后访谈解析](./实战指南/victoria-secret-fashion-show-2005-2018-retrospective.md) — 2024-08-10
 - [零基础通过AI绘画进阶艺术创作的实操指南](./实战指南/ai-art-creation-guide-for-beginners.md) — 2024-08-09
 - [高中3500核心词汇：40篇短文记忆法及适用场景指南](./实战指南/high-school-3500-core-vocabulary-short-stories-guide.md) — 2024-08-09
+- [小红书笔记带货实操指南：从账号搭建到高转化出单的完整步骤](./实战指南/xiaohongshu-ecommerce-guide-setup-to-conversion.md) — 2024-08-08
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
