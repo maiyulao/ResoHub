@@ -705,6 +705,7 @@
 - [Siri Ultra：通过快捷指令将 AI 大模型集成至 iPhone](./iOS捷径指令/siri-ultra-integrate-ai-llm-iphone-shortcuts.md) — 2025-03-01
 
 ### Mac软件
+- [Agent Battery：实时监控 Claude Code 额度的 Mac 状态栏工具](./Mac软件/agent-battery-claude-code-monitor-mac.md) — 2026-05-17
 - [Mac 刷机时该选 Revive 还是 Restore？详解 DFU 恢复模式与 DFU-Tools 开源工具用法](./Mac软件/mac-dfu-revive-vs-restore-dfu-tools-guide.md) — 2026-05-04
 - [想监控网络流量但觉得 Wireshark 太复杂？试试轻量级开源工具 Sniffnet](./Mac软件/sniffnet-lightweight-wireshark-alternative.md) — 2026-04-25
 - [macUSB 简化 macOS 启动盘制作流程：支持快速构建旧版系统安装介质，适配最新 Mac 硬件环境](./mac/macusb-macos-bootable-usb-creator.md) — 2026-04-12
