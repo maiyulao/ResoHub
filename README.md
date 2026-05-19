@@ -3587,6 +3587,7 @@
 - [Best Cookier 深度评测：兼顾高效管理与极简设计的 Cookie 浏览器插件](./效率工具/best-cookier-review.md) — 2024-09-15
 - [高效过滤B站广告植入：通过浏览器插件精准跳过视频“恰饭”片段](./效率工具/skip-bilibili-ad-segments-browser-extension.md) — 2024-08-31
 - [myuserscripts 增强插件：通过功能扩展优化网易云音乐使用体验，实现高效的辅助功能集成](./效率工具/myuserscripts-neteasecloudmusic-enhancement.md) — 2024-08-30
+- [AITDK SEO Extension：替代付费方案的免费全能 SEO 插件指南](./效率工具/aitdk-seo-extension-free-guide.md) — 2024-08-12
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
