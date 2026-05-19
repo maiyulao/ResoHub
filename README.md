@@ -3434,6 +3434,7 @@
 - [徐志么小红书运营实操指南：从账号搭建到流量增长的执行路径](./实战指南/xu-zhimo-xiaohongshu-growth-guide.md) — 2024-08-22
 - [高效社交破冰指南：通过「偷心聊法Plus」构建高情绪价值的对话体系，深度拆解从初次接触到建立情感连接的沟通逻辑](./实战指南/social-ice-breaking-guide-emotional-value-communication.md) — 2024-08-22
 - [1986版《西游记》及2000版续集：4K修复中英双语全集（未删减版）](./实战指南/journey-to-the-west-1986-2000-4k-remastered-full-collection.md) — 2024-08-22
+- [ChatGPT 商业化实操：从高效运营到盈利变现的路径解析](./实战指南/chatgpt-commercialization-guide-and-monetization.md) — 2024-08-22
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
