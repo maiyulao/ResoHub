@@ -2059,6 +2059,7 @@
 - [想快速读完乌鸦救赎的《情圣人生2.0》？这里有完整版内容解析](./大人学习课程/qing-sheng-ren-sheng-2-summary.md) — 2024-08-10
 - [许岚LAN全体系学习资源库：涵盖34套核心笔记，分模块构建知识图谱](./大人学习课程/xu-lan-learning-resources-knowledge-graph.md) — 2024-08-08
 - [女性社交与情绪价值提升全攻略](./大人学习课程/women-social-emotional-value-guide.md) — 2024-08-05
+- [乌鸦救赎破局全流程攻略：关系升级至恋人的关键步骤与触发条件](./大人学习课程/crow-redemption-romance-guide.md) — 2024-07-31
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
