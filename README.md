@@ -3639,6 +3639,7 @@
 - [拼多多店群获取自然流量实操指南：从选品、拍单到月入万元的具体步骤](./实战指南/pinduoduo-store-cluster-natural-traffic-guide.md) — 2024-07-25
 - [亚马逊蓝海选品实操指南：趋势分析方法与获取路径详解](./实战指南/amazon-niche-product-research-guide.md) — 2024-07-25
 - [本地生活商家团购自运营实操指南：配置流程与关键避坑点](./实战指南/local-life-group-buying-operation-guide.md) — 2024-07-24
+- [Midjourney 实用指南：从零起步掌握 AI 绘画创作流](./实战指南/midjourney-beginner-guide-ai-art-workflow.md) — 2024-07-24
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
