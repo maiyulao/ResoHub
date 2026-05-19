@@ -698,6 +698,7 @@
 - [俄罗斯方块网页版：无需下载的在线免费游玩指南](./GitHub项目/tetris-online-free-guide.md) — 2024-08-29
 - [使用 Certimate 自动化申请与续期 SSL 证书的配置指南](./GitHub项目/certimate-ssl-automation-guide.md) — 2024-08-29
 - [想在不购买 API 额度的情况下部署 DeepL 翻译服务？尝试用 Serverless 函数运行 DeepLX](./GitHub项目/deploy-deeplx-via-serverless-functions.md) — 2024-08-25
+- [如何使用开源工具 Slogan Word 优化文本排版：操作指南](./GitHub项目/how-to-use-slogan-word-for-text-layout-optimization.md) — 2024-08-16
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
