@@ -3491,6 +3491,7 @@
 - [南掌柜GPT与AI绘图13期教程：涵盖小红书爆款文案引导、AI换脸及客服话术实操指南](./实战指南/nanzhanghui-gpt-ai-drawing-tutorial-13.md) — 2024-08-15
 - [房产销售实战指南：从入门到顶尖业绩的 25 个核心能力维度](./实战指南/real-estate-sales-guide-25-core-skills.md) — 2024-08-15
 - [拼多多出单难、爆款难维持？详解从底层逻辑到实操链路的全维度运营方案](./实战指南/pinduoduo-operation-strategy-guide.md) — 2024-08-15
+- [学而思高中全科学习资料集锦：核心考点与课程体系解析](./实战指南/xueersi-high-school-study-materials-core-points-curriculum.md) — 2024-08-14
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
