@@ -1977,6 +1977,7 @@
 - [总是因为沟通不畅而争吵？尝试这套哈佛亲密关系法，用15天重建高情商相处模式](./大人学习课程/harvard-relationship-method-15-days-communication.md) — 2024-08-24
 - [提升恋爱吸引力的实操指南：从心态建设到社交技巧的进阶步骤](./大人学习课程/dating-attraction-guide-mindset-and-social-skills.md) — 2024-08-21
 - [道家养生实操：身体素质提升的传统方法指南](./大人学习课程/taoist-health-practices-guide.md) — 2024-08-20
+- [男同学的多重高潮：谢明德与道格拉斯·亚伯姆斯著，许逸维译](./大人学习课程/multiple-orgasms-male-students-xie-mingde-douglas-abrams.md) — 2024-08-19
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
