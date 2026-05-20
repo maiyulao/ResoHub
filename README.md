@@ -3836,6 +3836,7 @@
 - [跨平台设备解锁方案：涵盖安卓与PC端的实用软件工具集](./实战指南/cross-platform-device-unlock-tools-android-pc.md) — 2024-06-28
 - [掌握全方位高情商沟通：从理论到实操的视频学习路径](./实战指南/high-eq-communication-learning-path.md) — 2024-06-27
 - [短视频全流程实操指南：从账号起步、粉丝增长至商业变现](./实战指南/short-video-complete-guide-growth-monetization.md) — 2024-06-27
+- [从基础到进阶：视频摄影与剪辑自学资源获取指南](./实战指南/video-photography-editing-learning-guide.md) — 2024-06-27
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
