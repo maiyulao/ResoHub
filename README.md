@@ -867,6 +867,7 @@
 - [想把漫画压缩包快速转成电子书？试试 Comic2Books，支持 ZIP、PDF 等多种格式高效转换 EPUB](./Mac软件/comic2books-manga-to-epub-converter.md) — 2024-08-10
 - [芦笋直播助手快速上手指南：30秒配置多平台专业直播间](./Mac软件/asparagus-live-assistant-quick-start-guide.md) — 2024-08-03
 - [Fideo Live Record：支持多平台实时监控与自动化录制的开源直播采集方案](./Mac软件/fideo-live-record-open-source-livestream-capture.md) — 2024-07-20
+- [EcoPaste：一款支持多平台的开源剪切板增强方案](./Mac软件/ecopaste-open-source-clipboard-manager.md) — 2024-07-16
 
 ### Windows软件
 - [觉得 Win+V 记录太少且不够灵活？试试开源的本地剪贴板增强工具 ElegantClipboard](./Windows软件/elegant-clipboard-windows-clipboard-manager.md) — 2026-05-11
