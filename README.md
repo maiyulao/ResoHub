@@ -2104,6 +2104,7 @@
 - [池里搜：高效索引与检索磁力链接的资源搜索引擎](./创意工具/chili-search-magnet-link-engine.md) — 2024-06-15
 - [小红书无水印图片与视频下载全流程操作指南](./创意工具/xiaohongshu-no-watermark-downloader-guide.md) — 2024-06-15
 - [想寻找独立开发者的灵感与实战经验？试试这个 Indie Hackers 资源导航站](./创意工具/indie-hackers-resource-navigation.md) — 2024-06-15
+- [SnapAny 视频图片通用解析下载工具：安装部署环境与使用指南](./创意工具/snapany-installation-and-guide.md) — 2024-06-14
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
