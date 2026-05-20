@@ -3777,6 +3777,7 @@
 - [职场新人成长指南：从入职适应到能力进阶的实践路径](./实战指南/career-growth-guide-for-newcomers.md) — 2024-07-05
 - [小红书全行业引流实操指南：涵盖养号逻辑、内容制作与获客链路](./实战指南/xiaohongshu-traffic-guide.md) — 2024-07-05
 - [李宗吾处世逻辑：解析其权力博弈中的话术技巧与厚黑实操指南](./实战指南/li-zongwu-power-game-logic-and-tactics.md) — 2024-07-04
+- [初中全科目复习没方向？尝试用黄冈全优卷构建高效刷题路径](./实战指南/junior-high-huanggang-study-guide.md) — 2024-07-04
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
