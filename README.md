@@ -993,6 +993,7 @@
 - [34类行业电子书资源库：涵盖多领域专业知识，提供全量EPUB格式下载](./书籍/34-industry-ebook-library-epub-download.md) — 2024-08-07
 - [家常菜实操指南：全套实用食谱集锦](./书籍/home-cooking-recipes-guide.md) — 2024-07-21
 - [想用剪映做出电影感视频却不知从何下手？从基础剪辑到进阶调色特效的全流程指南](./书籍/capcut-cinematic-video-editing-guide.md) — 2024-07-19
+- [想系统学习李笑来的认知升级与财富逻辑？这里有完整的电子书资源合集](./书籍/li-xiaolai-cognitive-upgrade-ebooks-collection.md) — 2024-07-16
 
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
