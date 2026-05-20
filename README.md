@@ -3945,6 +3945,7 @@
 - [想拿年薪30万却不知选哪个赛道？上市公司创始人揭秘11个高薪行业机会](./实战指南/high-paying-career-paths-revealed.md) — 2024-06-12
 - [72套门店盈利实操方案：商业模式拆解与落地指南](./实战指南/72-store-profit-strategies-business-model-guide.md) — 2024-06-11
 - [女性社交进阶指南：通过12个核心维度实现认知升级与阶层跨越](./实战指南/womens-social-guide-cognitive-upgrade-and-class-leap.md) — 2024-06-11
+- [Midjourney 全流程实操指南：从零起步到精通 AI 绘画的系统化进阶路径](./实战指南/midjourney-complete-guide-ai-painting.md) — 2024-06-11
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
