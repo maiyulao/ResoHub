@@ -2055,6 +2055,7 @@
 - [Bunkr 深度评测：支持 OnlyFans 资源搜索的免费文件托管平台](./创意工具/bunkr-review-onlyfans-file-hosting.md) — 2024-07-01
 - [亿磁力磁力资源搜索指南：支持海量文件检索及快速下载环境配置](./创意工具/imagnet-torrent-search-guide.md) — 2024-06-30
 - [想入职2025届互联网大厂？这份校招与实习申请信息汇总请查收](./创意工具/2025-internet-campus-recruitment-internships-guide.md) — 2024-06-28
+- [总在寻找能提升效率的工具？这份精选实用软件清单帮你解决实际问题](./创意工具/productivity-software-tools-list.md) — 2024-06-28
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
