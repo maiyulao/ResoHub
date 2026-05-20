@@ -1020,6 +1020,7 @@
 - [深度解析爱情本质：核心观点与认知指南 (PDF)](./书籍/essence-of-love-guide-pdf.md) — 2024-07-05
 - [如何下载并阅读《完美伴侣：缓慢 女生 爱》(德永/宋好) 扫描版全集](./书籍/download-read-perfect-companion-manga-scanlation.md) — 2024-07-03
 - [亚马逊运营实战资源库：涵盖300本付费专业书籍，分维度拆解平台增长策略与精细化操盘技巧](./书籍/amazon-operation-resource-library.md) — 2024-07-02
+- [男性恋爱沟通实操手册：从心理机制到高效对话的五步法](./书籍/mens-relationship-communication-guide.md) — 2024-06-29
 
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
