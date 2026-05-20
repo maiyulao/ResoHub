@@ -1009,6 +1009,7 @@
 - [想系统学习李笑来的认知升级与财富逻辑？这里有完整的电子书资源合集](./书籍/li-xiaolai-cognitive-upgrade-ebooks-collection.md) — 2024-07-16
 - [成人技巧实操电子书下载：适用场景与阅读指南](./书籍/adult-skills-ebook-guide.md) — 2024-07-14
 - [《浪漫的艺术：子夜》PDF版下载：成人社交技巧实操指南及阅读要点](./书籍/romantic-art-midnight-pdf-download.md) — 2024-07-11
+- [深度解析爱情本质：核心观点与认知指南 (PDF)](./书籍/essence-of-love-guide-pdf.md) — 2024-07-05
 
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
