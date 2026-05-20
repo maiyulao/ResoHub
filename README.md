@@ -3907,6 +3907,7 @@
 - [如何快速上手 Docker？从核心技术实操到容器化部署的完整指南](./实战指南/docker-quick-start-guide-container-deployment.md) — 2024-06-17
 - [蔡汶川摄影师IP商业化实战进阶指南（Pro版）](./实战指南/cai-wenchuan-photography-ip-commercialization-pro-guide.md) — 2024-06-17
 - [Midjourney全流程实操指南：从AI绘画趋势分析到高阶指令应用技巧](./实战指南/midjourney-complete-guide-trends-and-advanced-prompts.md) — 2024-06-17
+- [TikTok外贸起号总没流量？从方向认知到视频拍摄的全流程实操指南](./实战指南/tiktok-foreign-trade-traffic-guide.md) — 2024-06-17
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
