@@ -2122,6 +2122,7 @@
 - [突破加密限制：实现已购音乐在全平台设备的自由解密与播放](./创意工具/decrypt-purchased-music-for-all-platforms.md) — 2024-06-10
 - [5217社区：免费软件、游戏及影视资源下载站（含获取方式与使用指南）](./创意工具/5217-community-free-software-games-movies-download.md) — 2024-06-09
 - [AI 驱动的规模化内容生产：实现百万级个体叙事的自动化投稿实操](./创意工具/ai-driven-scalable-content-production-automation.md) — 2024-06-09
+- [如何在小说狂人网站免费阅读 12 万部在线小说：操作指南](./创意工具/how-to-read-free-novels-on-xiaoshuokuangren.md) — 2024-06-08
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
