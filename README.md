@@ -946,6 +946,7 @@
 - [高效抖音视频批量去水印方案：实现无损下载与自动化采集](./Windows软件/tiktok-video-batch-watermark-remover.md) — 2024-08-10
 - [bilibiliDown：纯净版B站视频解析下载工具（支持多平台部署与提取）](./Windows软件/bilibili-down-video-downloader.md) — 2024-07-27
 - [AI Auto Video Translation：开源全自动音视频翻译工具实践指南](./Windows软件/ai-auto-video-translation-guide.md) — 2024-07-25
+- [Ra2ol 红色警戒2战网安装与配置全流程指南](./Windows软件/ra2ol-red-alert-2-installation-guide.md) — 2024-07-09
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
