@@ -3691,6 +3691,7 @@
 - [掌握社交心理洞察力：通过提升情商实现人生破局的实操指南](./实战指南/social-psychology-emotional-intelligence-guide.md) — 2024-07-17
 - [自媒体内容产出慢、灵感枯竭？尝试用ChatGPT重构创作流，实现高效产出](./实战指南/chatgpt-content-creation-workflow-efficiency.md) — 2024-07-17
 - [学而思K12全学段课程资源指南：涵盖小学至高中的体系化学习资料](./实战指南/xueersi-k12-course-resources-guide.md) — 2024-07-17
+- [尚硅谷2024版Python全套视频教程：含实操软件与配套课件下载指南](./实战指南/shangguigu-python-2024-video-tutorial-download.md) — 2024-07-16
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
