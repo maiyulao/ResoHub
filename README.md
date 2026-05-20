@@ -3879,6 +3879,7 @@
 - [TikTok广告高ROI实操指南：独立站引流与转化全流程步骤](./实战指南/tiktok-ads-high-roi-guide-dropshipping-traffic-conversion.md) — 2024-06-22
 - [手机拍摄美食视频：烁石实操指南与技巧解析](./实战指南/food-video-shooting-guide-shuoshi.md) — 2024-06-22
 - [高效沟通实战指南：从逻辑重构到情绪化解的表达技巧（全集）](./实战指南/effective-communication-guide-skills.md) — 2024-06-21
+- [犯罪心理学全集（58讲）：完整资源获取与学习指南](./实战指南/criminal-psychology-complete-course-guide.md) — 2024-06-21
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
