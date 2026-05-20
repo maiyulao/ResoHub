@@ -3793,6 +3793,7 @@
 - [Java 进阶：Redis 核心原理与实战深度解析（达摩院教程版）](./实战指南/java-redis-core-principles-practice.md) — 2024-07-03
 - [手机摄影进阶指南：从基础技巧到技术流实拍方案](./实战指南/mobile-photography-guide-basics-to-advanced.md) — 2024-07-02
 - [2024雅思备考全流程：从资料筛选到高效复习的五步指南](./实战指南/ielts-preparation-guide-2024.md) — 2024-07-02
+- [李越恋爱课堂：深度解析情感追求的实操艺术（完结版）](./实战指南/li-yue-love-classroom-emotional-pursuit-guide.md) — 2024-07-02
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
