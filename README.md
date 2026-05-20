@@ -475,6 +475,7 @@
 - [使用 Google GenType 创作 AI 艺术字母的详细步骤](./AI工具教程/google-gentype-ai-art-letters-guide.md) — 2024-06-22
 - [i18nlocale：支持 200 余种语言的 AI 应用内容翻译工具](./AI工具教程/i18nlocale-ai-content-translation-tool.md) — 2024-06-21
 - [利用 AI 将文本快速转化为信息图的实操步骤](./AI工具教程/ai-text-to-infographic-guide.md) — 2024-06-18
+- [利用 Dream Machine 将 AI 文本与图像转化为高保真视频的实操指南](./AI工具教程/dream-machine-ai-text-image-to-video-guide.md) — 2024-06-17
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
