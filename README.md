@@ -3851,6 +3851,7 @@
 - [小红书店铺从零到一：陶金金实战运营全指南](./实战指南/xiaohongshu-shop-operation-guide-taojinjin.md) — 2024-06-25
 - [手机视频剪辑全攻略：从零起步至专业产出的系统化实操指南](./实战指南/mobile-video-editing-complete-guide.md) — 2024-06-25
 - [面对纷杂的志愿填报指南，如何筛选出真正有效的填报策略？](./实战指南/effective-college-application-strategies.md) — 2024-06-25
+- [面对高考志愿填报的迷茫，如何运用张雪峰的专业逻辑选专业、挑城市？](./实战指南/zhang-xuefeng-college-major-selection-guide.md) — 2024-06-25
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
