@@ -3972,6 +3972,7 @@
 - [交个朋友电商学苑：明星IP切片带货实操与爆单技巧](./实战指南/celebrity-ip-short-video-ecommerce-tips.md) — 2024-06-07
 - [曾仕强全维度知识库：涵盖32个主题类目的视频、图文与音频综合资源集](./实战指南/zeng-shiqiang-knowledge-base.md) — 2024-06-07
 - [想系统进阶Python与大数据但不知如何选择？这份价值24980元的黑马年度钻石会员方案为你提供路径解答](./实战指南/python-big-data-learning-path-black-horse-membership.md) — 2024-06-07
+- [AI算法工程师实战课程：含源码与课件，适配就业求职环境](./实战指南/ai-algorithm-engineer-course.md) — 2024-06-07
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
