@@ -3911,6 +3911,7 @@
 - [Midjourney全流程实操指南：从AI绘画趋势分析到高阶指令应用技巧](./实战指南/midjourney-complete-guide-trends-and-advanced-prompts.md) — 2024-06-17
 - [TikTok外贸起号总没流量？从方向认知到视频拍摄的全流程实操指南](./实战指南/tiktok-foreign-trade-traffic-guide.md) — 2024-06-17
 - [网络安全实战进阶指南：老男孩第16期课程体系与学习路径](./实战指南/cybersecurity-advanced-guide-oldboy-16-curriculum.md) — 2024-06-16
+- [小红书爆款Plog图文创作：从构图到发布的实操指南](./实战指南/xiaohongshu-plog-creation-guide.md) — 2024-06-16
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
