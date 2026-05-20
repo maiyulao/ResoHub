@@ -750,6 +750,7 @@
 - [深度解析 Earthworm：如何通过机制设计提升英语学习的沉浸感与效率](./GitHub项目/earthworm-english-learning-mechanism-efficiency.md) — 2024-06-29
 - [构建 Python 爬虫代理 IP 池的完整实现步骤](./GitHub项目/python-crawler-proxy-ip-pool-implementation.md) — 2024-06-29
 - [Cloudflare 生态资源指南：精选开源工具与技术文档汇总](./GitHub项目/cloudflare-ecosystem-resources-guide.md) — 2024-06-25
+- [全球顶尖设计资源库：高效提升视觉质量的素材指南](./GitHub项目/top-global-design-resources-guide.md) — 2024-06-24
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
