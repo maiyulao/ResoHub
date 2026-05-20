@@ -524,6 +524,7 @@
 - [AudioNotes AI：将语音录音高效转化为结构化文本笔记](./Android应用/audionotes-ai-voice-to-structured-notes.md) — 2024-07-28
 - [小米SU7下单流程与订单配置模拟工具](./Android应用/xiaomi-su7-order-process-and-configurator.md) — 2024-07-08
 - [想要在无网环境下实现AI实时翻译？试试开源免费的 RTranslator](./Android应用/rtranslator-offline-ai-realtime-translation.md) — 2024-06-29
+- [智慧岛：集成广告拦截与自动化工作流的效率工具指南](./Android应用/smart-island-adblock-automation-guide.md) — 2024-06-26
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
