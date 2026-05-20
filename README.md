@@ -763,6 +763,7 @@
 - [Foqos 开源专注力工具：从安装到高效配置的操作指南](./iOS应用/foqos-open-source-focus-tool-installation-guide.md) — 2025-01-23
 - [如何利用 Neck-Life 与 AirPods 实时监测并矫正颈部姿势：操作指南](./iOS应用/neck-life-airpods-posture-correction-guide.md) — 2024-11-17
 - [Esc：专为社恐设计的社交退场工具](./iOS应用/esc-social-exit-tool.md) — 2024-07-11
+- [AudioZap 高效音频格式转换指南：支持 WAV、MP3、FLAC 等主流格式无损互转](./iOS应用/audiozap-audio-format-conversion-guide.md) — 2024-06-26
 
 ### iOS捷径指令
 - [如何使用 R⤓Download 实现 TikTok、Instagram 及 Snapchat 视频无水印下载](./iOS捷径指令/download-tiktok-instagram-snapchat-videos-without-watermark-r-download.md) — 2025-03-10
