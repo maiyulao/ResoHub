@@ -532,6 +532,7 @@
 - [想要在无网环境下实现AI实时翻译？试试开源免费的 RTranslator](./Android应用/rtranslator-offline-ai-realtime-translation.md) — 2024-06-29
 - [智慧岛：集成广告拦截与自动化工作流的效率工具指南](./Android应用/smart-island-adblock-automation-guide.md) — 2024-06-26
 - [如何使用开源工具 ProxyPin 实现跨平台 HTTP/HTTPS 抓包：详细配置指南](./Android应用/proxypin-cross-platform-http-https-packet-capture-guide.md) — 2024-06-23
+- [想快速量产爆款自媒体内容？试试用红抖AI实现高效提取与批量仿写](./Android应用/hongdou-ai-batch-content-creation.md) — 2024-06-13
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
