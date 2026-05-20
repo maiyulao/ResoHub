@@ -1095,6 +1095,7 @@
 - [想学习中国武术却找不到标准动作？这份教学视频指南帮你快速上手](./兴趣爱好/learn-chinese-martial-arts-video-guide.md) — 2024-07-13
 - [90天速成粤语口语：从零基础到流畅交流的实操指南](./兴趣爱好/learn-cantonese-speaking-90-days-guide.md) — 2024-07-11
 - [Procreate全中文笔刷实操指南：从基础安装到手绘进阶的步骤详解](./兴趣爱好/procreate-chinese-brushes-guide.md) — 2024-07-09
+- [棋牌类合集搭建与配置全流程操作指南](./兴趣爱好/gambling-games-setup-guide.md) — 2024-07-07
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
