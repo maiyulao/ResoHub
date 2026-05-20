@@ -3969,6 +3969,7 @@
 - [普通人利用AI实现月入万元的实操指南：从工具配置到变现获利的完整步骤](./实战指南/ai-money-making-guide-for-beginners.md) — 2024-06-09
 - [想做短视频却不知如何从拍摄起步并赚到钱？这份全流程实操指南为你拆解](./实战指南/short-video-production-and-monetization-guide.md) — 2024-06-08
 - [多平台常用软件快捷键汇总：PDF速查表下载与环境适用指南](./实战指南/software-shortcuts-cheat-sheet-guide.md) — 2024-06-07
+- [交个朋友电商学苑：明星IP切片带货实操与爆单技巧](./实战指南/celebrity-ip-short-video-ecommerce-tips.md) — 2024-06-07
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
