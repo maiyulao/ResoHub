@@ -1118,6 +1118,7 @@
 - [90天速成粤语口语：从零基础到流畅交流的实操指南](./兴趣爱好/learn-cantonese-speaking-90-days-guide.md) — 2024-07-11
 - [Procreate全中文笔刷实操指南：从基础安装到手绘进阶的步骤详解](./兴趣爱好/procreate-chinese-brushes-guide.md) — 2024-07-09
 - [棋牌类合集搭建与配置全流程操作指南](./兴趣爱好/gambling-games-setup-guide.md) — 2024-07-07
+- [想学吉他弹唱却不知从何入手？跟随李健御用吉他手，从零基础快速掌握实战技巧](./兴趣爱好/learn-guitar-beginner-guide-li-jian-guitarist.md) — 2024-06-27
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
