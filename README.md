@@ -2089,6 +2089,7 @@
 - [MAT6 在线视频检索系统：通过高效索引实现精准视频资源定位与学习管理](./创意工具/mat6-online-video-retrieval-system.md) — 2024-06-19
 - [OSChina 摸鱼专区使用指南：从快速进入到高效隐蔽的实操步骤](./创意工具/oschina-moyu-guide.md) — 2024-06-19
 - [115网盘4K REMUX原盘资源获取指南：高清画质与分享链路详解](./创意工具/115-netdisk-4k-remux-guide.md) — 2024-06-18
+- [实用公益工具指南：核心功能解析与长期使用建议](./创意工具/public-welfare-tools-guide.md) — 2024-06-18
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
