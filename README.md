@@ -1057,6 +1057,7 @@
 - [Python 编程学习书单：按阶段划分的资源获取与选书指南](./书籍/python-programming-learning-book-list.md) — 2024-06-19
 - [新手驾驶全攻略：从基础操作到实战场景的进阶指南](./书籍/beginners-driving-guide-basic-to-advanced.md) — 2024-06-14
 - [骄傲风趣法实操指南：适用场景、沟通技巧与应用要点](./书籍/proud-witty-communication-guide.md) — 2024-06-08
+- [突破性技术方案：Magic Bullets 的核心逻辑与应用实践](./书籍/magic-bullets-core-logic-and-practice.md) — 2024-06-08
 
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
