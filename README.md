@@ -2073,6 +2073,7 @@
 - [风Liu杂志：高分辨率视觉影像资料库与学习指南](./创意工具/fengliu-visual-archive-guide.md) — 2024-06-27
 - [全球护照免签能力排名详解：VisaGuide World 权威指数分析](./创意工具/global-passport-visa-free-rankings-visaguide-world.md) — 2024-06-24
 - [Adobe 全系列软件集成安装指南：支持快速部署并持续同步最新版本更新](./创意工具/adobe-all-apps-installation-guide.md) — 2024-06-24
+- [想找系统性的德语学习资料却不知从何入手？这份 InfiniteDeutsch 资源清单为你指路](./创意工具/infinite-deutsch-learning-resources-guide.md) — 2024-06-22
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
