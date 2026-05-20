@@ -3806,6 +3806,7 @@
 - [计算机考研408真题复习指南：从历年试题到深度解析的刷题步骤](./实战指南/computer-science-408-exam-guide.md) — 2024-07-01
 - [高考英语读后续写：28个高频专题的提分技巧与实战指南](./实战指南/gaokao-english-writing-tips-and-guide.md) — 2024-07-01
 - [140套多格式荣誉证书设计素材库：涵盖PSD、CDR及Word可编辑模板](./实战指南/140-certificate-design-templates-psd-cdr-word.md) — 2024-06-30
+- [6月付费短剧精选清单及核心看点](./实战指南/june-paid-short-drama-list.md) — 2024-06-30
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
