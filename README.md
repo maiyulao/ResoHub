@@ -2022,6 +2022,7 @@
 - [JGIF 动图来源查询指南：通过 F 号快速定位原图与出处](./创意工具/jgif-source-lookup-guide-f-number.md) — 2024-07-08
 - [视觉记忆：上世纪中国宣传海报影像志](./创意工具/visual-memory-chinese-propaganda-posters.md) — 2024-07-07
 - [BT之家1LOU：高品质BT种子与磁力资源索引下载平台](./创意工具/bt-1lou-torrent-magnet-index.md) — 2024-07-07
+- [imageSearch 使用指南：通过聚合反向搜索快速定位图片来源](./创意工具/imagesearch-reverse-image-search-guide.md) — 2024-07-07
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
