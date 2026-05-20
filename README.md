@@ -2253,6 +2253,7 @@
 - [追你妹网络课程全集下载：适用环境与安装配置指南](./大人学习课程/zhuinimei-course-download-install-guide.md) — 2024-06-19
 - [社交技巧与约会实操指南：核心话术获取及适用场景解析](./大人学习课程/social-skills-dating-guide-scripts.md) — 2024-06-19
 - [糖姐Suki《女欢K Ai爱课》全集：深度拆解女性亲密关系进阶逻辑与实操技巧](./大人学习课程/suki-female-intimacy-course-guide.md) — 2024-06-13
+- [性吸引力构建指南：从心理机制到行为实践的深度解析](./大人学习课程/sexual-attraction-guide.md) — 2024-06-11
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
