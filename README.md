@@ -737,6 +737,7 @@
 - [开源编程电子书库：涵盖多语言开发实战与技术进阶的免费资源合集](./GitHub项目/open-source-programming-ebooks-collection.md) — 2024-07-17
 - [Kspider：无需后端代码的可视化在线爬虫方案](./GitHub项目/kspider-visual-web-scraper-no-code.md) — 2024-07-16
 - [基于 GPT-4 构建的交互式词典：深度解析词义、记忆法与语境故事](./GitHub项目/gpt4-interactive-dictionary-deep-dive.md) — 2024-07-05
+- [应对暗恋的实操策略：从心态建设到互动技巧的递进指南](./GitHub项目/crush-coping-strategies-guide.md) — 2024-07-04
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
