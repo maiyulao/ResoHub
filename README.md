@@ -3695,6 +3695,7 @@
 - [尚硅谷2024版Python全套视频教程：含实操软件与配套课件下载指南](./实战指南/shangguigu-python-2024-video-tutorial-download.md) — 2024-07-16
 - [速度与激情全系列 4K REMUX 原盘合集：支持国英双语原质画质](./实战指南/fast-and-furious-4k-remux-collection.md) — 2024-07-16
 - [精选豆瓣TOP250高分电影资源：1080P蓝光画质，支持国英双语多音轨切换](./实战指南/douban-top-250-movies-1080p-bluray.md) — 2024-07-16
+- [直播间转化率低、留不住人？通过能力模型拆解，让新手主播掌握电商带货的人性操盘术](./实战指南/livestream-conversion-rate-optimization-guide.md) — 2024-07-16
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
