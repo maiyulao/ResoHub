@@ -2012,6 +2012,7 @@
 - [想找免费的Galgame资源却被虚假链接困扰？这里有可靠的绅士游戏下载渠道](./创意工具/reliable-free-galgame-download-sources.md) — 2024-07-12
 - [如何使用可爱TV聚合搜索引擎检索全网影视资源：操作指南](./创意工具/cute-tv-search-guide.md) — 2024-07-11
 - [BBCOOK辅食规划指南：三步定制宝宝每日营养食谱](./创意工具/bbcook-baby-food-planning-guide.md) — 2024-07-10
+- [成年人知识进阶资源库：构建从实用技能到深度认知的多维学习体系](./创意工具/adult-knowledge-learning-resource-center.md) — 2024-07-09
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
