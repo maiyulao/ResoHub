@@ -3846,6 +3846,7 @@
 - [备考执业药师不知从何入手？这份全套医学资料与课程合集帮你理清复习路径](./实战指南/pharmacist-exam-study-materials-and-courses.md) — 2024-06-26
 - [2024年1-5月完结广播剧汇总：155部全集（含无删原版与重修版）](./实战指南/completed-audio-dramas-jan-may-2024.md) — 2024-06-26
 - [高效能低门槛：解析名流圈流行的便捷塑形方案](./实战指南/efficient-low-barrier-celebrity-body-sculpting-solutions.md) — 2024-06-26
+- [想做影视解说却不知如何起步？这份从零到精通的陪跑计划帮你快速进阶自媒体达人](./实战指南/movie-commentary-guide-for-beginners.md) — 2024-06-25
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
