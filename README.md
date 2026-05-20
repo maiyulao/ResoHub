@@ -2107,6 +2107,7 @@
 - [小红书无水印图片与视频下载全流程操作指南](./创意工具/xiaohongshu-no-watermark-downloader-guide.md) — 2024-06-15
 - [想寻找独立开发者的灵感与实战经验？试试这个 Indie Hackers 资源导航站](./创意工具/indie-hackers-resource-navigation.md) — 2024-06-15
 - [SnapAny 视频图片通用解析下载工具：安装部署环境与使用指南](./创意工具/snapany-installation-and-guide.md) — 2024-06-14
+- [如何高效管理远程协作？这份中英双语远程工作指南为你提供实践方案](./创意工具/remote-collaboration-management-guide.md) — 2024-06-13
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
