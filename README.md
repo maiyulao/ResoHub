@@ -2120,6 +2120,7 @@
 - [想让 AI 语音摆脱机械感？试试 ChatTTS WebUI 实现自然且富有情感的文本转语音](./创意工具/chattts-webui-natural-ai-tts.md) — 2024-06-11
 - [GAME IT Tools：开源网页小游戏集成平台与摸鱼工具集](./创意工具/game-it-tools-open-source-web-games-platform.md) — 2024-06-10
 - [突破加密限制：实现已购音乐在全平台设备的自由解密与播放](./创意工具/decrypt-purchased-music-for-all-platforms.md) — 2024-06-10
+- [5217社区：免费软件、游戏及影视资源下载站（含获取方式与使用指南）](./创意工具/5217-community-free-software-games-movies-download.md) — 2024-06-09
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
