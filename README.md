@@ -755,6 +755,7 @@
 - [构建 Python 爬虫代理 IP 池的完整实现步骤](./GitHub项目/python-crawler-proxy-ip-pool-implementation.md) — 2024-06-29
 - [Cloudflare 生态资源指南：精选开源工具与技术文档汇总](./GitHub项目/cloudflare-ecosystem-resources-guide.md) — 2024-06-25
 - [全球顶尖设计资源库：高效提升视觉质量的素材指南](./GitHub项目/top-global-design-resources-guide.md) — 2024-06-24
+- [Melody 音乐管理工具：解锁灰色歌曲及库文件维护指南](./GitHub项目/melody-music-manager-grey-songs-library-maintenance.md) — 2024-06-19
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
