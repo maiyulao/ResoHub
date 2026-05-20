@@ -3711,6 +3711,7 @@
 - [Photoshop高级修图与调色实战：从色彩理论到商业级后期工作流全解析](./实战指南/photoshop-advanced-retouching-and-color-grading-workflow.md) — 2024-07-14
 - [从选材到润色：快速构建高质量英语演讲稿的实操指南](./实战指南/guide-to-writing-high-quality-english-speech.md) — 2024-07-14
 - [抖音电商实操指南：从社群课程到店铺运营的步骤详解](./实战指南/douyin-ecommerce-operation-guide.md) — 2024-07-14
+- [如何写出高转化率的文案？徐剑波详解价值12800元的写作实操与视频指导方案](./实战指南/high-conversion-copywriting-guide-xu-jianbo.md) — 2024-07-13
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
