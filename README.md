@@ -879,6 +879,7 @@
 - [图压：一款开源跨平台的轻量级图片压缩工具](./Mac软件/tupya-image-compressor.md) — 2024-07-09
 - [Spotify Player 终端音乐播放器安装指南：支持多平台运行及配置要点](./Mac软件/spotify-player-installation-guide.md) — 2024-07-08
 - [腾讯柠檬清理 macOS 开源版：安装指南与系统清理适用场景说明](./Mac软件/lemon-cleaner-macos-open-source-guide.md) — 2024-07-06
+- [LosslessCut：实现音视频无损剪辑的开源跨平台工具指南](./Mac软件/losslesscut-lossless-video-audio-editor-guide.md) — 2024-07-05
 
 ### Windows软件
 - [觉得 Win+V 记录太少且不够灵活？试试开源的本地剪贴板增强工具 ElegantClipboard](./Windows软件/elegant-clipboard-windows-clipboard-manager.md) — 2026-05-11
