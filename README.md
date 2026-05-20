@@ -3951,6 +3951,7 @@
 - [女性社交进阶指南：通过12个核心维度实现认知升级与阶层跨越](./实战指南/womens-social-guide-cognitive-upgrade-and-class-leap.md) — 2024-06-11
 - [Midjourney 全流程实操指南：从零起步到精通 AI 绘画的系统化进阶路径](./实战指南/midjourney-complete-guide-ai-painting.md) — 2024-06-11
 - [实体店短视频获客实操指南：从零开始实现客流裂变与到店转化](./实战指南/local-store-short-video-marketing-guide.md) — 2024-06-11
+- [直播带货实操全攻略：从底层逻辑到转化技巧，构建可落地的运营增长体系](./实战指南/livestream-commerce-guide-growth-system.md) — 2024-06-10
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
