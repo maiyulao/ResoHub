@@ -3904,6 +3904,7 @@
 - [从零开始掌握Excel：从基础操作到高级应用的实操指南](./实战指南/master-excel-beginner-to-advanced-guide.md) — 2024-06-19
 - [拼多多低成本爆款实操课程：零基础电商运营指南与避坑要点](./实战指南/pinduoduo-low-cost-best-seller-course.md) — 2024-06-19
 - [如何快速上手 Docker？从核心技术实操到容器化部署的完整指南](./实战指南/docker-quick-start-guide-container-deployment.md) — 2024-06-17
+- [蔡汶川摄影师IP商业化实战进阶指南（Pro版）](./实战指南/cai-wenchuan-photography-ip-commercialization-pro-guide.md) — 2024-06-17
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
