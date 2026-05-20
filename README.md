@@ -2078,6 +2078,7 @@
 - [Adobe 全系列软件集成安装指南：支持快速部署并持续同步最新版本更新](./创意工具/adobe-all-apps-installation-guide.md) — 2024-06-24
 - [想找系统性的德语学习资料却不知从何入手？这份 InfiniteDeutsch 资源清单为你指路](./创意工具/infinite-deutsch-learning-resources-guide.md) — 2024-06-22
 - [Freedium 使用指南：突破 Medium 付费墙限制，免费获取会员文章](./创意工具/freedium-guide-bypass-medium-paywall.md) — 2024-06-21
+- [易条形：支持批量导出的在线条形码生成工具及使用指南](./创意工具/easy-barcode-generator-batch-export-guide.md) — 2024-06-21
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
