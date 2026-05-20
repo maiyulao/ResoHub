@@ -2003,6 +2003,7 @@
 - [想提升成人文学创作水平？推荐几个高质量的网文学习与分析平台](./创意工具/adult-fiction-writing-learning-platforms.md) — 2024-07-13
 - [安娜的档案（Anna’s Archive）：集成 Z-Library 等多源数据的全球电子书综合检索库](./创意工具/annas-archive-ebook-search-engine.md) — 2024-07-13
 - [想找免费的Galgame资源却被虚假链接困扰？这里有可靠的绅士游戏下载渠道](./创意工具/reliable-free-galgame-download-sources.md) — 2024-07-12
+- [如何使用可爱TV聚合搜索引擎检索全网影视资源：操作指南](./创意工具/cute-tv-search-guide.md) — 2024-07-11
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
