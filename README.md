@@ -3884,6 +3884,7 @@
 - [高效沟通实战指南：从逻辑重构到情绪化解的表达技巧（全集）](./实战指南/effective-communication-guide-skills.md) — 2024-06-21
 - [犯罪心理学全集（58讲）：完整资源获取与学习指南](./实战指南/criminal-psychology-complete-course-guide.md) — 2024-06-21
 - [影视解说全流程实操指南：从零基础到快速上手的进阶路径](./实战指南/movie-commentary-guide-beginner-to-advanced.md) — 2024-06-20
+- [银行行长分享的理财实操指南：从零开始驾驭金钱的步骤详解](./实战指南/bank-president-wealth-management-guide.md) — 2024-06-20
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
