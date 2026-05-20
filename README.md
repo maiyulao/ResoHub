@@ -3841,6 +3841,7 @@
 - [短视频全流程实操指南：从账号起步、粉丝增长至商业变现](./实战指南/short-video-complete-guide-growth-monetization.md) — 2024-06-27
 - [从基础到进阶：视频摄影与剪辑自学资源获取指南](./实战指南/video-photography-editing-learning-guide.md) — 2024-06-27
 - [备考执业药师不知从何入手？这份全套医学资料与课程合集帮你理清复习路径](./实战指南/pharmacist-exam-study-materials-and-courses.md) — 2024-06-26
+- [2024年1-5月完结广播剧汇总：155部全集（含无删原版与重修版）](./实战指南/completed-audio-dramas-jan-may-2024.md) — 2024-06-26
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
