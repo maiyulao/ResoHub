@@ -2113,6 +2113,7 @@
 - [浓好咖啡 MF01117 瑜伽视觉设计分析与学习要点](./大人学习课程/nonghao-coffee-mf01117-yoga-visual-design-analysis.md) — 2024-07-26
 - [坏男孩学院：官方入门指南与核心课程解析](./大人学习课程/bad-boys-academy-guide-and-courses.md) — 2024-07-20
 - [男性能力进阶指南：多维度知识储备与实操技巧](./大人学习课程/mens-capability-improvement-guide.md) — 2024-07-17
+- [想让 AI 真正像资深专家一样思考并输出？这 10 节私教课带你掌握 X AI 的深度调优技巧](./大人学习课程/ai-expert-prompt-tuning-guide.md) — 2024-07-16
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
