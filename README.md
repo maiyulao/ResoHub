@@ -3720,6 +3720,7 @@
 - [如何写出高转化率的文案？徐剑波详解价值12800元的写作实操与视频指导方案](./实战指南/high-conversion-copywriting-guide-xu-jianbo.md) — 2024-07-13
 - [视频号起号没方向、选品没爆点？这份从内容策划到直播变现的全案实操指南请收好](./实战指南/video-channel-growth-and-monetization-guide.md) — 2024-07-13
 - [7.82GB学前教育全体系教辅资源库：涵盖多维度教学资料与实操指南](./实战指南/preschool-education-resource-library.md) — 2024-07-13
+- [正面管教全集：35个培养孩子自主学习的养育工具及实操指南](./实战指南/positive-discipline-independent-learning-tools-guide.md) — 2024-07-12
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
