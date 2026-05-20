@@ -3808,6 +3808,7 @@
 - [140套多格式荣誉证书设计素材库：涵盖PSD、CDR及Word可编辑模板](./实战指南/140-certificate-design-templates-psd-cdr-word.md) — 2024-06-30
 - [6月付费短剧精选清单及核心看点](./实战指南/june-paid-short-drama-list.md) — 2024-06-30
 - [AI 商业实战指南：从工具应用到商业模式重构的进阶路径](./实战指南/ai-business-practical-guide-model-reconstruction.md) — 2024-06-30
+- [如何利用 Midjourney 突破设计瓶颈：从灵感匮乏到高效出图的实操指南](./实战指南/midjourney-design-bottleneck-guide.md) — 2024-06-30
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
