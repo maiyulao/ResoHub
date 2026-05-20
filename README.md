@@ -464,6 +464,7 @@
 - [ChandlerAi 资源指南：集成 GPT-4o 与 Claude 3.5 Sonnet 的免费调用方案及配置要点](./AI工具教程/chandlerai-gpt-4o-claude-3-5-sonnet-free-guide.md) — 2024-07-22
 - [AI 图像背景扩展操作指南：从上传到无缝补全的 3 个步骤](./AI工具教程/ai-image-background-extension-guide.md) — 2024-07-20
 - [AskAITools AI工具目录库：检索方法、适用场景及使用指南](./AI工具教程/askaitools-ai-directory-guide.md) — 2024-07-17
+- [Live Portrait 驱动静态照片实时动态化：通过 AI 算法实现高保真的人脸表情迁移与视频生成](./AI工具教程/live-portrait-ai-face-animation-video-generation.md) — 2024-07-13
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
