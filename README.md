@@ -740,6 +740,7 @@
 - [应对暗恋的实操策略：从心态建设到互动技巧的递进指南](./GitHub项目/crush-coping-strategies-guide.md) — 2024-07-04
 - [交互式算法学习指南：通过动画图解与实时运行环境掌握数据结构核心](./GitHub项目/interactive-algorithm-learning-guide.md) — 2024-07-01
 - [DrissionPage：兼顾简洁语法与低门槛的 Python 网页自动化方案](./GitHub项目/drissionpage-python-web-automation.md) — 2024-06-30
+- [零知识证明（ZKP）技术详解：从底层原理解析到实战入门指南](./GitHub项目/zero-knowledge-proofs-guide-principles-and-practice.md) — 2024-06-30
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
