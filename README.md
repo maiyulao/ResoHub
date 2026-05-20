@@ -3848,6 +3848,7 @@
 - [高效能低门槛：解析名流圈流行的便捷塑形方案](./实战指南/efficient-low-barrier-celebrity-body-sculpting-solutions.md) — 2024-06-26
 - [想做影视解说却不知如何起步？这份从零到精通的陪跑计划帮你快速进阶自媒体达人](./实战指南/movie-commentary-guide-for-beginners.md) — 2024-06-25
 - [小红书店铺从零到一：陶金金实战运营全指南](./实战指南/xiaohongshu-shop-operation-guide-taojinjin.md) — 2024-06-25
+- [手机视频剪辑全攻略：从零起步至专业产出的系统化实操指南](./实战指南/mobile-video-editing-complete-guide.md) — 2024-06-25
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
