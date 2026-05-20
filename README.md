@@ -889,6 +889,7 @@
 - [腾讯柠檬清理 macOS 开源版：安装指南与系统清理适用场景说明](./Mac软件/lemon-cleaner-macos-open-source-guide.md) — 2024-07-06
 - [LosslessCut：实现音视频无损剪辑的开源跨平台工具指南](./Mac软件/losslesscut-lossless-video-audio-editor-guide.md) — 2024-07-05
 - [BananaBin：通过动态苍蝇提醒你清理 macOS 回收站的趣味小工具](./Mac软件/bananabin-macos-trash-reminder.md) — 2024-07-01
+- [想在 Mac 菜单栏实时监控硬件状态？iStat Menus 下载与激活指南](./Mac软件/istat-menus-download-activation-guide-mac.md) — 2024-06-28
 
 ### Windows软件
 - [觉得 Win+V 记录太少且不够灵活？试试开源的本地剪贴板增强工具 ElegantClipboard](./Windows软件/elegant-clipboard-windows-clipboard-manager.md) — 2026-05-11
