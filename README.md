@@ -2035,6 +2035,7 @@
 - [MNGGIFLAB：高效集成的一站式在线专业工具库](./创意工具/mnggiflab-professional-online-tools-library.md) — 2024-07-03
 - [如何利用句子控 AI 快速检索并应用经典电影金句与文案](./创意工具/sentence-control-ai-movie-quotes-copywriting.md) — 2024-07-03
 - [想搭建一个自动更新的影视资源站？试试华为吧采集接口](./创意工具/build-auto-update-movie-site-huawei-ba-api.md) — 2024-07-03
+- [想提升 Office 办公效率却不知从何学起？WPS 学堂提供全场景官方技巧指南](./创意工具/wps-office-efficiency-guide.md) — 2024-07-03
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
