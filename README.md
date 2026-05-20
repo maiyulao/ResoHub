@@ -3922,6 +3922,7 @@
 - [风水营销实操指南：从理论讲解到快速提升订单量的具体步骤](./实战指南/feng-shui-marketing-guide-increase-orders.md) — 2024-06-15
 - [PR短视频剪辑零基础快速入门指南：两小时实操教程及环境配置说明](./实战指南/pr-short-video-editing-beginner-guide.md) — 2024-06-15
 - [TikTok海外流量变现：从内容运营到商业转化的实操路径](./实战指南/tiktok-monetization-guide.md) — 2024-06-15
+- [从零开始：钓鱼类短视频账号运营与实操指南](./实战指南/fishing-short-video-guide.md) — 2024-06-15
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
