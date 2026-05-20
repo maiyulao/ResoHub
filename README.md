@@ -2102,6 +2102,7 @@
 - [如何使用在线工具生成支付宝到账语音提示：操作全流程](./创意工具/generate-alipay-voice-notification-online.md) — 2024-06-16
 - [池里搜：高效索引与检索磁力链接的资源搜索引擎](./创意工具/chili-search-magnet-link-engine.md) — 2024-06-15
 - [小红书无水印图片与视频下载全流程操作指南](./创意工具/xiaohongshu-no-watermark-downloader-guide.md) — 2024-06-15
+- [想寻找独立开发者的灵感与实战经验？试试这个 Indie Hackers 资源导航站](./创意工具/indie-hackers-resource-navigation.md) — 2024-06-15
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
