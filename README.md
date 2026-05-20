@@ -1037,6 +1037,7 @@
 - [亚马逊运营实战资源库：涵盖300本付费专业书籍，分维度拆解平台增长策略与精细化操盘技巧](./书籍/amazon-operation-resource-library.md) — 2024-07-02
 - [男性恋爱沟通实操手册：从心理机制到高效对话的五步法](./书籍/mens-relationship-communication-guide.md) — 2024-06-29
 - [构建心理学知识体系：338本核心书籍的阅读与筛选步骤](./书籍/build-psychology-knowledge-system-reading-list.md) — 2024-06-28
+- [解析男性底层心理需求：从人性弱点到行为驱动的分析步骤](./书籍/male-psychology-underlying-needs-and-behavioral-drivers.md) — 2024-06-23
 
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
