@@ -2100,6 +2100,7 @@
 - [中小学电子教科书免登录下载工具：支持全学段教材获取及环境配置指南](./创意工具/primary-secondary-ebook-downloader-guide.md) — 2024-06-16
 - [3DName：支持自定义效果的在线 3D 文字生成工具](./创意工具/3dname-online-3d-text-generator.md) — 2024-06-16
 - [如何使用在线工具生成支付宝到账语音提示：操作全流程](./创意工具/generate-alipay-voice-notification-online.md) — 2024-06-16
+- [池里搜：高效索引与检索磁力链接的资源搜索引擎](./创意工具/chili-search-magnet-link-engine.md) — 2024-06-15
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
