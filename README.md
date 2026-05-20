@@ -1052,6 +1052,7 @@
 - [知识星球个人IP全链路构建指南：从定位策略到私域变现的系统化实操课程](./互联网营销/knowledge-planet-personal-ip-guide.md) — 2024-08-20
 - [高质量课程开发指南：从规划到落地的全流程实操步骤](./互联网营销/high-quality-course-development-guide.md) — 2024-07-02
 - [新媒体流量商业化：从获客到变现的实操指南](./互联网营销/new-media-traffic-monetization-guide.md) — 2024-06-29
+- [餐饮连锁选址实操指南：通过量化分析降低开店风险，构建可复制的选址模型](./互联网营销/restaurant-chain-site-selection-guide.md) — 2024-06-21
 
 ### 兴趣爱好
 - [家里东西总是在整理后迅速回潮？掌握这套收纳逻辑，让空间持久有序](./e585b4e8b6a3e788b1e5a5bd/home-organization-logic-for-lasting-order.md) — 2025-12-07
