@@ -3859,6 +3859,7 @@
 - [高考志愿填报全攻略：从逻辑分析到实操技巧的系统指南](./实战指南/gaokao-volunteer-guide-systematic-tips.md) — 2024-06-25
 - [从零起步：构建可规模化变现的多平台自媒体矩阵](./实战指南/build-scalable-social-media-matrix.md) — 2024-06-24
 - [萧秋水知识管理实操指南：构建个人知识体系的路径与核心要点](./实战指南/xiao-qiushui-knowledge-management-guide.md) — 2024-06-24
+- [想系统学习易经却不知从何入手？一套涵盖基础到高级的108集全阶视频课程及笔记指南](./实战指南/comprehensive-yi-jing-video-course-guide.md) — 2024-06-24
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
