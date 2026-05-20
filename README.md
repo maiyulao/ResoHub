@@ -759,6 +759,7 @@
 - [全球顶尖设计资源库：高效提升视觉质量的素材指南](./GitHub项目/top-global-design-resources-guide.md) — 2024-06-24
 - [Melody 音乐管理工具：解锁灰色歌曲及库文件维护指南](./GitHub项目/melody-music-manager-grey-songs-library-maintenance.md) — 2024-06-19
 - [Awesome IPTV 资源汇总：180 余个国内外高清直播频道 m3u 订阅地址及配置指南](./GitHub项目/awesome-iptv-m3u-playlist-guide.md) — 2024-06-17
+- [AISourceHub 资源汇总：AI 领域高质量信息源获取指南及筛选要点](./GitHub项目/aisourcehub-ai-resource-guide.md) — 2024-06-14
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
