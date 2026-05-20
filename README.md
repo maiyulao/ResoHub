@@ -2086,6 +2086,7 @@
 - [全球港口代码检索指南：高效查询世界港口信息的工具与方法](./创意工具/global-port-code-lookup-guide.md) — 2024-06-20
 - [海关HS编码在线查询指南：从输入关键词到确定税号的实操步骤](./创意工具/customs-hs-code-lookup-guide.md) — 2024-06-20
 - [短剧狗：高效检索全网免费短剧资源的网盘搜索引擎](./创意工具/short-drama-search-engine.md) — 2024-06-19
+- [MAT6 在线视频检索系统：通过高效索引实现精准视频资源定位与学习管理](./创意工具/mat6-online-video-retrieval-system.md) — 2024-06-19
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
