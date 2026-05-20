@@ -3749,6 +3749,7 @@
 - [Temu跨境全流程实操：从开店注册、选品核价到日出千单的运营指南](./实战指南/temu-cross-border-ecommerce-guide.md) — 2024-07-10
 - [2024年欧洲杯：7场关键赛事深度解析](./实战指南/euro-2024-7-key-matches-analysis.md) — 2024-07-09
 - [110部动画电影英语学习资源：中英双语字幕及全量台词文本集](./实战指南/110-animated-movies-english-learning-resources.md) — 2024-07-09
+- [抖音短视频带货实操指南：从零起号的5个关键步骤](./实战指南/douyin-short-video-ecommerce-guide-5-steps.md) — 2024-07-08
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
