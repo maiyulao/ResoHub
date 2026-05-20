@@ -1997,6 +1997,7 @@
 - [AnimeGarden 動漫花園：第三方镜像站访问与动画 BT 资源获取指南](./创意工具/animegarden-mirror-site-bt-guide.md) — 2024-07-14
 - [全学科中小学电子教材与试卷资源库：数字化课本同步学习，分级试卷精准测评](./创意工具/k12-digital-textbooks-and-exam-resources.md) — 2024-07-14
 - [如何使用免费在线工具制作标准证件照：操作全流程指南](./创意工具/free-online-id-photo-maker-guide.md) — 2024-07-13
+- [想提升成人文学创作水平？推荐几个高质量的网文学习与分析平台](./创意工具/adult-fiction-writing-learning-platforms.md) — 2024-07-13
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
