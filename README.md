@@ -3927,6 +3927,7 @@
 - [TikTok海外流量变现：从内容运营到商业转化的实操路径](./实战指南/tiktok-monetization-guide.md) — 2024-06-15
 - [从零开始：钓鱼类短视频账号运营与实操指南](./实战指南/fishing-short-video-guide.md) — 2024-06-15
 - [证件照背景与模版素材包：支持多尺寸适配及快速替换指南](./实战指南/id-photo-background-templates-guide.md) — 2024-06-15
+- [从文案配音到素材合成：零基础沙雕动画制作全流程实战指南](./实战指南/zero-basis-funny-animation-tutorial.md) — 2024-06-14
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
