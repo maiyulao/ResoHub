@@ -1046,6 +1046,7 @@
 - [构建心理学知识体系：338本核心书籍的阅读与筛选步骤](./书籍/build-psychology-knowledge-system-reading-list.md) — 2024-06-28
 - [解析男性底层心理需求：从人性弱点到行为驱动的分析步骤](./书籍/male-psychology-underlying-needs-and-behavioral-drivers.md) — 2024-06-23
 - [Python 编程学习书单：按阶段划分的资源获取与选书指南](./书籍/python-programming-learning-book-list.md) — 2024-06-19
+- [新手驾驶全攻略：从基础操作到实战场景的进阶指南](./书籍/beginners-driving-guide-basic-to-advanced.md) — 2024-06-14
 
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
