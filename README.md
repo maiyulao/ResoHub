@@ -3734,6 +3734,7 @@
 - [一般纳税人：账务处理全流程与纳税申报实操指南](./实战指南/general-taxpayer-accounting-and-filing-guide.md) — 2024-07-11
 - [TikTok 60天全流程实操陪跑：从底层运营逻辑到高效获客的落地方案](./实战指南/tiktok-60-day-operation-guide-growth-strategy.md) — 2024-07-11
 - [从零开始学习魔术：分阶段实操指南与技巧清单](./实战指南/learn-magic-step-by-step-guide.md) — 2024-07-11
+- [旅行社小红书全链路增长指南：从精准获客到商业变现的实操路径](./实战指南/travel-agency-xiaohongshu-growth-guide.md) — 2024-07-10
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
