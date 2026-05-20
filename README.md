@@ -3728,6 +3728,7 @@
 - [小红书起号全流程指南：从账号定位到精细化运营的实操体系](./实战指南/xiaohongshu-growth-guide.md) — 2024-07-11
 - [阿里巴巴国际站入门指南：基础运营实操课程与环境配置说明](./实战指南/alibaba-international-station-beginner-guide.md) — 2024-07-11
 - [一般纳税人：账务处理全流程与纳税申报实操指南](./实战指南/general-taxpayer-accounting-and-filing-guide.md) — 2024-07-11
+- [TikTok 60天全流程实操陪跑：从底层运营逻辑到高效获客的落地方案](./实战指南/tiktok-60-day-operation-guide-growth-strategy.md) — 2024-07-11
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
