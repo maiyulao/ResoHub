@@ -2221,6 +2221,7 @@
 - [JADB数据库历年TOP250考研资料集：核心知识点全覆盖，分年度递进式学习指南](./大人学习课程/jadb-top250-exam-study-guide.md) — 2024-06-24
 - [深度解析成人学习的认知逻辑：李银河揭示高效成长的核心路径与资源选择](./大人学习课程/cognitive-logic-of-adult-learning-li-yinhu.md) — 2024-06-22
 - [拆解情商开发课程中的PUA套路与心理操纵手段](./大人学习课程/emotional-intelligence-course-pua-manipulation-exposed.md) — 2024-06-20
+- [追你妹网络课程全集下载：适用环境与安装配置指南](./大人学习课程/zhuinimei-course-download-install-guide.md) — 2024-06-19
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
