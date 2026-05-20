@@ -3799,6 +3799,7 @@
 - [2024版珠峰前端架构实战：从工程化实践到系统设计指南](./实战指南/zhufeng-frontend-architecture-2024-guide.md) — 2024-07-01
 - [短视频剪辑入门指南：从零开始的实操学习步骤](./实战指南/short-video-editing-beginner-guide.md) — 2024-07-01
 - [临近十二月四六级考试，作文怎么写才能拿高分？这份冲刺资料包为你提供解题思路](./实战指南/cet-four-six-writing-guide-december.md) — 2024-07-01
+- [直播带货盈利指南：从亏损到月入50万的实操路径与核心课要点](./实战指南/livestreaming-ecommerce-profit-guide.md) — 2024-07-01
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
