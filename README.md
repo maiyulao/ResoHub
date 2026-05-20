@@ -3939,6 +3939,7 @@
 - [TikTok小店全流程实战指南：从零构建跨境电商闭环，分阶段掌握起店与运营技巧](./实战指南/tiktok-shop-full-guide-cross-border-ecommerce.md) — 2024-06-14
 - [373部高口碑爽文短剧资源包：支持多端播放及观看注意事项](./实战指南/373-best-short-drama-resource-pack.md) — 2024-06-13
 - [英语听力突破指南：从碎片化磨耳朵到高效习得的系统路径](./实战指南/english-listening-breakthrough-guide.md) — 2024-06-13
+- [亚马逊跨境电商全链路实操指南：从账号搭建到规模化增长的体系化运营方案](./实战指南/amazon-cross-border-ecommerce-full-guide-growth-strategy.md) — 2024-06-12
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
