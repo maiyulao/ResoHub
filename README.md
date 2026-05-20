@@ -3770,6 +3770,7 @@
 - [深广西三城酒吧街夜景实拍：4K超高清画质记录](./实战指南/guangxi-bar-street-night-view-4k.md) — 2024-07-06
 - [短视频重塑游戏分发逻辑：从内容创作到流量变现的实操路径分析](./实战指南/short-video-game-distribution-monetization-pathway.md) — 2024-07-06
 - [那些尺度过大而被下架的短剧去哪看了？盘点几部极具争议的午夜禁播系列](./实战指南/banned-adult-short-dramas-where-to-watch.md) — 2024-07-06
+- [职场新人成长指南：从入职适应到能力进阶的实践路径](./实战指南/career-growth-guide-for-newcomers.md) — 2024-07-05
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
