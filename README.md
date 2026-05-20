@@ -3816,6 +3816,7 @@
 - [如何利用 Midjourney 突破设计瓶颈：从灵感匮乏到高效出图的实操指南](./实战指南/midjourney-design-bottleneck-guide.md) — 2024-06-30
 - [2024暑期学习资源合集：无水印原件下载及使用指南](./实战指南/2024-summer-learning-resources-guide.md) — 2024-06-29
 - [高效构建知识体系：思维导图快速上手实战指南](./实战指南/build-knowledge-system-mind-map-guide.md) — 2024-06-29
+- [2024年社会工作者考试冲刺：高频考点梳理与复习步骤指南](./实战指南/2024-social-worker-exam-review-guide.md) — 2024-06-29
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
