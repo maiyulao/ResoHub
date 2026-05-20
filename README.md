@@ -2197,6 +2197,7 @@
 - [婚姻危机修复指南：20节实操课程及其应用场景与注意事项](./大人学习课程/marriage-crisis-repair-guide-courses.md) — 2024-07-09
 - [Li番2024年5月中文字幕资源包：含6月预告，适用多平台播放器](./大人学习课程/li-fan-may-2024-chinese-subtitles-pack.md) — 2024-06-30
 - [反直觉恋爱逻辑：打破常规的亲密关系构建指南](./大人学习课程/counterintuitive-love-logic-guide.md) — 2024-06-28
+- [许蓝方博士《高手养成计划》女性版教学资源：获取路径与学习要点指南](./大人学习课程/dr-xu-lanfang-women-mastery-plan-resources.md) — 2024-06-25
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
