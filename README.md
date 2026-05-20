@@ -764,6 +764,7 @@
 - [Awesome IPTV 资源汇总：180 余个国内外高清直播频道 m3u 订阅地址及配置指南](./GitHub项目/awesome-iptv-m3u-playlist-guide.md) — 2024-06-17
 - [AISourceHub 资源汇总：AI 领域高质量信息源获取指南及筛选要点](./GitHub项目/aisourcehub-ai-resource-guide.md) — 2024-06-14
 - [使用 Cobalt 下载多平台视频的详细操作指南](./GitHub项目/cobalt-video-downloader-guide.md) — 2024-06-11
+- [利用 WebRTC 实现点对点网络摄像头实时监控的配置步骤](./GitHub项目/webrtc-p2p-ip-camera-monitoring-setup.md) — 2024-06-10
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
