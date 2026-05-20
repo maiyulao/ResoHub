@@ -3790,6 +3790,7 @@
 - [PS入门指南：从零开始掌握基础操作技巧](./实战指南/ps-beginner-guide-basic-skills.md) — 2024-07-03
 - [高斯爱学习思维突破奥数（1-6阶四季版）：通过阶梯式逻辑训练构建数学思维，实现成绩突破](./实战指南/gauss-math-thinking-breakthrough-olympiad.md) — 2024-07-03
 - [Java 进阶：Redis 核心原理与实战深度解析（达摩院教程版）](./实战指南/java-redis-core-principles-practice.md) — 2024-07-03
+- [手机摄影进阶指南：从基础技巧到技术流实拍方案](./实战指南/mobile-photography-guide-basics-to-advanced.md) — 2024-07-02
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
