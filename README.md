@@ -2081,6 +2081,7 @@
 - [Freedium 使用指南：突破 Medium 付费墙限制，免费获取会员文章](./创意工具/freedium-guide-bypass-medium-paywall.md) — 2024-06-21
 - [易条形：支持批量导出的在线条形码生成工具及使用指南](./创意工具/easy-barcode-generator-batch-export-guide.md) — 2024-06-21
 - [进出口商品税率查询全流程：从税号检索到税率确认的实用步骤](./创意工具/import-export-commodity-tax-rate-lookup-guide.md) — 2024-06-20
+- [全球港口代码检索指南：高效查询世界港口信息的工具与方法](./创意工具/global-port-code-lookup-guide.md) — 2024-06-20
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
