@@ -2136,6 +2136,7 @@
 - [想让 AI 真正像资深专家一样思考并输出？这 10 节私教课带你掌握 X AI 的深度调优技巧](./大人学习课程/ai-expert-prompt-tuning-guide.md) — 2024-07-16
 - [男性穿搭进阶指南：从基础审美构建到实操穿衣方案](./大人学习课程/mens-fashion-guide-basics-to-advanced.md) — 2024-07-14
 - [叶倩彤系列有声书资源集锦：7套特定色调主题合集](./大人学习课程/ye-qiantong-audiobooks-collection.md) — 2024-07-11
+- [某同学全集（110GB）：涵盖全系列内容的完整资源合集，包含所有关键版本与细节存档](./大人学习课程/mou-tongxue-complete-collection.md) — 2024-07-10
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
