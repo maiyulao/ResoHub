@@ -2114,6 +2114,7 @@
 - [SnapAny 视频图片通用解析下载工具：安装部署环境与使用指南](./创意工具/snapany-installation-and-guide.md) — 2024-06-14
 - [如何高效管理远程协作？这份中英双语远程工作指南为你提供实践方案](./创意工具/remote-collaboration-management-guide.md) — 2024-06-13
 - [找不到风格统一的开源插画？试试这个高质量手绘素材库 CocoMaterial](./创意工具/cocomaterial-open-source-illustration-library.md) — 2024-06-13
+- [人教版中小学教材WEB版下载指南：从访问到保存的完整步骤](./创意工具/pep-textbook-web-download-guide.md) — 2024-06-11
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
