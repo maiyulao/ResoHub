@@ -468,6 +468,7 @@
 - [ChatTTS 中文版在线试用：支持多线路切换的文本转语音工具及使用指南](./AI工具教程/chattts-online-trial-text-to-speech-guide.md) — 2024-07-12
 - [老照片AI视频生成工具：静态图像动态化实现方案与使用指南](./AI工具教程/ai-old-photo-to-video-guide.md) — 2024-07-10
 - [可灵 AI：快手自研多模态大模型，提供图像与视频生成限时免费体验](./AI工具教程/kling-ai-kuaishou-multimodal-model-free-trial.md) — 2024-07-08
+- [Logo Galleria：通过AI快速构建品牌视觉，提供全流程免费的在线Logo设计方案](./AI工具教程/logo-galleria-ai-free-logo-maker.md) — 2024-06-28
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
