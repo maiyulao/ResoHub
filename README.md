@@ -3823,6 +3823,7 @@
 - [高效构建知识体系：思维导图快速上手实战指南](./实战指南/build-knowledge-system-mind-map-guide.md) — 2024-06-29
 - [2024年社会工作者考试冲刺：高频考点梳理与复习步骤指南](./实战指南/2024-social-worker-exam-review-guide.md) — 2024-06-29
 - [AI绘画实战指南：通过掌握智能工具打破创作门槛，实现从创意构思到专业视觉输出的效能跃迁](./实战指南/ai-painting-practical-guide.md) — 2024-06-29
+- [英语四六级或考研英语基础薄弱怎么快速提分？刘晓艳保命班的复习路径解析](./实战指南/english-exam-improvement-liu-xiaoyan-guide.md) — 2024-06-28
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
