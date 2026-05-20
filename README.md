@@ -2127,6 +2127,7 @@
 - [AI 驱动的规模化内容生产：实现百万级个体叙事的自动化投稿实操](./创意工具/ai-driven-scalable-content-production-automation.md) — 2024-06-09
 - [如何在小说狂人网站免费阅读 12 万部在线小说：操作指南](./创意工具/how-to-read-free-novels-on-xiaoshuokuangren.md) — 2024-06-08
 - [果核音乐：高效检索并免费下载高质量MP3音频的在线工具库](./创意工具/guohe-music-free-mp3-download-tool.md) — 2024-06-08
+- [处理多媒体文件总在找不同工具？试试这个集成化在线资源工具箱 CoolTool](./创意工具/cooltool-integrated-online-resource-toolbox.md) — 2024-06-07
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
