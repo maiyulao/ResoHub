@@ -2028,6 +2028,7 @@
 - [imageSearch 使用指南：通过聚合反向搜索快速定位图片来源](./创意工具/imagesearch-reverse-image-search-guide.md) — 2024-07-07
 - [Farr 资源库：免费成人游戏下载与整合指南](./创意工具/farr-adult-games-download-guide.md) — 2024-07-06
 - [懒人图云：高效在线照片拼图工具与创意视觉组合指南](./创意工具/lazy-photo-collage-tool-guide.md) — 2024-07-06
+- [Fake Screenshot：一键生成仿真字幕截图，支持自定义文本与背景图以快速构建视觉素材](./创意工具/fake-screenshot-generator.md) — 2024-07-05
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
