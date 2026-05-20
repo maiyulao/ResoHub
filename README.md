@@ -3763,6 +3763,7 @@
 - [全能视觉创作指南：涵盖 AE、PR 与 C4D 的千集实战体系，由浅入深构建从剪辑到三维特效的完整工作流](./实战指南/visual-creation-guide-ae-pr-c4d-workflow.md) — 2024-07-07
 - [为什么发文没流量？尝试这套7天养号流程快速激活小红书权重](./实战指南/xiaohongshu-account-activation-7day-guide.md) — 2024-07-06
 - [拼多多全流程运营指南：从零起步到精细化增长的实操技巧](./实战指南/pinduoduo-operation-guide-growth-tips.md) — 2024-07-06
+- [《乌合之众》有声书全集（37页）：资源获取与播放环境说明](./实战指南/the-crowd-audiobook-full-collection.md) — 2024-07-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
