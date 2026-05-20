@@ -1013,6 +1013,7 @@
 - [成人技巧实操电子书下载：适用场景与阅读指南](./书籍/adult-skills-ebook-guide.md) — 2024-07-14
 - [《浪漫的艺术：子夜》PDF版下载：成人社交技巧实操指南及阅读要点](./书籍/romantic-art-midnight-pdf-download.md) — 2024-07-11
 - [深度解析爱情本质：核心观点与认知指南 (PDF)](./书籍/essence-of-love-guide-pdf.md) — 2024-07-05
+- [如何下载并阅读《完美伴侣：缓慢 女生 爱》(德永/宋好) 扫描版全集](./书籍/download-read-perfect-companion-manga-scanlation.md) — 2024-07-03
 
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
