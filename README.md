@@ -869,6 +869,7 @@
 - [芦笋直播助手快速上手指南：30秒配置多平台专业直播间](./Mac软件/asparagus-live-assistant-quick-start-guide.md) — 2024-08-03
 - [Fideo Live Record：支持多平台实时监控与自动化录制的开源直播采集方案](./Mac软件/fideo-live-record-open-source-livestream-capture.md) — 2024-07-20
 - [EcoPaste：一款支持多平台的开源剪切板增强方案](./Mac软件/ecopaste-open-source-clipboard-manager.md) — 2024-07-16
+- [使用鲜艺AI实现离线毫秒级抠图的详细操作步骤](./Mac软件/xianyi-ai-offline-background-removal-guide.md) — 2024-07-13
 
 ### Windows软件
 - [觉得 Win+V 记录太少且不够灵活？试试开源的本地剪贴板增强工具 ElegantClipboard](./Windows软件/elegant-clipboard-windows-clipboard-manager.md) — 2026-05-11
