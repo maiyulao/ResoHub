@@ -471,6 +471,7 @@
 - [Logo Galleria：通过AI快速构建品牌视觉，提供全流程免费的在线Logo设计方案](./AI工具教程/logo-galleria-ai-free-logo-maker.md) — 2024-06-28
 - [如何利用 Streamer Sales 大模型快速生成数字人带货解说视频？](./AI工具教程/streamer-sales-ai-digital-human-video-guide.md) — 2024-06-27
 - [IDM-VTON开源虚拟试衣实测：实现高保真服装迁移，支持免费在线部署与快速出图](./AI工具教程/idm-vton-virtual-try-on-review.md) — 2024-06-26
+- [高效去除图片背景：AI 自动抠图工具实操指南](./AI工具教程/ai-image-background-remover-guide.md) — 2024-06-23
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
