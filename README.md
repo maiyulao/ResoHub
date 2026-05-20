@@ -1139,6 +1139,7 @@
 - [棋牌类合集搭建与配置全流程操作指南](./兴趣爱好/gambling-games-setup-guide.md) — 2024-07-07
 - [想学吉他弹唱却不知从何入手？跟随李健御用吉他手，从零基础快速掌握实战技巧](./兴趣爱好/learn-guitar-beginner-guide-li-jian-guitarist.md) — 2024-06-27
 - [新手极简化妆教程全集：明星化妆师实操技巧与适用场景指南](./兴趣爱好/minimalist-makeup-tutorial-for-beginners.md) — 2024-06-21
+- [Procreate 全流程入门指南：从零起步到熟练创作](./兴趣爱好/procreate-beginner-guide-complete-workflow.md) — 2024-06-16
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
