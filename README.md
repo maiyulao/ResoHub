@@ -2018,6 +2018,7 @@
 - [BBCOOK辅食规划指南：三步定制宝宝每日营养食谱](./创意工具/bbcook-baby-food-planning-guide.md) — 2024-07-10
 - [成年人知识进阶资源库：构建从实用技能到深度认知的多维学习体系](./创意工具/adult-knowledge-learning-resource-center.md) — 2024-07-09
 - [JGIF 动图来源查询指南：通过 F 号快速定位原图与出处](./创意工具/jgif-source-lookup-guide-f-number.md) — 2024-07-08
+- [视觉记忆：上世纪中国宣传海报影像志](./创意工具/visual-memory-chinese-propaganda-posters.md) — 2024-07-07
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
