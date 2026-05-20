@@ -1080,6 +1080,7 @@
 - [韩语零基础入门指南：从零起步至 TOPIK I 级考证](./兴趣爱好/korean-beginner-guide-to-topik-1.md) — 2024-08-11
 - [2024主流手机硬件维修实操指南：从故障诊断到部件更换的全流程视频教程](./兴趣爱好/2024-smartphone-hardware-repair-guide.md) — 2024-08-09
 - [从线描到森系风格：PS插画创作全流程实操指南](./兴趣爱好/ps-line-art-to-mori-style-illustration-guide.md) — 2024-08-03
+- [想学习中国武术却找不到标准动作？这份教学视频指南帮你快速上手](./兴趣爱好/learn-chinese-martial-arts-video-guide.md) — 2024-07-13
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
