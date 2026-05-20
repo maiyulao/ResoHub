@@ -3855,6 +3855,7 @@
 - [面对纷杂的志愿填报指南，如何筛选出真正有效的填报策略？](./实战指南/effective-college-application-strategies.md) — 2024-06-25
 - [面对高考志愿填报的迷茫，如何运用张雪峰的专业逻辑选专业、挑城市？](./实战指南/zhang-xuefeng-college-major-selection-guide.md) — 2024-06-25
 - [高考志愿填报全攻略：从逻辑分析到实操技巧的系统指南](./实战指南/gaokao-volunteer-guide-systematic-tips.md) — 2024-06-25
+- [从零起步：构建可规模化变现的多平台自媒体矩阵](./实战指南/build-scalable-social-media-matrix.md) — 2024-06-24
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
