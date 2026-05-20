@@ -3704,6 +3704,7 @@
 - [直播间转化率低、留不住人？通过能力模型拆解，让新手主播掌握电商带货的人性操盘术](./实战指南/livestream-conversion-rate-optimization-guide.md) — 2024-07-16
 - [闲鱼开店三天实操指南：从账号搭建到出单的极简执行路径](./实战指南/xianyu-shop-3-day-guide.md) — 2024-07-15
 - [英语启蒙资源库：English Singsing 1000集全集，涵盖分级对话、情境词汇与地道发音练习](./实战指南/english-singsing-complete-collection.md) — 2024-07-15
+- [Photoshop高级修图与调色实战：从色彩理论到商业级后期工作流全解析](./实战指南/photoshop-advanced-retouching-and-color-grading-workflow.md) — 2024-07-14
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
