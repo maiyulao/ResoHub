@@ -2172,6 +2172,7 @@
 - [叶倩彤系列有声书资源集锦：7套特定色调主题合集](./大人学习课程/ye-qiantong-audiobooks-collection.md) — 2024-07-11
 - [某同学全集（110GB）：涵盖全系列内容的完整资源合集，包含所有关键版本与细节存档](./大人学习课程/mou-tongxue-complete-collection.md) — 2024-07-10
 - [婚姻危机修复指南：20节实操课程及其应用场景与注意事项](./大人学习课程/marriage-crisis-repair-guide-courses.md) — 2024-07-09
+- [Li番2024年5月中文字幕资源包：含6月预告，适用多平台播放器](./大人学习课程/li-fan-may-2024-chinese-subtitles-pack.md) — 2024-06-30
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
