@@ -3918,6 +3918,7 @@
 - [网络安全实战进阶指南：老男孩第16期课程体系与学习路径](./实战指南/cybersecurity-advanced-guide-oldboy-16-curriculum.md) — 2024-06-16
 - [小红书爆款Plog图文创作：从构图到发布的实操指南](./实战指南/xiaohongshu-plog-creation-guide.md) — 2024-06-16
 - [会计师考证学习资料包：含全套课程资源、适用版本及部署指南](./实战指南/accountant-exam-study-materials-guide.md) — 2024-06-16
+- [风水营销实操指南：从理论讲解到快速提升订单量的具体步骤](./实战指南/feng-shui-marketing-guide-increase-orders.md) — 2024-06-15
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
