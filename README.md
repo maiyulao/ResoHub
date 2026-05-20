@@ -3866,6 +3866,7 @@
 - [想系统学习易经却不知从何入手？一套涵盖基础到高级的108集全阶视频课程及笔记指南](./实战指南/comprehensive-yi-jing-video-course-guide.md) — 2024-06-24
 - [高效破冰的24个实操技巧：从心理建设到对话引导的陌生人社交指南](./实战指南/24-ice-breaking-tips-for-socializing.md) — 2024-06-23
 - [跨境电商全链路实操指南：从零基础入门到精通运营的进阶路径](./实战指南/cross-border-ecommerce-complete-guide.md) — 2024-06-23
+- [小红书电商起步全指南：从零构建高转化链路，拆解选品、内容与流量实操细节](./实战指南/xiaohongshu-ecommerce-guide-high-conversion.md) — 2024-06-23
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
