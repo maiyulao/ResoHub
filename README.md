@@ -3891,6 +3891,7 @@
 - [银行行长分享的理财实操指南：从零开始驾驭金钱的步骤详解](./实战指南/bank-president-wealth-management-guide.md) — 2024-06-20
 - [想做TikTok跨境电商却不知如何起步？从账号运营到变现闭环的实战全流程拆解](./实战指南/tiktok-cross-border-ecommerce-guide.md) — 2024-06-20
 - [2100 套高效 Excel 业务模板库：覆盖多场景实操方案](./实战指南/2100-efficient-excel-business-templates-library.md) — 2024-06-20
+- [从零开始掌握Excel：从基础操作到高级应用的实操指南](./实战指南/master-excel-beginner-to-advanced-guide.md) — 2024-06-19
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
