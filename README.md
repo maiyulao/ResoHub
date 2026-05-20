@@ -744,6 +744,7 @@
 - [零知识证明（ZKP）技术详解：从底层原理解析到实战入门指南](./GitHub项目/zero-knowledge-proofs-guide-principles-and-practice.md) — 2024-06-30
 - [主流科技巨头开源生态图谱：核心团队与关键项目索引 (OpenSource Lighthouse)](./GitHub项目/tech-giants-opensource-ecosystem-map.md) — 2024-06-30
 - [深度解析 Earthworm：如何通过机制设计提升英语学习的沉浸感与效率](./GitHub项目/earthworm-english-learning-mechanism-efficiency.md) — 2024-06-29
+- [构建 Python 爬虫代理 IP 池的完整实现步骤](./GitHub项目/python-crawler-proxy-ip-pool-implementation.md) — 2024-06-29
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
