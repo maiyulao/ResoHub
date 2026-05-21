@@ -4070,6 +4070,7 @@
 - [从零开始掌握算法与数据结构：循序渐进的学习路径指南](./实战指南/master-algorithms-and-data-structures-guide.md) — 2024-05-21
 - [从零到一独立运营小红书账号：实操步骤全指南](./实战指南/xiaohongshu-operation-guide.md) — 2024-05-20
 - [极简戒烟方法论：核心逻辑拆解与实操指南](./实战指南/minimalist-smoking-cessation-guide.md) — 2024-05-20
+- [半年期英语零基础进阶指南：从入门到实操的路径规划](./实战指南/english-learning-guide-for-beginners-6-months.md) — 2024-05-20
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
