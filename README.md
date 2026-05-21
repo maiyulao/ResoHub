@@ -2338,6 +2338,7 @@
 - [社交恐惧或不擅长沟通？这260节聊天实战课帮你掌握破冰与话题引导技巧](./大人学习课程/social-communication-skills-course.md) — 2024-06-02
 - [阮琦高情商训练营：9课时沟通能力提升实战指南](./大人学习课程/ruanqi-high-eq-communication-guide.md) — 2024-05-26
 - [主播小小酥超清直播回放合集：下载渠道与观看环境说明](./大人学习课程/xiaoxiasu-live-playback-collection.md) — 2024-05-20
+- [PC肌锻炼指南：通过每日10分钟训练提升生活质量的实用步骤](./大人学习课程/pc-muscle-exercise-guide.md) — 2024-05-18
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
