@@ -4081,6 +4081,7 @@
 - [从零基础到金牌水准：新楠抖音电商客服实战培训体系，通过分阶训练实现服务能力快速升级](./实战指南/douyin-ecommerce-customer-service-training-system.md) — 2024-05-20
 - [2889篇知乎盐选付费专栏内容精选集](./实战指南/2889-zhihu-salt-selected-paid-columns-collection.md) — 2024-05-20
 - [陪孩子用手机拍出好照片：从基础构图到实战记录的亲子摄影指南](./实战指南/parent-child-mobile-photography-guide.md) — 2024-05-20
+- [自由职业摄影师起步指南：从技能提升到商业变现的实操步骤](./实战指南/freelance-photographer-startup-guide.md) — 2024-05-19
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
