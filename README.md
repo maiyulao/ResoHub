@@ -4104,6 +4104,7 @@
 - [高情商社交实操指南：从人情世故到资源变现的进阶路径](./实战指南/high-eq-social-skills-guide-2.md) — 2024-05-16
 - [万门大学雅思高效备考实战指南：从核心策略到提分技巧](./实战指南/wmu-ielts-preparation-guide.md) — 2024-05-16
 - [ChatGPT全能实操指南：从基础入门到高级进阶的视频学习路径](./实战指南/chatgpt-comprehensive-video-learning-guide.md) — 2024-05-16
+- [高效能AI表格自动化指南：通过Prompt指令实现秒级建表，覆盖从基础框架到复杂函数的实操链路](./实战指南/ai-table-automation-guide-prompt-tips.md) — 2024-05-16
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
