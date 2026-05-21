@@ -1131,6 +1131,7 @@
 - [全屋装修指南：家装实操电子书资源集锦](./书籍/home-renovation-guide-ebooks.md) — 2024-05-01
 - [提升销售业绩的24本实操书单：从入门到精通的阅读路径](./书籍/24-best-sales-books-reading-list.md) — 2024-04-30
 - [社交动力学：破解人际吸引力与心理博弈的底层逻辑](./书籍/social-dynamics-interpersonal-attraction-psychology.md) — 2024-04-26
+- [想提升社交吸引力却不知从何入手？深度解析Tango《坏男孩日记》中的沟通逻辑与心理博弈](./书籍/tango-bad-boy-diaries-communication-psychology.md) — 2024-04-25
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
