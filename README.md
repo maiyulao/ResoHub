@@ -3985,6 +3985,7 @@
 - [闲鱼多账号矩阵实操：从无货源起步到单品获利336万的全流程复盘](./实战指南/xianyu-multi-account-matrix-guide.md) — 2024-06-06
 - [Stable Diffusion 入门指南：从环境搭建到 AI 绘画实操](./实战指南/stable-diffusion-beginner-guide.md) — 2024-06-06
 - [抖音好物分享实操指南：新账号快速起号与变现路径解析](./实战指南/douyin-product-sharing-guide-growth-monetization.md) — 2024-06-05
+- [插画博主小红书变现全流程：从账号运营到商业化实操步骤](./实战指南/xiaohongshu-illustration-monetization-guide.md) — 2024-06-05
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
