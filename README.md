@@ -4161,6 +4161,7 @@
 - [从零起步：苏阿九21天小红书爆款笔记打造与变现实操指南](./实战指南/xiaohongshu-viral-notes-guide-21days.md) — 2024-05-07
 - [面对知识碎片化与学习效率低下的困境，如何通过重构思维模式提升认知能力？](./实战指南/reconstruct-thinking-mode-to-improve-cognitive-ability.md) — 2024-05-07
 - [担心年龄增长带来的焦虑？陶思璇推荐40本女性必读经典，用阅读对抗时间](./实战指南/reading-list-for-women-anti-aging-anxiety.md) — 2024-05-07
+- [TikTok 全流程配置指南：从环境搭建到账号注册详解](./实战指南/tiktok-setup-and-registration-guide.md) — 2024-05-07
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
