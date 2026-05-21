@@ -1023,6 +1023,7 @@
 - [想快速翻译SRT字幕文件却苦于配置复杂？试试这款开箱即用的ANTO翻译工具](./Windows软件/anto-srt-subtitle-translator.md) — 2024-05-30
 - [Bulk Crap Uninstaller：Windows 平台开源软件彻底卸载工具（含下载与配置指南）](./Windows软件/bulk-crap-uninstaller-guide.md) — 2024-05-26
 - [RM Toolbox 开源工具箱下载：绿色免安装版及其功能适用指南](./Windows软件/rm-toolbox-download-guide.md) — 2024-05-18
+- [高效配置 Sumatra PDF：从安装到优化阅读体验的完整指南](./Windows软件/sumatra-pdf-setup-optimization-guide.md) — 2024-05-16
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
