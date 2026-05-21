@@ -770,6 +770,7 @@
 - [使用 Cobalt 下载多平台视频的详细操作指南](./GitHub项目/cobalt-video-downloader-guide.md) — 2024-06-11
 - [利用 WebRTC 实现点对点网络摄像头实时监控的配置步骤](./GitHub项目/webrtc-p2p-ip-camera-monitoring-setup.md) — 2024-06-10
 - [开源水印工具实战：通过动态覆盖防止身份证件复印件被盗用](./GitHub项目/open-source-watermark-tool-prevent-id-theft.md) — 2024-06-07
+- [Novita AI 实践 AnimateAnyone：将静态图像转化为动态视频的非官方实现方案](./GitHub项目/novita-ai-animateanyone-static-image-to-video.md) — 2024-06-04
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
