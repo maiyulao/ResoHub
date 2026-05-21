@@ -2131,6 +2131,7 @@
 - [处理多媒体文件总在找不同工具？试试这个集成化在线资源工具箱 CoolTool](./创意工具/cooltool-integrated-online-resource-toolbox.md) — 2024-06-07
 - [哔哩轻小说：实时同步的高质量轻小说资源库](./创意工具/bilihight-novel-library.md) — 2024-06-07
 - [如何通过字体搬运工下载免费商用字体：具体操作步骤指南](./创意工具/how-to-download-free-commercial-fonts-via-font-porter.md) — 2024-06-07
+- [认知能力训练指南：通过在线益智游戏提升思维逻辑与大脑效能](./创意工具/cognitive-training-guide-brain-games.md) — 2024-06-06
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
