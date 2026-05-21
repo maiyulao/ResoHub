@@ -4250,6 +4250,7 @@
 - [2024年ChatGPT落地指南：从技术场景分析到商业应用部署的实操步骤](./实战指南/chatgpt-implementation-guide-2024.md) — 2024-04-25
 - [掌握中国式饭局社交精髓：从潜规则拆解到实战技巧的21课进阶指南](./实战指南/chinese-dining-etiquette-social-guide.md) — 2024-04-24
 - [瑜伽主题课排课指南：从动作筛选到序列编排的实操步骤](./实战指南/yoga-themed-class-scheduling-guide.md) — 2024-04-23
+- [如何通过构建财商体系，打破收入瓶颈并实现财富增长？](./实战指南/build-financial-intelligence-for-wealth-growth.md) — 2024-04-23
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
