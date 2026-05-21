@@ -496,6 +496,7 @@
 - [使用 xPassportPhoto 制作标准护照照片的 AI 在线操作指南](./AI工具教程/xpassportphoto-ai-passport-photo-guide.md) — 2024-05-09
 - [厌倦了在搜索结果中筛选广告？试试秘塔AI搜索，直接获取纯净的答案](./AI工具教程/metaso-ai-search-ad-free-answers.md) — 2024-05-04
 - [面对复杂任务无从下手？尝试用 GoblinTools 将大目标拆解为可执行步骤并优化语义分析](./AI工具教程/goblin-tools-task-breakdown-and-semantic-optimization.md) — 2024-05-04
+- [ConsolidatedID：通过多模式细粒度控制实现高保真且隐私安全的肖像生成](./AI工具教程/consolidated-id-high-fidelity-privacy-preserving-portrait-generation.md) — 2024-05-04
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
