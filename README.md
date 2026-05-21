@@ -777,6 +777,7 @@
 - [开源水印工具实战：通过动态覆盖防止身份证件复印件被盗用](./GitHub项目/open-source-watermark-tool-prevent-id-theft.md) — 2024-06-07
 - [Novita AI 实践 AnimateAnyone：将静态图像转化为动态视频的非官方实现方案](./GitHub项目/novita-ai-animateanyone-static-image-to-video.md) — 2024-06-04
 - [想在不安装软件的情况下快速排版证件照？试试这款开源在线生成器 Sandphoto](./GitHub项目/sandphoto-online-id-photo-generator.md) — 2024-06-01
+- [极客时间电子书阅读与使用全流程指南](./GitHub项目/geektime-ebook-guide.md) — 2024-05-24
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
