@@ -951,6 +951,7 @@
 - [Mac 版 ChatGPT 提示无权限登录？尝试这几种方案解决登录失败问题](./Mac软件/mac-chatgpt-login-permission-denied-fix.md) — 2024-05-20
 - [Superfile 安装与配置指南：打造高效的开源终端文件管理器](./Mac软件/superfile-install-configuration-guide.md) — 2024-05-16
 - [Supertone Shift：低延迟实时AI变声方案，支持多角色高质量切换与免费试用](./Mac软件/supertone-shift-realtime-ai-voice-changer.md) — 2024-05-08
+- [macOS 菜单栏精简工具 Barbee 限时免费：一键隐藏冗余图标，提升桌面视觉纯净度](./Mac软件/barbee-macos-menu-bar-manager-free.md) — 2024-05-05
 
 ### Twitter
 - [BlockExpress 插件安装指南：通过浏览器订阅推特 Web3 KOL 动态与行业情报](./Twitter/blockexpress-installation-guide-twitter-web3-kol-tracking.md) — 2024-05-24
