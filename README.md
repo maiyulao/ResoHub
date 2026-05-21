@@ -2160,6 +2160,7 @@
 - [高效论文降重：28款主流查重软件与工具评测对比](./创意工具/plagiarism-checker-tools-review-comparison.md) — 2024-05-31
 - [某字母图书馆：全球中文网络文学资源索引与数字化存档指南](./创意工具/global-chinese-web-novel-index-archiving-guide.md) — 2024-05-31
 - [使用 favicon.io 快速生成免费网站图标（favicon.ico）的详细步骤](./创意工具/generate-free-favicon-with-favicon-io.md) — 2024-05-30
+- [Svgl：开源免费的 SVG 矢量 Logo 资源库](./创意工具/svgl-open-source-svg-logo-library.md) — 2024-05-30
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
