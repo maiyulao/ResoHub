@@ -4040,6 +4040,7 @@
 - [想找 2008 至 2023 年全国各省高考真题？这里有全科完整合集](./实战指南/china-gaokao-exam-papers-2008-2023.md) — 2024-05-28
 - [剪映特效实操指南：从基础到进阶的快速上手路径](./实战指南/capcut-effects-tutorial-guide.md) — 2024-05-27
 - [计算机网络核心知识点学习路径：分29步快速通关](./实战指南/computer-network-learning-path-29-steps.md) — 2024-05-27
+- [摄影师IP商业化实战指南：通过精准涨粉实现流量变现，详解第五期课程核心链路](./实战指南/photographer-ip-monetization-guide-part5.md) — 2024-05-26
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
