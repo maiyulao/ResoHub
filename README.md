@@ -4125,6 +4125,7 @@
 - [AITDK SEO Extension：替代付费方案的免费全能 SEO 插件指南](./效率工具/aitdk-seo-extension-free-guide.md) — 2024-08-12
 - [小红旅计：基于小红书攻略的旅游行程规划工具及部署指南](./效率工具/xiaohonglvji-xiaohongshu-travel-planner-guide.md) — 2024-07-02
 - [GoFullPage：浏览器全页截图插件安装指南与使用要点](./效率工具/gofullpage-installation-and-usage-guide.md) — 2024-06-15
+- [微信读书网页版评论显示插件：安装方法与使用环境指南](./效率工具/wechat-read-web-comment-plugin-guide.md) — 2024-05-25
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
