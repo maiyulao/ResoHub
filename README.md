@@ -4060,6 +4060,7 @@
 - [2024年法考备考指南：从资源获取到网课学习的完整操作步骤](./实战指南/2024-legal-exam-preparation-guide.md) — 2024-05-24
 - [掌握职场高情商沟通逻辑：通过精准表达突破事业瓶颈，实现职级与资源的快速跃迁](./实战指南/high-eq-communication-for-career-growth.md) — 2024-05-22
 - [AE商业短片制作全流程：从光影7号实战案例到成片步骤指南](./实战指南/ae-commercial-video-production-workflow-guide.md) — 2024-05-22
+- [解析墨菲定律：从认知人性偏差到构建高效生活逻辑](./实战指南/murphys-law-cognitive-bias-life-logic.md) — 2024-05-22
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
