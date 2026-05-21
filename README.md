@@ -564,6 +564,7 @@
 - [想在手机上随时调用 ChatGPT 或 Gemini 并生成 AI 图像？试试 CChatBot 移动端应用](./Android应用/cchatbot-app-chatgpt-gemini-ai-image-generator.md) — 2024-05-10
 - [Snapseek 自动化屏幕截图工具：功能特性与配置指南](./Android应用/snapseek-automated-screenshot-tool-guide.md) — 2024-05-05
 - [藏趣云书签：支持多端同步的轻量化浏览器书签管理方案](./Android应用/cangqu-cloud-bookmarks.md) — 2024-04-26
+- [胃之书：通过AI饮食分析挖掘食物趣味，实现从记录到认知升级的饮食管理](./Android应用/stomach-book-ai-diet-analysis.md) — 2024-04-24
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
