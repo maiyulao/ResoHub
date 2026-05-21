@@ -782,6 +782,7 @@
 - [想在不安装软件的情况下快速排版证件照？试试这款开源在线生成器 Sandphoto](./GitHub项目/sandphoto-online-id-photo-generator.md) — 2024-06-01
 - [极客时间电子书阅读与使用全流程指南](./GitHub项目/geektime-ebook-guide.md) — 2024-05-24
 - [Awesome Love Code 浪漫表白代码库：多语言实现方案与部署环境指南](./GitHub项目/awesome-love-code-implementation-and-deployment-guide.md) — 2024-05-19
+- [Pic Smaller：一款高效开源的在线图像体积优化工具](./GitHub项目/pic-smaller-open-source-image-optimizer.md) — 2024-05-18
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
