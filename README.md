@@ -1224,6 +1224,7 @@
 - [吴老师心理学系列课程：学习路径、资源获取及实践指南](./兴趣爱好/teacher-wu-psychology-course-guide.md) — 2024-05-22
 - [从选材到成品：专业花束设计与花艺实操指南](./兴趣爱好/professional-bouquet-design-and-floral-guide.md) — 2024-05-17
 - [成年人零基础想学钢琴，如何通过高效路径快速上手？](./兴趣爱好/adult-beginner-piano-learning-guide.md) — 2024-05-10
+- [想尝试轮滑却不知从何起步？这份基础入门指南帮你快速掌握核心技巧](./兴趣爱好/roller-blading-beginner-guide.md) — 2024-05-04
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
