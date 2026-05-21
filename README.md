@@ -3989,6 +3989,7 @@
 - [抖音好物分享实操指南：新账号快速起号与变现路径解析](./实战指南/douyin-product-sharing-guide-growth-monetization.md) — 2024-06-05
 - [插画博主小红书变现全流程：从账号运营到商业化实操步骤](./实战指南/xiaohongshu-illustration-monetization-guide.md) — 2024-06-05
 - [摄影新手快速上手指南：从基础配置到拍摄实操的四个关键步骤](./实战指南/photography-beginner-guide-4-steps.md) — 2024-06-05
+- [手写数据库系统实战：从零构建核心引擎，掌握底层存储与查询机制](./实战指南/build-your-own-database-engine.md) — 2024-06-04
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
