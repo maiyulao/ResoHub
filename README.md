@@ -3978,6 +3978,7 @@
 - [AI算法工程师实战课程：含源码与课件，适配就业求职环境](./实战指南/ai-algorithm-engineer-course.md) — 2024-06-07
 - [职场沟通实操指南：高效沟通技巧、适用场景及人际避坑要点](./实战指南/workplace-communication-guide.md) — 2024-06-07
 - [社交圈层如何潜移默化地塑造你的财富上限](./实战指南/how-social-circles-shape-wealth-ceiling.md) — 2024-06-07
+- [短视频画面模糊或缺乏质感？这 110G 4K 高清素材库帮你提升视觉档次](./实战指南/4k-video-assets-library-for-high-quality-visuals.md) — 2024-06-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
