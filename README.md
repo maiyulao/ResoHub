@@ -2269,6 +2269,7 @@
 - [实时金价查询指南：通过 goldprice 追踪国内外金价的 3 个步骤](./创意工具/goldprice-real-time-tracking-guide.md) — 2024-04-24
 - [Unblockit 全球磁力资源索引：通过多维度导航高效定位海外海量种子文件](./创意工具/unblockit-global-magnet-index.md) — 2024-04-24
 - [IKnowWhatYouDownload：实时监控与分析下载内容的开源工具](./创意工具/iknowwhatyoudownload-open-source-download-monitor.md) — 2024-04-24
+- [沉浸式助眠资源库：提供高采样率ASMR音视频，通过多维度感官触发缓解失眠与焦虑](./创意工具/immersive-asmr-sleep-resource-library.md) — 2024-04-24
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
