@@ -4018,6 +4018,7 @@
 - [知识电商IP实操指南：从热果艺培案例看短视频账号的高效变现逻辑](./实战指南/knowledge-ecommerce-ip-monetization-guide.md) — 2024-06-01
 - [沉浸式日语习得法：通过模拟母语环境替代机械记忆，实现高效语言内化（全集）](./实战指南/immersive-japanese-learning-method.md) — 2024-06-01
 - [522本道家珍稀文献采集与整理指南：从资源筛选到分类存储的完整流程](./实战指南/taoist-rare-documents-collection-guide.md) — 2024-06-01
+- [高效处理Word文档的5个隐藏功能操作指南](./实战指南/5-hidden-word-tips-guide.md) — 2024-06-01
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
