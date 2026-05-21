@@ -4150,6 +4150,7 @@
 - [21天英语听说突破：通过歌曲习得的实操指南（完结）](./实战指南/21-day-english-listening-speaking-songs-guide.md) — 2024-05-10
 - [专升本复习没方向？这份覆盖各省的备考资料包帮你快速上手](./实战指南/top-up-degree-study-materials-package.md) — 2024-05-10
 - [想快速上手 Premiere 但不知从何学起？这份从零基础到精通的实操指南为你拆解](./实战指南/premiere-pro-beginner-to-expert-guide.md) — 2024-05-09
+- [陈鑫杰全栈网络安全工程师实战课程：含源码与教学课件](./实战指南/chen-xinjie-fullstack-cybersecurity-course.md) — 2024-05-09
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
