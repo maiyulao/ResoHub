@@ -4087,6 +4087,7 @@
 - [自由职业摄影师起步指南：从技能提升到商业变现的实操步骤](./实战指南/freelance-photographer-startup-guide.md) — 2024-05-19
 - [AI视觉与文本创作实战课：从模型调优到商业素材高效产出](./实战指南/ai-visual-text-creation-course.md) — 2024-05-18
 - [3ds Max 室内设计全流程实战指南](./实战指南/3ds-max-interior-design-workflow-guide.md) — 2024-05-18
+- [百家讲坛全集资源指南：一站式掌握历史人文精髓，涵盖各主题系列与高效索引方案](./实战指南/baijia-jiangtan-complete-collection-guide.md) — 2024-05-18
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
