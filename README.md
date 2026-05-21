@@ -2232,6 +2232,7 @@
 - [Telegram 高质量频道与群组索引库：通过分类聚合实现精准资源快速检索](./创意工具/telegram-high-quality-channels-groups-index.md) — 2024-05-07
 - [Y2meta 高清视频下载指南：实现 4K 级别 YouTube 视频快速转换与免费离线存储](./创意工具/y2meta-youtube-4k-video-downloader-guide.md) — 2024-05-07
 - [注意力难以集中或想提升反应速度？试试这款舒尔特方格在线训练工具](./创意工具/schulte-grid-online-training.md) — 2024-05-05
+- [如何使用姿势网盘搭建私人在线学习资源库：分步操作指南](./创意工具/build-private-learning-library-with-zishi-cloud.md) — 2024-05-04
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
