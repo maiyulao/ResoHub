@@ -932,6 +932,7 @@
 - [BiliVideoDown：支持 B 站视频下载的开源工具（安装部署及使用指南）](./Mac软件/bilivideodown-bilibili-downloader-guide.md) — 2024-06-25
 - [ChatTTS 部署指南：通过 WebUI 与 API 实现文本转语音高效合成](./Mac软件/chattts-deployment-guide-webui-api.md) — 2024-06-04
 - [MusicGPT 开源 AI 音乐生成指南：零基础实现一键创作](./Mac软件/musicgpt-open-source-ai-music-generation-guide.md) — 2024-05-26
+- [Caesium：高效开源的跨平台图片体积压缩方案](./Mac软件/caesium-open-source-image-compression.md) — 2024-05-20
 
 ### Twitter
 - [BlockExpress 插件安装指南：通过浏览器订阅推特 Web3 KOL 动态与行业情报](./Twitter/blockexpress-installation-guide-twitter-web3-kol-tracking.md) — 2024-05-24
