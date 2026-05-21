@@ -1101,6 +1101,7 @@
 - [Excel 数据透视表进阶指南：从基础操作到高级分析实战](./书籍/excel-pivot-table-advanced-guide.md) — 2024-05-22
 - [80本中医秘方验方合集：PDF版下载及临床适用指南](./书籍/80-tcm-secret-prescriptions-pdf-guide.md) — 2024-05-22
 - [挽回前男友：日本复合咨询专家的实操指南与关系重建策略](./书籍/get-back-with-ex-boyfriend-japan-expert-guide.md) — 2024-05-20
+- [梅花易数白话解析版：学习资源获取与实操应用指南](./书籍/plum-blossom-divination-guide.md) — 2024-05-13
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
