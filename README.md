@@ -1101,6 +1101,9 @@
 - [80本中医秘方验方合集：PDF版下载及临床适用指南](./书籍/80-tcm-secret-prescriptions-pdf-guide.md) — 2024-05-22
 - [挽回前男友：日本复合咨询专家的实操指南与关系重建策略](./书籍/get-back-with-ex-boyfriend-japan-expert-guide.md) — 2024-05-20
 
+### 互联网
+- [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
+
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
 - [想实现浪潮式快速出货？拆解力安深圳闭门会中批量促成成交的实操路径](./互联网营销/lian-shenzhen-closed-door-meeting-batch-sales-strategy.md) — 2025-03-21
