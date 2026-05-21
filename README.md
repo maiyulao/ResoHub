@@ -489,6 +489,7 @@
 - [Domain Name Generator PRO：基于AI的域名生成工具及其部署与使用指南](./AI工具教程/domain-name-generator-pro-ai-guide.md) — 2024-05-20
 - [Viva AI：高效免费的在线 AI 视频创作工具](./AI工具教程/viva-ai-free-online-ai-video-generator.md) — 2024-05-20
 - [想生成无限制的 AI 艺术图？带你挑选并上手 NSFW AI 图像生成工具](./AI工具教程/best-nsfw-ai-image-generators-guide.md) — 2024-05-15
+- [AniTalker开源解析：实现照片驱动的口型同步与面部表情生成](./AI工具教程/anitalker-open-source-lip-sync-facial-expression.md) — 2024-05-14
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
