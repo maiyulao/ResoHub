@@ -2357,6 +2357,7 @@
 - [主播小小酥超清直播回放合集：下载渠道与观看环境说明](./大人学习课程/xiaoxiasu-live-playback-collection.md) — 2024-05-20
 - [PC肌锻炼指南：通过每日10分钟训练提升生活质量的实用步骤](./大人学习课程/pc-muscle-exercise-guide.md) — 2024-05-18
 - [香草妹妹男女版极致爱AI进阶部署与配置实操手册](./大人学习课程/vanilla-ai-deployment-guide.md) — 2024-05-18
+- [Q趣男神进阶指南：实操训练路径与核心技巧解析](./大人学习课程/qqu-male-improvement-guide.md) — 2024-05-14
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
