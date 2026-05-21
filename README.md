@@ -1108,6 +1108,7 @@
 - [餐饮连锁选址实操指南：通过量化分析降低开店风险，构建可复制的选址模型](./互联网营销/restaurant-chain-site-selection-guide.md) — 2024-06-21
 - [实战运营全流程指南：从核心逻辑到落地执行的体系化教学](./互联网营销/operational-process-guide-systematic-teaching.md) — 2024-06-13
 - [拆解16个实体店商业模式：从行业案例到落地实践的分析步骤](./互联网营销/16-physical-store-business-models-analysis.md) — 2024-05-22
+- [为什么大多数创业项目难以规模化？剖析商业增长的底层逻辑与财富积累路径](./互联网营销/why-startups-fail-to-scale-growth-logic.md) — 2024-05-18
 
 ### 兴趣爱好
 - [家里东西总是在整理后迅速回潮？掌握这套收纳逻辑，让空间持久有序](./e585b4e8b6a3e788b1e5a5bd/home-organization-logic-for-lasting-order.md) — 2025-12-07
