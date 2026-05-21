@@ -1242,6 +1242,7 @@
 - [科学减脂营养指南：构建个性化饮食体系，实现高效体脂管理](./兴趣爱好/science-fat-loss-nutrition-guide.md) — 2024-04-29
 - [直角肩与少女背塑形指南：7日高效训练方案（2.0完整版）](./兴趣爱好/right-angle-shoulder-back-workout-guide-v2.md) — 2024-04-27
 - [iPad商业插画进阶指南：从基础起步到实战接单（含源码课件）](./兴趣爱好/ipad-commercial-illustration-guide.md) — 2024-04-24
+- [全品类舞蹈学习指南：从基础入门到进阶技巧的系统化教程集锦](./兴趣爱好/comprehensive-dance-learning-guide.md) — 2024-04-24
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
