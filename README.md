@@ -4118,6 +4118,7 @@
 - [想在小红书做电商却没流量？拆解潮汕蔡总的运营实操课](./实战指南/xiaohongshu-ecommerce-traffic-guide.md) — 2024-05-15
 - [居家风水实操指南：全套课程视频与配套资料归纳](./实战指南/home-feng-shui-practical-guide-course.md) — 2024-05-15
 - [获取备胎书屋60G小说资源的具体操作步骤](./实战指南/beitai-shuwu-60g-novel-resources-guide.md) — 2024-05-15
+- [面对业务团队管理中的执行力差或人才断层，如何通过16个实战维度构建高效管理体系？](./实战指南/high-efficiency-management-system-16-dimensions.md) — 2024-05-14
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
