@@ -2170,6 +2170,7 @@
 - [想在 Telegram 中直接调用微软 AI？试试官方推出的 Copilot 机器人](./创意工具/copilot-bot-on-telegram.md) — 2024-05-27
 - [HT 4K 砂舞教学视频：考研专项学习资料解析](./创意工具/ht-4k-sand-dance-tutorial-kaoyan-study-guide.md) — 2024-05-26
 - [广告创意方案库：汇集20万+实战案例，通过多维分类快速检索营销灵感](./创意工具/ad-creative-library-marketing-inspiration.md) — 2024-05-26
+- [APKBOT：纯净无广告的开源 APK 在线下载平台](./创意工具/apkbot-open-source-apk-downloader.md) — 2024-05-25
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
