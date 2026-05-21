@@ -2376,6 +2376,7 @@
 - [Q趣男神进阶指南：实操训练路径与核心技巧解析](./大人学习课程/qqu-male-improvement-guide.md) — 2024-05-14
 - [高效相亲实操指南：21项核心技巧与应用场景分析](./大人学习课程/blind-date-practical-guide-21-tips.md) — 2024-05-12
 - [社交破冰实战指南：从心态建设到对话技巧，助力大学生与职场新人快速建立高质量人际关系](./大人学习课程/social-ice-breaking-guide-for-beginners.md) — 2024-05-10
+- [亲密关系沟通与两性技巧实操指南：从基础到进阶的步骤详解](./大人学习课程/intimacy-communication-and-relationship-skills-guide.md) — 2024-05-09
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
