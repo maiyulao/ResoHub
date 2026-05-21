@@ -939,6 +939,7 @@
 - [MusicGPT 开源 AI 音乐生成指南：零基础实现一键创作](./Mac软件/musicgpt-open-source-ai-music-generation-guide.md) — 2024-05-26
 - [Caesium：高效开源的跨平台图片体积压缩方案](./Mac软件/caesium-open-source-image-compression.md) — 2024-05-20
 - [Mac 版 ChatGPT 提示无权限登录？尝试这几种方案解决登录失败问题](./Mac软件/mac-chatgpt-login-permission-denied-fix.md) — 2024-05-20
+- [Superfile 安装与配置指南：打造高效的开源终端文件管理器](./Mac软件/superfile-install-configuration-guide.md) — 2024-05-16
 
 ### Twitter
 - [BlockExpress 插件安装指南：通过浏览器订阅推特 Web3 KOL 动态与行业情报](./Twitter/blockexpress-installation-guide-twitter-web3-kol-tracking.md) — 2024-05-24
