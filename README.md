@@ -1235,6 +1235,7 @@
 - [成年人零基础想学钢琴，如何通过高效路径快速上手？](./兴趣爱好/adult-beginner-piano-learning-guide.md) — 2024-05-10
 - [想尝试轮滑却不知从何起步？这份基础入门指南帮你快速掌握核心技巧](./兴趣爱好/roller-blading-beginner-guide.md) — 2024-05-04
 - [科学减脂营养指南：构建个性化饮食体系，实现高效体脂管理](./兴趣爱好/science-fat-loss-nutrition-guide.md) — 2024-04-29
+- [直角肩与少女背塑形指南：7日高效训练方案（2.0完整版）](./兴趣爱好/right-angle-shoulder-back-workout-guide-v2.md) — 2024-04-27
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
