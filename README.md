@@ -798,6 +798,7 @@
 - [Pic Smaller：一款高效开源的在线图像体积优化工具](./GitHub项目/pic-smaller-open-source-image-optimizer.md) — 2024-05-18
 - [想快速制作高质量海报或封面却不精通设计软件？试试开源图片编辑器 Fabritor](./GitHub项目/fabritor-open-source-image-editor.md) — 2024-05-16
 - [Stream-rec：支持多平台直播自动录制工具的安装与配置指南](./GitHub项目/stream-rec-installation-and-configuration-guide.md) — 2024-05-10
+- [Cloudflare 生态开源工具集：部署指南与资源汇总（Awesome Cloudflare）](./GitHub项目/awesome-cloudflare-open-source-tools-guide.md) — 2024-05-02
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
