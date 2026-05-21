@@ -482,6 +482,7 @@
 - [AI 驱动的 T 恤图案设计指南：从创意生成到成品落地](./AI工具教程/ai-tshirt-design-guide.md) — 2024-06-06
 - [TurboSeek：构建开源AI搜索引擎的实践指南](./AI工具教程/turboseek-open-source-ai-search-engine-guide.md) — 2024-06-05
 - [使用 ChatBook 部署 AI 对话、角色代理与思维导图的完整操作指南](./AI工具教程/chatbook-ai-chat-agent-mindmap-guide.md) — 2024-06-02
+- [AiPPT实操指南：通过AI自动化构建演示文稿大纲与内容文案](./AI工具教程/aippt-guide-ai-automated-presentation-outline-content.md) — 2024-06-02
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
