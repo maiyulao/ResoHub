@@ -4189,6 +4189,7 @@
 - [零基础口播表现力提升指南：从入门到实战的训练步骤](./实战指南/speaking-performance-guide-for-beginners.md) — 2024-05-04
 - [《赚钱的隐秘法则》付费版资源：获取路径与阅读环境指南](./实战指南/secret-laws-of-making-money-paid-version-guide.md) — 2024-05-04
 - [高效学习者的底层逻辑：30个核心思维模型解析](./实战指南/learning-logic-30-mental-models.md) — 2024-05-04
+- [小红书无货源铺货实操指南：精细化运营流程与避坑要点](./实战指南/xiaohongshu-dropshipping-guide.md) — 2024-05-03
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
