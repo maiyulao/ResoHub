@@ -4057,6 +4057,7 @@
 - [从零开始掌握剪映：拍摄与剪辑全流程实操指南](./实战指南/capcut-complete-guide-filming-editing.md) — 2024-05-25
 - [算法与数据结构进阶指南：从底层逻辑到实战体系的深度构建](./实战指南/advanced-algorithms-and-data-structures-guide.md) — 2024-05-24
 - [2024年法考备考指南：从资源获取到网课学习的完整操作步骤](./实战指南/2024-legal-exam-preparation-guide.md) — 2024-05-24
+- [掌握职场高情商沟通逻辑：通过精准表达突破事业瓶颈，实现职级与资源的快速跃迁](./实战指南/high-eq-communication-for-career-growth.md) — 2024-05-22
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
