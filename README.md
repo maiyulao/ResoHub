@@ -2416,6 +2416,7 @@
 - [掌握迷宫解法核心逻辑：M达人技巧中文详解及分步指南](./大人学习课程/maze-solving-logic-m-expert-guide.md) — 2024-05-02
 - [考研政治：从深度早写到交而不写实操指南与资料集](./大人学习课程/postgraduate-politics-study-guide-and-materials.md) — 2024-05-01
 - [亲密关系进阶指南：从基础认知到实操技巧的系统提升](./大人学习课程/intimate-relationship-guide.md) — 2024-04-27
+- [总觉得对方不爱自己或担心被抛弃？尝试通过这几步化解亲密关系中的不安全感](./大人学习课程/overcoming-insecurity-in-relationships.md) — 2024-04-26
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
