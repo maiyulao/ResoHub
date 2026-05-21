@@ -2155,6 +2155,7 @@
 - [AI 驱动的英语发音实时纠正与在线训练指南](./创意工具/ai-english-pronunciation-correction-training-guide.md) — 2024-06-01
 - [八字起航：面向专业命理师的四柱排盘系统解析](./创意工具/bazi-four-pillars-system-for-professionals.md) — 2024-05-31
 - [高效论文降重：28款主流查重软件与工具评测对比](./创意工具/plagiarism-checker-tools-review-comparison.md) — 2024-05-31
+- [某字母图书馆：全球中文网络文学资源索引与数字化存档指南](./创意工具/global-chinese-web-novel-index-archiving-guide.md) — 2024-05-31
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
