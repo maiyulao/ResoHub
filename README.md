@@ -2289,6 +2289,7 @@
 - [Ju花爱101：零基础亲密关系进阶与愉悦指南](./大人学习课程/ju-flower-love-101-intimacy-guide.md) — 2024-06-10
 - [韩国女团歌舞高清合集：57部4K 60FPS超流畅视觉资源，涵盖主流团体舞台实录](./大人学习课程/kpop-girl-group-dance-4k-60fps-collection.md) — 2024-06-07
 - [恋爱新手速成指南：7天实操进阶步骤清单](./大人学习课程/dating-guide-for-beginners-7-day-plan.md) — 2024-06-04
+- [社交恐惧或不擅长沟通？这260节聊天实战课帮你掌握破冰与话题引导技巧](./大人学习课程/social-communication-skills-course.md) — 2024-06-02
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
