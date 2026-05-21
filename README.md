@@ -500,6 +500,7 @@
 - [Udio AI 音乐创作指南：从提示词输入到高质量音频生成的完整步骤](./AI工具教程/udio-ai-music-creation-guide.md) — 2024-05-03
 - [使用 Removebg 实现 AI 自动抠图并去除图片背景的操作步骤](./AI工具教程/removebg-ai-automatic-background-removal-guide.md) — 2024-05-02
 - [想在 X 上寻找最新机会？这里有每日实时更新的招聘岗位汇总](./AI工具教程/daily-x-job-opportunities-list.md) — 2024-04-29
+- [Cloudflare Workers AI Playground：集成 30 余款大模型的 LLM 快速体验平台](./AI工具教程/cloudflare-workers-ai-playground-llm-experience-platform.md) — 2024-04-28
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
