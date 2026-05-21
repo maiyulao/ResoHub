@@ -2215,6 +2215,7 @@
 - [叛逆草：优质免费资源导航站指南](./创意工具/panynico-resource-navigation-guide.md) — 2024-05-15
 - [ONEPDF：高效免费的在线PDF格式转换工具](./创意工具/onepdf-free-online-pdf-converter.md) — 2024-05-14
 - [AI说唱创作工具：支持在线生成歌词与音频，适用快速Demo产出及词曲创作](./创意工具/ai-rap-creation-tool-lyrics-audio-generator.md) — 2024-05-13
+- [TemplateMaker：免费纸盒模型下载指南与立体包装制作教程](./创意工具/templatemaker-free-paper-box-guide-tutorial.md) — 2024-05-12
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
