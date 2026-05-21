@@ -4225,6 +4225,7 @@
 - [高效掌握英语语法的100个核心逻辑公式](./实战指南/100-core-logic-formulas-english-grammar.md) — 2024-04-28
 - [TikTok 广告投放全流程指南：从账户开通到高效获客的实操步骤](./实战指南/tiktok-ads-guide-step-by-step.md) — 2024-04-27
 - [从准备到入职：全流程面试通关实操指南](./实战指南/interview-preparation-to-onboarding-guide.md) — 2024-04-27
+- [获取茱迪芙·迪露西亚 NLP 国际执行师认证的完整申请步骤](./实战指南/judy-delucia-nlp-practitioner-certification-steps.md) — 2024-04-27
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
