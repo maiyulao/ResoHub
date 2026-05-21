@@ -3980,6 +3980,7 @@
 - [社交圈层如何潜移默化地塑造你的财富上限](./实战指南/how-social-circles-shape-wealth-ceiling.md) — 2024-06-07
 - [短视频画面模糊或缺乏质感？这 110G 4K 高清素材库帮你提升视觉档次](./实战指南/4k-video-assets-library-for-high-quality-visuals.md) — 2024-06-06
 - [闲鱼多账号矩阵实操：从无货源起步到单品获利336万的全流程复盘](./实战指南/xianyu-multi-account-matrix-guide.md) — 2024-06-06
+- [Stable Diffusion 入门指南：从环境搭建到 AI 绘画实操](./实战指南/stable-diffusion-beginner-guide.md) — 2024-06-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
