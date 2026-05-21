@@ -2142,6 +2142,7 @@
 - [想知道这张动漫截图出自哪部作品？用 Cleithral 快速锁定角色与番剧名称](./创意工具/find-anime-source-with-cleithral.md) — 2024-06-05
 - [SaveInsta 使用指南：高效下载 Instagram 媒体内容的实操方法](./创意工具/saveinsta-guide-download-instagram-media.md) — 2024-06-04
 - [小兔搜搜：多平台网盘资源聚合检索指南](./创意工具/xiaotu-cloud-resource-search-guide.md) — 2024-06-04
+- [想提升街拍构图与光影感？试试在 sifang 寻找灵感并学习实拍技巧](./创意工具/street-photography-composition-lighting-sifang-tips.md) — 2024-06-04
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
