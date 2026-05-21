@@ -2227,6 +2227,7 @@
 - [AI说唱创作工具：支持在线生成歌词与音频，适用快速Demo产出及词曲创作](./创意工具/ai-rap-creation-tool-lyrics-audio-generator.md) — 2024-05-13
 - [TemplateMaker：免费纸盒模型下载指南与立体包装制作教程](./创意工具/templatemaker-free-paper-box-guide-tutorial.md) — 2024-05-12
 - [如何部署与使用 ED3000 阿里云盘搜索引擎：详细操作指南](./创意工具/deploy-use-ed3000-aliyun-drive-search-engine.md) — 2024-05-10
+- [Telegram 高质量频道与群组索引库：通过分类聚合实现精准资源快速检索](./创意工具/telegram-high-quality-channels-groups-index.md) — 2024-05-07
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
