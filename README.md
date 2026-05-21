@@ -4159,6 +4159,7 @@
 - [提升亲密关系质量：两性婚姻关系修复与维护操作指南](./实战指南/improve-marriage-relationship-repair-guide.md) — 2024-05-09
 - [职场博弈实战指南：核心策略分析与应用场景详解](./实战指南/workplace-game-theory-guide.md) — 2024-05-08
 - [从零起步：苏阿九21天小红书爆款笔记打造与变现实操指南](./实战指南/xiaohongshu-viral-notes-guide-21days.md) — 2024-05-07
+- [面对知识碎片化与学习效率低下的困境，如何通过重构思维模式提升认知能力？](./实战指南/reconstruct-thinking-mode-to-improve-cognitive-ability.md) — 2024-05-07
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
