@@ -1110,6 +1110,7 @@
 - [英语听说读写能力提升指南：从基础到精通的实操步骤](./书籍/english-language-skills-improvement-guide.md) — 2024-05-12
 - [两x生活史图解指南](./书籍/amphipod-life-cycle-guide.md) — 2024-05-12
 - [从零起步：基于抖音、剪映与 Premiere 的短视频全链路制作指南](./书籍/short-video-production-guide-douyin-capcut-premiere.md) — 2024-05-12
+- [职场进阶全能书单：10册核心指南，分维度拆解从沟通协作到管理成长的实操路径](./书籍/career-growth-booklist-10-guides.md) — 2024-05-09
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
