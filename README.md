@@ -2204,6 +2204,7 @@
 - [使用 LogoCook 免费设计 Logo 的完整操作步骤](./创意工具/logocook-free-logo-design-guide.md) — 2024-05-18
 - [Quarkfinder：高效检索夸克网盘资源的在线搜索工具，通过精准索引快速定位云端共享文件](./创意工具/quarkfinder-quark-netdisk-search-tool.md) — 2024-05-18
 - [高效制作视频字幕：免费在线工具集及使用步骤清单](./创意工具/efficient-video-subtitle-tools-guide.md) — 2024-05-18
+- [叛逆草：优质免费资源导航站指南](./创意工具/panynico-resource-navigation-guide.md) — 2024-05-15
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
