@@ -4125,6 +4125,7 @@
 - [面对业务团队管理中的执行力差或人才断层，如何通过16个实战维度构建高效管理体系？](./实战指南/high-efficiency-management-system-16-dimensions.md) — 2024-05-14
 - [新片场调色实战指南：拆解8大核心模块的色彩处理技巧](./实战指南/xinpianchang-color-grading-guide.md) — 2024-05-14
 - [突发意外怎么快速救人？SIKANA视频课堂带你掌握急救核心技巧](./实战指南/emergency-first-aid-skills-sikana.md) — 2024-05-13
+- [13部经典奥特曼动画全集资源清单](./实战指南/classic-ultraman-anime-collection-list.md) — 2024-05-13
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
