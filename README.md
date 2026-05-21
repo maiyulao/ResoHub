@@ -486,6 +486,7 @@
 - [如何利用殷契文渊2.0实现高效的AI协同办公？](./AI工具教程/yinqi-wenyuan-ai-collaboration-efficiency.md) — 2024-05-30
 - [TopMixLabs AI 视频动画生成工具功能解析与实操指南](./AI工具教程/topmixlabs-ai-video-animation-guide.md) — 2024-05-27
 - [想把照片变成粘土动画风格？试试 Clay Filter AI 快速实现这种质感](./AI工具教程/clay-filter-ai-photo-to-claymation.md) — 2024-05-27
+- [Domain Name Generator PRO：基于AI的域名生成工具及其部署与使用指南](./AI工具教程/domain-name-generator-pro-ai-guide.md) — 2024-05-20
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
