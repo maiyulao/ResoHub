@@ -2150,6 +2150,7 @@
 - [Z2H 字帖生成器：高效定制个性化练字素材的实操指南](./创意工具/z2h-copybook-generator-guide.md) — 2024-06-03
 - [冰L书柜：纯净无广告的分级小说在线阅读平台](./创意工具/ice-l-bookshelf-novel-reader.md) — 2024-06-02
 - [可可影视使用指南：观看Netflix高清短剧的完整操作步骤](./创意工具/cocoa-movie-netflix-hd-guide.md) — 2024-06-02
+- [AI 驱动的英语发音实时纠正与在线训练指南](./创意工具/ai-english-pronunciation-correction-training-guide.md) — 2024-06-01
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
