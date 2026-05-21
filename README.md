@@ -2189,6 +2189,7 @@
 - [APKBOT：纯净无广告的开源 APK 在线下载平台](./创意工具/apkbot-open-source-apk-downloader.md) — 2024-05-25
 - [都市租房避坑全攻略：从选房到签约的实操指南](./创意工具/urban-rental-guide-tips.md) — 2024-05-22
 - [拆解女性朋友圈“钓鱼”套路：18 种典型社交暗示识别指南](./创意工具/female-social-fishing-guide-18-tips.md) — 2024-05-20
+- [EMU666：无需下载的在线复古游戏模拟平台](./创意工具/emu666-online-retro-game-emulator.md) — 2024-05-19
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
