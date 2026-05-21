@@ -4137,6 +4137,7 @@
 - [韩宇极简英语学习法：核心要点与实操指南](./实战指南/hanyu-minimalist-english-learning-guide.md) — 2024-05-13
 - [抖音电商全流程实操指南：从店铺搭建到起店增长](./实战指南/douyin-ecommerce-full-guide-setup-to-growth.md) — 2024-05-13
 - [伍伍老师摄影课程学习路径：从基础到进阶的实操步骤清单](./实战指南/wuwu-photography-course-learning-path.md) — 2024-05-12
+- [从零开始掌握李大熊PPT：从入门到精通的进阶实操指南](./实战指南/master-li-daxiong-ppt-guide.md) — 2024-05-12
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
