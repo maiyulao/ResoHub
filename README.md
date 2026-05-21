@@ -479,6 +479,7 @@
 - [开搜AI：去广告化的AI搜索引擎，实现答案直接触达](./AI工具教程/kaisou-ai-ad-free-search-engine.md) — 2024-06-13
 - [RIZZ AI 实用指南：通过 AI 优化社交话术，提升约会成功率的免费工具分析](./AI工具教程/rizz-ai-guide-dating-conversation-tool.md) — 2024-06-12
 - [Latent Box：AI 艺术创作资源库（含获取路径与适用场景指南）](./AI工具教程/latent-box-ai-art-resource-guide.md) — 2024-06-10
+- [AI 驱动的 T 恤图案设计指南：从创意生成到成品落地](./AI工具教程/ai-tshirt-design-guide.md) — 2024-06-06
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
