@@ -2426,6 +2426,7 @@
 - [考研政治：从深度早写到交而不写实操指南与资料集](./大人学习课程/postgraduate-politics-study-guide-and-materials.md) — 2024-05-01
 - [亲密关系进阶指南：从基础认知到实操技巧的系统提升](./大人学习课程/intimate-relationship-guide.md) — 2024-04-27
 - [总觉得对方不爱自己或担心被抛弃？尝试通过这几步化解亲密关系中的不安全感](./大人学习课程/overcoming-insecurity-in-relationships.md) — 2024-04-26
+- [提升亲密关系质量：幸福玛丽娅36课性爱技巧实操指南](./大人学习课程/maria-36-lessons-sex-tips-guide.md) — 2024-04-24
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
