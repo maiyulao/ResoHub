@@ -2402,6 +2402,7 @@
 - [魔卡《恋爱学进阶》资源下载：适用人群及安装配置指南](./大人学习课程/love-study-advanced-download-guide.md) — 2024-05-05
 - [AI 角色扮演调教指南：提升女性角色交互沉浸感与性张力的提示词技巧](./大人学习课程/ai-roleplay-guide-female-character-immersion-tension.md) — 2024-05-05
 - [掌握迷宫解法核心逻辑：M达人技巧中文详解及分步指南](./大人学习课程/maze-solving-logic-m-expert-guide.md) — 2024-05-02
+- [考研政治：从深度早写到交而不写实操指南与资料集](./大人学习课程/postgraduate-politics-study-guide-and-materials.md) — 2024-05-01
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
