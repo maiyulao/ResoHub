@@ -4141,6 +4141,7 @@
 - [从零开始掌握李大熊PPT：从入门到精通的进阶实操指南](./实战指南/master-li-daxiong-ppt-guide.md) — 2024-05-12
 - [高效餐桌社交指南：通过27项实用技巧掌握沟通艺术，将社交场合转化为资源转化场](./实战指南/dining-table-social-skills-guide.md) — 2024-05-11
 - [小红书文创电商实操：从账号权重维护到直播带货全流程](./实战指南/xiaohongshu-creative-ecommerce-guide.md) — 2024-05-11
+- [底层逻辑重构指南：50项核心认知模型及其实战应用解析](./实战指南/core-cognitive-models-guide.md) — 2024-05-11
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
