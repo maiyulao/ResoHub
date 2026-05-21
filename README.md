@@ -1005,6 +1005,7 @@
 - [Smartedu Download：国家中小学智慧教育平台课件资源批量下载指南](./Windows软件/smartedu-download-guide.md) — 2024-07-07
 - [HEU KMS Activator 42.0.4 详解：功能特性与激活指南](./Windows软件/heu-kms-activator-42-0-4-guide.md) — 2024-06-03
 - [植物大战僵尸杂交版安装与快速上手指南](./Windows软件/pvz-hybrid-install-guide.md) — 2024-05-30
+- [想快速翻译SRT字幕文件却苦于配置复杂？试试这款开箱即用的ANTO翻译工具](./Windows软件/anto-srt-subtitle-translator.md) — 2024-05-30
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
