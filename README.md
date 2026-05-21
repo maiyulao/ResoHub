@@ -4205,6 +4205,7 @@
 - [解锁U君《赢在8小时之外》付费内容的操作指南](./实战指南/guide-u-win-outside-8-hours-paid-content.md) — 2024-05-03
 - [从基础绘图到专业实操：万门大学 CAD 入门全流程精讲指南](./实战指南/wanmen-university-cad-beginner-guide.md) — 2024-05-02
 - [高效汇报PPT实操指南：从逻辑构建到视觉呈现](./实战指南/efficient-ppt-reporting-guide.md) — 2024-05-01
+- [想让AE合成效果更高级却不知从何入手？这份进阶实操指南帮你突破瓶颈](./实战指南/ae-composition-advanced-guide.md) — 2024-05-01
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
