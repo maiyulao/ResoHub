@@ -4232,6 +4232,7 @@
 - [获取茱迪芙·迪露西亚 NLP 国际执行师认证的完整申请步骤](./实战指南/judy-delucia-nlp-practitioner-certification-steps.md) — 2024-04-27
 - [2024小红书无货源电商实操指南：变现链路拆解与部署要点](./实战指南/xiaohongshu-dropshipping-guide-2024.md) — 2024-04-27
 - [外贸英语口语视频教程：全套资源下载、适用场景及学习要点](./实战指南/foreign-trade-english-speaking-course-resources.md) — 2024-04-26
+- [考研专业课该买哪本教材？一份避坑指南与选书策略](./实战指南/postgraduate-exam-textbook-selection-guide.md) — 2024-04-26
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
