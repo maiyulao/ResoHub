@@ -552,6 +552,7 @@
 - [想快速量产爆款自媒体内容？试试用红抖AI实现高效提取与批量仿写](./Android应用/hongdou-ai-batch-content-creation.md) — 2024-06-13
 - [棋路：集成海量棋谱与实战对弈的象棋学习平台，通过古谱残局分析与社交对战提升棋艺](./Android应用/qilu-chinese-chess-learning-platform.md) — 2024-06-08
 - [我的电视 v2.0.5：纯净无广告的免费直播软件，支持多频道流畅观看](./Android应用/my-tv-v2-0-5-free-live-tv-software.md) — 2024-05-22
+- [想在手机上随时调用 ChatGPT 或 Gemini 并生成 AI 图像？试试 CChatBot 移动端应用](./Android应用/cchatbot-app-chatgpt-gemini-ai-image-generator.md) — 2024-05-10
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
