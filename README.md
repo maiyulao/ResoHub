@@ -4111,6 +4111,7 @@
 - [全场景野外生存指南合集：多环境应对方案与获取指南](./实战指南/all-scenario-wilderness-survival-guide.md) — 2024-05-15
 - [12款AI工具实战指南：构建商业闭环矩阵，降低电商与设计70%运营成本的执行步骤](./实战指南/12-ai-tools-business-workflow-guide.md) — 2024-05-15
 - [想在小红书做电商却没流量？拆解潮汕蔡总的运营实操课](./实战指南/xiaohongshu-ecommerce-traffic-guide.md) — 2024-05-15
+- [居家风水实操指南：全套课程视频与配套资料归纳](./实战指南/home-feng-shui-practical-guide-course.md) — 2024-05-15
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
