@@ -4014,6 +4014,7 @@
 - [英语通俗语法全集：从基础逻辑到实战应用](./实战指南/comprehensive-english-grammar-guide.md) — 2024-06-02
 - [亚马逊开店全流程：从账号注册到店铺激活的视频操作指南](./实战指南/amazon-seller-account-registration-guide.md) — 2024-06-02
 - [知识电商IP实操指南：从热果艺培案例看短视频账号的高效变现逻辑](./实战指南/knowledge-ecommerce-ip-monetization-guide.md) — 2024-06-01
+- [沉浸式日语习得法：通过模拟母语环境替代机械记忆，实现高效语言内化（全集）](./实战指南/immersive-japanese-learning-method.md) — 2024-06-01
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
