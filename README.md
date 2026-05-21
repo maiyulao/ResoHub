@@ -2271,6 +2271,7 @@
 - [Unblockit 全球磁力资源索引：通过多维度导航高效定位海外海量种子文件](./创意工具/unblockit-global-magnet-index.md) — 2024-04-24
 - [IKnowWhatYouDownload：实时监控与分析下载内容的开源工具](./创意工具/iknowwhatyoudownload-open-source-download-monitor.md) — 2024-04-24
 - [沉浸式助眠资源库：提供高采样率ASMR音视频，通过多维度感官触发缓解失眠与焦虑](./创意工具/immersive-asmr-sleep-resource-library.md) — 2024-04-24
+- [书书读小说：主打极简阅读体验的免费在线小说平台，通过去冗余设计提升阅读纯净度](./创意工具/shushu-minimalist-free-online-novel-platform.md) — 2024-04-23
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
