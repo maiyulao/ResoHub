@@ -4177,6 +4177,7 @@
 - [从人脉经营到能力沉淀：构建个人竞争优势的实操路径](./实战指南/networking-to-capability-competitive-advantage.md) — 2024-05-06
 - [定制化私教训练指南：从身体测评到专项计划的执行路径](./实战指南/customized-personal-training-guide.md) — 2024-05-05
 - [大学新生英语进阶：利用 TED 视频开展 21 天专项学习计划](./实战指南/college-freshman-english-ted-21day-plan.md) — 2024-05-05
+- [职场与社交沟通技巧：从心理机制到实战话术的进阶指南](./实战指南/workplace-social-communication-skills-guide.md) — 2024-05-04
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
