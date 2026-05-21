@@ -929,6 +929,7 @@
 - [Adobe 2023 全系列全平台激活版：Win/Mac 安装部署指南与注意事项](./Mac软件/adobe-2023-all-apps-installation-guide-win-mac.md) — 2024-06-26
 - [BiliVideoDown：支持 B 站视频下载的开源工具（安装部署及使用指南）](./Mac软件/bilivideodown-bilibili-downloader-guide.md) — 2024-06-25
 - [ChatTTS 部署指南：通过 WebUI 与 API 实现文本转语音高效合成](./Mac软件/chattts-deployment-guide-webui-api.md) — 2024-06-04
+- [MusicGPT 开源 AI 音乐生成指南：零基础实现一键创作](./Mac软件/musicgpt-open-source-ai-music-generation-guide.md) — 2024-05-26
 
 ### Windows软件
 - [觉得 Win+V 记录太少且不够灵活？试试开源的本地剪贴板增强工具 ElegantClipboard](./Windows软件/elegant-clipboard-windows-clipboard-manager.md) — 2026-05-11
