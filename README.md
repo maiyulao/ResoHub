@@ -4169,6 +4169,7 @@
 - [AI文案工具实操指南：从环境配置到商业化变现路径](./实战指南/ai-copywriting-tools-guide-to-monetization.md) — 2024-05-06
 - [AI绘画商业实战指南：从基础技能构建到多元变现路径](./实战指南/ai-art-commercial-guide-monetization.md) — 2024-05-06
 - [拆解脱不花《干得漂亮》：职场实操要点与常见问题解答](./实战指南/tuobuhua-gan-de-piaoliang-workplace-guide.md) — 2024-05-06
+- [从人脉经营到能力沉淀：构建个人竞争优势的实操路径](./实战指南/networking-to-capability-competitive-advantage.md) — 2024-05-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
