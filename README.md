@@ -4219,6 +4219,7 @@
 - [想重温陈冠希早期的演技巅峰？这份经典电影清单带你找回记忆](./实战指南/edison-chan-classic-movies-list.md) — 2024-04-29
 - [沟通总被误解或难以达成目标？这30讲教你如何通过精准表达提高办事效率](./实战指南/master-effective-communication-for-efficiency.md) — 2024-04-29
 - [2024年高考高频考点预测与模拟卷资源汇总](./实战指南/2024-gaokao-exam-points-and-mock-papers.md) — 2024-04-29
+- [英语口语突破指南：从零基础到自由交流的阶梯式学习法](./实战指南/english-speaking-guide-beginner-to-fluent-2.md) — 2024-04-28
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
