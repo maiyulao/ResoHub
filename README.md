@@ -1087,6 +1087,7 @@
 - [MySQL 性能调优实战指南：从环境搭建到索引优化全流程解析](./书籍/mysql-performance-tuning-guide.md) — 2024-05-24
 - [Excel 数据透视表进阶指南：从基础操作到高级分析实战](./书籍/excel-pivot-table-advanced-guide.md) — 2024-05-22
 - [80本中医秘方验方合集：PDF版下载及临床适用指南](./书籍/80-tcm-secret-prescriptions-pdf-guide.md) — 2024-05-22
+- [挽回前男友：日本复合咨询专家的实操指南与关系重建策略](./书籍/get-back-with-ex-boyfriend-japan-expert-guide.md) — 2024-05-20
 
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
