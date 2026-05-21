@@ -4165,6 +4165,7 @@
 - [担心年龄增长带来的焦虑？陶思璇推荐40本女性必读经典，用阅读对抗时间](./实战指南/reading-list-for-women-anti-aging-anxiety.md) — 2024-05-07
 - [TikTok 全流程配置指南：从环境搭建到账号注册详解](./实战指南/tiktok-setup-and-registration-guide.md) — 2024-05-07
 - [想进阶Java架构师却不知从何入手？详解鲁班学院VIP第03期课程实战与源码分析](./实战指南/java-architect-luban-vip-course-analysis.md) — 2024-05-07
+- [想通过分级阅读提高英语水平却不知从何选起？详解牛津书虫双语读物全系列的梯度与选择建议](./实战指南/oxford-bookworms-graded-reader-guide.md) — 2024-05-07
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
