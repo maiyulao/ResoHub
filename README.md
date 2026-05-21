@@ -932,6 +932,9 @@
 - [ChatTTS 部署指南：通过 WebUI 与 API 实现文本转语音高效合成](./Mac软件/chattts-deployment-guide-webui-api.md) — 2024-06-04
 - [MusicGPT 开源 AI 音乐生成指南：零基础实现一键创作](./Mac软件/musicgpt-open-source-ai-music-generation-guide.md) — 2024-05-26
 
+### Twitter
+- [BlockExpress 插件安装指南：通过浏览器订阅推特 Web3 KOL 动态与行业情报](./Twitter/blockexpress-installation-guide-twitter-web3-kol-tracking.md) — 2024-05-24
+
 ### Windows软件
 - [觉得 Win+V 记录太少且不够灵活？试试开源的本地剪贴板增强工具 ElegantClipboard](./Windows软件/elegant-clipboard-windows-clipboard-manager.md) — 2026-05-11
 - [KOMA 指南：实现本地漫画自动去水印、压缩与标准化归档](./windows/koma-guide-manga-watermark-removal-compression-archiving.md) — 2026-02-05
