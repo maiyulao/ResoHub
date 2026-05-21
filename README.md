@@ -2166,6 +2166,7 @@
 - [使用 favicon.io 快速生成免费网站图标（favicon.ico）的详细步骤](./创意工具/generate-free-favicon-with-favicon-io.md) — 2024-05-30
 - [Svgl：开源免费的 SVG 矢量 Logo 资源库](./创意工具/svgl-open-source-svg-logo-library.md) — 2024-05-30
 - [想在 Telegram 中直接调用微软 AI？试试官方推出的 Copilot 机器人](./创意工具/copilot-bot-on-telegram.md) — 2024-05-27
+- [HT 4K 砂舞教学视频：考研专项学习资料解析](./创意工具/ht-4k-sand-dance-tutorial-kaoyan-study-guide.md) — 2024-05-26
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
