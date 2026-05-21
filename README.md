@@ -4146,6 +4146,7 @@
 - [小红书文创电商实操：从账号权重维护到直播带货全流程](./实战指南/xiaohongshu-creative-ecommerce-guide.md) — 2024-05-11
 - [底层逻辑重构指南：50项核心认知模型及其实战应用解析](./实战指南/core-cognitive-models-guide.md) — 2024-05-11
 - [21天英语听说突破：通过歌曲习得的实操指南（完结）](./实战指南/21-day-english-listening-speaking-songs-guide.md) — 2024-05-10
+- [专升本复习没方向？这份覆盖各省的备考资料包帮你快速上手](./实战指南/top-up-degree-study-materials-package.md) — 2024-05-10
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
