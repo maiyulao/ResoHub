@@ -4192,6 +4192,7 @@
 - [小红书无货源铺货实操指南：精细化运营流程与避坑要点](./实战指南/xiaohongshu-dropshipping-guide.md) — 2024-05-03
 - [职场沟通实战：蔡老师的人性洞察与话术指南](./实战指南/workplace-communication-guide-human-nature.md) — 2024-05-03
 - [解锁U君《赢在8小时之外》付费内容的操作指南](./实战指南/guide-u-win-outside-8-hours-paid-content.md) — 2024-05-03
+- [从基础绘图到专业实操：万门大学 CAD 入门全流程精讲指南](./实战指南/wanmen-university-cad-beginner-guide.md) — 2024-05-02
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
