@@ -1069,6 +1069,7 @@
 - [骄傲风趣法实操指南：适用场景、沟通技巧与应用要点](./书籍/proud-witty-communication-guide.md) — 2024-06-08
 - [突破性技术方案：Magic Bullets 的核心逻辑与应用实践](./书籍/magic-bullets-core-logic-and-practice.md) — 2024-06-08
 - [绛妖精：剖析女性心理与男性思维的认知差异](./书籍/jiang-yao-jing-female-psychology-male-thinking-differences.md) — 2024-06-04
+- [陆致极八字命理学入门指南：从核心逻辑到实操体系的渐进式教学](./书籍/lu-zhiji-bazi-numerology-guide.md) — 2024-06-01
 
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
