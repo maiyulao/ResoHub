@@ -2273,6 +2273,7 @@
 - [糖姐Suki《女欢K Ai爱课》全集：深度拆解女性亲密关系进阶逻辑与实操技巧](./大人学习课程/suki-female-intimacy-course-guide.md) — 2024-06-13
 - [性吸引力构建指南：从心理机制到行为实践的深度解析](./大人学习课程/sexual-attraction-guide.md) — 2024-06-11
 - [Ju花爱101：零基础亲密关系进阶与愉悦指南](./大人学习课程/ju-flower-love-101-intimacy-guide.md) — 2024-06-10
+- [韩国女团歌舞高清合集：57部4K 60FPS超流畅视觉资源，涵盖主流团体舞台实录](./大人学习课程/kpop-girl-group-dance-4k-60fps-collection.md) — 2024-06-07
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
