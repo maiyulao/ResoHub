@@ -2264,6 +2264,7 @@
 - [想找全网影视资源却被广告干扰？试试影猫仓库这个免费聚合搜索引擎](./创意工具/movie-cat-search-engine.md) — 2024-04-30
 - [墨鱼词典：网络流行语查询工具（含在线检索与实时更新说明）](./创意工具/moyu-dictionary-internet-slang-tool.md) — 2024-04-30
 - [复古 DOS 经典游戏在线模拟器：支持 3DFX Voodoo 硬件加速与手柄操控](./创意工具/retro-dos-games-online-emulator-3dfx-voodoo.md) — 2024-04-27
+- [实时金价查询指南：通过 goldprice 追踪国内外金价的 3 个步骤](./创意工具/goldprice-real-time-tracking-guide.md) — 2024-04-24
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
