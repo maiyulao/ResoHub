@@ -4209,6 +4209,7 @@
 - [想让AE合成效果更高级却不知从何入手？这份进阶实操指南帮你突破瓶颈](./实战指南/ae-composition-advanced-guide.md) — 2024-05-01
 - [高考历年真题全集：分年度考点解析与试卷汇总](./实战指南/gaokao-past-papers-collection.md) — 2024-04-30
 - [高效利用 ChatGPT 创作高转化率文案的实操指南](./实战指南/chatgpt-high-conversion-copywriting-guide.md) — 2024-04-30
+- [英语基础差、怎么学都记不住？一套让学习效率翻倍的逆袭方案](./实战指南/english-learning-efficiency-guide.md) — 2024-04-30
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
