@@ -566,6 +566,7 @@
 - [藏趣云书签：支持多端同步的轻量化浏览器书签管理方案](./Android应用/cangqu-cloud-bookmarks.md) — 2024-04-26
 - [胃之书：通过AI饮食分析挖掘食物趣味，实现从记录到认知升级的饮食管理](./Android应用/stomach-book-ai-diet-analysis.md) — 2024-04-24
 - [想在电脑上后台播放 YouTube Music 且不被广告打扰？试试开源播放器 SimpMusic](./Android应用/simpmusic-youtube-music-ad-free-player.md) — 2024-04-24
+- [在陌生城市如何快速规划最优路线？Citymapper 实时交通导航全攻略](./Android应用/citymapper-city-navigation-guide.md) — 2024-04-22
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
