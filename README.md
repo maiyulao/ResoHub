@@ -4067,6 +4067,7 @@
 - [AE商业短片制作全流程：从光影7号实战案例到成片步骤指南](./实战指南/ae-commercial-video-production-workflow-guide.md) — 2024-05-22
 - [解析墨菲定律：从认知人性偏差到构建高效生活逻辑](./实战指南/murphys-law-cognitive-bias-life-logic.md) — 2024-05-22
 - [从人脉经营到资产增值：包sir解析关系驱动的财务自由路径](./实战指南/networking-to-financial-freedom-path.md) — 2024-05-21
+- [从零开始掌握算法与数据结构：循序渐进的学习路径指南](./实战指南/master-algorithms-and-data-structures-guide.md) — 2024-05-21
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
