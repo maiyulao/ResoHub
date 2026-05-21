@@ -4239,6 +4239,7 @@
 - [外贸英语口语视频教程：全套资源下载、适用场景及学习要点](./实战指南/foreign-trade-english-speaking-course-resources.md) — 2024-04-26
 - [考研专业课该买哪本教材？一份避坑指南与选书策略](./实战指南/postgraduate-exam-textbook-selection-guide.md) — 2024-04-26
 - [2024年ChatGPT落地指南：从技术场景分析到商业应用部署的实操步骤](./实战指南/chatgpt-implementation-guide-2024.md) — 2024-04-25
+- [掌握中国式饭局社交精髓：从潜规则拆解到实战技巧的21课进阶指南](./实战指南/chinese-dining-etiquette-social-guide.md) — 2024-04-24
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
