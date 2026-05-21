@@ -4033,6 +4033,7 @@
 - [高效求职：多场景实用简历模板精选与排版指南](./实战指南/professional-resume-templates-and-formatting-guide.md) — 2024-05-29
 - [超模极简塑形指南：通过高效减脂方案实现体态重塑，详解防止反弹的长期维持机制](./实战指南/supermodel-minimalist-body-sculpting-guide.md) — 2024-05-29
 - [AI 实战进阶指南：从基础入门到精通的五大操作步骤](./实战指南/ai-advanced-guide-5-steps.md) — 2024-05-29
+- [想高效通过英语六级却不知从何入手？这份CET6全程学习方案为你拆解备考路径](./实战指南/cet6-study-guide-and-preparation-path.md) — 2024-05-29
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
