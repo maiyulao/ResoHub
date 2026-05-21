@@ -1124,6 +1124,7 @@
 - [职场进阶全能书单：10册核心指南，分维度拆解从沟通协作到管理成长的实操路径](./书籍/career-growth-booklist-10-guides.md) — 2024-05-09
 - [想通过紫微斗数预判人生走势却不知从何入手？这份全方位入门指南为你拆解核心逻辑](./书籍/ziwei-dou-shu-beginners-guide.md) — 2024-05-09
 - [全屋装修指南：家装实操电子书资源集锦](./书籍/home-renovation-guide-ebooks.md) — 2024-05-01
+- [提升销售业绩的24本实操书单：从入门到精通的阅读路径](./书籍/24-best-sales-books-reading-list.md) — 2024-04-30
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
