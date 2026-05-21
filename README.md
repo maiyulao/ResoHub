@@ -4001,6 +4001,7 @@
 - [想在小红书通过达人账号每月多赚1500-3000元？这份实战变现指南告诉你怎么操作](./实战指南/xiaohongshu-influencer-monetization-guide.md) — 2024-06-04
 - [厌倦了每月固定的薪水？这份可落地的副业实操指南教你如何增加收入渠道](./实战指南/side-hustle-guide-increase-income.md) — 2024-06-04
 - [国企通用公文起草指南：标准模板应用与排版步骤](./实战指南/state-owned-enterprise-official-document-guide.md) — 2024-06-04
+- [如何甄别硬盘真伪并挑选合适存储设备的实操指南](./实战指南/guide-to-verify-hard-drive-authenticity-and-choose-storage-devices.md) — 2024-06-03
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
