@@ -1072,6 +1072,7 @@
 - [绛妖精：剖析女性心理与男性思维的认知差异](./书籍/jiang-yao-jing-female-psychology-male-thinking-differences.md) — 2024-06-04
 - [陆致极八字命理学入门指南：从核心逻辑到实操体系的渐进式教学](./书籍/lu-zhiji-bazi-numerology-guide.md) — 2024-06-01
 - [长辈手机操作手册：A4彩印翻页版设计指南](./书籍/seniors-phone-guide-a4-print-design.md) — 2024-05-30
+- [亲密关系沟通指南：提升伴侣互动的核心技巧](./书籍/intimacy-communication-guide.md) — 2024-05-30
 
 ### 互联网营销
 - [从零开始创业总在走弯路？这份商业逻辑通关指南帮你补齐老板必修课](./互联网营销/business-logic-guide-for-entrepreneurs.md) — 2025-08-25
