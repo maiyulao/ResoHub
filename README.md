@@ -518,6 +518,7 @@
 - [Suno AI 音乐生成 API 接入指南：部署环境与调用接口说明](./AI工具教程/suno-ai-music-api-guide.md) — 2024-03-31
 - [AI Comic Factory 开源部署指南：在线生成漫画的配置与使用要点](./AI工具教程/ai-comic-factory-deployment-guide.md) — 2024-03-30
 - [解析情感维度：Hume AI 如何通过共情能力重塑对话交互](./AI工具教程/hume-ai-empathetic-conversational-ai.md) — 2024-03-30
+- [想让文字瞬间变视频却不知从何下手？尝试这款开源的一键文本转视频工具](./AI工具教程/open-source-text-to-video-tool.md) — 2024-03-29
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
