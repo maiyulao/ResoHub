@@ -2328,6 +2328,7 @@
 - [网络安全学习资源库：涵盖核心课程与实战指南的云端资料集](./创意工具/cybersecurity-learning-resources-cloud-library.md) — 2024-04-05
 - [磁力先锋：高效资源检索与在线磁力搜索指南](./创意工具/magnetic-pioneer-magnet-search-guide.md) — 2024-04-04
 - [如何使用 SuperParse 在线解析并下载 PX 站视频：操作步骤详解](./创意工具/superparse-px-video-download-guide.md) — 2024-04-03
+- [从零构建认知：神经网络基础原理与机器学习入门指南](./创意工具/neural-networks-and-machine-learning-guide.md) — 2024-04-03
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
