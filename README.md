@@ -4451,6 +4451,7 @@
 - [想在业余时间通过网络增加收入却不知从何入手？这里有8个可实操的创业项目及配套视频教程](./实战指南/8-side-hustle-ideas-with-tutorials.md) — 2024-03-24
 - [四六级备考找不到高效资料？这份全维度复习资源包帮你快速上手](./实战指南/cet-4-6-study-resources-kit.md) — 2024-03-23
 - [锐普PPT高阶实战全集：从逻辑构建到视觉呈现的完整指南](./实战指南/ripu-ppt-advanced-guide-logic-to-visuals.md) — 2024-03-23
+- [黑马AI进阶全套课程：含源码课件，支持年度会员权限部署](./实战指南/heima-ai-advanced-course-source-code.md) — 2024-03-22
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
