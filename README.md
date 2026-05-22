@@ -2371,6 +2371,7 @@
 - [高画质影视资源站 xia2024：支持 4K 蓝光规格免费下载](./创意工具/xia2024-4k-bluray-free-download.md) — 2024-03-26
 - [Wikivoyage：开源协作的全球旅行指南与目的地百科](./创意工具/wikivoyage-open-source-travel-guide.md) — 2024-03-26
 - [FaceSwapper AI 实操指南：三步实现高质量智能换脸](./创意工具/faceswapper-ai-guide-high-quality-face-swap.md) — 2024-03-23
+- [如何使用在线版《答案之书》快速做出决定：操作步骤详解](./创意工具/how-to-use-online-book-of-answers.md) — 2024-03-22
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
