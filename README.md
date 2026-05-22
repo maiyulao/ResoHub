@@ -4434,6 +4434,7 @@
 - [互联网从业者开启首个副业项目的实操路径：从思维构建到执行步骤](./实战指南/side-hustle-guide-for-internet-professionals.md) — 2024-03-25
 - [亚马逊全流程运营实操指南：从入门到精通的进阶路径](./实战指南/amazon-full-process-operation-guide.md) — 2024-03-25
 - [高效获取数千部高清3D电影资源的实操指南](./实战指南/guide-get-hd-3d-movies-resources.md) — 2024-03-24
+- [台湾限制级恐怖电影精选：深度解析十部极具冲击力的惊悚佳作及其禁忌元素](./实战指南/best-taiwanese-restricted-horror-movies.md) — 2024-03-24
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
