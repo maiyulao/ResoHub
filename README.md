@@ -514,6 +514,7 @@
 - [开源 AI 实战手册：从理论到落地的技术指南](./AI工具教程/open-source-ai-practical-guide.md) — 2024-04-07
 - [OpenUI：通过自然语言描述快速构建UI界面，实现从文本到前端代码的自动化转换](./AI工具教程/openui-text-to-ui-automation.md) — 2024-04-06
 - [AI灵感PPT功能详解：集成AI写作、绘图与配音的一键生成方案](./AI工具教程/ai-inspiration-ppt-features-guide.md) — 2024-04-04
+- [Suno AI 音乐资源检索与高效下载指南](./AI工具教程/suno-ai-music-search-and-download-guide.md) — 2024-04-02
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
