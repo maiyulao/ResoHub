@@ -4521,6 +4521,7 @@
 - [安卓设备解锁工具指南：17款无需安装的绿色软件及其适用场景分析](./实战指南/android-unlock-tools-guide.md) — 2024-03-11
 - [210篇天涯社区经典帖全集：离线资源下载与阅读指南](./实战指南/tianya-classic-posts-collection-download-guide.md) — 2024-03-11
 - [JavaSE高级实战课程集（300集）：从零基础到就业的完整学习路径与资源指南](./实战指南/javase-advanced-practical-course-guide.md) — 2024-03-10
+- [考研核心词汇990：10小时高效速刷攻略](./实战指南/postgraduate-core-vocabulary-990-study-guide.md) — 2024-03-10
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
