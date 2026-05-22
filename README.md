@@ -512,6 +512,7 @@
 - [VoiceAILabs：基于AI技术的名人语音克隆与合成实操指南](./AI工具教程/voiceailabs-ai-celebrity-voice-cloning-guide.md) — 2024-04-11
 - [如何让 AI 读懂图片的深层意图？从创作背景到情感基调的自动化描述实践](./AI工具教程/ai-image-deep-intent-automated-description.md) — 2024-04-08
 - [开源 AI 实战手册：从理论到落地的技术指南](./AI工具教程/open-source-ai-practical-guide.md) — 2024-04-07
+- [OpenUI：通过自然语言描述快速构建UI界面，实现从文本到前端代码的自动化转换](./AI工具教程/openui-text-to-ui-automation.md) — 2024-04-06
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
