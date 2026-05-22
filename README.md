@@ -1200,6 +1200,7 @@
 - [快手电商商家全流程经营实操指南](./书籍/kuaishou-ecommerce-merchant-guide.md) — 2024-03-26
 - [无人机航拍摄影技巧指南PDF：实操要点与设备适用环境详解](./书籍/drone-photography-tips-guide-pdf.md) — 2024-03-22
 - [避坑实录：个人财务损失分析与反思指南（PDF）](./书籍/personal-financial-loss-analysis-guide.md) — 2024-03-19
+- [汽车维修保养60个核心要点PDF指南：适用场景与下载说明](./书籍/car-maintenance-guide-pdf.md) — 2024-03-18
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
