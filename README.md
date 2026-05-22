@@ -573,6 +573,7 @@
 - [在陌生城市如何快速规划最优路线？Citymapper 实时交通导航全攻略](./Android应用/citymapper-city-navigation-guide.md) — 2024-04-22
 - [AndroidKeepAlive 配置指南：无需 Root 实现低功耗后台保活的步骤详解](./Android应用/androidkeepalive-configuration-guide-non-root.md) — 2024-04-20
 - [imFile 跨平台下载方案：集成 BT 与磁力链的高效传输工具，实现多端文件快速获取](./Android应用/imfile-cross-platform-bt-magnet-download-tool.md) — 2024-04-16
+- [星海定位：无需ROOT的虚拟定位方案，支持钉钉打卡模拟](./Android应用/xinghai-virtual-location-no-root-dingtalk.md) — 2024-04-15
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
