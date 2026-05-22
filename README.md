@@ -1026,6 +1026,7 @@
 - [Motrix 开源下载管理器：高效替代迅雷的全能下载方案](./Mac软件/motrix-open-source-download-manager.md) — 2024-03-30
 - [CapsWriter Offline：支持超长文本转录的本地化 PC 语音输入方案](./Mac软件/capswriter-offline-local-pc-speech-to-text.md) — 2024-03-20
 - [如何免费获取 BuhoNTFS 终身版并实现 macOS 读写 NTFS 磁盘](./Mac软件/get-buhontfs-lifetime-free-macos-ntfs-read-write.md) — 2024-03-18
+- [Ciphey：全自动识别并破解多种加密算法的解密工具，支持一键分析编码类型并还原明文](./Mac软件/ciphey-automatic-decryption-tool.md) — 2024-03-12
 
 ### Twitter
 - [BlockExpress 插件安装指南：通过浏览器订阅推特 Web3 KOL 动态与行业情报](./Twitter/blockexpress-installation-guide-twitter-web3-kol-tracking.md) — 2024-05-24
