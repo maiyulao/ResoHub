@@ -4496,6 +4496,7 @@
 - [如何像顶级工程师一样思考？一套帮你打破认知瓶颈的计算机思维训练指南](./实战指南/think-like-top-engineers-computer-science-mindset-guide.md) — 2024-03-15
 - [高情商社交沟通指南：通过得体话术构建亲密关系的引导力](./实战指南/high-eq-social-communication-guide.md) — 2024-03-15
 - [从零开始搭建淘宝店铺：全流程视频操作指南](./实战指南/taobao-store-setup-video-guide.md) — 2024-03-14
+- [30天约会关系进阶直播课：内部资源获取与实操指南](./实战指南/30-day-dating-course-resources-guide.md) — 2024-03-14
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
