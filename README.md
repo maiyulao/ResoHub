@@ -1314,6 +1314,7 @@
 - [大陈热门编舞学习指南：从课程获取到实操练习的完整步骤](./兴趣爱好/dachen-choreography-learning-guide.md) — 2024-03-26
 - [八段锦全套练习指南：从起势到收势的详细操作步骤](./兴趣爱好/baduanjin-full-practice-guide.md) — 2024-03-23
 - [全国导游证考证全套资料包：适用版本及获取指南](./兴趣爱好/national-tour-guide-certificate-study-materials.md) — 2024-03-22
+- [国家通用标准手语零基础教程：完整培训资源获取与学习指南](./兴趣爱好/chinese-sign-language-beginner-guide.md) — 2024-03-21
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
