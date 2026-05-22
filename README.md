@@ -2346,6 +2346,7 @@
 - [高效检索阿里云盘专业资源：阿里搜在线搜索引擎功能详解](./创意工具/aliyun-pan-search-engine-guide.md) — 2024-03-31
 - [送礼没灵感？试试 ThisIsWhyImBroke：帮你挖掘奇特且有趣的在线礼品清单](./创意工具/thisiswhyimbroke-unique-gift-ideas.md) — 2024-03-31
 - [检索 3500 万篇学术文献：Internet Archive Scholar 全球学术资源库深度指南](./创意工具/internet-archive-scholar-guide.md) — 2024-03-30
+- [出海网络环境怎么搭建？从客户端选择到分流规则配置的全流程指南](./创意工具/guide-to-overseas-network-setup-and-routing-rules.md) — 2024-03-29
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
