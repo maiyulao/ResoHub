@@ -4261,6 +4261,7 @@
 - [从课程设计到转化实操：提升成交率的30个核心教学模块](./实战指南/course-design-conversion-modules.md) — 2024-04-22
 - [韩小四瘦腿直腿训练指南：14天分阶段执行步骤](./实战指南/han-xiaosi-slim-legs-training-guide.md) — 2024-04-21
 - [从逻辑构建到现场掌控：进阶演讲高手的系统化路径](./实战指南/advanced-public-speaking-systematic-path.md) — 2024-04-21
+- [原生家庭疗愈全套课程（男女通用版）：获取路径与实操指南](./实战指南/family-healing-course-guide.md) — 2024-04-21
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
