@@ -2298,6 +2298,7 @@
 - [想用同一个邮箱接收多个账号的验证码？试试 Gmail 点号技巧一键生成方案](./创意工具/gmail-dot-trick-multiple-accounts.md) — 2024-04-16
 - [想找高质量英文外刊却苦于付费墙？这里有几类免费的双语阅读资源分享](./创意工具/free-bilingual-english-news-resources.md) — 2024-04-15
 - [屋里社：成人短视频资源聚合与在线观看指南](./创意工具/wulishe-adult-video-guide.md) — 2024-04-14
+- [Mathematica 安装与激活全流程详解](./创意工具/mathematica-installation-and-activation-guide.md) — 2024-04-12
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
