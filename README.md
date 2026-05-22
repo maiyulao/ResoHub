@@ -4534,6 +4534,7 @@
 - [考研核心词汇990：10小时高效速刷攻略](./实战指南/postgraduate-core-vocabulary-990-study-guide.md) — 2024-03-10
 - [Unlock 0-5级全套听说读写资源：含PDF教材、配套音视频及使用指南](./实战指南/unlock-levels-0-5-learning-resources.md) — 2024-03-10
 - [华语电影争议性题材作品资源索引](./实战指南/chinese-controversial-cinema-index.md) — 2024-03-10
+- [新东方日语全体系学习资源库（62.09GB）：从零基础到高级实战的完整课程集](./实战指南/new-oriental-japanese-learning-resources-complete-set.md) — 2024-03-09
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
