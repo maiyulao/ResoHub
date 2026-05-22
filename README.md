@@ -2400,6 +2400,7 @@
 - [链接分享潜藏的隐私风险：如何通过公开 URL 反查关联账号](./创意工具/privacy-risks-of-link-sharing-reverse-lookup-accounts.md) — 2024-03-18
 - [Sam Altman 创业实操指南：从 0 到 1 的增长逻辑与管理方法论](./创意工具/sam-altman-startup-guide-growth-and-management.md) — 2024-03-16
 - [如何在氪星小说下载免费精校全本小说的操作指南](./创意工具/krypton-novel-free-download-guide.md) — 2024-03-15
+- [GeoGebra 快速上手指南：从基础绘图到动态数学可视化计算的实操步骤](./创意工具/geogebra-quick-start-guide-dynamic-math-visualization.md) — 2024-03-13
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
