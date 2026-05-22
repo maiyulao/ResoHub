@@ -1218,6 +1218,7 @@
 - [避坑实录：个人财务损失分析与反思指南（PDF）](./书籍/personal-financial-loss-analysis-guide.md) — 2024-03-19
 - [汽车维修保养60个核心要点PDF指南：适用场景与下载说明](./书籍/car-maintenance-guide-pdf.md) — 2024-03-18
 - [全球900部经典畅销书精选清单](./书籍/900-classic-best-selling-books-list.md) — 2024-03-16
+- [如何通过指男针有效定位老岸？实操指南与技巧解析](./书籍/compass-navigation-guide-to-shore.md) — 2024-03-11
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
