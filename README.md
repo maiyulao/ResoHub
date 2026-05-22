@@ -521,6 +521,7 @@
 - [想让文字瞬间变视频却不知从何下手？尝试这款开源的一键文本转视频工具](./AI工具教程/open-source-text-to-video-tool.md) — 2024-03-29
 - [MoneyPrinterTurbo 实操指南：利用大模型一键快速制作 AI 短视频](./AI工具教程/moneyprinterturbo-ai-short-video-guide.md) — 2024-03-27
 - [思通数科StoneDT：集成多模态AI能力的免费引擎平台，支持语音、视频、文本与图片的高效处理](./AI工具教程/stonedt-multimodal-ai-engine-platform.md) — 2024-03-26
+- [想快速掌握YouTube长视频重点却没时间看完？试试用Go Summarize-AI实现ChatGPT自动化摘要](./AI工具教程/go-summarize-ai-youtube-chatgpt-automation.md) — 2024-03-25
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
