@@ -531,6 +531,7 @@
 - [基于关键词自动生成AI时间线：工具使用指南与部署环境说明](./AI工具教程/ai-timeline-generator-guide-and-deployment.md) — 2024-03-16
 - [WhiteRabbitNeo部署指南：针对网络安全威胁与漏洞识别的AI模型获取及配置说明](./AI工具教程/whiterabbitneo-deployment-guide-ai-model-setup.md) — 2024-03-15
 - [不知道怎么开口聊天？试试用 Pikup AI 生成高成功率的搭讪话术](./AI工具教程/pikup-ai-chat-pickup-lines.md) — 2024-03-13
+- [如何使用 Kimi 智能助手实现超长文本处理与实时联网搜索：操作指南](./AI工具教程/kimi-ai-long-text-realtime-search-guide.md) — 2024-03-13
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
