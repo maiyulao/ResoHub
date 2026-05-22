@@ -4292,6 +4292,7 @@
 - [从构图到剪辑：短视频实操拍摄全流程指南](./实战指南/short-video-shooting-and-editing-guide.md) — 2024-04-16
 - [餐饮店没客流怎么破？拆解一套可落地的短视频引流实操方案](./实战指南/restaurant-short-video-traffic-guide.md) — 2024-04-15
 - [周邦琴英语思维训练营：课程资源获取路径与学习环境配置指南](./实战指南/zhou-bangqin-english-thinking-course-guide.md) — 2024-04-15
+- [英语完形填空高频逻辑结构指南：分类解析与实战解题要点](./实战指南/english-cloze-test-logic-structures-guide.md) — 2024-04-15
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
