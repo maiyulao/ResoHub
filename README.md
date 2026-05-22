@@ -509,6 +509,7 @@
 - [Melodisco 使用指南：基于浏览器的 AI 音乐生成与在线播放工具](./AI工具教程/melodisco-ai-music-generator-guide.md) — 2024-04-14
 - [Calmara：支持 10 余种病症识别的在线 AI 数字化康复检测工具](./AI工具教程/calmara-ai-digital-rehabilitation-tool.md) — 2024-04-14
 - [深度评测 Udio：如何利用这款 AI 工具高效创作高品质音乐](./AI工具教程/udio-ai-music-review-guide.md) — 2024-04-12
+- [VoiceAILabs：基于AI技术的名人语音克隆与合成实操指南](./AI工具教程/voiceailabs-ai-celebrity-voice-cloning-guide.md) — 2024-04-11
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
