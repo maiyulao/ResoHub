@@ -2349,6 +2349,7 @@
 - [检索 3500 万篇学术文献：Internet Archive Scholar 全球学术资源库深度指南](./创意工具/internet-archive-scholar-guide.md) — 2024-03-30
 - [出海网络环境怎么搭建？从客户端选择到分流规则配置的全流程指南](./创意工具/guide-to-overseas-network-setup-and-routing-rules.md) — 2024-03-29
 - [想读本书却不知道选什么？试试用心情来匹配你的下一本好书](./创意工具/choose-books-by-mood.md) — 2024-03-29
+- [注册海外账号需要邮箱但不想泄露隐私？试试这款免费的Gmail临时邮箱生成工具](./创意工具/free-gmail-temporary-email-generator.md) — 2024-03-28
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
