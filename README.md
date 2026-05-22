@@ -830,6 +830,7 @@
 - [AudioZap 高效音频格式转换指南：支持 WAV、MP3、FLAC 等主流格式无损互转](./iOS应用/audiozap-audio-format-conversion-guide.md) — 2024-06-26
 - [红果短剧：抖音出品的免费海量短剧平台，涵盖全品类热门内容，支持随时随地无门槛观看](./iOS应用/hongguo-short-drama-platform.md) — 2024-06-11
 - [UnblockNeteaseMusic 使用指南：恢复网易云音乐客户端灰色歌曲播放](./iOS应用/unblockneteasemusic-guide-restore-grey-songs.md) — 2024-06-06
+- [Delta iOS 模拟器指南：支持任天堂及 Game Boy 全系列游戏与资源配置](./iOS应用/delta-ios-emulator-guide-nintendo-gameboy.md) — 2024-04-19
 
 ### iOS捷径指令
 - [如何使用 R⤓Download 实现 TikTok、Instagram 及 Snapchat 视频无水印下载](./iOS捷径指令/download-tiktok-instagram-snapchat-videos-without-watermark-r-download.md) — 2025-03-10
