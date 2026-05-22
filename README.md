@@ -4358,6 +4358,7 @@
 - [小红书虚拟电商实操指南：从零构建高变现能力的账号体系](./实战指南/xiaohongshu-virtual-ecommerce-guide.md) — 2024-04-06
 - [拼多多无货源起步指南：面向新手与兼职者的快速上手实操课](./实战指南/pinduoduo-dropshipping-guide-for-beginners.md) — 2024-04-05
 - [如何高效搜集张国荣全集资源：涵盖电影、演唱会、音乐及纪录片的操作指南](./实战指南/how-to-collect-leslie-cheung-collection.md) — 2024-04-05
+- [2025考研英语全套学习资料：PDF电子书资源汇总与高效使用指南](./实战指南/2025-postgraduate-english-study-materials-pdf.md) — 2024-04-05
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
