@@ -4281,6 +4281,7 @@
 - [从初级到高级：Runtastic Results 全套健身视频训练指南](./实战指南/runtastic-results-fitness-video-guide.md) — 2024-04-19
 - [巨量电商产品增长指南：从底层逻辑到实操链路的全维度能力构建](./实战指南/ocean-engine-ecommerce-growth-guide.md) — 2024-04-19
 - [高效记忆高中英语单词：构建思维导图的 4 个关键步骤](./实战指南/high-school-english-vocabulary-mind-map-steps.md) — 2024-04-19
+- [TikTok短视频带货实操指南：掌握达人变现路径与海外流量红利](./实战指南/tiktok-short-video-ecommerce-guide.md) — 2024-04-18
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
