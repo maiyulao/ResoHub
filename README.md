@@ -2312,6 +2312,7 @@
 - [香港银行卡开户全流程：办理渠道、准入要求与避坑指南](./创意工具/hong-kong-bank-account-guide.md) — 2024-04-08
 - [幻兽帕鲁配种攻略：全物种繁育公式与后代计算指南](./创意工具/palworld-breeding-guide-formulas.md) — 2024-04-08
 - [Apple Music 高解析度无损音乐下载指南：支持 ALAC 与杜比全景声格式](./创意工具/apple-music-hi-res-lossless-download-guide.md) — 2024-04-07
+- [公考知识体系全量指南：构建结构化备考逻辑，实现从基础知识点到实战技巧的深度覆盖](./创意工具/civil-service-exam-knowledge-system-guide.md) — 2024-04-07
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
