@@ -4275,6 +4275,7 @@
 - [掌握沉浸式英语学习法的50个实操步骤：马正扬高效习得指南](./实战指南/50-steps-immersive-english-learning-guide.md) — 2024-04-20
 - [从零开始掌握WPS：分步操作指南与核心功能实操手册](./实战指南/master-wps-step-by-step-guide.md) — 2024-04-20
 - [摄影入门实操指南：从零基础到专业拍摄的进阶步骤](./实战指南/photography-beginner-guide-to-professional.md) — 2024-04-19
+- [阿何PPT 30天实战集训资源：学习路径、适用场景及获取指南](./实战指南/ahe-ppt-30day-training-resources.md) — 2024-04-19
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
