@@ -4457,6 +4457,7 @@
 - [黑马AI进阶全套课程：含源码课件，支持年度会员权限部署](./实战指南/heima-ai-advanced-course-source-code.md) — 2024-03-22
 - [亚伦哥AI实操课程：面向办公效率提升的资源获取与应用指南](./实战指南/ai-productivity-course-resource-guide.md) — 2024-03-21
 - [1920-1990年经典电影资源集：含下载路径与播放环境兼容指南](./实战指南/classic-movies-1920-1990-download-guide.md) — 2024-03-21
+- [将个人技能与兴趣转化为变现能力的实操指南：路径选择与避坑要点](./实战指南/monetize-skills-and-interests-guide.md) — 2024-03-21
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
