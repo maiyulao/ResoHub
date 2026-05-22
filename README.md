@@ -4424,6 +4424,7 @@
 - [夜鹰急救知识全集：完结版资源获取与学习指南](./实战指南/night-hawk-first-aid-guide-resources.md) — 2024-03-27
 - [抖音图文带货实操指南：从零起步的15天快速上手计划](./实战指南/douyin-image-text-ecommerce-guide-15-days.md) — 2024-03-27
 - [日语红蓝宝书N5至N1全等级学习指南：从入门到精通的备考步骤](./实战指南/japanese-red-blue-book-n5-n1-study-guide.md) — 2024-03-26
+- [剪映手机版全流程操作指南：从基础功能到实战技巧的快速上手手册](./实战指南/capcut-mobile-complete-guide.md) — 2024-03-26
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
