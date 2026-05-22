@@ -4524,6 +4524,7 @@
 - [210篇天涯社区经典帖全集：离线资源下载与阅读指南](./实战指南/tianya-classic-posts-collection-download-guide.md) — 2024-03-11
 - [JavaSE高级实战课程集（300集）：从零基础到就业的完整学习路径与资源指南](./实战指南/javase-advanced-practical-course-guide.md) — 2024-03-10
 - [考研核心词汇990：10小时高效速刷攻略](./实战指南/postgraduate-core-vocabulary-990-study-guide.md) — 2024-03-10
+- [Unlock 0-5级全套听说读写资源：含PDF教材、配套音视频及使用指南](./实战指南/unlock-levels-0-5-learning-resources.md) — 2024-03-10
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
