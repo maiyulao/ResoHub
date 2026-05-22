@@ -2291,6 +2291,7 @@
 - [书书读小说：主打极简阅读体验的免费在线小说平台，通过去冗余设计提升阅读纯净度](./创意工具/shushu-minimalist-free-online-novel-platform.md) — 2024-04-23
 - [MarkdownDown：高效将网页内容转化为 Markdown 格式的实用工具](./创意工具/markdowndown-web-to-markdown-tool.md) — 2024-04-19
 - [想用同一个邮箱接收多个账号的验证码？试试 Gmail 点号技巧一键生成方案](./创意工具/gmail-dot-trick-multiple-accounts.md) — 2024-04-16
+- [想找高质量英文外刊却苦于付费墙？这里有几类免费的双语阅读资源分享](./创意工具/free-bilingual-english-news-resources.md) — 2024-04-15
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
