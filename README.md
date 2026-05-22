@@ -4290,6 +4290,7 @@
 - [高考英语核心词汇高效练字帖：笔迹优化与记忆增强指南](./实战指南/gaokao-english-vocabulary-handwriting-guide.md) — 2024-04-17
 - [求职简历总被HR刷掉？试试这58套稻壳儿专业收费模板提升竞争力](./实战指南/58-professional-resume-templates-for-job-seekers.md) — 2024-04-17
 - [从构图到剪辑：短视频实操拍摄全流程指南](./实战指南/short-video-shooting-and-editing-guide.md) — 2024-04-16
+- [餐饮店没客流怎么破？拆解一套可落地的短视频引流实操方案](./实战指南/restaurant-short-video-traffic-guide.md) — 2024-04-15
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
