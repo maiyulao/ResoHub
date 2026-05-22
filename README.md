@@ -1247,6 +1247,7 @@
 - [小红书笔记没流量、涨粉慢？尝试这套27天爆款实操计划](./互联网营销/xiaohongshu-growth-27day-plan.md) — 2024-03-27
 - [获客成本过高且增长乏力？尝试用裂变营销构建低成本增长模型](./互联网营销/viral-marketing-low-cost-growth-model.md) — 2024-03-12
 - [小餐饮创业实操指南：从选址到开业的五大关键步骤](./互联网营销/catering-startup-guide-5-steps.md) — 2024-03-10
+- [小红书高权重起号与精准引流实操指南：实现日增百粉的运营全流程](./互联网营销/xiaohongshu-growth-and-traffic-guide.md) — 2024-03-08
 
 ### 兴趣爱好
 - [家里东西总是在整理后迅速回潮？掌握这套收纳逻辑，让空间持久有序](./e585b4e8b6a3e788b1e5a5bd/home-organization-logic-for-lasting-order.md) — 2025-12-07
