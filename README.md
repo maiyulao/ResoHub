@@ -1173,6 +1173,7 @@
 - [会计学核心知识图解指南（升级版）](./书籍/accounting-core-knowledge-guide.md) — 2024-04-14
 - [亲密关系初体验全指南：从前期准备到实操应对与后续关怀](./书籍/guide-to-first-intimacy.md) — 2024-04-06
 - [实用生活技能指南：全场景电子书资源集锦](./书籍/practical-life-skills-ebooks-collection.md) — 2024-04-02
+- [双人共抚120种技巧全图解：实操指南与适用场景说明](./书籍/double-person-co-parenting-120-tips-guide.md) — 2024-03-31
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
