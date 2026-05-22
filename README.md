@@ -838,6 +838,7 @@
 - [Bilibili 接口汇总：可用 API 列表、调用环境及请求注意事项](./GitHub项目/bilibili-api-list-guide.md) — 2024-04-06
 - [部署 Open WebUI 的全流程指南：实现多模型 LLM 的统一界面管理](./GitHub项目/deploy-open-webui-guide-llm-interface-management.md) — 2024-04-03
 - [精选 iOS 开源应用清单：功能解析与项目源码指南](./GitHub项目/best-ios-open-source-apps-guide.md) — 2024-03-27
+- [Pinyin Pro 下载安装：支持多种转换模式的专业拼音处理工具](./GitHub项目/pinyin-pro-download-install.md) — 2024-03-27
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
