@@ -4508,6 +4508,7 @@
 - [Stable Diffusion 入门指南：从软件安装到实操绘图的全流程教程](./实战指南/stable-diffusion-beginner-guide-installation-to-tutorial.md) — 2024-03-14
 - [全阶职场晋升知识体系：从基层到管理层的核心能力清单与学习路径](./实战指南/career-promotion-knowledge-system-and-learning-path.md) — 2024-03-14
 - [手机影像创作实战指南：从摄影基础到视频剪辑](./实战指南/mobile-photography-and-video-guide.md) — 2024-03-12
+- [毕设作品集排版没思路？这11套2024实用模版帮你快速出稿](./实战指南/graduation-portfolio-templates-2024.md) — 2024-03-12
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
