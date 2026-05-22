@@ -2486,6 +2486,7 @@
 - [从零开始学习社交破冰：MPUA魔卡情感沟通实操指南](./大人学习课程/social-ice-breaking-mpua-communication-guide.md) — 2024-04-11
 - [FANBOX AI 绘画资源精选：14.5GB 高质量模型与素材合集](./大人学习课程/fanbox-ai-art-resources-collection.md) — 2024-04-08
 - [亲密关系经营指南：构建稳固情感纽带的实践路径](./大人学习课程/guide-to-building-strong-emotional-bonds.md) — 2024-04-05
+- [《街头搭讪艺术》（寒江雪著）电子版下载：实操指南与适用场景分析](./大人学习课程/street-pickup-art-ebook-download.md) — 2024-04-05
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
