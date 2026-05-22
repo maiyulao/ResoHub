@@ -4325,6 +4325,7 @@
 - [500套商业级付费PPT模板：直接下载及兼容性配置指南](./实战指南/500-commercial-ppt-templates-download-guide.md) — 2024-04-10
 - [深度睡眠指南：通过13个实操环节改善睡眠质量](./实战指南/deep-sleep-guide-13-steps-for-better-sleep.md) — 2024-04-10
 - [人体穴位精准定位指南：高清全图谱与分部位详细图解](./实战指南/acupuncture-points-location-guide.md) — 2024-04-10
+- [简历总被HR刷掉？这100套高通过率模板帮你优化排版与内容](./实战指南/high-pass-rate-resume-templates.md) — 2024-04-09
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
