@@ -828,6 +828,7 @@
 - [照片水印怎么去掉才不留痕迹？试试这款支持无损放大的开源 Inpaint 工具](./GitHub项目/remove-watermark-with-open-source-inpaint-tool.md) — 2024-04-13
 - [基于 Vue 构建的短视频平台开源实现：抖音/TikTok 仿制项目解析](./GitHub项目/vue-short-video-platform-tiktok-clone.md) — 2024-04-07
 - [如何配置 IPTV 播放列表的自动更新机制：操作全流程](./GitHub项目/how-to-configure-iptv-playlist-auto-update.md) — 2024-04-06
+- [Bilibili 接口汇总：可用 API 列表、调用环境及请求注意事项](./GitHub项目/bilibili-api-list-guide.md) — 2024-04-06
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
