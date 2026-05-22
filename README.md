@@ -2412,6 +2412,7 @@
 - [如何在氪星小说下载免费精校全本小说的操作指南](./创意工具/krypton-novel-free-download-guide.md) — 2024-03-15
 - [GeoGebra 快速上手指南：从基础绘图到动态数学可视化计算的实操步骤](./创意工具/geogebra-quick-start-guide-dynamic-math-visualization.md) — 2024-03-13
 - [高效文本转语音：好用的免费在线TTS工具推荐](./创意工具/best-free-online-tts-tools.md) — 2024-03-12
+- [汇书网：无需注册登录的免费电子书在线检索与下载指南](./创意工具/huishuwang-free-ebook-download-guide.md) — 2024-03-10
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
