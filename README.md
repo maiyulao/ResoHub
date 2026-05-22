@@ -4277,6 +4277,7 @@
 - [摄影入门实操指南：从零基础到专业拍摄的进阶步骤](./实战指南/photography-beginner-guide-to-professional.md) — 2024-04-19
 - [阿何PPT 30天实战集训资源：学习路径、适用场景及获取指南](./实战指南/ahe-ppt-30day-training-resources.md) — 2024-04-19
 - [Photoshop 绳索探险摄影调色全流程：从基础修图到高级质感提升（含素材包）](./实战指南/photoshop-rope-adventure-photography-color-grading-guide.md) — 2024-04-19
+- [从初级到高级：Runtastic Results 全套健身视频训练指南](./实战指南/runtastic-results-fitness-video-guide.md) — 2024-04-19
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
