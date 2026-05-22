@@ -503,6 +503,7 @@
 - [Cloudflare Workers AI Playground：集成 30 余款大模型的 LLM 快速体验平台](./AI工具教程/cloudflare-workers-ai-playground-llm-experience-platform.md) — 2024-04-28
 - [AI驱动的中国风水数字化测算方案：通过算法量化传统环境布局，实现空间气场分析与优化建议](./AI工具教程/ai-driven-chinese-feng-shui-digitization-solution.md) — 2024-04-26
 - [Tarot Read AI 使用指南：免费在线塔罗牌AI解读工具及配置要点](./AI工具教程/tarot-read-ai-guide-free-online-tool.md) — 2024-04-22
+- [如何使用 AI 提示词生成器创作 Suno 音乐：操作全流程指南](./AI工具教程/suno-ai-prompt-generator-guide.md) — 2024-04-20
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
