@@ -4323,6 +4323,7 @@
 - [想拍出大片感却总像随手拍？跟贾树森学习手机摄影的进阶技巧](./实战指南/jia-shusen-mobile-photography-tips.md) — 2024-04-11
 - [少女感人像摄影实操指南：从构图到出片的五个关键步骤](./实战指南/girl-portrait-photography-guide.md) — 2024-04-10
 - [500套商业级付费PPT模板：直接下载及兼容性配置指南](./实战指南/500-commercial-ppt-templates-download-guide.md) — 2024-04-10
+- [深度睡眠指南：通过13个实操环节改善睡眠质量](./实战指南/deep-sleep-guide-13-steps-for-better-sleep.md) — 2024-04-10
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
