@@ -1337,6 +1337,7 @@
 - [八段锦全套练习指南：从起势到收势的详细操作步骤](./兴趣爱好/baduanjin-full-practice-guide.md) — 2024-03-23
 - [全国导游证考证全套资料包：适用版本及获取指南](./兴趣爱好/national-tour-guide-certificate-study-materials.md) — 2024-03-22
 - [国家通用标准手语零基础教程：完整培训资源获取与学习指南](./兴趣爱好/chinese-sign-language-beginner-guide.md) — 2024-03-21
+- [驾考全流程通关指南：从科目一至科目四的核心考点解析与实操技巧细节](./兴趣爱好/driving-test-complete-guide-tips.md) — 2024-03-12
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
