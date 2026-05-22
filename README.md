@@ -4339,6 +4339,7 @@
 - [自动驾驶算法工程师实战课程（01期）：含完整源码与教学课件](./实战指南/autonomous-driving-algorithm-engineer-course-01.md) — 2024-04-08
 - [短剧合集下架指南：执行标准与具体操作流程](./实战指南/short-drama-collection-removal-guide.md) — 2024-04-08
 - [想做直播带货却不知从何下手？这份全链路实操指南帮你快速跑通闭环](./实战指南/livestream-commerce-practical-guide.md) — 2024-04-08
+- [中文版单机游戏资源：含修改补丁，解压后直接运行](./实战指南/chinese-offline-games-with-patches.md) — 2024-04-08
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
