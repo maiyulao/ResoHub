@@ -516,6 +516,7 @@
 - [AI灵感PPT功能详解：集成AI写作、绘图与配音的一键生成方案](./AI工具教程/ai-inspiration-ppt-features-guide.md) — 2024-04-04
 - [Suno AI 音乐资源检索与高效下载指南](./AI工具教程/suno-ai-music-search-and-download-guide.md) — 2024-04-02
 - [Suno AI 音乐生成 API 接入指南：部署环境与调用接口说明](./AI工具教程/suno-ai-music-api-guide.md) — 2024-03-31
+- [AI Comic Factory 开源部署指南：在线生成漫画的配置与使用要点](./AI工具教程/ai-comic-factory-deployment-guide.md) — 2024-03-30
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
