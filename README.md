@@ -1014,6 +1014,7 @@
 - [ACE Studio 全解析：AI 驱动的专业级歌声合成工作流与技术实践](./Mac软件/ace-studio-ai-singing-synthesis-workflow.md) — 2024-04-05
 - [Motrix 开源下载管理器：高效替代迅雷的全能下载方案](./Mac软件/motrix-open-source-download-manager.md) — 2024-03-30
 - [CapsWriter Offline：支持超长文本转录的本地化 PC 语音输入方案](./Mac软件/capswriter-offline-local-pc-speech-to-text.md) — 2024-03-20
+- [如何免费获取 BuhoNTFS 终身版并实现 macOS 读写 NTFS 磁盘](./Mac软件/get-buhontfs-lifetime-free-macos-ntfs-read-write.md) — 2024-03-18
 
 ### Twitter
 - [BlockExpress 插件安装指南：通过浏览器订阅推特 Web3 KOL 动态与行业情报](./Twitter/blockexpress-installation-guide-twitter-web3-kol-tracking.md) — 2024-05-24
