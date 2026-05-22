@@ -1274,6 +1274,7 @@
 - [全品类舞蹈学习指南：从基础入门到进阶技巧的系统化教程集锦](./兴趣爱好/comprehensive-dance-learning-guide.md) — 2024-04-24
 - [30天二次元插画进阶指南：从零起步的绘画学习路径](./兴趣爱好/30-day-anime-illustration-guide.md) — 2024-04-17
 - [龙隐小吃街经典风味制作指南：核心配方与工艺要点归纳](./兴趣爱好/longyin-street-food-recipes-guide.md) — 2024-04-09
+- [游泳入门到精通：全维度教学视频指南](./兴趣爱好/swimming-guide-beginner-to-advanced.md) — 2024-04-07
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
