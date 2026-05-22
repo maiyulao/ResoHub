@@ -4348,6 +4348,7 @@
 - [中文版单机游戏资源：含修改补丁，解压后直接运行](./实战指南/chinese-offline-games-with-patches.md) — 2024-04-08
 - [想快速上手视频剪辑却被复杂界面劝退？用3小时掌握Pr核心操作技巧](./实战指南/master-pr-video-editing-basics-3hours.md) — 2024-04-07
 - [省考公务员录用考试高频考点精选：核心考向分析与实战模拟题集](./实战指南/provincial-civil-service-exam-high-frequency-points.md) — 2024-04-07
+- [小红书虚拟电商实操指南：从零构建高变现能力的账号体系](./实战指南/xiaohongshu-virtual-ecommerce-guide.md) — 2024-04-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
