@@ -4432,6 +4432,7 @@
 - [剪映手机版全流程操作指南：从基础功能到实战技巧的快速上手手册](./实战指南/capcut-mobile-complete-guide.md) — 2024-03-26
 - [商业PS后期进阶实战：通过光影重塑提升商业影像质感，涵盖高阶修图与视觉合成全流程](./实战指南/commercial-ps-advanced-lighting-and-compositing.md) — 2024-03-26
 - [互联网从业者开启首个副业项目的实操路径：从思维构建到执行步骤](./实战指南/side-hustle-guide-for-internet-professionals.md) — 2024-03-25
+- [亚马逊全流程运营实操指南：从入门到精通的进阶路径](./实战指南/amazon-full-process-operation-guide.md) — 2024-03-25
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
