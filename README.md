@@ -4414,6 +4414,7 @@
 - [高效能职场行为指南：400项可量化的专业习惯清单](./实战指南/high-performance-workplace-habits-checklist.md) — 2024-03-28
 - [解析懂懂平台日入600元的实操路径：从核心收益逻辑到具体执行步骤](./实战指南/dongdong-platform-daily-600-earnings-guide.md) — 2024-03-28
 - [Snow英语零基础口语实战指南：从发音入门到流畅交流](./实战指南/snow-english-speaking-guide-for-beginners.md) — 2024-03-28
+- [夜鹰急救知识全集：完结版资源获取与学习指南](./实战指南/night-hawk-first-aid-guide-resources.md) — 2024-03-27
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
