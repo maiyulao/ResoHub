@@ -2416,6 +2416,7 @@
 - [高效文本转语音：好用的免费在线TTS工具推荐](./创意工具/best-free-online-tts-tools.md) — 2024-03-12
 - [汇书网：无需注册登录的免费电子书在线检索与下载指南](./创意工具/huishuwang-free-ebook-download-guide.md) — 2024-03-10
 - [纯净阅读体验的在线小说库：无广告干扰，涵盖全品类文学作品](./创意工具/ad-free-online-novel-library.md) — 2024-03-09
+- [想看主流视频平台的VIP内容却不想付费？试试羽路均沾影视聚合搜索](./创意工具/yulu-video-aggregator-search.md) — 2024-03-09
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
