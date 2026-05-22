@@ -2516,6 +2516,7 @@
 - [《街头搭讪艺术》（寒江雪著）电子版下载：实操指南与适用场景分析](./大人学习课程/street-pickup-art-ebook-download.md) — 2024-04-05
 - [解构《立挽爱情感》乌鸦救赎线：破局关键步骤详解](./大人学习课程/love-and-deepspace-crow-redemption-guide.md) — 2024-04-02
 - [魔卡情感追女生课程实操指南：从心态建设到沟通技巧的五个步骤](./大人学习课程/moka-dating-course-guide-5-steps.md) — 2024-03-30
+- [PUANEY倪恋爱教育：通过实战技巧提升女性吸引力，详解从邀约到建立深度情感连接的完整链路](./大人学习课程/puaney-dating-education-female-attraction-guide.md) — 2024-03-29
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
