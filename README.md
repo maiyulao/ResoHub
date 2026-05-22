@@ -4359,6 +4359,7 @@
 - [微信读书网页版评论显示插件：安装方法与使用环境指南](./效率工具/wechat-read-web-comment-plugin-guide.md) — 2024-05-25
 - [面对海量商品难以抉择？尝试用 Vetted AI 智能购物助理精准锁定最优产品与底价](./效率工具/vetted-ai-smart-shopping-assistant.md) — 2024-05-24
 - [想批量导出抖音点赞和收藏的视频？试试这款能一键同步指定用户内容的下载工具](./效率工具/batch-export-douyin-likes-collections-downloader.md) — 2024-05-20
+- [Hitomi Downloader 安装与配置指南：实现 1700+ 网站资源高效下载的步骤详解](./效率工具/hitomi-downloader-installation-and-configuration-guide.md) — 2024-04-18
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
