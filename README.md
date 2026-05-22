@@ -4382,6 +4382,9 @@
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
 
+### 服务器
+- [搬瓦工推出79.99美元香港限量版套餐：主打HK85机房，实现移动CMI线路直连优化](./服务器/banwagone-hongkong-limited-edition-hk85-cmi.md) — 2024-04-15
+
 ### 浏览器插件
 - [PageTalk 开源解析：轻量化 AI 浏览器插件的功能与实践](./浏览器插件/pagetalk-open-source-ai-browser-extension.md) — 2025-04-26
 
