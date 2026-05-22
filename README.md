@@ -4392,6 +4392,7 @@
 - [想让手机拍出大片感却总是不满意？这份实战指南教你快速进阶](./实战指南/mobile-photography-guide-tips.md) — 2024-03-31
 - [起点网热门高分小说精选：百本爆款作品深度清单](./实战指南/qidian-best-novels-list.md) — 2024-03-31
 - [2025国考粉笔980系统班学习指南：从课程激活到高效复习的实操步骤](./实战指南/2025-guokao-fenbi-980-study-guide.md) — 2024-03-31
+- [梁捷《一平方公里内的经济学》全集资源：适用领域及阅读要点说明](./实战指南/liangjie-economics-of-one-square-kilometer-resources.md) — 2024-03-30
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
