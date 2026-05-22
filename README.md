@@ -2465,6 +2465,7 @@
 - [壹心理《如何谈一场不分手的恋爱》课程资源：获取渠道与学习指南](./大人学习课程/how-to-have-a-relationship-without-breaking-up-course-guide.md) — 2024-04-20
 - [某城市展览现场：考研学习视频实录与分析](./大人学习课程/city-exhibition-postgraduate-study-analysis.md) — 2024-04-19
 - [成人英语字母快速入门指南](./大人学习课程/adult-english-alphabet-guide.md) — 2024-04-11
+- [从零开始学习社交破冰：MPUA魔卡情感沟通实操指南](./大人学习课程/social-ice-breaking-mpua-communication-guide.md) — 2024-04-11
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
