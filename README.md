@@ -4402,6 +4402,7 @@
 - [Hitomi Downloader 安装与配置指南：实现 1700+ 网站资源高效下载的步骤详解](./效率工具/hitomi-downloader-installation-and-configuration-guide.md) — 2024-04-18
 - [投递简历被广告干扰且效率低下？试试这款集成GPT自动打招呼的Boss直聘优化助手](./效率工具/boss-zh-gpt-automation-tool.md) — 2024-04-16
 - [电商自动寻券工具：实现网购优惠券实时查询与自动匹配](./效率工具/ecommerce-auto-coupon-tool.md) — 2024-04-15
+- [使用 Map Lead Scraper 批量提取谷歌地图商业数据的操作指南](./效率工具/map-lead-scraper-google-maps-guide.md) — 2024-04-11
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
