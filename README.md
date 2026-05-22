@@ -2359,6 +2359,7 @@
 - [Audio Yufan：日语与英语听力训练音频的在线使用指南](./创意工具/audio-yufan-japanese-english-listening-guide.md) — 2024-03-28
 - [面对繁杂的开发需求却找不到合适的工具？试试 DevHub：集成 100 余款实用功能的开发者全能工具箱](./创意工具/devhub-all-in-one-developer-toolbox.md) — 2024-03-27
 - [高画质影视资源站 xia2024：支持 4K 蓝光规格免费下载](./创意工具/xia2024-4k-bluray-free-download.md) — 2024-03-26
+- [Wikivoyage：开源协作的全球旅行指南与目的地百科](./创意工具/wikivoyage-open-source-travel-guide.md) — 2024-03-26
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
