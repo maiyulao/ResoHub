@@ -510,6 +510,7 @@
 - [Calmara：支持 10 余种病症识别的在线 AI 数字化康复检测工具](./AI工具教程/calmara-ai-digital-rehabilitation-tool.md) — 2024-04-14
 - [深度评测 Udio：如何利用这款 AI 工具高效创作高品质音乐](./AI工具教程/udio-ai-music-review-guide.md) — 2024-04-12
 - [VoiceAILabs：基于AI技术的名人语音克隆与合成实操指南](./AI工具教程/voiceailabs-ai-celebrity-voice-cloning-guide.md) — 2024-04-11
+- [如何让 AI 读懂图片的深层意图？从创作背景到情感基调的自动化描述实践](./AI工具教程/ai-image-deep-intent-automated-description.md) — 2024-04-08
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
