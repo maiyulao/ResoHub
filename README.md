@@ -4316,6 +4316,7 @@
 - [如何在 Netflix 寻找 2023 年高画质热门纪录片：100 部精选清单及观看步骤](./实战指南/best-netflix-documentaries-2023-list.md) — 2024-04-13
 - [人像摄影入门：女性模特姿势引导与拍摄实操指南](./实战指南/portrait-photography-female-posing-guide.md) — 2024-04-12
 - [Excel动态图表实战指南：从零起步构建自动化可视化看板](./实战指南/excel-dynamic-charts-automation-dashboard-guide.md) — 2024-04-12
+- [Java并发编程核心指南：从基础理论到实战机制的进阶路径](./实战指南/java-concurrency-programming-guide.md) — 2024-04-11
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
