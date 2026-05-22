@@ -819,6 +819,7 @@
 - [开发者进阶指南：值得收藏的高质量技术资源清单](./GitHub项目/developer-advanced-tech-resources-list.md) — 2024-04-29
 - [GitHub 全球用户影响力分析：中国开发者排名现状与分布详情](./GitHub项目/github-global-user-influence-china-developers-ranking.md) — 2024-04-19
 - [Mac 微信双开脚本配置指南：运行环境要求与操作步骤](./GitHub项目/mac-wechat-double-open-guide.md) — 2024-04-19
+- [想让 AI 语音告别机械感？试试开源的高质量文本转语音模型 Parler TTS](./GitHub项目/parler-tts-high-quality-open-source-text-to-speech.md) — 2024-04-13
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
