@@ -2576,6 +2576,7 @@
 - [认知升级与情感重建：解析《学校不教的某种课》中的心理成长逻辑](./大人学习课程/cognitive-upgrade-emotional-reconstruction-psychological-growth.md) — 2024-03-16
 - [灵彤彤《玉望挽回》全集阅读指南与剧情深度解析](./大人学习课程/yu-wang-wan-hui-reading-guide-analysis.md) — 2024-03-16
 - [想看韩国Jinricp的直播回放？这里有完整的系列合集](./大人学习课程/jinricp-livestream-replays-collection.md) — 2024-03-15
+- [面对房事时间过短的困扰？尝试这些提升持久度的实用技巧](./大人学习课程/tips-to-improve-sexual-stamina.md) — 2024-03-13
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
