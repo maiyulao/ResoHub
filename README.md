@@ -2307,6 +2307,7 @@
 - [SpotifyMate：在线下载 Spotify 音乐的免费工具及使用指南](./创意工具/spotifymate-free-spotify-music-downloader-guide.md) — 2024-04-12
 - [百度网盘突破限速实操指南：支持10MB/s+下载速度的配置方法与注意事项](./创意工具/baidu-netdisk-speed-limit-bypass-guide-2.md) — 2024-04-11
 - [香港银行卡开户全流程：办理渠道、准入要求与避坑指南](./创意工具/hong-kong-bank-account-guide.md) — 2024-04-08
+- [幻兽帕鲁配种攻略：全物种繁育公式与后代计算指南](./创意工具/palworld-breeding-guide-formulas.md) — 2024-04-08
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
