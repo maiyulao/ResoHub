@@ -4372,6 +4372,7 @@
 - [从零开始掌握视频剪辑：阿宁全能实战进阶指南](./实战指南/video-editing-guide-for-beginners.md) — 2024-04-04
 - [餐饮直播与短视频实战指南：从流量获取到高效转化的全链路增长方案](./实战指南/catering-livestreaming-short-video-growth-guide.md) — 2024-04-04
 - [出国生存英语速成：30天高效学习步骤指南](./实战指南/survival-english-30-day-guide.md) — 2024-04-04
+- [TikTok跨境短视频带货指南：从零起步至独立站变现全流程](./实战指南/tiktok-dropshipping-guide-to-shopify-monetization.md) — 2024-04-02
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
