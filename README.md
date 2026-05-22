@@ -4399,6 +4399,7 @@
 - [起点网热门高分小说精选：百本爆款作品深度清单](./实战指南/qidian-best-novels-list.md) — 2024-03-31
 - [2025国考粉笔980系统班学习指南：从课程激活到高效复习的实操步骤](./实战指南/2025-guokao-fenbi-980-study-guide.md) — 2024-03-31
 - [梁捷《一平方公里内的经济学》全集资源：适用领域及阅读要点说明](./实战指南/liangjie-economics-of-one-square-kilometer-resources.md) — 2024-03-30
+- [想在小红书通过手工饰品实现月入五万？这份从选品到变现的实操指南及工具集给你答案](./实战指南/xiaohongshu-handmade-jewelry-monetization-guide.md) — 2024-03-29
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
