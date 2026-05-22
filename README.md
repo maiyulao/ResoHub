@@ -4380,6 +4380,7 @@
 - [谢无敌小红书IP实操指南：从零起步的商业变现全流程教程](./实战指南/xie-wudi-xiaohongshu-ip-guide.md) — 2024-04-02
 - [中影华龙AE特效合成全能课程资源：学习路径与安装配置指南](./实战指南/zhongying-hualong-ae-vfx-course-guide.md) — 2024-04-01
 - [初次见家长：全流程沟通策略与细节避坑指南](./实战指南/first-meeting-parents-guide.md) — 2024-04-01
+- [高效掌握外语的实操指南：从零到流畅的五个关键步骤](./实战指南/master-foreign-languages-guide-5-steps.md) — 2024-04-01
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
