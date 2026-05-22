@@ -583,6 +583,7 @@
 - [AndroidKeepAlive 配置指南：无需 Root 实现低功耗后台保活的步骤详解](./Android应用/androidkeepalive-configuration-guide-non-root.md) — 2024-04-20
 - [imFile 跨平台下载方案：集成 BT 与磁力链的高效传输工具，实现多端文件快速获取](./Android应用/imfile-cross-platform-bt-magnet-download-tool.md) — 2024-04-16
 - [星海定位：无需ROOT的虚拟定位方案，支持钉钉打卡模拟](./Android应用/xinghai-virtual-location-no-root-dingtalk.md) — 2024-04-15
+- [YVideo Downloader 深度评测：支持 8K 超高清画质的全能媒体下载方案](./Android应用/yvideo-downloader-review-8k-video-downloader.md) — 2024-03-31
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
