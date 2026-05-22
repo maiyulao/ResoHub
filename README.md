@@ -4489,6 +4489,7 @@
 - [想快速上手 ChatGPT 但不知从何学起？一套从入门到进阶的视频实操指南](./实战指南/chatgpt-learning-guide-for-beginners.md) — 2024-03-16
 - [零基础影视解说实战指南：从入门到精通的视频教学课程](./实战指南/video-commentary-tutorial-for-beginners.md) — 2024-03-16
 - [ChatGPT商业版与私有化部署源码：包含安装环境及配置指南](./实战指南/chatgpt-business-private-deployment-guide.md) — 2024-03-16
+- [如何像顶级工程师一样思考？一套帮你打破认知瓶颈的计算机思维训练指南](./实战指南/think-like-top-engineers-computer-science-mindset-guide.md) — 2024-03-15
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
