@@ -525,6 +525,7 @@
 - [Let's Build AI：高效 AI 工具资源索引指南](./AI工具教程/lets-build-ai-tools-index-guide.md) — 2024-03-25
 - [使用 Suno AI 将文本转化为歌曲的详细操作步骤](./AI工具教程/suno-ai-text-to-song-guide.md) — 2024-03-23
 - [图片分辨率低导致模糊？尝试用开源 AI 工具 Clarity Upscaler 实现无损放大](./AI工具教程/clarity-upscaler-ai-image-enlargement.md) — 2024-03-22
+- [高效构建自定义GPT：优质提示词库检索与应用指南](./AI工具教程/custom-gpt-prompt-library-guide.md) — 2024-03-20
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
