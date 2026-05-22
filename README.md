@@ -4384,6 +4384,7 @@
 - [初次见家长：全流程沟通策略与细节避坑指南](./实战指南/first-meeting-parents-guide.md) — 2024-04-01
 - [高效掌握外语的实操指南：从零到流畅的五个关键步骤](./实战指南/master-foreign-languages-guide-5-steps.md) — 2024-04-01
 - [3月31日付费精选短剧观看指南：从筛选到订阅的操作步骤](./实战指南/paid-short-drama-guide-march-31.md) — 2024-03-31
+- [想让手机拍出大片感却总是不满意？这份实战指南教你快速进阶](./实战指南/mobile-photography-guide-tips.md) — 2024-03-31
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
