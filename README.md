@@ -4474,6 +4474,7 @@
 - [AI商业化实战指南：从行业知识库到变现路径解析](./实战指南/ai-commercialization-guide-knowledge-base-to-monetization.md) — 2024-03-18
 - [深夜短剧资源汇总：三步快速获取高甜暧昧系列合集](./实战指南/late-night-short-drama-resources-collection.md) — 2024-03-18
 - [从入门到精通：剪映视频剪辑全流程实操指南，涵盖基础操作与进阶技巧](./实战指南/capcut-video-editing-complete-guide.md) — 2024-03-17
+- [10本值得收藏的中医古籍珍稀抄本解析](./实战指南/10-rare-tcm-ancient-manuscripts-analysis.md) — 2024-03-17
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
