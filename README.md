@@ -1301,6 +1301,7 @@
 - [游泳入门到精通：全维度教学视频指南](./兴趣爱好/swimming-guide-beginner-to-advanced.md) — 2024-04-07
 - [春楠化妆教学资源：全套课程获取路径、适用人群及学习重点说明](./兴趣爱好/chunnan-makeup-course-guide.md) — 2024-04-03
 - [科学护肤实操指南：通过系统化养护实现肌肤逆龄，涵盖从基础护理到进阶修护的全流程方案](./兴趣爱好/scientific-skincare-guide-for-anti-aging.md) — 2024-03-29
+- [大陈热门编舞学习指南：从课程获取到实操练习的完整步骤](./兴趣爱好/dachen-choreography-learning-guide.md) — 2024-03-26
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
