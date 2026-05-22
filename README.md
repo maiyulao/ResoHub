@@ -529,6 +529,7 @@
 - [Sora Web App：AI 图像局部重绘与身材优化实操指南](./AI工具教程/sora-web-app-ai-inpainting-body-optimization-guide.md) — 2024-03-19
 - [基于自然语言描述实现AI商品精准推荐的操作指南](./AI工具教程/ai-product-recommendation-guide-nlp.md) — 2024-03-16
 - [基于关键词自动生成AI时间线：工具使用指南与部署环境说明](./AI工具教程/ai-timeline-generator-guide-and-deployment.md) — 2024-03-16
+- [WhiteRabbitNeo部署指南：针对网络安全威胁与漏洞识别的AI模型获取及配置说明](./AI工具教程/whiterabbitneo-deployment-guide-ai-model-setup.md) — 2024-03-15
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
