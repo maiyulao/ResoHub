@@ -2560,6 +2560,7 @@
 - [三井京子与辰见拓郎：AI抚摸系列（女同学篇）实操指南](./大人学习课程/kyoko-mitsui-takuro-tatsumi-ai-touch-guide.md) — 2024-03-23
 - [辰見拓郎 x 三井京子：極致AI撫1（胸部特集）资源下载与运行环境指南](./大人学习课程/takuro-tatsumi-kyoko-mitsui-ai-breast-guide.md) — 2024-03-22
 - [《坏男孩学院》社交攻略：高效率约会实操指南](./大人学习课程/bad-boy-academy-dating-guide.md) — 2024-03-21
+- [认知升级与情感重建：解析《学校不教的某种课》中的心理成长逻辑](./大人学习课程/cognitive-upgrade-emotional-reconstruction-psychological-growth.md) — 2024-03-16
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
