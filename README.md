@@ -4296,6 +4296,7 @@
 - [餐饮店没客流怎么破？拆解一套可落地的短视频引流实操方案](./实战指南/restaurant-short-video-traffic-guide.md) — 2024-04-15
 - [周邦琴英语思维训练营：课程资源获取路径与学习环境配置指南](./实战指南/zhou-bangqin-english-thinking-course-guide.md) — 2024-04-15
 - [英语完形填空高频逻辑结构指南：分类解析与实战解题要点](./实战指南/english-cloze-test-logic-structures-guide.md) — 2024-04-15
+- [Python 爬虫架构实战指南：从 Docker 部署到京东项目开发全流程步骤详解](./实战指南/python-crawler-architecture-docker-jd-project-guide.md) — 2024-04-14
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
