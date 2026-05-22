@@ -1081,6 +1081,7 @@
 - [RM Toolbox 开源工具箱下载：绿色免安装版及其功能适用指南](./Windows软件/rm-toolbox-download-guide.md) — 2024-05-18
 - [高效配置 Sumatra PDF：从安装到优化阅读体验的完整指南](./Windows软件/sumatra-pdf-setup-optimization-guide.md) — 2024-05-16
 - [公文排版高效方案：小恐龙助手实现Word与WPS的一键标准化格式处理](./Windows软件/official-document-formatting-xiaokonglong-assistant.md) — 2024-04-24
+- [想让静态照片开口说话？尝试用 SadTalker 快速制作 AI 数字人驱动视频](./Windows软件/sadtalker-ai-talking-head-video.md) — 2024-04-01
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
