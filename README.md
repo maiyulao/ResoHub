@@ -4329,6 +4329,7 @@
 - [简历总被HR刷掉？这100套高通过率模板帮你优化排版与内容](./实战指南/high-pass-rate-resume-templates.md) — 2024-04-09
 - [小红书爆文写作全指南：通过45节实操课拆解高点击逻辑，构建可复制的流量文案体系](./实战指南/xiaohongshu-viral-writing-guide.md) — 2024-04-09
 - [日语学习全攻略：从零起步的系统路径与高效实操指南](./实战指南/japanese-learning-guide-for-beginners.md) — 2024-04-09
+- [抖店直播带货全流程实操指南：涵盖运营、中控与主播技能培训，适用实体店转型及行业新人](./实战指南/douyin-live-streaming-guide-for-beginners.md) — 2024-04-09
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
