@@ -2440,6 +2440,7 @@
 - [总觉得对方不爱自己或担心被抛弃？尝试通过这几步化解亲密关系中的不安全感](./大人学习课程/overcoming-insecurity-in-relationships.md) — 2024-04-26
 - [提升亲密关系质量：幸福玛丽娅36课性爱技巧实操指南](./大人学习课程/maria-36-lessons-sex-tips-guide.md) — 2024-04-24
 - [壹心理《如何谈一场不分手的恋爱》课程资源：获取渠道与学习指南](./大人学习课程/how-to-have-a-relationship-without-breaking-up-course-guide.md) — 2024-04-20
+- [某城市展览现场：考研学习视频实录与分析](./大人学习课程/city-exhibition-postgraduate-study-analysis.md) — 2024-04-19
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
