@@ -2323,6 +2323,7 @@
 - [找不到心仪的电子书？教你如何搭建一个可自由定义题目的私人在线书库](./创意工具/build-your-own-private-ebook-library.md) — 2024-04-07
 - [奇乐搜：支持多网盘资源检索的综合性搜索工具及使用指南](./创意工具/qilesou-multi-cloud-search-guide.md) — 2024-04-05
 - [网络安全学习资源库：涵盖核心课程与实战指南的云端资料集](./创意工具/cybersecurity-learning-resources-cloud-library.md) — 2024-04-05
+- [磁力先锋：高效资源检索与在线磁力搜索指南](./创意工具/magnetic-pioneer-magnet-search-guide.md) — 2024-04-04
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
