@@ -4462,6 +4462,7 @@
 - [1920-1990年经典电影资源集：含下载路径与播放环境兼容指南](./实战指南/classic-movies-1920-1990-download-guide.md) — 2024-03-21
 - [将个人技能与兴趣转化为变现能力的实操指南：路径选择与避坑要点](./实战指南/monetize-skills-and-interests-guide.md) — 2024-03-21
 - [文心一言AI运营变现方案：实操路径、适用场景及风控要点](./实战指南/ernie-bot-ai-monetization-guide.md) — 2024-03-19
+- [职场新人避坑指南：资深从业者总结的40项求职实操建议](./实战指南/career-tips-for-new-grads-job-hunting-guide.md) — 2024-03-19
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
