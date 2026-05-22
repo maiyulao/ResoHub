@@ -2319,6 +2319,7 @@
 - [Apple Music 高解析度无损音乐下载指南：支持 ALAC 与杜比全景声格式](./创意工具/apple-music-hi-res-lossless-download-guide.md) — 2024-04-07
 - [公考知识体系全量指南：构建结构化备考逻辑，实现从基础知识点到实战技巧的深度覆盖](./创意工具/civil-service-exam-knowledge-system-guide.md) — 2024-04-07
 - [找不到心仪的电子书？教你如何搭建一个可自由定义题目的私人在线书库](./创意工具/build-your-own-private-ebook-library.md) — 2024-04-07
+- [奇乐搜：支持多网盘资源检索的综合性搜索工具及使用指南](./创意工具/qilesou-multi-cloud-search-guide.md) — 2024-04-05
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
