@@ -506,6 +506,7 @@
 - [如何使用 AI 提示词生成器创作 Suno 音乐：操作全流程指南](./AI工具教程/suno-ai-prompt-generator-guide.md) — 2024-04-20
 - [笔尖AI写作：在线全能文案生成工具使用指南及适用场景说明](./AI工具教程/bijian-ai-writing-guide-and-scenarios.md) — 2024-04-20
 - [金数据5 AI 智能出题：实现题库自动化生成，大幅提升在线考试配置效率](./AI工具教程/jinshuju-5-ai-exam-generation.md) — 2024-04-16
+- [Melodisco 使用指南：基于浏览器的 AI 音乐生成与在线播放工具](./AI工具教程/melodisco-ai-music-generator-guide.md) — 2024-04-14
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
