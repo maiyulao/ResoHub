@@ -2385,6 +2385,7 @@
 - [如何使用在线版《答案之书》快速做出决定：操作步骤详解](./创意工具/how-to-use-online-book-of-answers.md) — 2024-03-22
 - [如何通过 RocketLaunch 查看全球卫星与飞船发射计划：操作指南](./创意工具/rocketlaunch-satellite-spacecraft-launch-guide.md) — 2024-03-22
 - [SinQi Tools：面向开发与设计的实用工具集](./创意工具/sinqi-tools-dev-design-toolkit.md) — 2024-03-18
+- [链接分享潜藏的隐私风险：如何通过公开 URL 反查关联账号](./创意工具/privacy-risks-of-link-sharing-reverse-lookup-accounts.md) — 2024-03-18
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
