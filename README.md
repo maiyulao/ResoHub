@@ -853,6 +853,7 @@
 - [大厂主流框架源码解析：获取途径、环境配置与核心阅读指南](./GitHub项目/big-tech-framework-source-code-guide.md) — 2024-03-19
 - [高效获取地理位置数据的免费IP查询API：接口功能对比与集成指南](./GitHub项目/free-ip-geolocation-api-comparison-guide.md) — 2024-03-16
 - [LapisCV：支持实时预览与快速编辑的开箱即用简历模板](./GitHub项目/lapiscv-realtime-resume-template.md) — 2024-03-16
+- [游戏编程模式中英文双语指南：核心设计模式解析与实战应用详解](./GitHub项目/game-programming-patterns-guide.md) — 2024-03-16
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
