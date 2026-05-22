@@ -2372,6 +2372,7 @@
 - [Wikivoyage：开源协作的全球旅行指南与目的地百科](./创意工具/wikivoyage-open-source-travel-guide.md) — 2024-03-26
 - [FaceSwapper AI 实操指南：三步实现高质量智能换脸](./创意工具/faceswapper-ai-guide-high-quality-face-swap.md) — 2024-03-23
 - [如何使用在线版《答案之书》快速做出决定：操作步骤详解](./创意工具/how-to-use-online-book-of-answers.md) — 2024-03-22
+- [如何通过 RocketLaunch 查看全球卫星与飞船发射计划：操作指南](./创意工具/rocketlaunch-satellite-spacecraft-launch-guide.md) — 2024-03-22
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
