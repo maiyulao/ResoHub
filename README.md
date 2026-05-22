@@ -4279,6 +4279,7 @@
 - [Photoshop 绳索探险摄影调色全流程：从基础修图到高级质感提升（含素材包）](./实战指南/photoshop-rope-adventure-photography-color-grading-guide.md) — 2024-04-19
 - [从初级到高级：Runtastic Results 全套健身视频训练指南](./实战指南/runtastic-results-fitness-video-guide.md) — 2024-04-19
 - [巨量电商产品增长指南：从底层逻辑到实操链路的全维度能力构建](./实战指南/ocean-engine-ecommerce-growth-guide.md) — 2024-04-19
+- [高效记忆高中英语单词：构建思维导图的 4 个关键步骤](./实战指南/high-school-english-vocabulary-mind-map-steps.md) — 2024-04-19
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
