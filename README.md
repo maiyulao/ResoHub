@@ -1145,6 +1145,7 @@
 - [想提升社交吸引力却不知从何入手？深度解析Tango《坏男孩日记》中的沟通逻辑与心理博弈](./书籍/tango-bad-boy-diaries-communication-psychology.md) — 2024-04-25
 - [社交破冰与高效沟通：提升异性交往质量的实操指南](./书籍/social-icebreaking-and-effective-communication-guide.md) — 2024-04-22
 - [李珂珂《恋爱原本很简单》中国版资源下载：适用人群与实操注意事项](./书籍/li-keke-love-is-simple-download-guide.md) — 2024-04-21
+- [为什么ChatGPT给你的答案总是不满意？掌握这套精准提问与追问技巧，让AI输出质量翻倍](./书籍/chatgpt-prompt-engineering-tips-for-better-results.md) — 2024-04-18
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
