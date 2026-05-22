@@ -527,6 +527,7 @@
 - [图片分辨率低导致模糊？尝试用开源 AI 工具 Clarity Upscaler 实现无损放大](./AI工具教程/clarity-upscaler-ai-image-enlargement.md) — 2024-03-22
 - [高效构建自定义GPT：优质提示词库检索与应用指南](./AI工具教程/custom-gpt-prompt-library-guide.md) — 2024-03-20
 - [Sora Web App：AI 图像局部重绘与身材优化实操指南](./AI工具教程/sora-web-app-ai-inpainting-body-optimization-guide.md) — 2024-03-19
+- [基于自然语言描述实现AI商品精准推荐的操作指南](./AI工具教程/ai-product-recommendation-guide-nlp.md) — 2024-03-16
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
