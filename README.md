@@ -2471,6 +2471,7 @@
 - [某城市展览现场：考研学习视频实录与分析](./大人学习课程/city-exhibition-postgraduate-study-analysis.md) — 2024-04-19
 - [成人英语字母快速入门指南](./大人学习课程/adult-english-alphabet-guide.md) — 2024-04-11
 - [从零开始学习社交破冰：MPUA魔卡情感沟通实操指南](./大人学习课程/social-ice-breaking-mpua-communication-guide.md) — 2024-04-11
+- [FANBOX AI 绘画资源精选：14.5GB 高质量模型与素材合集](./大人学习课程/fanbox-ai-art-resources-collection.md) — 2024-04-08
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
