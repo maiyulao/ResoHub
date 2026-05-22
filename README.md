@@ -4408,6 +4408,7 @@
 - [30天掌握摄影基础：Pat Kay 摄影加速器学习路径指南](./实战指南/30-day-photography-basics-pat-kay-accelerator-guide.md) — 2024-03-29
 - [高考英语3500词核心词库：适用复习场景及高效记忆资源下载](./实战指南/gaokao-english-3500-words-vocabulary-resources.md) — 2024-03-29
 - [短视频新手指南：从零起步打造高质感Vlog](./实战指南/short-video-vlog-beginner-guide.md) — 2024-03-28
+- [高效能职场行为指南：400项可量化的专业习惯清单](./实战指南/high-performance-workplace-habits-checklist.md) — 2024-03-28
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
