@@ -4467,6 +4467,7 @@
 - [文心一言AI运营变现方案：实操路径、适用场景及风控要点](./实战指南/ernie-bot-ai-monetization-guide.md) — 2024-03-19
 - [职场新人避坑指南：资深从业者总结的40项求职实操建议](./实战指南/career-tips-for-new-grads-job-hunting-guide.md) — 2024-03-19
 - [准备参加普通话水平测试却不知从何复习？这份最新考点资料帮你快速上手](./实战指南/putonghua-test-study-guide.md) — 2024-03-18
+- [AI商业化实战指南：从行业知识库到变现路径解析](./实战指南/ai-commercialization-guide-knowledge-base-to-monetization.md) — 2024-03-18
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
