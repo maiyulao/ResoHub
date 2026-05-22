@@ -4363,6 +4363,7 @@
 - [如何高效搜集张国荣全集资源：涵盖电影、演唱会、音乐及纪录片的操作指南](./实战指南/how-to-collect-leslie-cheung-collection.md) — 2024-04-05
 - [2025考研英语全套学习资料：PDF电子书资源汇总与高效使用指南](./实战指南/2025-postgraduate-english-study-materials-pdf.md) — 2024-04-05
 - [从零开始掌握视频剪辑：阿宁全能实战进阶指南](./实战指南/video-editing-guide-for-beginners.md) — 2024-04-04
+- [餐饮直播与短视频实战指南：从流量获取到高效转化的全链路增长方案](./实战指南/catering-livestreaming-short-video-growth-guide.md) — 2024-04-04
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
