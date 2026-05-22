@@ -4332,6 +4332,7 @@
 - [日语学习全攻略：从零起步的系统路径与高效实操指南](./实战指南/japanese-learning-guide-for-beginners.md) — 2024-04-09
 - [抖店直播带货全流程实操指南：涵盖运营、中控与主播技能培训，适用实体店转型及行业新人](./实战指南/douyin-live-streaming-guide-for-beginners.md) — 2024-04-09
 - [总被评价面相显老？通过表情管理找回年轻10岁的视觉状态](./实战指南/look-younger-with-facial-expression-management.md) — 2024-04-08
+- [自动驾驶算法工程师实战课程（01期）：含完整源码与教学课件](./实战指南/autonomous-driving-algorithm-engineer-course-01.md) — 2024-04-08
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
