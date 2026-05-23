@@ -4656,6 +4656,7 @@
 - [2024年事业单位考试备考全流程：从资料搜集到复习实操的步骤指南](./实战指南/2024-shiye-danwei-exam-preparation-guide.md) — 2024-02-20
 - [HTTP 协议详解：从原理到 Web 开发实践的部署指南与核心要点](./实战指南/http-protocol-guide-principles-and-practice.md) — 2024-02-20
 - [表情包账号商业化实操：从素材采集到日入千元的全流程指南](./实战指南/emoji-account-monetization-guide.md) — 2024-02-20
+- [六款小说阅读软件去广告修复版汇总及功能要点](./实战指南/best-ad-free-novel-reader-apps-summary.md) — 2024-02-18
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
