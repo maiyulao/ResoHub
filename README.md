@@ -2664,6 +2664,7 @@
 - [酱子大人阅读清单：在快节奏时代践行慢阅读与深层思考](./大人学习课程/jiangzi-reading-list-slow-reading-deep-thinking.md) — 2024-02-24
 - [男性前列腺按摩技巧：掌握关键时机以提升调理效果](./大人学习课程/prostate-massage-techniques-and-timing.md) — 2024-02-22
 - [AI 辅助提升男性性功能与多重高潮体验的操作指南](./大人学习课程/ai-guide-male-sexual-performance-multiple-orgasms.md) — 2024-02-22
+- [《素女经》现代译注图文扫描件：获取途径与阅读要点说明](./大人学习课程/sunu-jing-modern-translation-guide.md) — 2024-02-20
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
