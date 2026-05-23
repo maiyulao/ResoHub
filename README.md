@@ -2561,6 +2561,7 @@
 - [想知道图片里用的是什么字体？试试 Font Meme：实现字体快速识别与免费下载](./创意工具/font-meme-image-font-identifier-and-download.md) — 2024-01-22
 - [外企查：全球商业信用数据查询工具及使用指南](./创意工具/global-business-credit-data-guide.md) — 2024-01-22
 - [面对海量股票难以实时掌控？试试用大盘云图高效盯盘](./创意工具/stock-market-cloud-map-monitoring.md) — 2024-01-22
+- [找不到好用的Mac解锁软件？试试这个精选资源下载站麦氪搜](./创意工具/best-mac-unlock-software-maikersou.md) — 2024-01-21
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
