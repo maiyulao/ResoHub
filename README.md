@@ -2498,6 +2498,7 @@
 - [考研云：考研真题、复习资料与笔记共享平台](./创意工具/kaoyan-cloud-study-materials-sharing.md) — 2024-02-15
 - [情人节场景适用工具集：获取渠道与配置要点指南](./创意工具/valentines-day-tools-guide.md) — 2024-02-14
 - [Google Voice 账号总是提示即将过期？这份保号指南教你如何延长有效期并实现长期持有](./创意工具/google-voice-keep-number-guide.md) — 2024-02-13
+- [专业级伪代码与技术风截图在线生成工具](./创意工具/professional-pseudocode-screenshot-generator.md) — 2024-02-13
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
