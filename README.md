@@ -1258,6 +1258,7 @@
 - [《泡妞专家：怒沧流氓记者》资源下载与运行环境配置指南](./书籍/paoniu-zhuanjia-download-guide.md) — 2024-02-25
 - [天涯社区电子书资源合集：下载方式、适用设备及兼容性说明](./书籍/tianyahu-ebooks-collection-download-guide.md) — 2024-02-22
 - [深度解析李笑来开源著作《一千小时》：构建认知升级的刻意练习体系](./书籍/deep-analysis-1000-hours-li-xiaolai.md) — 2024-02-22
+- [科学养生指南：从循证医学理论到居家健康实践的系统性阅读清单](./书籍/science-based-wellness-reading-list.md) — 2024-02-21
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
