@@ -1230,6 +1230,7 @@
 - [面对女生的情绪波动或生理期困扰，如何提供恰到好处的关怀与支持？](./书籍/how-to-support-women-emotional-and-period-needs.md) — 2024-03-08
 - [想让DD在实战中更硬？这份针对性锻炼指南帮你突破瓶颈](./书籍/dd-strength-training-guide.md) — 2024-03-07
 - [中医典籍中秘方与土方检索及应用操作指南](./书籍/traditional-chinese-medicine-secret-recipes-guide.md) — 2024-03-04
+- [想系统了解人体性医学却不知从何读起？这本覆盖面极广的专业书籍值得收藏](./书籍/introduction-to-human-sexual-medicine-book.md) — 2024-03-03
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
