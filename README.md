@@ -4820,6 +4820,7 @@
 - [高效处理Excel数据的24个实操技巧指南](./实战指南/24-excel-data-processing-tips.md) — 2024-01-21
 - [找不到对应年级的教材PDF？这里汇总了中小学新旧版课本电子资源](./实战指南/primary-secondary-school-textbook-pdf-resources.md) — 2024-01-21
 - [全球商业演进全记录：30讲透视商业文明史](./实战指南/global-business-evolution-history.md) — 2024-01-21
+- [米小圈全书系指南：从成长逻辑到阅读进阶的完整图谱](./实战指南/mi-xiao-quan-reading-guide.md) — 2024-01-20
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
