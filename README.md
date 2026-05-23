@@ -2747,6 +2747,7 @@
 - [如何在喜马拉雅学习吴迪《100天告别单身》课程的完整操作步骤](./大人学习课程/how-to-learn-wu-di-100-days-course-on-ximalaya.md) — 2024-02-06
 - [如何通过高情商的互动技巧吸引对方，同时在关系中保持自我价值感？](./大人学习课程/high-eq-interaction-and-self-worth.md) — 2024-02-05
 - [鱼神维密圈会员图集：无水印学习资源汇总](./大人学习课程/yushen-vsm-gallery-resources.md) — 2024-01-26
+- [成人用品选购指南：适用场景分类、材质避坑与获取渠道说明](./大人学习课程/adult-products-buying-guide.md) — 2024-01-24
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
