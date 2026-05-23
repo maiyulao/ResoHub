@@ -2523,6 +2523,7 @@
 - [雅思真题全集：PDF版模拟试题与听力音频资源下载](./创意工具/ielts-practice-tests-pdf-audio-download.md) — 2024-02-04
 - [全平台短视频无损下载方案：支持抖音、Instagram及Twitter的高清视频提取工具 GoDownloader](./创意工具/godownloader-universal-short-video-downloader.md) — 2024-02-04
 - [RSP 资源库：OnlyFans 视频内容索引与免费在线观看指南](./创意工具/rsp-onlyfans-video-index-guide.md) — 2024-02-03
+- [获取Steam离线账号的完整流程与资源获取指南](./创意工具/steam-offline-account-guide-and-resources.md) — 2024-02-03
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
