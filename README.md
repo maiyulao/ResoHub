@@ -1265,6 +1265,7 @@
 - [天涯社区电子书资源合集：下载方式、适用设备及兼容性说明](./书籍/tianyahu-ebooks-collection-download-guide.md) — 2024-02-22
 - [深度解析李笑来开源著作《一千小时》：构建认知升级的刻意练习体系](./书籍/deep-analysis-1000-hours-li-xiaolai.md) — 2024-02-22
 - [科学养生指南：从循证医学理论到居家健康实践的系统性阅读清单](./书籍/science-based-wellness-reading-list.md) — 2024-02-21
+- [想在海量书单中找几本真正值得读的年度佳作？这份当当2023年度好书榜单涵盖了70本精选之作](./书籍/dangdang-2023-best-books-list.md) — 2024-02-16
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
