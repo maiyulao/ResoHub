@@ -2547,6 +2547,7 @@
 - [如何使用 VDC PUB 免费下载英文电子书：操作全流程指南](./创意工具/how-to-download-english-ebooks-via-vdc-pub.md) — 2024-01-28
 - [SUNNEI 购物网站实战：从环境搭建到功能实现的学习指南](./创意工具/sunnei-shopping-website-tutorial.md) — 2024-01-27
 - [2024春节微信红包封面获取全攻略：快速领取路径与多样化定制方案](./创意工具/2024-spring-festival-wechat-red-packet-cover-guide.md) — 2024-01-26
+- [SearchSearchGo：高效检索阿里云盘资源的极简搜索工具](./创意工具/searchsearchgo-aliyun-drive-search-tool.md) — 2024-01-26
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
