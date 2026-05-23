@@ -4697,6 +4697,7 @@
 - [想尝试电子手账却不知如何排版？这里有300多套分类笔记模板可直接套用](./实战指南/digital-planner-layout-templates.md) — 2024-02-11
 - [专业考证全套资料包：支持多平台下载及版本兼容性说明](./实战指南/professional-certification-study-materials-download.md) — 2024-02-11
 - [幻兽帕鲁 Palworld v0.1.4.1 安装指南：支持单机与多人联机模式](./实战指南/palworld-v0-1-4-1-installation-guide.md) — 2024-02-10
+- [春节高分经典小品精选：分主题回顾年度笑点与艺术佳作](./实战指南/best-spring-festival-gala-skits-collection.md) — 2024-02-09
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
