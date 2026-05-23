@@ -4787,6 +4787,7 @@
 - [1.7TB恐怖电影资源库：千部高清片源下载指南及存储环境建议](./实战指南/1-7tb-horror-movie-library-download-guide.md) — 2024-01-25
 - [CIA情报分析思维模型：高阶认知升级与变现实操指南](./实战指南/cia-intelligence-analysis-thinking-models.md) — 2024-01-24
 - [橙啦宝爷万词班：22000词汇高效速记实操指南](./实战指南/orange-baoye-22000-vocabulary-guide.md) — 2024-01-24
+- [1930-2022年世界杯全赛事资源库（1.14TB）获取与整理步骤](./实战指南/world-cup-archive-1930-2022-download-guide.md) — 2024-01-24
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
