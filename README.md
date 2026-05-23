@@ -4541,6 +4541,7 @@
 - [新东方日语全体系学习资源库（62.09GB）：从零基础到高级实战的完整课程集](./实战指南/new-oriental-japanese-learning-resources-complete-set.md) — 2024-03-09
 - [2024年6月英语六级全周期备考方案：从基础夯实到考前冲刺的体系化教学路径](./实战指南/cet-6-preparation-plan-june-2024.md) — 2024-03-08
 - [想快速上手 Excel 却不知从何学起？跟随李锐在 72 节实战课中完成从基础到精通的进阶](./实战指南/excel-learning-path-from-beginner-to-advanced.md) — 2024-03-08
+- [想找高清国语版《阿拉蕾》全集？这份中文字幕资源清单请收好](./实战指南/arale-complete-collection-chinese-subtitles.md) — 2024-03-08
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
