@@ -4626,6 +4626,7 @@
 - [130部高口碑付费短剧精选：分类指南与观看推荐](./实战指南/best-paid-short-dramas-guide.md) — 2024-02-24
 - [教资笔试高效复习指南：从解析押题卷到掌握考点的具体步骤](./实战指南/teacher-certification-exam-study-guide.md) — 2024-02-24
 - [高效音乐离线采集方案：多维度筛选的高质量下载软件清单及应用场景分析](./实战指南/high-quality-music-offline-downloader-guide.md) — 2024-02-23
+- [Python 基础快速上手：30 天从零到实战的阶梯式学习路径](./实战指南/python-beginner-30-day-learning-path.md) — 2024-02-23
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
