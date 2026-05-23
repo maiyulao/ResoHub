@@ -2492,6 +2492,7 @@
 - [高效检索海量云盘资源：咔帕搜索通过综合索引机制实现资源快速定位与获取](./创意工具/kapha-search-cloud-disk-resource-retrieval.md) — 2024-02-18
 - [西部落软件搜索指南：纯净下载体验，规避捆绑插件与广告干扰](./创意工具/xibo-software-download-guide.md) — 2024-02-17
 - [成人向中文解说电影资源：下载获取路径与播放兼容指南](./创意工具/adult-chinese-movie-resources-download-guide.md) — 2024-02-15
+- [考研云：考研真题、复习资料与笔记共享平台](./创意工具/kaoyan-cloud-study-materials-sharing.md) — 2024-02-15
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
