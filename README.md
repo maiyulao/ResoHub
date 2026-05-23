@@ -2487,6 +2487,7 @@
 - [eSIM 迁移至实体 SIM 卡：完整操作指南与注意事项](./创意工具/esim-to-physical-sim-guide.md) — 2024-02-20
 - [磁力星球使用指南：从注册到精准搜索资源的具体步骤](./创意工具/magnetic-planet-user-guide.md) — 2024-02-20
 - [高效检索海量云盘资源：咔帕搜索通过综合索引机制实现资源快速定位与获取](./创意工具/kapha-search-cloud-disk-resource-retrieval.md) — 2024-02-18
+- [西部落软件搜索指南：纯净下载体验，规避捆绑插件与广告干扰](./创意工具/xibo-software-download-guide.md) — 2024-02-17
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
