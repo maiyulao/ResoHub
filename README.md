@@ -2533,6 +2533,7 @@
 - [获取Steam离线账号的完整流程与资源获取指南](./创意工具/steam-offline-account-guide-and-resources.md) — 2024-02-03
 - [书葵网：构建去中心化电子书免费下载生态的实践与探索](./创意工具/shukui-decentralized-ebook-ecosystem.md) — 2024-02-02
 - [想找本好书却总被广告弹窗干扰？试试这个百万级规模的免费在线阅读库](./创意工具/free-online-library-no-ads.md) — 2024-01-31
+- [如何构建高效的界面规范？参考这 150 多个全球顶尖 UX 设计系统](./创意工具/build-efficient-ui-guidelines-top-ux-design-systems.md) — 2024-01-31
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
