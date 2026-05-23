@@ -4562,6 +4562,7 @@
 - [全龄段通用：北大花花精读写作课，通过深度阅读驱动写作能力进阶](./实战指南/pku-huahua-reading-writing-course.md) — 2024-03-05
 - [想一次性拿下执业药师中西药考点？这份全科目课程合集帮你理清复习路径](./实战指南/pharmacist-exam-course-collection.md) — 2024-03-05
 - [认知升级与效能跃迁：成甲的知识管理实战体系](./实战指南/cognitive-upgrade-and-efficiency-knowledge-management-chengjia.md) — 2024-03-04
+- [想在直播间卖课却不知从何入手？零基础搭建虚拟知识付费直播间的全流程指南](./实战指南/guide-to-building-knowledge-payment-livestreaming-room.md) — 2024-03-04
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
