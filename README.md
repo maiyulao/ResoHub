@@ -4708,6 +4708,7 @@
 - [2024年1月行业洞察与科技趋势研究报告汇总](./实战指南/industry-insights-tech-trends-jan-2024.md) — 2024-02-08
 - [2024甲辰龙年风水布局全攻略：通过环境优化激活财运，分空间解析居家与办公的化煞增运之法](./实战指南/2024-dragon-year-feng-shui-guide.md) — 2024-02-08
 - [想在主业之外通过副业实现年入百万，该如何构建可规模化的变现路径？](./实战指南/scalable-side-hustle-monetization-path.md) — 2024-02-07
+- [提升社交能力：蔡康永情商课全集实操指南](./实战指南/kai-hstrong-eq-course-guide.md) — 2024-02-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
