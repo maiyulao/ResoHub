@@ -536,6 +536,7 @@
 - [Simply News 使用指南：将 AI 筛选的新闻转化为播客音频的实操流程](./AI工具教程/simply-news-guide-ai-news-to-podcast.md) — 2024-03-09
 - [Nero AI 老照片修复指南：实现画质增强与智能上色](./AI工具教程/nero-ai-photo-restoration-guide.md) — 2024-03-07
 - [ImageTools：高效实现一键抠图与背景替换，简化图像素材处理流程](./AI工具教程/imagetools-one-click-background-removal-replacement.md) — 2024-03-03
+- [Bon French-AI：法语学习者的轻量化智能辅助方案](./AI工具教程/bon-french-ai-smart-learning-assistant.md) — 2024-03-02
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
