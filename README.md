@@ -4717,6 +4717,7 @@
 - [8部绝境生存题材电影清单：含资源获取路径与观看建议](./实战指南/8-best-survival-movies-list.md) — 2024-02-06
 - [电视直播软件推荐及盒子安装全指南](./实战指南/tv-live-software-and-box-installation-guide.md) — 2024-02-06
 - [远鉴字幕组 2023 年度影视资源回顾与归档指南](./实战指南/yuanjian-subs-2023-annual-archive-guide.md) — 2024-02-05
+- [K-12数学高分进阶：从基础到尖子生的分级题库实操指南](./实战指南/k12-math-scoring-guide-tiered-question-bank.md) — 2024-02-05
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
