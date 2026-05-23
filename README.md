@@ -2554,6 +2554,7 @@
 - [如何使用 ihavenotv 在线观看 4000 余部免费纪录片：操作指南](./创意工具/how-to-watch-free-documentaries-on-ihavenotv.md) — 2024-01-26
 - [打破英语口语僵局：从输入到实战的有效路径](./创意工具/break-english-speaking-barrier-input-to-practice.md) — 2024-01-24
 - [避孕措施全指南：不同场景下的选择方案与避孕失败风险预警](./创意工具/contraception-guide-options-and-risks.md) — 2024-01-23
+- [FreeMind：自定义自然白噪音，构建高效专注与深度放松环境](./创意工具/freemind-custom-white-noise-for-focus-and-relaxation.md) — 2024-01-23
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
