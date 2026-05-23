@@ -2521,6 +2521,7 @@
 - [成人情趣用品测评网站资源：访问指南及使用注意事项](./创意工具/adult-toys-review-guide-2.md) — 2024-02-05
 - [想找无广告的免费电子书下载渠道？试试 24h 搜书网](./创意工具/free-ad-free-ebook-download-24h-soushu.md) — 2024-02-05
 - [雅思真题全集：PDF版模拟试题与听力音频资源下载](./创意工具/ielts-practice-tests-pdf-audio-download.md) — 2024-02-04
+- [全平台短视频无损下载方案：支持抖音、Instagram及Twitter的高清视频提取工具 GoDownloader](./创意工具/godownloader-universal-short-video-downloader.md) — 2024-02-04
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
