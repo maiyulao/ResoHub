@@ -4763,6 +4763,7 @@
 - [风水与算命实操课程集（9套合集）：支持离线学习及环境配置说明](./实战指南/fengshui-fortune-telling-course-bundle.md) — 2024-01-29
 - [灵彤彤挽回指南：通过心理弱点分析与安全感构建修复亲密关系](./实战指南/ling-tongtong-relationship-recovery-guide.md) — 2024-01-29
 - [Photoshop 从入门到精通的进阶学习路径与操作指南](./实战指南/photoshop-beginner-to-advanced-guide.md) — 2024-01-28
+- [马士兵严选商城项目实操视频课：获取路径与部署环境指南](./实战指南/ma-shibing-mall-course-guide.md) — 2024-01-28
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
