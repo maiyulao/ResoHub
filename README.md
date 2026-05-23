@@ -548,6 +548,7 @@
 - [LeiaPix 使用指南：将 2D 静态照片转换为 3D 动态效果的步骤详解](./AI工具教程/leiapix-tutorial-2d-to-3d-animation.md) — 2024-02-19
 - [搭建 ChatGemini 网页客户端：将 Google Gemini 转化为 ChatGPT 式交互界面的操作指南](./AI工具教程/setup-chatgemini-web-client-guide.md) — 2024-02-19
 - [如何让视频翻译后的口型不再违和？尝试这款支持多语言同步的 AI 视频翻译工具](./AI工具教程/ai-video-translation-lip-sync-tool.md) — 2024-02-19
+- [AI 职位描述生成器：在线生成适配不同岗位的 JD 模版及配置指南](./AI工具教程/ai-job-description-generator.md) — 2024-02-15
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
