@@ -4802,6 +4802,7 @@
 - [60部欧美高分限制级电影推荐及观看指南](./实战指南/best-r-rated-western-movies-guide.md) — 2024-01-23
 - [绝版经典连环画报：主题系列集锦与收藏清单](./实战指南/classic-comic-book-collection-list.md) — 2024-01-22
 - [黑马 JavaEE v13 高级工程师课程：针对薪资升级的进阶学习资源与环境配置指南](./实战指南/heima-javaee-v13-advanced-engineer-course-guide.md) — 2024-01-22
+- [想摆脱英语开口难的尴尬？这套16讲外教实操口语课帮你实现流畅表达](./实战指南/english-speaking-course-for-fluency.md) — 2024-01-22
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
