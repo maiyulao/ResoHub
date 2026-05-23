@@ -2673,6 +2673,7 @@
 - [AI 辅助提升男性性功能与多重高潮体验的操作指南](./大人学习课程/ai-guide-male-sexual-performance-multiple-orgasms.md) — 2024-02-22
 - [《素女经》现代译注图文扫描件：获取途径与阅读要点说明](./大人学习课程/sunu-jing-modern-translation-guide.md) — 2024-02-20
 - [高品质调饮实操指南：从风味逻辑到核心配方，解锁爆款饮品调制技巧](./大人学习课程/high-quality-drink-mixing-guide.md) — 2024-02-19
+- [吴小飘《G点愉悦手册》全集：15课深度解析高潮触发与感官开发](./大人学习课程/g-spot-pleasure-manual-wu-xiaopiao.md) — 2024-02-18
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
