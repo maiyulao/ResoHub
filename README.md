@@ -1351,6 +1351,7 @@
 - [国家通用标准手语零基础教程：完整培训资源获取与学习指南](./兴趣爱好/chinese-sign-language-beginner-guide.md) — 2024-03-21
 - [驾考全流程通关指南：从科目一至科目四的核心考点解析与实操技巧细节](./兴趣爱好/driving-test-complete-guide-tips.md) — 2024-03-12
 - [百款精选剧本杀剧本库：多题材剧本集锦与玩法指南](./兴趣爱好/curated-jubensha-scripts-collection-and-guide.md) — 2024-03-12
+- [从基础入门到进阶实战：台球全体系教学视频指南](./兴趣爱好/billiards-complete-tutorial-guide.md) — 2024-03-07
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
