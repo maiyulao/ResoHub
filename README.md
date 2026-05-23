@@ -1272,6 +1272,7 @@
 - [想在海量书单中找几本真正值得读的年度佳作？这份当当2023年度好书榜单涵盖了70本精选之作](./书籍/dangdang-2023-best-books-list.md) — 2024-02-16
 - [从底层逻辑到实战演练：视频剪辑思维进阶指南](./书籍/video-editing-mindset-guide.md) — 2024-02-13
 - [1500+本知乎优质文学精选：涵盖高分书单排行榜与付费专栏合集，分门别类高效阅读](./书籍/zhihu-literature-best-books-list.md) — 2024-02-10
+- [罕见病临床诊疗与特效药方应用操作指南](./书籍/rare-disease-clinical-diagnosis-and-treatment-guide.md) — 2024-02-10
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
