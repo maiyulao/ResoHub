@@ -1043,6 +1043,7 @@
 - [如何免费获取 BuhoNTFS 终身版并实现 macOS 读写 NTFS 磁盘](./Mac软件/get-buhontfs-lifetime-free-macos-ntfs-read-write.md) — 2024-03-18
 - [Ciphey：全自动识别并破解多种加密算法的解密工具，支持一键分析编码类型并还原明文](./Mac软件/ciphey-automatic-decryption-tool.md) — 2024-03-12
 - [想尝试 AI 绘图和视频生成却被复杂的环境配置挡在门外？试试 Comflowyspace 快速部署方案](./Mac软件/comflowyspace-fast-deployment-ai-art-video.md) — 2024-03-09
+- [Upscayl：支持多平台部署的开源AI图片无损放大工具及安装指南](./Mac软件/upscayl-open-source-ai-image-upscaler-guide.md) — 2024-02-28
 
 ### Twitter
 - [BlockExpress 插件安装指南：通过浏览器订阅推特 Web3 KOL 动态与行业情报](./Twitter/blockexpress-installation-guide-twitter-web3-kol-tracking.md) — 2024-05-24
