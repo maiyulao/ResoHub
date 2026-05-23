@@ -2604,6 +2604,7 @@
 - [想看韩国Jinricp的直播回放？这里有完整的系列合集](./大人学习课程/jinricp-livestream-replays-collection.md) — 2024-03-15
 - [面对房事时间过短的困扰？尝试这些提升持久度的实用技巧](./大人学习课程/tips-to-improve-sexual-stamina.md) — 2024-03-13
 - [高端社交圈层攻略：针对高净值人群的心理博弈与吸引力构建指南](./大人学习课程/high-net-worth-social-networking-guide.md) — 2024-03-09
+- [高阶社交与情感沟通实操课程：获取路径及适用场景指南](./大人学习课程/advanced-social-emotional-communication-course-guide.md) — 2024-03-07
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
