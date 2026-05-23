@@ -2759,6 +2759,7 @@
 - [如何通过高情商的互动技巧吸引对方，同时在关系中保持自我价值感？](./大人学习课程/high-eq-interaction-and-self-worth.md) — 2024-02-05
 - [鱼神维密圈会员图集：无水印学习资源汇总](./大人学习课程/yushen-vsm-gallery-resources.md) — 2024-01-26
 - [成人用品选购指南：适用场景分类、材质避坑与获取渠道说明](./大人学习课程/adult-products-buying-guide.md) — 2024-01-24
+- [汽车广告Demo全集：从创意构思到成片输出的实操步骤指南](./大人学习课程/car-commercial-demo-guide.md) — 2024-01-21
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
