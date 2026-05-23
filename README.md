@@ -4622,6 +4622,7 @@
 - [易中天历史文化全集：核心讲义精选与多维度学习资源汇总](./实战指南/yi-zhongtian-history-culture-collection.md) — 2024-02-24
 - [2023版樊登讲书全集资源：下载获取路径与兼容环境说明](./实战指南/fandeng-books-2023-collection-download-guide.md) — 2024-02-24
 - [130部高口碑付费短剧精选：分类指南与观看推荐](./实战指南/best-paid-short-dramas-guide.md) — 2024-02-24
+- [教资笔试高效复习指南：从解析押题卷到掌握考点的具体步骤](./实战指南/teacher-certification-exam-study-guide.md) — 2024-02-24
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
