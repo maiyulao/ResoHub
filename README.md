@@ -4785,6 +4785,7 @@
 - [从零起步：高效掌握电子表格的进阶实操指南](./实战指南/master-advanced-spreadsheet-guide.md) — 2024-01-25
 - [自由职业摄影师使用咔图（PLUS版）的实操步骤与价值分析](./实战指南/freelance-photographer-katuh-plus-guide.md) — 2024-01-25
 - [1.7TB恐怖电影资源库：千部高清片源下载指南及存储环境建议](./实战指南/1-7tb-horror-movie-library-download-guide.md) — 2024-01-25
+- [CIA情报分析思维模型：高阶认知升级与变现实操指南](./实战指南/cia-intelligence-analysis-thinking-models.md) — 2024-01-24
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
