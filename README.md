@@ -549,6 +549,7 @@
 - [搭建 ChatGemini 网页客户端：将 Google Gemini 转化为 ChatGPT 式交互界面的操作指南](./AI工具教程/setup-chatgemini-web-client-guide.md) — 2024-02-19
 - [如何让视频翻译后的口型不再违和？尝试这款支持多语言同步的 AI 视频翻译工具](./AI工具教程/ai-video-translation-lip-sync-tool.md) — 2024-02-19
 - [AI 职位描述生成器：在线生成适配不同岗位的 JD 模版及配置指南](./AI工具教程/ai-job-description-generator.md) — 2024-02-15
+- [GPT Prompting 提示词生成器：配置指南与高效指令获取方法](./AI工具教程/gpt-prompt-generator-guide.md) — 2024-02-14
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
