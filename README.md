@@ -4573,6 +4573,7 @@
 - [认知升级与效能跃迁：成甲的知识管理实战体系](./实战指南/cognitive-upgrade-and-efficiency-knowledge-management-chengjia.md) — 2024-03-04
 - [想在直播间卖课却不知从何入手？零基础搭建虚拟知识付费直播间的全流程指南](./实战指南/guide-to-building-knowledge-payment-livestreaming-room.md) — 2024-03-04
 - [Python 全栈开发实战指南：400 讲视频课程与配套源码解析](./实战指南/python-fullstack-development-guide-course-source-code.md) — 2024-03-03
+- [Adobe 全系列软件部署指南：从快速安装到实操教程的完整链路](./实战指南/adobe-software-deployment-guide.md) — 2024-03-03
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
