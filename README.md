@@ -4664,6 +4664,7 @@
 - [表情包账号商业化实操：从素材采集到日入千元的全流程指南](./实战指南/emoji-account-monetization-guide.md) — 2024-02-20
 - [六款小说阅读软件去广告修复版汇总及功能要点](./实战指南/best-ad-free-novel-reader-apps-summary.md) — 2024-02-18
 - [如何利用 AI 工具在当前红利期实现首个百万营收？这份实操指南为你揭秘](./实战指南/ai-tools-first-million-revenue-guide.md) — 2024-02-17
+- [LOL陪玩实操指南：通过标准化接单流程实现月入3万+的变现路径](./实战指南/lol-game-buddy-earning-guide.md) — 2024-02-16
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
