@@ -2513,6 +2513,7 @@
 - [找不到高清且统一的国旗素材？SEEK FLAG 提供全套 SVG 与 PNG 格式免费下载](./创意工具/seek-flag-free-svg-png-national-flags-download.md) — 2024-02-13
 - [美化鸭全平台指南：iOS 与 Android 手机视觉定制实操方案](./创意工具/meihuaya-ios-android-customization-guide.md) — 2024-02-10
 - [怎么称呼对方？用这个在线计算器快速理清复杂的中国亲戚关系](./创意工具/chinese-kinship-calculator.md) — 2024-02-09
+- [艾兔影漫：多源影视资源聚合检索平台](./创意工具/ituv-movie-search-platform.md) — 2024-02-07
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
