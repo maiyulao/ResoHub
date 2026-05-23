@@ -2615,6 +2615,7 @@
 - [面对房事时间过短的困扰？尝试这些提升持久度的实用技巧](./大人学习课程/tips-to-improve-sexual-stamina.md) — 2024-03-13
 - [高端社交圈层攻略：针对高净值人群的心理博弈与吸引力构建指南](./大人学习课程/high-net-worth-social-networking-guide.md) — 2024-03-09
 - [高阶社交与情感沟通实操课程：获取路径及适用场景指南](./大人学习课程/advanced-social-emotional-communication-course-guide.md) — 2024-03-07
+- [面对聊天没话题或冷场怎么办？小鲸恋爱班未知聊天特训营为你拆解沟通技巧](./大人学习课程/conversation-skills-stop-awkward-silence.md) — 2024-03-03
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
