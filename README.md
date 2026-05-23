@@ -4733,6 +4733,7 @@
 - [AI 辅助高效学习的实操指南：从工具选择到知识内化的具体步骤](./实战指南/ai-powered-learning-guide.md) — 2024-02-03
 - [高效获取付费级PPT模板：分类筛选与快速下载指南](./实战指南/high-quality-ppt-templates-download-guide.md) — 2024-02-03
 - [如何引导女孩正确认知身体与性发育？这份《小灯塔》教育指南提供了完整方案](./实战指南/girl-body-sexual-development-guide-little-lighthouse.md) — 2024-02-03
+- [新东方剑桥生活口语实战指南：初中高级阶段学习要点](./实战指南/new-oriental-cambridge-spoken-english-guide.md) — 2024-02-03
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
