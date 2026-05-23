@@ -4588,6 +4588,7 @@
 - [古本红楼梦珍稀文献集：核心版本解析与数字化资源索引](./实战指南/rare-hongloumeng-editions-digital-resources.md) — 2024-03-01
 - [想让PPT摆脱简单的排版堆砌？从基础功能上手到实现高阶创意设计的进阶指南](./实战指南/ppt-design-beginner-to-advanced-guide.md) — 2024-03-01
 - [公务员考试备考资源集：行测申论真题解析、题库及选岗指南](./实战指南/civil-service-exam-prep-resources.md) — 2024-03-01
+- [外贸全流程实操课程集：从入门到精通的学习资源与部署指南](./实战指南/foreign-trade-practical-course-guide.md) — 2024-02-29
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
