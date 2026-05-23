@@ -4740,6 +4740,7 @@
 - [千款实用软件解锁版精选集：核心功能全开启，涵盖高效办公、创意设计及系统优化等多场景工具](./实战指南/premium-software-unlocked-collection.md) — 2024-02-01
 - [2小时快速掌握出国旅游英语口语的实操步骤](./实战指南/learn-travel-english-speaking-fast.md) — 2024-02-01
 - [家里布局总觉得不顺心？从实操场景出发，学习如何优化家居风水](./实战指南/home-feng-shui-layout-optimization.md) — 2024-02-01
+- [曾仕强易经讲座全集下载：含完整课集、适用版本及播放注意事项](./实战指南/zeng-shiqiang-yijing-lectures-download.md) — 2024-02-01
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
