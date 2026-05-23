@@ -2445,6 +2445,7 @@
 - [鸭奈飞影视回归：无需梯子直连的免费Netflix资源站](./创意工具/yanai-netflix-free-resource-site.md) — 2024-03-03
 - [想知道潮汕春节有哪些必看的民俗活动？这份2024年围观指南带你全攻略（持续更新）](./创意工具/chaoshan-spring-festival-customs-guide-2024.md) — 2024-03-03
 - [85电影网：高清电影资源索引与磁力种子下载指南](./创意工具/85-movie-hd-resource-index-magnet-download-guide.md) — 2024-03-01
+- [Worldvectorlogo 全球矢量标志库：提供海量免费 SVG 格式 Logo 资源，支持快速检索与直接下载](./创意工具/worldvectorlogo-free-svg-logos-library.md) — 2024-03-01
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
