@@ -4713,6 +4713,7 @@
 - [想在主业之外通过副业实现年入百万，该如何构建可规模化的变现路径？](./实战指南/scalable-side-hustle-monetization-path.md) — 2024-02-07
 - [提升社交能力：蔡康永情商课全集实操指南](./实战指南/kai-hstrong-eq-course-guide.md) — 2024-02-06
 - [8部绝境生存题材电影清单：含资源获取路径与观看建议](./实战指南/8-best-survival-movies-list.md) — 2024-02-06
+- [电视直播软件推荐及盒子安装全指南](./实战指南/tv-live-software-and-box-installation-guide.md) — 2024-02-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
