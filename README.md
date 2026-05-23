@@ -4768,6 +4768,7 @@
 - [打破认知局限：深度解析互联网变现的底层运作机制](./实战指南/internet-monetization-mechanisms.md) — 2024-01-28
 - [Excel 进阶实操指南：核心功能速查与办公效率优化方案](./实战指南/excel-advanced-guide-efficiency-optimization.md) — 2024-01-28
 - [从 Python 基础到数据科学：深度之眼实战入门指南](./实战指南/python-to-data-science-guide.md) — 2024-01-28
+- [2024剑桥雅思全套备考资源：核心真题集与分项提分指南](./实战指南/cambridge-ielts-2024-preparation-resources.md) — 2024-01-28
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
