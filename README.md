@@ -1153,6 +1153,7 @@
 - [飞扬PDF转换器下载：支持PDF解密与格式转换的免费工具及使用指南](./Windows软件/feiyang-pdf-converter-download-guide.md) — 2024-03-23
 - [WechatBakTool 使用指南：从聊天记录解密到完整备份的实操步骤](./Windows软件/wechatbaktool-guide-decryption-and-backup.md) — 2024-03-18
 - [AI FaceSwap v2.0.0 深度实测：实现高保真面部替换，详解核心功能与部署流程](./Windows软件/ai-faceswap-v2-review-features-deployment.md) — 2024-03-13
+- [Topaz AI 全系列 8 款软件汉化解锁版：突破语言障碍，一站式实现 AI 图像与视频画质增强](./Windows软件/topaz-ai-all-software-chinese-unlocked-bundle.md) — 2024-02-17
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
