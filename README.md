@@ -4726,6 +4726,7 @@
 - [K-12数学高分进阶：从基础到尖子生的分级题库实操指南](./实战指南/k12-math-scoring-guide-tiered-question-bank.md) — 2024-02-05
 - [AI 赋能商业演示：从逻辑策划到视觉生成的实操全流程](./实战指南/ai-powered-business-presentations-workflow.md) — 2024-02-05
 - [豆瓣电影 Top 250 蓝光原盘资源整理与画质指南](./实战指南/douban-top-250-blu-ray-guide.md) — 2024-02-04
+- [学而思初中全科资料集（2022-2023）：覆盖核心知识点与体系化习题，助力高效复习与提分](./实战指南/xueersi-junior-high-study-materials-2022-2023.md) — 2024-02-03
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
