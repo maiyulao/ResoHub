@@ -2436,6 +2436,7 @@
 - [高效文本转语音（TTS）实操指南：从在线工具选择到语音合成优化](./创意工具/efficient-tts-guide-tools-and-optimization.md) — 2024-03-06
 - [初创公司创始人心理模型指南：核心认知框架获取与实战应用要点](./创意工具/mental-models-for-startup-founders.md) — 2024-03-06
 - [上海交大升学指南：留学、出国与考研实操要点归纳](./创意工具/sjtu-further-education-guide.md) — 2024-03-03
+- [鸭奈飞影视回归：无需梯子直连的免费Netflix资源站](./创意工具/yanai-netflix-free-resource-site.md) — 2024-03-03
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
