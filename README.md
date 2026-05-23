@@ -4755,6 +4755,7 @@
 - [高效婚姻经营指南：通过系统化沟通与冲突处理机制，化解多数家庭矛盾](./实战指南/efficient-marriage-management-guide.md) — 2024-01-31
 - [英语口语体系化进阶指南：从零基础到流利表达的路径拆解](./实战指南/english-speaking-guide-beginner-to-fluent.md) — 2024-01-30
 - [成人向有声小说推荐清单及特点分析](./实战指南/adult-audio-novels-recommendations-analysis.md) — 2024-01-30
+- [风水与算命实操课程集（9套合集）：支持离线学习及环境配置说明](./实战指南/fengshui-fortune-telling-course-bundle.md) — 2024-01-29
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
