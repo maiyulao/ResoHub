@@ -4586,6 +4586,7 @@
 - [小红书电商运营实操指南：从零基础到精通的进阶步骤](./实战指南/xiaohongshu-ecommerce-operation-guide.md) — 2024-03-02
 - [35款iOS解锁版IPA软件资源包：安装环境要求与获取指南](./实战指南/35-ios-unlocked-ipa-resources-guide.md) — 2024-03-02
 - [古本红楼梦珍稀文献集：核心版本解析与数字化资源索引](./实战指南/rare-hongloumeng-editions-digital-resources.md) — 2024-03-01
+- [想让PPT摆脱简单的排版堆砌？从基础功能上手到实现高阶创意设计的进阶指南](./实战指南/ppt-design-beginner-to-advanced-guide.md) — 2024-03-01
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
