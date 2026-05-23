@@ -541,6 +541,7 @@
 - [Stable Diffusion WebUI 在线部署与 AI 图像生成实操指南](./AI工具教程/stable-diffusion-webui-online-deployment-guide.md) — 2024-02-27
 - [UniqMail 免费 AI 邮件撰写工具：安装部署指南与使用注意事项](./AI工具教程/uniqmail-ai-email-writer-installation-guide.md) — 2024-02-26
 - [Locofy：将 Figma 设计稿转化为前端代码的 AI 工具及其配置指南](./AI工具教程/locofy-figma-to-code-ai-guide.md) — 2024-02-26
+- [想知道 Sora 生成的视频究竟能达到什么水准？这份 AI 视频案例库为你提供灵感参考](./AI工具教程/sora-ai-video-examples-gallery.md) — 2024-02-25
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
