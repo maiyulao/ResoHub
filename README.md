@@ -4559,6 +4559,7 @@
 - [唐宇短视频剪辑全流程实战：从基础操作到高级进阶](./实战指南/tangyu-short-video-editing-guide.md) — 2024-03-05
 - [Shopee无货源模式实操指南：低门槛起步与快速出单策略](./实战指南/shopee-dropshipping-guide-strategies.md) — 2024-03-05
 - [全龄段通用：北大花花精读写作课，通过深度阅读驱动写作能力进阶](./实战指南/pku-huahua-reading-writing-course.md) — 2024-03-05
+- [想一次性拿下执业药师中西药考点？这份全科目课程合集帮你理清复习路径](./实战指南/pharmacist-exam-course-collection.md) — 2024-03-05
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
