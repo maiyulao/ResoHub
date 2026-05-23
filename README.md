@@ -4814,6 +4814,7 @@
 - [年终总结与绩效评优模版集：涵盖调薪、考核及奖金申请全场景实操指南](./实战指南/year-end-summary-performance-review-templates.md) — 2024-01-22
 - [多品类解锁版手游资源汇总指南](./实战指南/unlocked-mobile-games-resource-guide.md) — 2024-01-21
 - [全专业考研考证思维导图资源包：支持多学科下载及复习适用指南](./实战指南/postgraduate-exam-mindmap-resources.md) — 2024-01-21
+- [2025考研英语：星火英语核心考点解析与专项突破指南](./实战指南/2025-kaoyan-english-spark-guide.md) — 2024-01-21
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
