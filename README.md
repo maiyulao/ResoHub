@@ -869,6 +869,7 @@
 - [敏感证件脱敏：Image Watermark Tool 图片水印打码工具安装与使用指南](./GitHub项目/image-watermark-tool-guide.md) — 2024-03-11
 - [Cover Paint：快速构建高质量视觉封面的开源在线工具](./GitHub项目/cover-paint-open-source-visual-cover-tool.md) — 2024-03-10
 - [IPCheck：支持 DNS 泄露检测与 WebRTC 诊断的开源 IP 查询工具集](./GitHub项目/ipcheck-open-source-ip-dns-webrtc-tool.md) — 2024-03-03
+- [AsPoem：打造现代化中国诗词学习的开源实践方案](./GitHub项目/aspoem-modern-chinese-poetry-learning-open-source.md) — 2024-03-03
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
