@@ -1226,6 +1226,7 @@
 - [全球900部经典畅销书精选清单](./书籍/900-classic-best-selling-books-list.md) — 2024-03-16
 - [如何通过指男针有效定位老岸？实操指南与技巧解析](./书籍/compass-navigation-guide-to-shore.md) — 2024-03-11
 - [面对女生的情绪波动或生理期困扰，如何提供恰到好处的关怀与支持？](./书籍/how-to-support-women-emotional-and-period-needs.md) — 2024-03-08
+- [想让DD在实战中更硬？这份针对性锻炼指南帮你突破瓶颈](./书籍/dd-strength-training-guide.md) — 2024-03-07
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
