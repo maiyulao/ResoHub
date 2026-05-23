@@ -1391,6 +1391,7 @@
 - [想从零开始学美甲并拿到专业证书？这份基础到考证的完整进阶指南请收好](./兴趣爱好/nail-art-learning-guide-certification.md) — 2024-03-04
 - [琪琪漫画手绘：从零到快速上手的实操进阶指南](./兴趣爱好/qiqi-manga-drawing-guide.md) — 2024-02-23
 - [想在零基础状态下改善字迹？这份从入门到精通的练字指南帮你告别潦草](./兴趣爱好/handwriting-improvement-guide-for-beginners.md) — 2024-02-22
+- [B站闫帅奇28天极速减脂计划：课程获取路径与居家训练注意事项](./兴趣爱好/yan-shuaiqi-28-day-fat-loss-plan.md) — 2024-02-21
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
