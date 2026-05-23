@@ -539,6 +539,7 @@
 - [Bon French-AI：法语学习者的轻量化智能辅助方案](./AI工具教程/bon-french-ai-smart-learning-assistant.md) — 2024-03-02
 - [想在浏览器里直接用 Sora 生成视频？试试这个开源的 WebUI 客户端](./AI工具教程/sora-open-source-webui-client.md) — 2024-02-27
 - [Stable Diffusion WebUI 在线部署与 AI 图像生成实操指南](./AI工具教程/stable-diffusion-webui-online-deployment-guide.md) — 2024-02-27
+- [UniqMail 免费 AI 邮件撰写工具：安装部署指南与使用注意事项](./AI工具教程/uniqmail-ai-email-writer-installation-guide.md) — 2024-02-26
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
