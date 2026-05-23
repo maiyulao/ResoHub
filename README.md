@@ -4782,6 +4782,7 @@
 - [建筑CAD实战进阶指南：从基础到图纸绘制的126课快速习得路径](./实战指南/architectural-cad-advanced-guide-126-lessons.md) — 2024-01-27
 - [小升初英语全科提分资源库：涵盖核心考点、真题集与专项训练方案](./实战指南/primary-to-junior-high-english-resources.md) — 2024-01-27
 - [《完蛋！我被美女包围了》全角色剧情分支与通关指南](./实战指南/love-is-blind-all-character-guides-and-walkthrough.md) — 2024-01-25
+- [从零起步：高效掌握电子表格的进阶实操指南](./实战指南/master-advanced-spreadsheet-guide.md) — 2024-01-25
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
