@@ -2681,6 +2681,7 @@
 - [高品质调饮实操指南：从风味逻辑到核心配方，解锁爆款饮品调制技巧](./大人学习课程/high-quality-drink-mixing-guide.md) — 2024-02-19
 - [吴小飘《G点愉悦手册》全集：15课深度解析高潮触发与感官开发](./大人学习课程/g-spot-pleasure-manual-wu-xiaopiao.md) — 2024-02-18
 - [长期肾虚导致精力不济怎么办？详解般若心宗的强力补肾实操方法](./大人学习课程/kidney-deficiency-energy-boost-banruo-xin-zong.md) — 2024-02-16
+- [高效社交搭讪实操手册：从破冰到建立连接的 5 个关键步骤](./大人学习课程/social-pickup-guide-5-steps.md) — 2024-02-15
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
