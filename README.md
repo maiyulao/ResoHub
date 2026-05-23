@@ -605,6 +605,7 @@
 - [YVideo Downloader 深度评测：支持 8K 超高清画质的全能媒体下载方案](./Android应用/yvideo-downloader-review-8k-video-downloader.md) — 2024-03-31
 - [Android DataBackup：一款面向开发者的开源设备数据备份方案](./Android应用/android-databackup-open-source-solution.md) — 2024-03-22
 - [Seal 视频下载指南：从安装到多平台视频保存的完整步骤](./Android应用/seal-video-downloader-guide.md) — 2024-03-10
+- [想在不登录且无广告的环境下看直播？试试 PureLive 纯粹直播第三方播放器](./Android应用/purelive-third-party-player.md) — 2024-03-07
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
