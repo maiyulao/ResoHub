@@ -906,6 +906,7 @@
 - [仓鼠助手：Pixiv图片下载与收藏管理工具（含内置免流线路）](./GitHub项目/hamster-assistant-pixiv-downloader-manager.md) — 2024-02-07
 - [零基础快速上手英语口语的实操指南](./GitHub项目/beginner-english-speaking-guide.md) — 2024-02-05
 - [精选机器学习 YouTube 学习路径：从入门到进阶的优质课程指南](./GitHub项目/machine-learning-youtube-learning-path.md) — 2024-02-02
+- [挖掘 Android 潜力：Oh My Foss 精选开源应用指南](./GitHub项目/android-oh-my-foss-open-source-apps-guide.md) — 2024-01-29
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
