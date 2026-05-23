@@ -4552,6 +4552,7 @@
 - [三八妇女节电商促销海报PSD素材：涵盖商场宣传与女神节主题设计模板](./实战指南/international-womens-day-ecommerce-poster-psd.md) — 2024-03-08
 - [付费网赚实操课程：获取途径及适用场景指南](./实战指南/paid-make-money-online-course-guide.md) — 2024-03-07
 - [无需编程基础即可快速上手：微信小游戏全流程开发指南，从零起步到作品发布](./实战指南/wechat-mini-game-development-guide-for-beginners.md) — 2024-03-06
+- [AI智能应用实操指南：从工具原理到落地场景](./实战指南/ai-application-practical-guide.md) — 2024-03-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
