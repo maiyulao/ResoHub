@@ -4546,6 +4546,7 @@
 - [想找高清国语版《阿拉蕾》全集？这份中文字幕资源清单请收好](./实战指南/arale-complete-collection-chinese-subtitles.md) — 2024-03-08
 - [七龙珠全系列资源包：含1986版1-6季、22部剧场版及漫画，1080p高清画质](./实战指南/dragon-ball-complete-collection-1080p.md) — 2024-03-08
 - [三八妇女节电商促销海报PSD素材：涵盖商场宣传与女神节主题设计模板](./实战指南/international-womens-day-ecommerce-poster-psd.md) — 2024-03-08
+- [付费网赚实操课程：获取途径及适用场景指南](./实战指南/paid-make-money-online-course-guide.md) — 2024-03-07
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
