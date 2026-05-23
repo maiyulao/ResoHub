@@ -2544,6 +2544,7 @@
 - [2024 互联网全域知识体系指南：从基础路径到进阶实操的结构化地图](./创意工具/internet-knowledge-system-guide-2024.md) — 2024-01-29
 - [NodeBE4 使用指南：突破海外媒体付费墙与恢复失效公众号文章](./创意工具/nodebe4-guide-bypass-paywalls-restore-official-accounts.md) — 2024-01-29
 - [如何使用 VDC PUB 免费下载英文电子书：操作全流程指南](./创意工具/how-to-download-english-ebooks-via-vdc-pub.md) — 2024-01-28
+- [SUNNEI 购物网站实战：从环境搭建到功能实现的学习指南](./创意工具/sunnei-shopping-website-tutorial.md) — 2024-01-27
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
