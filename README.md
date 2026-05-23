@@ -546,6 +546,7 @@
 - [Roop：无需编程的开源AI换脸工具实操指南](./AI工具教程/roop-open-source-ai-face-swap-guide.md) — 2024-02-21
 - [使用 AIRemover 快速去除照片背景的操作指南](./AI工具教程/airemover-remove-photo-background-guide.md) — 2024-02-21
 - [LeiaPix 使用指南：将 2D 静态照片转换为 3D 动态效果的步骤详解](./AI工具教程/leiapix-tutorial-2d-to-3d-animation.md) — 2024-02-19
+- [搭建 ChatGemini 网页客户端：将 Google Gemini 转化为 ChatGPT 式交互界面的操作指南](./AI工具教程/setup-chatgemini-web-client-guide.md) — 2024-02-19
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
