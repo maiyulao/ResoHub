@@ -4789,6 +4789,7 @@
 - [橙啦宝爷万词班：22000词汇高效速记实操指南](./实战指南/orange-baoye-22000-vocabulary-guide.md) — 2024-01-24
 - [1930-2022年世界杯全赛事资源库（1.14TB）获取与整理步骤](./实战指南/world-cup-archive-1930-2022-download-guide.md) — 2024-01-24
 - [495GB制片厂经典老电影修复版：资源下载及兼容性说明](./实战指南/495gb-classic-movie-restored-download-compatibility.md) — 2024-01-24
+- [尚硅谷在线支付系统开发实战：源码解析与课件指南](./实战指南/shangguigu-online-payment-system-source-code-guide.md) — 2024-01-24
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
