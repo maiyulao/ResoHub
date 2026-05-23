@@ -4909,6 +4909,7 @@
 - [有道灵动翻译插件安装指南：支持网页实时对照翻译及沉浸式阅读配置](./效率工具/youdao-lingdong-translation-plugin-installation-guide.md) — 2024-03-04
 - [京东商品参数对比工具：支持多维度规格分析及快捷获取指南](./效率工具/jd-product-comparison-tool.md) — 2024-03-03
 - [Bewly：Bilibili 开源美化插件安装指南及个性化配置说明](./效率工具/bewly-bilibili-plugin-installation-guide.md) — 2024-01-23
+- [Instagram 媒体资源下载工具：支持图片与视频保存及适用环境配置指南](./效率工具/instagram-media-downloader-guide.md) — 2024-01-20
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
