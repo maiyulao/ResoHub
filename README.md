@@ -560,6 +560,7 @@
 - [将 EPUB 电子书转换为有声读物的操作指南：从文件上传到音频导出](./AI工具教程/epub-to-audiobook-guide.md) — 2024-01-28
 - [Plato AI：支持YouTube视频总结的AI工具获取与配置指南](./AI工具教程/plato-ai-youtube-summary-guide.md) — 2024-01-28
 - [PostNitro：高效构建 AI 驱动的轮播图生成方案](./AI工具教程/postnitro-ai-carousel-generator.md) — 2024-01-24
+- [对象闹脾气不知道怎么安抚？试试这款能帮你精准话术破冰的 AI 哄哄模拟器 Web 版](./AI工具教程/ai-honghong-simulator-web-guide.md) — 2024-01-22
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
