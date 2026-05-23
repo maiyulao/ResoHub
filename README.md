@@ -4744,6 +4744,7 @@
 - [家里布局总觉得不顺心？从实操场景出发，学习如何优化家居风水](./实战指南/home-feng-shui-layout-optimization.md) — 2024-02-01
 - [曾仕强易经讲座全集下载：含完整课集、适用版本及播放注意事项](./实战指南/zeng-shiqiang-yijing-lectures-download.md) — 2024-02-01
 - [AI 写作实操指南：快刀青衣教你提升职场内容产出效率](./实战指南/ai-writing-guide-workplace-efficiency.md) — 2024-01-31
+- [微信小程序开发全流程视频教程：从基础环境搭建至实战进阶指南](./实战指南/wechat-mini-program-development-video-tutorial.md) — 2024-01-31
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
