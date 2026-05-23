@@ -614,6 +614,7 @@
 - [Seal 视频下载指南：从安装到多平台视频保存的完整步骤](./Android应用/seal-video-downloader-guide.md) — 2024-03-10
 - [想在不登录且无广告的环境下看直播？试试 PureLive 纯粹直播第三方播放器](./Android应用/purelive-third-party-player.md) — 2024-03-07
 - [天空影视：iOS 平台影视类 App 的伪装上架实操指南](./Android应用/sky-movie-ios-app-cloaking-guide.md) — 2024-02-28
+- [APKUpdater：聚合 7 大渠道的开源 APK 自动更新工具（无广告、无跟踪）](./Android应用/apkupdater-open-source-apk-auto-update-tool.md) — 2024-02-25
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
