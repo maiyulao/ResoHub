@@ -1242,6 +1242,7 @@
 - [送礼避坑指南：109个容易被忽视的社交礼仪误区与禁忌](./书籍/gift-giving-etiquette-mistakes-guide.md) — 2024-03-01
 - [人工智能时代下的性健康指南：从AI安全交互到两性生活常识全书](./书籍/ai-era-sexual-health-guide.md) — 2024-03-01
 - [梅花易数实战指南：核心方法论与推荐书单](./书籍/meihua-yishu-practical-guide.md) — 2024-03-01
+- [女性提升多重高潮体验的实操指南：从生理机制到技巧训练](./书籍/female-multiple-orgasms-guide.md) — 2024-02-27
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
