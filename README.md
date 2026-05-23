@@ -4752,6 +4752,7 @@
 - [微信小程序开发全流程视频教程：从基础环境搭建至实战进阶指南](./实战指南/wechat-mini-program-development-video-tutorial.md) — 2024-01-31
 - [影评变现实操指南：从内容创作到流量转化与收益提升的12个核心环节](./实战指南/movie-review-monetization-guide.md) — 2024-01-31
 - [高效婚姻经营指南：通过系统化沟通与冲突处理机制，化解多数家庭矛盾](./实战指南/efficient-marriage-management-guide.md) — 2024-01-31
+- [英语口语体系化进阶指南：从零基础到流利表达的路径拆解](./实战指南/english-speaking-guide-beginner-to-fluent.md) — 2024-01-30
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
