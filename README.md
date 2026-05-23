@@ -4765,6 +4765,7 @@
 - [Photoshop 从入门到精通的进阶学习路径与操作指南](./实战指南/photoshop-beginner-to-advanced-guide.md) — 2024-01-28
 - [马士兵严选商城项目实操视频课：获取路径与部署环境指南](./实战指南/ma-shibing-mall-course-guide.md) — 2024-01-28
 - [儿童动画阅读课：培养学霸级高效阅读习惯的实操指南](./实战指南/kids-animation-reading-guide.md) — 2024-01-28
+- [打破认知局限：深度解析互联网变现的底层运作机制](./实战指南/internet-monetization-mechanisms.md) — 2024-01-28
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
