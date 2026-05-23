@@ -4578,6 +4578,7 @@
 - [2024初级与中级会计考证：从课程选择到学习计划的执行步骤](./实战指南/2024-accounting-certification-guide-courses-and-study-plan.md) — 2024-03-02
 - [学而思小学全科课程体系详解：科目覆盖范围与学习路径分析](./实战指南/xueersi-primary-course-system-analysis.md) — 2024-03-02
 - [快速查阅中国历史朝代时间跨度：高清图表获取与使用指南](./实战指南/china-dynasties-timeline-chart-guide.md) — 2024-03-02
+- [小红书电商运营实操指南：从零基础到精通的进阶步骤](./实战指南/xiaohongshu-ecommerce-operation-guide.md) — 2024-03-02
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
