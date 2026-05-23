@@ -4773,6 +4773,7 @@
 - [从 Python 基础到数据科学：深度之眼实战入门指南](./实战指南/python-to-data-science-guide.md) — 2024-01-28
 - [2024剑桥雅思全套备考资源：核心真题集与分项提分指南](./实战指南/cambridge-ielts-2024-preparation-resources.md) — 2024-01-28
 - [建筑CAD实战进阶指南：从基础到图纸绘制的126课快速习得路径](./实战指南/architectural-cad-advanced-guide-126-lessons.md) — 2024-01-27
+- [小升初英语全科提分资源库：涵盖核心考点、真题集与专项训练方案](./实战指南/primary-to-junior-high-english-resources.md) — 2024-01-27
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
