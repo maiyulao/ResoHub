@@ -1278,6 +1278,7 @@
 - [1500+本知乎优质文学精选：涵盖高分书单排行榜与付费专栏合集，分门别类高效阅读](./书籍/zhihu-literature-best-books-list.md) — 2024-02-10
 - [罕见病临床诊疗与特效药方应用操作指南](./书籍/rare-disease-clinical-diagnosis-and-treatment-guide.md) — 2024-02-10
 - [想系统学习经济学却不知从哪本起步？这份分级阅读书单为你理清路径](./书籍/economics-reading-list-for-beginners.md) — 2024-02-08
+- [1700+部情人节主题小说合集：资源下载指南及阅读环境配置说明](./书籍/valentines-day-novels-collection-download-guide.md) — 2024-02-07
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
