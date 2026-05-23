@@ -4606,6 +4606,7 @@
 - [陈伟鸿沟通技巧全集（24讲）：央视主持人实战对话指南与资源下载](./实战指南/chen-weihong-communication-skills-guide.md) — 2024-02-27
 - [2023年番茄小说人气榜单：100部高热度作品深度汇总与分类解析](./实战指南/2023-fanqie-novel-popularity-list-100.md) — 2024-02-26
 - [从零开始通过60个实操步骤掌握高商业价值的PPT制作技巧](./实战指南/master-high-value-ppt-skills-60-steps.md) — 2024-02-26
+- [李一舟全套商业实战课程（89.5GB）：涵盖从底层逻辑到落地执行的完整知识体系，含全网下架资源](./实战指南/li-yizhou-business-course-full-set.md) — 2024-02-26
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
