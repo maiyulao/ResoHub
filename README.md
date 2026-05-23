@@ -4604,6 +4604,7 @@
 - [MySQL 基础快速上手指南：6 日高效学习路径与全套实操资料](./实战指南/mysql-beginner-guide-6-day-learning-path.md) — 2024-02-28
 - [2.53TB付费短文爽剧资源库：全分类剧集深度合集](./实战指南/2-53tb-paid-short-drama-resource-library.md) — 2024-02-28
 - [陈伟鸿沟通技巧全集（24讲）：央视主持人实战对话指南与资源下载](./实战指南/chen-weihong-communication-skills-guide.md) — 2024-02-27
+- [2023年番茄小说人气榜单：100部高热度作品深度汇总与分类解析](./实战指南/2023-fanqie-novel-popularity-list-100.md) — 2024-02-26
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
