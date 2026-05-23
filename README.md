@@ -556,6 +556,7 @@
 - [高效 AI 图标生成工具：设计流程与实操指南](./AI工具教程/ai-icon-generator-guide.md) — 2024-02-05
 - [Essay Art：针对雅思、托福及GRE的免费AI写作批改方案](./AI工具教程/essay-art-free-ai-writing-correction-ielts-toefl-gre.md) — 2024-02-01
 - [想用 500 行代码搭建对话式 AI 搜索引擎？尝试开源方案 Lepton Search](./AI工具教程/build-conversational-ai-search-engine-lepton-search.md) — 2024-01-31
+- [AI Face Analyzer：基于深度学习的人脸特征分析与美学评分系统](./AI工具教程/ai-face-analyzer-deep-learning-aesthetic-scoring.md) — 2024-01-30
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
