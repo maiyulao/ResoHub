@@ -626,6 +626,7 @@
 ### Chrome
 - [Crx搜搜：支持一键下载浏览器扩展安装包的第三方应用商店使用指南](./Chrome/crx-sosuo-browser-extension-downloader-guide.md) — 2024-08-16
 - [AIX Downloader 深度评测：高效嗅探并批量提取网页音视频与图片资源](./Chrome/aix-downloader-review-media-extractor.md) — 2024-03-14
+- [使用 Just Mark-AI 实现网页一键收藏与 AI 智能分类检索的操作指南](./Chrome/just-mark-ai-web-bookmarking-guide.md) — 2024-02-28
 
 ### GitHub项目
 - [Lofi Radio Web：集成专注计时功能的开源网页播放器](./GitHub项目/lofi-radio-web-open-source-player.md) — 2026-05-01
