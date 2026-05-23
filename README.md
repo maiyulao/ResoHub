@@ -4701,6 +4701,7 @@
 - [幻兽帕鲁 Palworld v0.1.4.1 安装指南：支持单机与多人联机模式](./实战指南/palworld-v0-1-4-1-installation-guide.md) — 2024-02-10
 - [春节高分经典小品精选：分主题回顾年度笑点与艺术佳作](./实战指南/best-spring-festival-gala-skits-collection.md) — 2024-02-09
 - [1983至2023年春晚全集下载与观看指南：四步快速获取完整版](./实战指南/spring-festival-gala-1983-2023-download-guide.md) — 2024-02-09
+- [2024年1月行业洞察与科技趋势研究报告汇总](./实战指南/industry-insights-tech-trends-jan-2024.md) — 2024-02-08
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
