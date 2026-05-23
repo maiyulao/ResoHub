@@ -2456,6 +2456,7 @@
 - [Worldvectorlogo 全球矢量标志库：提供海量免费 SVG 格式 Logo 资源，支持快速检索与直接下载](./创意工具/worldvectorlogo-free-svg-logos-library.md) — 2024-03-01
 - [想在境内收款全球订单但没有香港公司？详解个人名义注册香港Stripe的最新操作流程](./创意工具/register-hong-kong-stripe-for-individuals.md) — 2024-02-29
 - [Screenmusings：专业电影色彩分析库与高分辨率剧照资源站](./创意工具/screenmusings-movie-color-analysis-stills.md) — 2024-02-27
+- [Y2meta 使用指南：高效下载 YouTube 视频的操作流程与功能解析](./创意工具/y2meta-youtube-downloader-guide.md) — 2024-02-27
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
