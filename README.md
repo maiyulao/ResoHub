@@ -1296,6 +1296,7 @@
 - [1700+部情人节主题小说合集：资源下载指南及阅读环境配置说明](./书籍/valentines-day-novels-collection-download-guide.md) — 2024-02-07
 - [Paul Graham 创业与思考精选集（2006-2023）：中英双语对照版](./书籍/paul-graham-essays-collection-2006-2023.md) — 2024-01-31
 - [香蕉草莓果汁调制全指南：掌握黄金配比，打造口感浓郁的清爽饮品](./书籍/banana-strawberry-juice-recipe.md) — 2024-01-29
+- [2023年故事会全集PDF下载：含阅读环境要求与兼容性说明](./书籍/2023-story-collection-pdf-download.md) — 2024-01-26
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
