@@ -897,6 +897,7 @@
 - [WARP+ 流量自动化获取方案：通过 API 接口实现 Clash 节点的密钥自动更新与流量续期](./GitHub项目/warp-plus-api-automation-clash-key-renewal.md) — 2024-02-28
 - [想做独立开发者出海却不知如何选型？这份全栈技术工具清单为你解答](./GitHub项目/full-stack-tech-stack-for-indie-hackers.md) — 2024-02-25
 - [主流网络工具（Shadowrocket/Loon/QX/Surge/Stash）配置库：集成高效模块、重写规则与插件集](./GitHub项目/network-tools-config-library.md) — 2024-02-13
+- [仓鼠助手：Pixiv图片下载与收藏管理工具（含内置免流线路）](./GitHub项目/hamster-assistant-pixiv-downloader-manager.md) — 2024-02-07
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
