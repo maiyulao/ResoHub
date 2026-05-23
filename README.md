@@ -1236,6 +1236,7 @@
 - [中医典籍中秘方与土方检索及应用操作指南](./书籍/traditional-chinese-medicine-secret-recipes-guide.md) — 2024-03-04
 - [想系统了解人体性医学却不知从何读起？这本覆盖面极广的专业书籍值得收藏](./书籍/introduction-to-human-sexual-medicine-book.md) — 2024-03-03
 - [送礼避坑指南：109个容易被忽视的社交礼仪误区与禁忌](./书籍/gift-giving-etiquette-mistakes-guide.md) — 2024-03-01
+- [人工智能时代下的性健康指南：从AI安全交互到两性生活常识全书](./书籍/ai-era-sexual-health-guide.md) — 2024-03-01
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
