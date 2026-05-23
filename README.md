@@ -4685,6 +4685,7 @@
 - [从零基础到高效实操：如何通过系统学习掌握 ChatGPT 的进阶应用技巧？](./实战指南/master-chatgpt-advanced-tips-guide.md) — 2024-02-14
 - [全国货源采购指南：核心批发渠道分类与高效寻源实操策略](./实战指南/china-wholesale-sourcing-guide.md) — 2024-02-13
 - [情人节汇报或表白没灵感？这48套高颜值PPT模板帮你快速出片](./实战指南/valentines-day-ppt-templates.md) — 2024-02-13
+- [想尝试电子手账却不知如何排版？这里有300多套分类笔记模板可直接套用](./实战指南/digital-planner-layout-templates.md) — 2024-02-11
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
