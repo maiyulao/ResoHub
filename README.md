@@ -4636,6 +4636,7 @@
 - [李越情商提升视频课：15日快速上手指南及学习注意事项](./实战指南/li-yue-eq-course-guide.md) — 2024-02-23
 - [高效电子表格设计指南：从基础布局到视觉美化的15个核心步骤](./实战指南/efficient-spreadsheet-design-guide-15-steps.md) — 2024-02-23
 - [从入门到精通：Sora 视频生成全流程操作指南](./实战指南/sora-video-generation-complete-guide.md) — 2024-02-22
+- [2023年得到「每天听本书」全年度知识体系：核心洞察汇总与分领域精选指南](./实战指南/get-daily-book-2023-knowledge-system-guide.md) — 2024-02-22
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
