@@ -4795,6 +4795,7 @@
 - [尚硅谷在线支付系统开发实战：源码解析与课件指南](./实战指南/shangguigu-online-payment-system-source-code-guide.md) — 2024-01-24
 - [小初衔接寒假教辅资源集锦：涵盖核心学科重点，分年级提供针对性学习资料](./实战指南/primary-to-junior-high-winter-study-resources.md) — 2024-01-23
 - [12款免费电视盒子软件安装与配置指南](./实战指南/12-free-tv-box-software-guide.md) — 2024-01-23
+- [60部欧美高分限制级电影推荐及观看指南](./实战指南/best-r-rated-western-movies-guide.md) — 2024-01-23
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
