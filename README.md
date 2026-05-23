@@ -2639,6 +2639,7 @@
 - [高阶社交与情感沟通实操课程：获取路径及适用场景指南](./大人学习课程/advanced-social-emotional-communication-course-guide.md) — 2024-03-07
 - [面对聊天没话题或冷场怎么办？小鲸恋爱班未知聊天特训营为你拆解沟通技巧](./大人学习课程/conversation-skills-stop-awkward-silence.md) — 2024-03-03
 - [梵公子全球社交实战：2023世界巡回情感进阶课程（11期打包版）](./大人学习课程/fan-gongzi-global-social-course-2023-v11.md) — 2024-02-29
+- [许佑生《口爱》实操指南：提升亲密体验的步骤详解](./大人学习课程/xu-yousheng-oral-sex-guide.md) — 2024-02-26
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
