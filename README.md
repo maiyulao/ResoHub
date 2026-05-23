@@ -4592,6 +4592,7 @@
 - [公务员考试备考资源集：行测申论真题解析、题库及选岗指南](./实战指南/civil-service-exam-prep-resources.md) — 2024-03-01
 - [外贸全流程实操课程集：从入门到精通的学习资源与部署指南](./实战指南/foreign-trade-practical-course-guide.md) — 2024-02-29
 - [Vue 大型项目架构实战：从零构建可扩展的工程体系](./实战指南/vue-large-project-architecture-guide.md) — 2024-02-29
+- [MySQL 基础快速上手指南：6 日高效学习路径与全套实操资料](./实战指南/mysql-beginner-guide-6-day-learning-path.md) — 2024-02-28
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
