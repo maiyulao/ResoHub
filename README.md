@@ -1396,6 +1396,7 @@
 - [想在零基础状态下改善字迹？这份从入门到精通的练字指南帮你告别潦草](./兴趣爱好/handwriting-improvement-guide-for-beginners.md) — 2024-02-22
 - [B站闫帅奇28天极速减脂计划：课程获取路径与居家训练注意事项](./兴趣爱好/yan-shuaiqi-28-day-fat-loss-plan.md) — 2024-02-21
 - [刘飞 AI 绘画全流程指南：从环境配置到实操技巧（完结版）](./兴趣爱好/liufei-ai-painting-complete-guide.md) — 2024-02-19
+- [想快速高效减脂却找不到节奏？跟随郑多燕完成这套32天Robics魅力瘦身操全集带练](./兴趣爱好/zheng-duoyan-32-day-robics-fat-loss-workout.md) — 2024-02-18
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
