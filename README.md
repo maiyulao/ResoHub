@@ -551,6 +551,7 @@
 - [AI 职位描述生成器：在线生成适配不同岗位的 JD 模版及配置指南](./AI工具教程/ai-job-description-generator.md) — 2024-02-15
 - [GPT Prompting 提示词生成器：配置指南与高效指令获取方法](./AI工具教程/gpt-prompt-generator-guide.md) — 2024-02-14
 - [BRIA Background Removal v1.4 开源照片背景去除模型部署与使用指南](./AI工具教程/bria-background-removal-v1-4-deployment-guide.md) — 2024-02-10
+- [Image to Music V2 部署指南：基于图像生成音乐的实现路径与环境配置](./AI工具教程/image-to-music-v2-deployment-guide.md) — 2024-02-09
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
