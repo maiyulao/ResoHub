@@ -4679,6 +4679,7 @@
 - [2020-2024年德云社相声精品全集：核心经典剧目索引与分年度演艺回顾](./实战指南/deyunshe-cross-talk-collection-2020-2024.md) — 2024-02-16
 - [AI 核心资源库：从工具集到实战指南的深度汇总](./实战指南/ai-core-resource-library.md) — 2024-02-15
 - [从零基础到高效实操：如何通过系统学习掌握 ChatGPT 的进阶应用技巧？](./实战指南/master-chatgpt-advanced-tips-guide.md) — 2024-02-14
+- [全国货源采购指南：核心批发渠道分类与高效寻源实操策略](./实战指南/china-wholesale-sourcing-guide.md) — 2024-02-13
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
