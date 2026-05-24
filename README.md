@@ -2701,6 +2701,7 @@
 - [想找回童年玩过的经典中文老游戏？这里有 3000 多个在线免安装版本供你畅玩](./创意工具/classic-chinese-retro-games-online.md) — 2023-12-14
 - [盐神居：知乎盐选专栏内容的同步镜像与免费阅读平台](./创意工具/yanshenju-zhihu-yansuan-mirror.md) — 2023-12-14
 - [重新定义咖啡因摄入量：低剂量即可维持高效能，详解剂量递减的生理逻辑与实操方案](./创意工具/low-dose-caffeine-efficiency-guide.md) — 2023-12-14
+- [面对海量书单不知如何选择？这份 Shepherd 2023 年度精选指南帮你精准锁定好书](./创意工具/shepherd-2023-best-books-guide.md) — 2023-12-14
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
