@@ -2678,6 +2678,7 @@
 - [知乎盐选小说与付费回答免费阅读资源：在线获取方式及使用指南](./创意工具/zhihu-yansuan-free-reading-guide.md) — 2023-12-21
 - [老画报网：在线浏览经典连环画与小人书数字化资源指南](./创意工具/old-picture-books-digital-guide.md) — 2023-12-21
 - [Iconoir 开源 SVG 图标库：含 1500+ 矢量资源，支持直接下载与在线定制](./创意工具/iconoir-open-source-svg-icons.md) — 2023-12-21
+- [海量热门小说免费在线阅读：打造极简体验的数字书城，涵盖多维度文学分类与实时更新资源](./创意工具/free-online-novels-digital-bookstore.md) — 2023-12-20
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
