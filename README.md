@@ -1383,6 +1383,7 @@
 - [兼职创业指南：100个低门槛且可快速上手的副业方案](./书籍/side-hustle-guide-100-low-barrier-ideas.md) — 2023-12-14
 - [丁香医生《人体调查组》电子书资源下载与阅读指南](./书籍/dingxiang-human-body-investigation-ebook-download-guide.md) — 2023-12-06
 - [经典风水典籍指南：从基础理论到实战应用的书单推荐](./书籍/classic-feng-shui-books-guide.md) — 2023-12-06
+- [想在计算机领域构建完整的知识体系？这191本经典黑皮书或许能提供答案](./书籍/191-classic-computer-science-books-knowledge-system.md) — 2023-12-04
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
