@@ -4997,6 +4997,7 @@
 - [从零起步：微信小程序开发全流程实战指南](./实战指南/wechat-mini-program-development-guide.md) — 2023-12-22
 - [手机拍出专业短片：从拍摄到成片的完整操作指南](./实战指南/professional-mobile-video-guide.md) — 2023-12-22
 - [黄冈小状元全系列教辅资源下载：含适用年级与版本选购指南](./实战指南/huanggang-xiaozhuangyuan-resources-download-guide.md) — 2023-12-22
+- [Python 爬虫进阶：从零实现深度学习验证码识别](./实战指南/python-crawler-deep-learning-captcha-recognition.md) — 2023-12-22
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
