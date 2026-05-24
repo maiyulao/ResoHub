@@ -1133,6 +1133,7 @@
 - [VOICEVOX：可商用开源日语TTS软件下载与配置指南](./Mac软件/voicevox-open-source-japanese-tts-guide.md) — 2024-01-04
 - [GPT4All 实测：无需 GPU 与联网的本地开源 LLM 部署指南](./Mac软件/gpt4all-local-llm-deployment-guide.md) — 2023-12-13
 - [Drawing Pics：支持离线部署的本地化 Stable Diffusion AI 绘画工具](./Mac软件/drawing-pics-stable-diffusion-offline-ai-tool.md) — 2023-12-13
+- [高效获取微信视频号无水印原片：WeChatVideoDownloader 核心功能解析与操作指南](./Mac软件/wechat-video-downloader-guide.md) — 2023-12-11
 
 ### Twitter
 - [BlockExpress 插件安装指南：通过浏览器订阅推特 Web3 KOL 动态与行业情报](./Twitter/blockexpress-installation-guide-twitter-web3-kol-tracking.md) — 2024-05-24
