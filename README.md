@@ -2737,6 +2737,7 @@
 - [Construct101：实操导向的DIY项目库，涵盖从基础构思到成品实现的完整手工指南](./创意工具/construct101-diy-project-guide.md) — 2023-12-04
 - [全球预付费数据SIM卡全指南：核心运作机制、选购标准与全球漫游实操详解](./创意工具/global-prepaid-data-sim-guide.md) — 2023-12-04
 - [Spotify BOT：支持 FLAC 无损格式的音乐下载指南](./创意工具/spotify-bot-flac-download-guide.md) — 2023-12-03
+- [磁力多：高效BT资源检索与磁力链接搜索指南](./创意工具/magnetic-search-guide.md) — 2023-12-03
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
