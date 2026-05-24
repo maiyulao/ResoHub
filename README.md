@@ -1400,6 +1400,7 @@
 - [小红书高权重起号与精准引流实操指南：实现日增百粉的运营全流程](./互联网营销/xiaohongshu-growth-and-traffic-guide.md) — 2024-03-08
 - [全合伙模式：实现从超级单店到快速连锁的规模化跃迁](./互联网营销/full-partnership-model-scale-up-franchise.md) — 2024-03-06
 - [实现产品规模化自增长的 5 个核心操作步骤](./互联网营销/5-steps-for-product-growth-scaling.md) — 2023-12-23
+- [私域商业模式全解析：从顶层逻辑构建到总裁级实战执行方案](./互联网营销/private-traffic-business-model-guide.md) — 2023-12-09
 
 ### 兴趣爱好
 - [家里东西总是在整理后迅速回潮？掌握这套收纳逻辑，让空间持久有序](./e585b4e8b6a3e788b1e5a5bd/home-organization-logic-for-lasting-order.md) — 2025-12-07
