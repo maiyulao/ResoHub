@@ -2604,6 +2604,7 @@
 - [风鸟查询：企业信用信息免费检索工具](./创意工具/fengniao-enterprise-credit-search.md) — 2024-01-12
 - [TG搜：Telegram中文内容检索工具指南](./创意工具/telegram-chinese-search-tool-guide.md) — 2024-01-11
 - [1000款白噪音在线资源库：提升专注力与睡眠质量的音频指南](./创意工具/1000-white-noise-resources-for-focus-and-sleep.md) — 2024-01-09
+- [多平台网盘资源聚合搜索工具：一键穿透百度、阿里、夸克及迅雷云盘数据索引](./创意工具/multi-platform-cloud-drive-search-tool.md) — 2024-01-09
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
