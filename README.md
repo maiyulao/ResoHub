@@ -1315,6 +1315,7 @@
 - [掌阅精品出版书单：3600册核心著作索引](./书籍/zhangyue-premium-book-list-3600-index.md) — 2024-01-17
 - [前x快速上手指南：从环境配置到实操应用的完整步骤](./书籍/front-x-quick-start-guide.md) — 2024-01-17
 - [2500册亚马逊原版电子书库：涵盖多领域专业知识，提供高纯度数字化阅读资源](./书籍/2500-amazon-ebooks-library.md) — 2024-01-17
+- [725部英汉双语世界名著精选集](./书籍/725-english-chinese-world-classics-collection.md) — 2024-01-15
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
