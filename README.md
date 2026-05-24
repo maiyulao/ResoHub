@@ -1184,6 +1184,7 @@
 - [Photoshop 2024 v25.4.0 绿色精简版：无需激活直接运行，适用于快速部署环境](./Windows软件/photoshop-2024-v25-4-0-portable-edition.md) — 2024-01-31
 - [Speed Fox：开源免费的游戏网络加速方案](./Windows软件/speed-fox-open-source-game-accelerator.md) — 2024-01-20
 - [想实现抖音直播的自动循环值守或多路同时录制？试试 DouyinLiveRecorder](./Windows软件/douyin-live-recorder-auto-loop-recording.md) — 2024-01-19
+- [团子翻译器安装指南：支持OCR识别的生肉翻译工具及配置要点](./Windows软件/dango-translator-installation-guide.md) — 2024-01-17
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
