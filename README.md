@@ -5100,6 +5100,7 @@
 - [TikTok 驱动独立站增长全指南：从零构建流量闭环至实现高效转化](./实战指南/tiktok-shopify-growth-guide-traffic-conversion.md) — 2023-12-04
 - [皮肤护理科学指南：从生理机制到精准管理实践](./实战指南/skin-care-science-guide.md) — 2023-12-04
 - [想用 Python 做数据分析却不知从何入手？这份微专业学习指南为你拆解核心路径](./实战指南/python-data-analysis-learning-guide.md) — 2023-12-04
+- [面对社交场合的局促与心动时的不知如何开口？解析柯恩杰的快速建立吸引力技巧](./实战指南/cohen-attraction-techniques-social-skills.md) — 2023-12-03
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
