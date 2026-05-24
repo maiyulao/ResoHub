@@ -5067,6 +5067,7 @@
 ### 小声说
 - [面对职场沟通不畅或晋升受阻？这22条隐形成长逻辑帮你快速破局](./小声说/workplace-growth-logic-career-breakthrough.md) — 2024-12-18
 - [互联网新人如何快速读懂职场黑话：从解析到实操的四步指南](./小声说/guide-to-understanding-corporate-jargon-for-beginners.md) — 2024-01-04
+- [亚马逊封号避坑指南：排查并解决导致账号被停用的10个关键因素](./小声说/amazon-account-suspension-guide-10-factors.md) — 2023-12-10
 
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
