@@ -587,6 +587,7 @@
 - [头部大厂AI落地实战：从技术选型到场景部署的实施步骤](./AI工具教程/ai-implementation-guide-enterprise-deployment.md) — 2023-12-18
 - [Lobe Chat 开源部署指南：支持联网与多模态插件的高性能聊天框架](./AI工具教程/lobe-chat-open-source-deployment-guide.md) — 2023-12-17
 - [写论文时不知如何起草文献综述？尝试用 Seamless-AI 将研究描述转化为学术综述初稿](./AI工具教程/write-literature-review-with-seamless-ai.md) — 2023-12-16
+- [Vectorpea：无需安装的在线矢量图编辑器，兼容 PSD 格式及网页端运行环境](./AI工具教程/vectorpea-online-vector-editor.md) — 2023-12-14
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
