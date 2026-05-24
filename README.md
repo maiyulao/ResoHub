@@ -1519,6 +1519,7 @@
 - [零基础古风美妆指南：汉服与仙气妆容实操教程](./兴趣爱好/ancient-style-makeup-guide-for-beginners.md) — 2023-12-25
 - [独角兽专业美甲教学：全流程实操视频课程指南](./兴趣爱好/unicorn-nail-art-training-course.md) — 2023-12-22
 - [王力宏线上唱歌教学课程：获取渠道、适用人群及学习要点说明](./兴趣爱好/leehom-wang-singing-course-guide.md) — 2023-12-18
+- [帕梅拉全套高清健身课程资源指南（28GB完整版）](./兴趣爱好/pamela-fitness-courses-complete-guide.md) — 2023-12-09
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
