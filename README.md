@@ -928,6 +928,7 @@
 - [SearchEmoji开源项目：Emoji快捷搜索工具部署与使用指南](./GitHub项目/searchemoji-deployment-guide.md) — 2024-01-10
 - [追求极致秩序：Mac 系统深度配置方案](./GitHub项目/mac-system-deep-configuration-guide.md) — 2024-01-10
 - [无需翻译插件即可阅读海外媒体中文报道的操作指南](./GitHub项目/read-foreign-media-chinese-without-plugins.md) — 2024-01-09
+- [小米 BootLoader 解锁资格审核指南：答题要点与申请流程全解析](./GitHub项目/xiaomi-bootloader-unlock-guide.md) — 2024-01-08
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
