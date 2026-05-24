@@ -5076,6 +5076,7 @@
 - [高情商社交实操指南：从心态转变到沟通技巧的 5 个核心步骤](./实战指南/high-eq-social-skills-guide.md) — 2023-12-09
 - [年会策划实操指南：从创意构思到执行方案的全流程拆解](./实战指南/annual-meeting-planning-guide.md) — 2023-12-08
 - [钢琴初学者基础练习指南：从核心指法技巧到入门曲谱实操建议](./实战指南/piano-beginner-basic-exercises-guide.md) — 2023-12-07
+- [如何下载 2012-2023 年电脑报系列资源（含 2023 年第 46 期 PDF 及图片）](./实战指南/download-computer-bao-resources-2012-2023.md) — 2023-12-07
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
