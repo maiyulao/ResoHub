@@ -562,6 +562,7 @@
 - [PostNitro：高效构建 AI 驱动的轮播图生成方案](./AI工具教程/postnitro-ai-carousel-generator.md) — 2024-01-24
 - [对象闹脾气不知道怎么安抚？试试这款能帮你精准话术破冰的 AI 哄哄模拟器 Web 版](./AI工具教程/ai-honghong-simulator-web-guide.md) — 2024-01-22
 - [想要快速定制个性化桌面背景？试试这款开源 AI 壁纸生成器](./AI工具教程/open-source-ai-wallpaper-generator.md) — 2024-01-21
+- [IP Adapter FaceID 部署指南：实现高保真 AI 人脸克隆与生成](./AI工具教程/ip-adapter-faceid-deployment-guide.md) — 2024-01-16
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
