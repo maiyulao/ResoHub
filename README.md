@@ -573,6 +573,7 @@
 - [高效AI换脸工具指南：免费实现图片与视频面部替换的实操方案](./AI工具教程/ai-face-swap-tools-guide.md) — 2024-01-11
 - [GPT-like 镜像站构建指南：API 资源整合与商业运营实操](./AI工具教程/gpt-mirror-site-guide-api-and-business.md) — 2024-01-08
 - [AIundetect：AI生成内容检测与拟人化改写工具实测](./AI工具教程/aiundetect-review-ai-detection-humanizer.md) — 2024-01-08
+- [OpenVoice部署指南：支持即时克隆的AI语音工具及环境配置要点](./AI工具教程/openvoice-deployment-guide-ai-voice-cloning.md) — 2024-01-07
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
