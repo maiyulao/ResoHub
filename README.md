@@ -2619,6 +2619,7 @@
 - [Hacker News Who is Hiring：远程岗位实时获取渠道与申请指南](./创意工具/hacker-news-who-is-hiring-remote-jobs-guide.md) — 2024-01-07
 - [名企 Onsite 面试全流程拆解与实战经验指南](./创意工具/onsite-interview-guide-experience.md) — 2024-01-07
 - [精选 Newsletter 导航库：快速发现高价值邮件订阅，通过多维度分类挖掘领域深度内容](./创意工具/curated-newsletter-directory.md) — 2024-01-06
+- [Amemei Lists：精选成人向在线游戏库，提供多维度分类与实时更新的资源索引](./创意工具/amemei-adult-game-library-index.md) — 2024-01-04
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
