@@ -5130,6 +5130,7 @@
 
 ### 浏览器插件
 - [PageTalk 开源解析：轻量化 AI 浏览器插件的功能与实践](./浏览器插件/pagetalk-open-source-ai-browser-extension.md) — 2025-04-26
+- [跨境卖家实时汇率转换插件：一键实现多币种精准换算，优化定价策略与成本核算](./浏览器插件/cross-border-currency-converter-plugin.md) — 2023-12-16
 
 ### 演示分类
 - [OpenCyvis 开源项目：基于虚拟显示器的 Android AI Agent 部署与配置指南](./演示分类/opencyvis-%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae%ef%bc%9a%e5%9f%ba%e4%ba%8e%e8%99%9a%e6%8b%9f%e6%98%be%e7%a4%ba%e5%99%a8%e7%9a%84-android-ai-agent-%e9%83%a8%e7%bd%b2%e4%b8%8e%e9%85%8.md) — 2026-05-19
