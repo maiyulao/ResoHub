@@ -2673,6 +2673,7 @@
 - [自由职业者高效起步指南：从工具选择到资源配置的实操步骤](./创意工具/freelancers-startup-guide-tools-and-resources.md) — 2023-12-23
 - [高品质播客精选清单：全平台收听指南与分类推荐](./创意工具/best-podcasts-guide-and-recommendations.md) — 2023-12-23
 - [包子漫画：纯净无广告的免费在线阅读平台](./创意工具/baozi-manga-free-ad-free-reader.md) — 2023-12-22
+- [知乎盐选小说与付费回答免费阅读资源：在线获取方式及使用指南](./创意工具/zhihu-yansuan-free-reading-guide.md) — 2023-12-21
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
