@@ -1339,6 +1339,7 @@
 - [中小学生寒假经典书单：电子资源下载及分年级阅读指南](./书籍/winter-break-reading-list-for-students.md) — 2024-01-13
 - [医学类专业电子书资源汇总：下载渠道、适用场景及检索要点](./书籍/medical-ebooks-resources-guide.md) — 2024-01-10
 - [微信读书精选分类书单：整理版获取路径与适用场景指南](./书籍/wechat-reading-curated-booklists-guide.md) — 2024-01-06
+- [方舟系列：如何高效阅读并实践《怎样不受气》PDF版](./书籍/how-to-read-and-practice-dont-get-angry-pdf.md) — 2024-01-05
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
