@@ -2705,6 +2705,7 @@
 - [重新定义咖啡因摄入量：低剂量即可维持高效能，详解剂量递减的生理逻辑与实操方案](./创意工具/low-dose-caffeine-efficiency-guide.md) — 2023-12-14
 - [面对海量书单不知如何选择？这份 Shepherd 2023 年度精选指南帮你精准锁定好书](./创意工具/shepherd-2023-best-books-guide.md) — 2023-12-14
 - [leakedz平台深度评测：通过第三方接口访问OnlyFans付费内容的机制与实操指南](./创意工具/leakedz-onlyfans-review-guide.md) — 2023-12-13
+- [高效新媒体运营全链路工具集：从内容创作到数据增长的实操指南](./创意工具/new-media-operations-toolkit-guide.md) — 2023-12-13
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
