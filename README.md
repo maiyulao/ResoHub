@@ -926,6 +926,7 @@
 - [高效提升 Mac 生产力的软件安装与配置指南](./GitHub项目/mac-productivity-software-setup-guide.md) — 2024-01-18
 - [500个动态更新的优质IPTV直播源：自动化抓取与维护指南](./GitHub项目/500-dynamic-iptv-playlist-automation-guide.md) — 2024-01-12
 - [SearchEmoji开源项目：Emoji快捷搜索工具部署与使用指南](./GitHub项目/searchemoji-deployment-guide.md) — 2024-01-10
+- [追求极致秩序：Mac 系统深度配置方案](./GitHub项目/mac-system-deep-configuration-guide.md) — 2024-01-10
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
