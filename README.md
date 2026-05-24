@@ -2878,6 +2878,7 @@
 - [从心态反转到吸引力重塑：将挽回僵局转化为对方主动追求的实操策略](./大人学习课程/mindset-shift-attraction-recovery-strategy.md) — 2024-01-01
 - [灵彤彤《勾魂夺心36计》高情商沟通话术课程资源：适用场景与学习要点说明](./大人学习课程/ling-tongtong-communication-skills-course.md) — 2023-12-31
 - [想找韩国车展秀场模特的高清饭拍资源？这份 4K 学习素材清单请收好](./大人学习课程/korea-motor-show-model-4k-photos.md) — 2023-12-30
+- [男性体能增强与身体素质提升指南](./大人学习课程/mens-physical-fitness-improvement-guide.md) — 2023-12-22
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
