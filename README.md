@@ -2708,6 +2708,7 @@
 - [leakedz平台深度评测：通过第三方接口访问OnlyFans付费内容的机制与实操指南](./创意工具/leakedz-onlyfans-review-guide.md) — 2023-12-13
 - [高效新媒体运营全链路工具集：从内容创作到数据增长的实操指南](./创意工具/new-media-operations-toolkit-guide.md) — 2023-12-13
 - [知乎变现全路径指南：拆解900个实操案例，分维度解析获利模型与执行细节](./创意工具/zhihu-monetization-guide-case-studies.md) — 2023-12-11
+- [想知道家里养的植物是否会毒害宠物？试试这个宠物植物毒性检测工具](./创意工具/pet-plant-toxicity-checker.md) — 2023-12-11
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
