@@ -2675,6 +2675,7 @@
 - [包子漫画：纯净无广告的免费在线阅读平台](./创意工具/baozi-manga-free-ad-free-reader.md) — 2023-12-22
 - [知乎盐选小说与付费回答免费阅读资源：在线获取方式及使用指南](./创意工具/zhihu-yansuan-free-reading-guide.md) — 2023-12-21
 - [老画报网：在线浏览经典连环画与小人书数字化资源指南](./创意工具/old-picture-books-digital-guide.md) — 2023-12-21
+- [Iconoir 开源 SVG 图标库：含 1500+ 矢量资源，支持直接下载与在线定制](./创意工具/iconoir-open-source-svg-icons.md) — 2023-12-21
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
