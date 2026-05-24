@@ -2720,6 +2720,7 @@
 - [想在业余时间增加收入却不知从何入手？这份国内外实操副业清单为你提供参考](./创意工具/side-hustle-ideas-list.md) — 2023-12-09
 - [想找某部电影里的经典台词却不知出处？试试 QuoDB 英文影视台词搜索引擎](./创意工具/quodb-movie-quotes-search-engine.md) — 2023-12-08
 - [ABC中英文早教资源集：百度网盘高效下载指南](./创意工具/abc-early-education-resources-baidu-netdisk-guide.md) — 2023-12-08
+- [Freebookcentre：高效获取专业英文电子书的免费资源站](./创意工具/freebookcentre-free-english-ebooks-resource.md) — 2023-12-08
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
