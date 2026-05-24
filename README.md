@@ -5044,6 +5044,7 @@
 - [4K超清版《泰勒·斯威夫特：时代巡回演唱会》中英双语字幕资源](./实战指南/taylor-swift-the-eras-tour-4k-dual-subtitles.md) — 2023-12-14
 - [精选快手抖音热门国语短剧：高分爽文剧集合集及快速观看指南](./实战指南/popular-chinese-short-dramas-guide.md) — 2023-12-14
 - [如何通过股权设计实现财富跃迁？拆解阮思乔的企业股权一体化实操方案](./实战指南/equity-design-wealth-growth-ruan-siqiao.md) — 2023-12-14
+- [搜索能力变现指南：掌握高价值职场技能以提升收入](./实战指南/search-skills-monetization-guide.md) — 2023-12-14
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
