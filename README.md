@@ -5124,6 +5124,7 @@
 - [Bewly：Bilibili 开源美化插件安装指南及个性化配置说明](./效率工具/bewly-bilibili-plugin-installation-guide.md) — 2024-01-23
 - [Instagram 媒体资源下载工具：支持图片与视频保存及适用环境配置指南](./效率工具/instagram-media-downloader-guide.md) — 2024-01-20
 - [Douban Book+ 插件指南：实现豆瓣图书与微信读书、Kindle 资源的快速跳转](./效率工具/douban-book-plus-guide.md) — 2024-01-18
+- [SuperCopy 浏览器插件下载：解除网页右键禁用与复制限制的实用指南](./效率工具/supercopy-browser-extension-download-guide.md) — 2023-12-15
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
