@@ -2643,6 +2643,7 @@
 - [如何使用 Best Similar 查找相似电影：操作指南与推荐技巧](./创意工具/how-to-use-best-similar-for-movies.md) — 2023-12-30
 - [使用 CapHacker 免费生成无水印 AI 视频字幕的操作指南](./创意工具/caphacker-free-ai-video-subtitles-guide.md) — 2023-12-30
 - [如何使用 Lycium 在线制作三国杀卡牌：全平台免安装操作指南](./创意工具/lycium-sanguosha-card-maker-guide.md) — 2023-12-29
+- [电商搜索关键词技巧：通过平替词挖掘低价好物](./创意工具/ecommerce-search-keyword-tips-alternative-words.md) — 2023-12-29
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
