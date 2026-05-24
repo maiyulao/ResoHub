@@ -1328,6 +1328,7 @@
 - [2500册亚马逊原版电子书库：涵盖多领域专业知识，提供高纯度数字化阅读资源](./书籍/2500-amazon-ebooks-library.md) — 2024-01-17
 - [725部英汉双语世界名著精选集](./书籍/725-english-chinese-world-classics-collection.md) — 2024-01-15
 - [中小学生寒假经典书单：电子资源下载及分年级阅读指南](./书籍/winter-break-reading-list-for-students.md) — 2024-01-13
+- [医学类专业电子书资源汇总：下载渠道、适用场景及检索要点](./书籍/medical-ebooks-resources-guide.md) — 2024-01-10
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
