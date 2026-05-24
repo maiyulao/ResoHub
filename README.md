@@ -2663,6 +2663,7 @@
 - [高效构建多平台应用图标：IconKitchen 自动化生成全套尺寸适配方案](./创意工具/iconkitchen-multi-platform-app-icons-generator.md) — 2023-12-24
 - [想注册美国服务却卡在地址验证？试试用 Fak Exy 生成虚拟美国地址](./创意工具/generate-virtual-us-address-with-fake-exy.md) — 2023-12-24
 - [新加坡移居指南：签证申请路径、生活环境评估与办理要点](./创意工具/singapore-relocation-guide-visa-and-living.md) — 2023-12-24
+- [全网通通用IPTV M3U源：内网外网双兼容，实现极速流畅加载](./创意工具/universal-iptv-m3u-source-fast-loading.md) — 2023-12-24
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
