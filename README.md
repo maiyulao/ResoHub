@@ -4833,6 +4833,7 @@
 - [为什么努力学习却不见成效？尝试用斯坦福科学学习法重塑知识内化路径](./实战指南/stanford-scientific-learning-method-for-knowledge-internalization.md) — 2024-01-18
 - [亲子共赏指南：100部高价值纪录片精选清单](./实战指南/100-best-documentaries-for-parents-and-kids.md) — 2024-01-18
 - [101部1960-1990年代经典电影精选：174GB高清资源，纵览三十年影史黄金时代](./实战指南/101-classic-movies-1960-1990s-hd-collection.md) — 2024-01-18
+- [面对汇报急需但没时间设计？这里有 2 万余套可直接套用的付费级 PPT 模板](./实战指南/premium-ppt-templates-collection.md) — 2024-01-17
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
