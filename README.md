@@ -4885,6 +4885,7 @@
 - [老A系列官场与职场实操课程：资源获取路径及适用场景指南](./实战指南/old-a-series-resource-acquisition-guide.md) — 2024-01-09
 - [高审美壁纸精选：多场景视觉素材集锦](./实战指南/aesthetic-wallpaper-collection.md) — 2024-01-09
 - [免费商用字体下载与安装全流程指南](./实战指南/free-commercial-fonts-download-install-guide.md) — 2024-01-09
+- [高效掌握Excel常用函数：从模板下载到实操应用的五步法](./实战指南/master-excel-functions-guide.md) — 2024-01-09
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
