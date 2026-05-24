@@ -1098,6 +1098,7 @@
 - [无需重启即可修复 macOS 运行时错误的具体操作步骤](./Mac软件/fix-macos-runtime-errors-without-restart.md) — 2024-02-10
 - [NovaMSS AI 音乐分离指南：高效提取人声、伴奏与多轨音源](./Mac软件/novamss-ai-music-separation-guide.md) — 2024-02-03
 - [如何使用 PicList 构建高效的云存储与图床管理工作流](./Mac软件/piclist-cloud-storage-image-bed-workflow.md) — 2024-01-31
+- [Ultimate Vocal Remover GUI 下载安装：支持多种AI模型的开源人声与伴奏分离工具](./Mac软件/ultimate-vocal-remover-gui-download-install.md) — 2024-01-11
 
 ### Twitter
 - [BlockExpress 插件安装指南：通过浏览器订阅推特 Web3 KOL 动态与行业情报](./Twitter/blockexpress-installation-guide-twitter-web3-kol-tracking.md) — 2024-05-24
