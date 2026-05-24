@@ -4948,6 +4948,7 @@
 - [托福110+高分进阶全方案：核心课程体系与备考路径](./实战指南/toefl-110-score-guide-and-curriculum.md) — 2023-12-30
 - [高效能解锁软件资源库：精选全功能工具集，分门别类解决实际应用需求](./实战指南/high-performance-software-resource-library.md) — 2023-12-30
 - [网易云音乐 2023 年度热门单曲 Top 100 榜单解析](./实战指南/netease-music-2023-top-100-songs-analysis.md) — 2023-12-30
+- [民间志异精选：500则佚名怪谈的演播与文化解读](./实战指南/folk-strange-tales-collection-and-analysis.md) — 2023-12-29
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
