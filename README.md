@@ -5073,6 +5073,7 @@
 - [网络安全入门全指南：100讲系统化学习路径](./实战指南/cybersecurity-beginners-guide-100-lessons.md) — 2023-12-11
 - [Oracle数据库工程师：从基础理论到实战部署的入门指南](./实战指南/oracle-database-engineer-beginner-guide.md) — 2023-12-09
 - [高情商社交实操指南：从心态转变到沟通技巧的 5 个核心步骤](./实战指南/high-eq-social-skills-guide.md) — 2023-12-09
+- [年会策划实操指南：从创意构思到执行方案的全流程拆解](./实战指南/annual-meeting-planning-guide.md) — 2023-12-08
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
