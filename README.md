@@ -4962,6 +4962,7 @@
 - [女性冥想瑜伽指南：通过身心修炼构建内在力量与掌控感](./实战指南/womens-meditation-yoga-guide-inner-strength.md) — 2023-12-27
 - [2023年度行业深度研究报告集：全领域核心趋势分析与关键数据洞察](./实战指南/2023-industry-research-reports-trends-insights.md) — 2023-12-27
 - [面对AI浪潮如何避免被替代？一份面向互联网从业者的AI能力实操进阶指南](./实战指南/ai-skill-guide-for-internet-professionals.md) — 2023-12-27
+- [从零基础到N1：日语全阶段学习资源指南](./实战指南/japanese-learning-resources-n1-guide.md) — 2023-12-27
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
