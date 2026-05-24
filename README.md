@@ -2612,6 +2612,7 @@
 - [多平台网盘资源聚合搜索工具：一键穿透百度、阿里、夸克及迅雷云盘数据索引](./创意工具/multi-platform-cloud-drive-search-tool.md) — 2024-01-09
 - [天堂磁力搜索引擎：在线磁力链接检索指南与使用注意事项](./创意工具/tiantang-magnet-search-guide.md) — 2024-01-08
 - [Hacker News Who is Hiring：远程岗位实时获取渠道与申请指南](./创意工具/hacker-news-who-is-hiring-remote-jobs-guide.md) — 2024-01-07
+- [名企 Onsite 面试全流程拆解与实战经验指南](./创意工具/onsite-interview-guide-experience.md) — 2024-01-07
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
