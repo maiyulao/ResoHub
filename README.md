@@ -1445,6 +1445,7 @@
 - [帕梅拉新手低强度训练指南：全天候减脂与塑形方案汇总](./兴趣爱好/pamela-beginner-low-intensity-workout-guide.md) — 2024-02-16
 - [想快速拿到驾照却不知从何入手？从科一到科四的全流程零基础通关指南](./兴趣爱好/driving-license-guide-for-beginners.md) — 2024-02-11
 - [想学摄影和航拍却没基础？这份零起点入门指南帮你快速上手](./兴趣爱好/photography-and-drone-beginner-guide.md) — 2024-01-18
+- [吉他弹唱零基础入门：从零到完结的实操学习步骤](./兴趣爱好/guitar-beginner-guide-step-by-step.md) — 2024-01-17
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
