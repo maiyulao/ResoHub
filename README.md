@@ -1490,6 +1490,7 @@
 - [想学摄影和航拍却没基础？这份零起点入门指南帮你快速上手](./兴趣爱好/photography-and-drone-beginner-guide.md) — 2024-01-18
 - [吉他弹唱零基础入门：从零到完结的实操学习步骤](./兴趣爱好/guitar-beginner-guide-step-by-step.md) — 2024-01-17
 - [易瘦饮食养成指南：从饮食结构调整到习惯养成的实操步骤](./兴趣爱好/easy-slim-diet-guide.md) — 2024-01-03
+- [零基础古风美妆指南：汉服与仙气妆容实操教程](./兴趣爱好/ancient-style-makeup-guide-for-beginners.md) — 2023-12-25
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
