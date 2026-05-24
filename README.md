@@ -1182,6 +1182,7 @@
 - [Topaz AI 全系列 8 款软件汉化解锁版：突破语言障碍，一站式实现 AI 图像与视频画质增强](./Windows软件/topaz-ai-all-software-chinese-unlocked-bundle.md) — 2024-02-17
 - [Photoshop 2024 v25.4.0 绿色精简版：无需激活直接运行，适用于快速部署环境](./Windows软件/photoshop-2024-v25-4-0-portable-edition.md) — 2024-01-31
 - [Speed Fox：开源免费的游戏网络加速方案](./Windows软件/speed-fox-open-source-game-accelerator.md) — 2024-01-20
+- [想实现抖音直播的自动循环值守或多路同时录制？试试 DouyinLiveRecorder](./Windows软件/douyin-live-recorder-auto-loop-recording.md) — 2024-01-19
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
