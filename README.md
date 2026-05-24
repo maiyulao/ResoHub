@@ -2689,6 +2689,7 @@
 - [想找那些反转快、节奏爽的短剧却不想付费？这里有全网热门短剧免费在线观看指南](./创意工具/free-popular-short-dramas-watch-guide.md) — 2023-12-18
 - [日语学习资源站：通过磁力链接高效获取稀有语料，涵盖多维度学习素材](./创意工具/japanese-learning-resources-magnet-links.md) — 2023-12-18
 - [如何使用 CiLiGeGe 搜索并获取磁力资源：详细操作指南](./创意工具/how-to-use-ciligege-for-magnet-links.md) — 2023-12-18
+- [从工具选择到变现落地：AI副业实操指南与项目清单](./创意工具/ai-side-hustle-guide-and-project-list.md) — 2023-12-16
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
