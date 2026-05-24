@@ -1379,6 +1379,7 @@
 - [万级价值：400套精选付费书籍资源清单](./书籍/400-premium-ebooks-resource-list.md) — 2023-12-20
 - [双色球中奖概率分析：基于Excel的选号逻辑与实操指南](./书籍/double-color-ball-lottery-probability-excel-guide.md) — 2023-12-17
 - [兼职创业指南：100个低门槛且可快速上手的副业方案](./书籍/side-hustle-guide-100-low-barrier-ideas.md) — 2023-12-14
+- [丁香医生《人体调查组》电子书资源下载与阅读指南](./书籍/dingxiang-human-body-investigation-ebook-download-guide.md) — 2023-12-06
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
