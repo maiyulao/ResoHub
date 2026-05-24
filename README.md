@@ -2659,6 +2659,7 @@
 - [小红书种草实操指南：通过构建“第三种营销范式”实现高效转化](./创意工具/xiaohongshu-marketing-guide-conversion.md) — 2023-12-26
 - [零域色彩：基于矢量的在线风格化头像定制工具](./创意工具/zero-domain-color-vector-avatar-stylizer.md) — 2023-12-24
 - [高效构建多平台应用图标：IconKitchen 自动化生成全套尺寸适配方案](./创意工具/iconkitchen-multi-platform-app-icons-generator.md) — 2023-12-24
+- [想注册美国服务却卡在地址验证？试试用 Fak Exy 生成虚拟美国地址](./创意工具/generate-virtual-us-address-with-fake-exy.md) — 2023-12-24
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
