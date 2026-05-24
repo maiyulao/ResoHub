@@ -1236,6 +1236,7 @@
 - [Vocal Separate：高效提取纯净人声与伴奏，支持多种音频格式的智能分离方案](./Windows软件/vocal-separate-intelligent-audio-splitter.md) — 2024-01-02
 - [想在本地保存 8K 高画质且无水印的 B 站视频？试试这款下载工具 downkyi](./Windows软件/download-bilibili-8k-no-watermark-downkyi.md) — 2024-01-01
 - [想批量保存小红书图文或视频却被水印困扰？试试这款开源免费的 XHS Downloader](./Windows软件/xhs-downloader-open-source-no-watermark.md) — 2023-12-21
+- [TTKMusicPlayer开源音乐播放器：支持无损音源下载与本地播放配置指南](./Windows软件/ttkmusicplayer-open-source-music-player-guide.md) — 2023-12-09
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
