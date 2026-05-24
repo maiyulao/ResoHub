@@ -2650,6 +2650,7 @@
 - [Emailspiration 英文邮件设计库：通过海量精美模版提升营销邮件的视觉转化率与排版质量](./创意工具/emailspiration-email-design-library.md) — 2023-12-28
 - [Cmacked 资源站：提供各类 Mac 软件解锁版下载](./创意工具/cmacked-mac-software-downloads.md) — 2023-12-27
 - [如何使用磁力酷搜索引擎高效检索磁力资源：完整操作步骤](./创意工具/how-to-use-cilikoo-search-engine.md) — 2023-12-27
+- [小红书种草实操指南：通过构建“第三种营销范式”实现高效转化](./创意工具/xiaohongshu-marketing-guide-conversion.md) — 2023-12-26
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
