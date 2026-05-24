@@ -2578,6 +2578,7 @@
 - [Join Screenshots：支持在线拼接电影台词截图的免费工具及使用指南](./创意工具/join-screenshots-movie-dialogue-tool-guide.md) — 2024-01-18
 - [全平台广播电台与电视直播聚合指南：实时在线收听，覆盖海量频道资源](./创意工具/radio-tv-live-streaming-guide.md) — 2024-01-17
 - [想知道日本哪些老师最受欢迎？这份2023年度销量排行榜揭晓答案](./创意工具/most-popular-japanese-teachers-sales-ranking-2023.md) — 2024-01-16
+- [想在海外远程办公却不清楚签证办理？这份全球数字游民签证指南为你解答](./创意工具/digital-nomad-visa-guide.md) — 2024-01-16
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
