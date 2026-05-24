@@ -580,6 +580,7 @@
 - [企业内部文档碎片化导致AI问答不准确？尝试用支持GPT-4的开源工具Danswer构建知识库](./AI工具教程/solve-ai-hallucination-with-danswer-knowledge-base.md) — 2023-12-30
 - [构建人工智能视频搜索引擎（AVSE）的完整开发步骤](./AI工具教程/build-ai-video-search-engine-avse.md) — 2023-12-26
 - [Looka 深度评测：利用 AI 快速构建品牌视觉识别系统与 Logo 设计指南](./AI工具教程/looka-review-ai-branding-logo-design-guide.md) — 2023-12-25
+- [Text-to-CAD 技术实现文本指令直接转化为 CAD 模型：解析从自然语言描述到参数化几何文件的生成流程与应用场景](./AI工具教程/text-to-cad-natural-language-to-parametric-geometry.md) — 2023-12-25
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
