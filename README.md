@@ -4968,6 +4968,7 @@
 - [面对AI浪潮如何避免被替代？一份面向互联网从业者的AI能力实操进阶指南](./实战指南/ai-skill-guide-for-internet-professionals.md) — 2023-12-27
 - [从零基础到N1：日语全阶段学习资源指南](./实战指南/japanese-learning-resources-n1-guide.md) — 2023-12-27
 - [情叔叔《入房术》恋爱实操课程：资源获取路径与适用场景指南](./实战指南/ru-fang-shu-course-guide.md) — 2023-12-27
+- [职场酒局社交指南：从入座到敬酒的实操步骤详解](./实战指南/workplace-drinking-etiquette-guide.md) — 2023-12-25
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
