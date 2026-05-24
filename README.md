@@ -582,6 +582,7 @@
 - [Looka 深度评测：利用 AI 快速构建品牌视觉识别系统与 Logo 设计指南](./AI工具教程/looka-review-ai-branding-logo-design-guide.md) — 2023-12-25
 - [Text-to-CAD 技术实现文本指令直接转化为 CAD 模型：解析从自然语言描述到参数化几何文件的生成流程与应用场景](./AI工具教程/text-to-cad-natural-language-to-parametric-geometry.md) — 2023-12-25
 - [ComfyUI Portrait Master 简体中文版：实现高精度人像控制的专业工作流，集成细节增强与面部优化模块](./AI工具教程/comfyui-portrait-master-chinese-workflow.md) — 2023-12-25
+- [Talk2Arxiv：基于 ChatGPT 实现 ArXiv 论文交互式阅读的部署与使用指南](./AI工具教程/talk2arxiv-chatgpt-arxiv-interactive-reading-guide.md) — 2023-12-23
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
