@@ -4977,6 +4977,7 @@
 - [2024年小升初招生真题下载：涵盖各区适用版本及考点解析](./实战指南/2024-primary-to-middle-school-exam-papers-download.md) — 2023-12-25
 - [2024年考研真题全套下载：含标准答案及各科适用版本说明](./实战指南/2024-postgraduate-entrance-exam-papers-download.md) — 2023-12-25
 - [想收藏未删减的经典港片却找不到高质量资源？这150部电影合集一次性解决](./实战指南/150-classic-hong-kong-movies-collection.md) — 2023-12-24
+- [高赞照片修图实操：快速提升画质与变现技巧](./实战指南/photo-retouching-guide-quality-monetization.md) — 2023-12-24
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
