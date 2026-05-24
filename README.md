@@ -1356,6 +1356,7 @@
 - [方舟系列：如何高效阅读并实践《怎样不受气》PDF版](./书籍/how-to-read-and-practice-dont-get-angry-pdf.md) — 2024-01-05
 - [豆瓣读书2023年度榜单电子书合集：资源下载路径与阅读环境配置指南](./书籍/douban-books-2023-ebooks-collection-download-guide.md) — 2023-12-29
 - [2023年豆瓣高分书单：精选年度口碑佳作，分领域剖析阅读价值](./书籍/2023-douban-best-books-list.md) — 2023-12-25
+- [两性关系心理分析指南：认知模式与行为逻辑拆解](./书籍/relationship-psychology-guide-cognitive-behavioral-logic.md) — 2023-12-24
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
