@@ -567,6 +567,7 @@
 - [AI 宠物行为分析：利用图像识别技术解读动物心境](./AI工具教程/ai-pet-behavior-analysis-image-recognition.md) — 2024-01-15
 - [ReplaceAnything 实现在线精准图像局部重绘：通过 AI 驱动的内容替换实现像素级图像修改](./AI工具教程/replaceanything-ai-image-inpainting-editing.md) — 2024-01-15
 - [Smart Excel：基于开源 AI 的自动化 Excel 公式构建工具](./AI工具教程/smart-excel-ai-formula-builder.md) — 2024-01-14
+- [Anytext 多语言视觉文本生成实操指南：从安装到出图的完整步骤](./AI工具教程/anytext-multilingual-visual-text-generation-guide.md) — 2024-01-13
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
