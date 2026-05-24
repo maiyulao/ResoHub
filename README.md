@@ -5083,6 +5083,7 @@
 - [亚马逊新品出单慢、转化低怎么办？分享一套可落地的推广实操方案](./实战指南/amazon-new-product-promotion-strategy.md) — 2023-12-06
 - [Adobe After Effects 与 Premiere Pro 协同工作流全指南：从基础操作到高级合成实战](./实战指南/adobe-after-effects-premiere-pro-workflow-guide.md) — 2023-12-06
 - [沪江网校全科课程资源集（98GB）：涵盖多语种学习体系，分模块提供系统化教学视频与配套资料](./实战指南/hujiang-language-courses-collection.md) — 2023-12-06
+- [AI短视频全流程实操指南：从提示词工程到自动化高效产出](./实战指南/ai-short-video-workflow-guide.md) — 2023-12-05
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
