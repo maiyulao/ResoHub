@@ -2647,6 +2647,7 @@
 - [电商搜索关键词技巧：通过平替词挖掘低价好物](./创意工具/ecommerce-search-keyword-tips-alternative-words.md) — 2023-12-29
 - [主流发达国家移民路径对比：适用条件、申请渠道与核心差异分析](./创意工具/developed-countries-immigration-comparison.md) — 2023-12-28
 - [高效获取高质量信息的 RSS 订阅源精选指南](./创意工具/high-quality-rss-feeds-guide.md) — 2023-12-28
+- [Emailspiration 英文邮件设计库：通过海量精美模版提升营销邮件的视觉转化率与排版质量](./创意工具/emailspiration-email-design-library.md) — 2023-12-28
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
