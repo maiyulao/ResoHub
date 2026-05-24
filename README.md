@@ -2715,6 +2715,7 @@
 - [想知道家里养的植物是否会毒害宠物？试试这个宠物植物毒性检测工具](./创意工具/pet-plant-toxicity-checker.md) — 2023-12-11
 - [Just Laws：高效检索中华人民共和国法律条文的数字化文库](./创意工具/just-laws-china-legal-database.md) — 2023-12-11
 - [SAO.FM：支持全球 3 万个电台在线收听的免费广播资源站](./创意工具/sao-fm-free-global-radio-stations.md) — 2023-12-09
+- [想在业余时间增加收入却不知从何入手？这份国内外实操副业清单为你提供参考](./创意工具/side-hustle-ideas-list.md) — 2023-12-09
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
