@@ -4842,6 +4842,7 @@
 - [面对汇报急需但没时间设计？这里有 2 万余套可直接套用的付费级 PPT 模板](./实战指南/premium-ppt-templates-collection.md) — 2024-01-17
 - [Word/Excel/PPT全套学习资源：涵盖基础到进阶技巧，支持多版本环境部署与实操](./实战指南/word-excel-ppt-learning-resources.md) — 2024-01-17
 - [万首中国戏曲分类音频库：MP3格式资源全集](./实战指南/chinese-opera-audio-library-mp3.md) — 2024-01-17
+- [想系统学习新概念英语却找不到配套资源？全套教学视频与音频资料汇总（83GB）](./实战指南/new-concept-english-complete-learning-resources.md) — 2024-01-16
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
