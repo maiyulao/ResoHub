@@ -2824,6 +2824,7 @@
 - [大学毕业后如何与老同学维持高质量社交？一套可实操的长期关系维护指南](./大人学习课程/maintain-high-quality-social-connections-after-college.md) — 2024-01-13
 - [女性成长进阶：Q趣指南20门核心课程学习路径图](./大人学习课程/women-growth-qqu-learning-pathway.md) — 2024-01-11
 - [深度解析灵彤彤的情绪价值构建：通过10项具体魅惑技巧实现心理掌控与关系引导](./大人学习课程/ling-tongtong-emotional-value-and-psychological-control.md) — 2024-01-08
+- [从心态建设到实战技巧：快速脱单的系统操作指南](./大人学习课程/guide-to-getting-out-of-singlehood.md) — 2024-01-04
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
