@@ -1211,6 +1211,7 @@
 - [团子翻译器安装指南：支持OCR识别的生肉翻译工具及配置要点](./Windows软件/dango-translator-installation-guide.md) — 2024-01-17
 - [Umi OCR 离线文字识别配置与快速上手指南](./Windows软件/umi-ocr-offline-setup-guide.md) — 2024-01-08
 - [Vocal Separate：高效提取纯净人声与伴奏，支持多种音频格式的智能分离方案](./Windows软件/vocal-separate-intelligent-audio-splitter.md) — 2024-01-02
+- [想在本地保存 8K 高画质且无水印的 B 站视频？试试这款下载工具 downkyi](./Windows软件/download-bilibili-8k-no-watermark-downkyi.md) — 2024-01-01
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
