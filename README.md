@@ -4878,6 +4878,7 @@
 - [1985-2021年裁判文书全量数据库：8500万份司法案例分析](./实战指南/judicial-case-database-1985-2021.md) — 2024-01-10
 - [主流太极拳流派功法对比：核心差异、适用人群及练习要点指南](./实战指南/tai-chi-styles-comparison-guide.md) — 2024-01-10
 - [董宇辉英语学习全集：资源获取路径与适用学习场景指南](./实战指南/dong-yuhui-english-learning-guide.md) — 2024-01-10
+- [1900个计算机专业毕业设计实战项目：涵盖多领域源代码，提供从需求分析到代码实现的全流程参考](./实战指南/1900-computer-science-graduation-projects-source-code.md) — 2024-01-09
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
