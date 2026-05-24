@@ -4912,6 +4912,7 @@
 - [从零开始掌握 Photoshop：视频教程与课件实操指南](./实战指南/photoshop-tutorial-for-beginners-guide.md) — 2024-01-06
 - [2023年度抖音趋势音乐全记录：1-12月热门BGM月度索引汇总](./实战指南/2023-douyin-trending-music-bgm-index.md) — 2024-01-05
 - [全球热门 ASMR 主播盘点：内容风格分类与听感指南](./实战指南/popular-asmr-artists-guide.md) — 2024-01-04
+- [白酒生产与经营全流程操作指南：从原材料选购到成品出厂的实施步骤](./实战指南/baijiu-production-and-operation-guide.md) — 2024-01-04
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
