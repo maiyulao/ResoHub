@@ -953,6 +953,7 @@
 - [如何通过这几步操作寻找理想伴侣：一份非传统的恋爱实操指南](./GitHub项目/how-to-find-ideal-partner-guide.md) — 2023-12-30
 - [想快速理清中国历史脉络？一套由浅入深的历代王朝视频讲解指南](./GitHub项目/chinese-history-dynasty-video-guide.md) — 2023-12-23
 - [阿里巴巴Outfit Anyone虚拟试穿技术实现指南：从环境配置到效果生成](./GitHub项目/alibaba-outfit-anyone-guide.md) — 2023-12-18
+- [如何使用 iztro 开源 JS 库实现轻量级紫微斗数排盘](./GitHub项目/iztro-javascript-library-ziwei-dou-shu-chart.md) — 2023-12-15
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
