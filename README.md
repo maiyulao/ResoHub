@@ -577,6 +577,7 @@
 - [如何利用AI关键词工具寻找低价平替商品：操作全流程](./AI工具教程/find-cheap-alternatives-with-ai-keyword-tools.md) — 2024-01-06
 - [基于Cloudflare构建的AI Web平台：通过集成Gemini Pro Vision与ChatGPT实现多模态能力融合](./AI工具教程/ai-web-platform-cloudflare-gemini-chatgpt-multimodal.md) — 2024-01-06
 - [Inbox Zero 开源 AI 邮件管理工具：支持一键退订营销邮件及自动化分析部署指南](./AI工具教程/inbox-zero-open-source-ai-email-management-guide.md) — 2023-12-30
+- [企业内部文档碎片化导致AI问答不准确？尝试用支持GPT-4的开源工具Danswer构建知识库](./AI工具教程/solve-ai-hallucination-with-danswer-knowledge-base.md) — 2023-12-30
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
