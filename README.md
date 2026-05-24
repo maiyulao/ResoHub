@@ -2917,6 +2917,7 @@
 - [想找韩国车展秀场模特的高清饭拍资源？这份 4K 学习素材清单请收好](./大人学习课程/korea-motor-show-model-4k-photos.md) — 2023-12-30
 - [男性体能增强与身体素质提升指南](./大人学习课程/mens-physical-fitness-improvement-guide.md) — 2023-12-22
 - [抖音直播流量操盘指南：技术性起号与增粉实操视频集](./大人学习课程/douyin-live-traffic-growth-guide.md) — 2023-12-18
+- [高阶私密空间技巧指南：从核心实操逻辑到分级进阶方案](./大人学习课程/advanced-private-space-guide.md) — 2023-12-11
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
