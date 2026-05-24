@@ -5038,6 +5038,7 @@
 - [月光族如何摆脱财务焦虑？从建立高效的钱包管理体系开始](./实战指南/escape-financial-anxiety-wallet-management.md) — 2023-12-15
 - [B站封面图片提取指南：支持多分辨率下载及适用环境说明](./实战指南/bilibili-cover-image-extractor-guide.md) — 2023-12-15
 - [4K超清版《泰勒·斯威夫特：时代巡回演唱会》中英双语字幕资源](./实战指南/taylor-swift-the-eras-tour-4k-dual-subtitles.md) — 2023-12-14
+- [精选快手抖音热门国语短剧：高分爽文剧集合集及快速观看指南](./实战指南/popular-chinese-short-dramas-guide.md) — 2023-12-14
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
