@@ -2668,6 +2668,7 @@
 - [全网通通用IPTV M3U源：内网外网双兼容，实现极速流畅加载](./创意工具/universal-iptv-m3u-source-fast-loading.md) — 2023-12-24
 - [海外华人求职指南：高效匹配全球岗位与移民就业资源](./创意工具/overseas-chinese-job-search-guide.md) — 2023-12-23
 - [自由职业者高效起步指南：从工具选择到资源配置的实操步骤](./创意工具/freelancers-startup-guide-tools-and-resources.md) — 2023-12-23
+- [高品质播客精选清单：全平台收听指南与分类推荐](./创意工具/best-podcasts-guide-and-recommendations.md) — 2023-12-23
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
