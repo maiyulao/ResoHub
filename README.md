@@ -2693,6 +2693,7 @@
 - [从工具选择到变现落地：AI副业实操指南与项目清单](./创意工具/ai-side-hustle-guide-and-project-list.md) — 2023-12-16
 - [不知道品牌口号怎么写？试试这款免费的在线 Slogan 生成器](./创意工具/free-online-slogan-generator.md) — 2023-12-16
 - [PDF派在线编辑工具：无需安装、支持无限次处理的PDF综合方案](./创意工具/pdf-online-editor-comprehensive-solution.md) — 2023-12-16
+- [想让文字变有声但不想付费？试试这款支持160多种音色的免费TTS在线转换工具](./创意工具/free-tts-online-converter-160-voices.md) — 2023-12-15
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
