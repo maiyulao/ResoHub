@@ -2626,6 +2626,7 @@
 - [Amemei Lists：精选成人向在线游戏库，提供多维度分类与实时更新的资源索引](./创意工具/amemei-adult-game-library-index.md) — 2024-01-04
 - [想参考顶尖公司的融资路演方案？这份包含1.5万张幻灯片的 SearchTheDeck 资源库帮你拆解 Pitch Deck 逻辑](./创意工具/searchthedeck-pitch-deck-resource-library.md) — 2024-01-04
 - [DoubleDouble 使用指南：高效下载 Spotify 音乐的免费工具](./创意工具/doubledouble-spotify-downloader-guide.md) — 2024-01-02
+- [实用产品短评库：通过结构化消费评价快速筛选好物](./创意工具/practical-product-reviews-database.md) — 2024-01-02
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
