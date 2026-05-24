@@ -936,6 +936,7 @@
 - [无需翻译插件即可阅读海外媒体中文报道的操作指南](./GitHub项目/read-foreign-media-chinese-without-plugins.md) — 2024-01-09
 - [小米 BootLoader 解锁资格审核指南：答题要点与申请流程全解析](./GitHub项目/xiaomi-bootloader-unlock-guide.md) — 2024-01-08
 - [十万册经典电子书库：涵盖多领域权威著作，支持高效数字化收藏与阅读](./GitHub项目/100k-classic-ebook-library.md) — 2024-01-04
+- [香色闺阁阅读3.0书源、IPTV源及IPA巨魔应用自动更新配置指南](./GitHub项目/xiangse-guige-reading-3-update-guide.md) — 2024-01-01
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
