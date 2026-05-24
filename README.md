@@ -2637,6 +2637,7 @@
 - [花月喵梦私人网盘使用指南：获取游戏、系统及软件资源的步骤详解](./创意工具/huayue-miaomeng-cloud-guide.md) — 2024-01-01
 - [找不到高质量且可编辑的文档模板？尝试用 SmashingDocs 快速生成可打印素材](./创意工具/generate-printable-document-templates-with-smashingdocs.md) — 2024-01-01
 - [Disk Prices：实时追踪硬盘与 SSD 价格走势的比价工具](./创意工具/disk-prices-ssd-hdd-tracker.md) — 2023-12-30
+- [如何使用 Best Similar 查找相似电影：操作指南与推荐技巧](./创意工具/how-to-use-best-similar-for-movies.md) — 2023-12-30
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
