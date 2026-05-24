@@ -5019,6 +5019,7 @@
 - [Android 逆向工程实战指南：从零基础到全流程分析（小肩膀）](./实战指南/android-reverse-engineering-guide-complete-workflow.md) — 2023-12-21
 - [K12全学段全科知识体系思维导图：从小学到高中的逻辑梳理与资源下载](./实战指南/k12-knowledge-system-mindmap-download.md) — 2023-12-20
 - [面对尴尬的社交沉默或不知如何接话？这份聊天实战指南帮你快速掌握高情商沟通技巧](./实战指南/high-eq-communication-guide-for-social-silence.md) — 2023-12-18
+- [2024龙年视觉设计指南：16套可编辑PS海报素材，涵盖春节氛围与现代国潮风格](./实战指南/2024-dragon-year-visual-design-guide-ps-templates.md) — 2023-12-18
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
