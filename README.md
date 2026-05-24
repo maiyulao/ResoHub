@@ -4983,6 +4983,7 @@
 - [想收藏未删减的经典港片却找不到高质量资源？这150部电影合集一次性解决](./实战指南/150-classic-hong-kong-movies-collection.md) — 2023-12-24
 - [高赞照片修图实操：快速提升画质与变现技巧](./实战指南/photo-retouching-guide-quality-monetization.md) — 2023-12-24
 - [240GB 计算机二级全套学习资源（2023版）](./实战指南/computer-rank-2-learning-resources-2023.md) — 2023-12-24
+- [百余套圣诞主题PPT模板下载：适用节日庆典与商业汇报，含兼容性说明](./实战指南/christmas-ppt-templates-download.md) — 2023-12-24
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
