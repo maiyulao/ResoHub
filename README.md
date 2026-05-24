@@ -2680,6 +2680,7 @@
 - [Iconoir 开源 SVG 图标库：含 1500+ 矢量资源，支持直接下载与在线定制](./创意工具/iconoir-open-source-svg-icons.md) — 2023-12-21
 - [海量热门小说免费在线阅读：打造极简体验的数字书城，涵盖多维度文学分类与实时更新资源](./创意工具/free-online-novels-digital-bookstore.md) — 2023-12-20
 - [SaveTwitter：高效提取 Twitter 视频原片，支持多种分辨率在线无损下载](./创意工具/savetwitter-download-twitter-videos-high-quality.md) — 2023-12-20
+- [读者杂志数字化资源库：提供全刊免费在线阅读与PDF原版下载](./创意工具/reader-magazine-digital-archive.md) — 2023-12-20
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
