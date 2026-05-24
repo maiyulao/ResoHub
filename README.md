@@ -2588,6 +2588,7 @@
 - [想找一个无需下载且涵盖经典款的在线小游戏合集？试试 IMC RE 平台](./创意工具/imc-re-online-classic-games-collection.md) — 2024-01-15
 - [AI+RPA 融合实战项目指南：从环境搭建到部署落地的全流程学习手册](./创意工具/ai-rpa-integration-practical-guide.md) — 2024-01-15
 - [SSSTwitter 使用指南：如何快速下载推特高清视频](./创意工具/ssstwitter-download-twitter-videos-hd.md) — 2024-01-14
+- [Pleyr：支持 Web 浏览器直接播放的在线 IPTV 客户端指南](./创意工具/pleyr-web-iptv-client-guide.md) — 2024-01-14
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
