@@ -4876,6 +4876,7 @@
 - [从零到精通：剪映专业版视频剪辑实操指南](./实战指南/capcut-desktop-video-editing-guide.md) — 2024-01-13
 - [1985-2021年裁判文书全量数据库：8500万份司法案例分析](./实战指南/judicial-case-database-1985-2021.md) — 2024-01-10
 - [主流太极拳流派功法对比：核心差异、适用人群及练习要点指南](./实战指南/tai-chi-styles-comparison-guide.md) — 2024-01-10
+- [董宇辉英语学习全集：资源获取路径与适用学习场景指南](./实战指南/dong-yuhui-english-learning-guide.md) — 2024-01-10
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
