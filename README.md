@@ -4826,6 +4826,7 @@
 - [全球商业演进全记录：30讲透视商业文明史](./实战指南/global-business-evolution-history.md) — 2024-01-21
 - [米小圈全书系指南：从成长逻辑到阅读进阶的完整图谱](./实战指南/mi-xiao-quan-reading-guide.md) — 2024-01-20
 - [想建农村自建房却没灵感？这份包含1400多套别墅方案的图纸库帮你规划](./实战指南/rural-house-villa-design-plans-library.md) — 2024-01-20
+- [为什么努力学习却不见成效？尝试用斯坦福科学学习法重塑知识内化路径](./实战指南/stanford-scientific-learning-method-for-knowledge-internalization.md) — 2024-01-18
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
