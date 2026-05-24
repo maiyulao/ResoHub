@@ -4895,6 +4895,7 @@
 - [想学Python却不知从何起步？这份从基础语法到全栈开发的进阶指南为你拆解学习路径](./实战指南/python-learning-path-beginner-to-fullstack.md) — 2024-01-08
 - [UI设计全链路进阶方案：从基础实操到高级进阶（含视频与课件）](./实战指南/ui-design-advanced-learning-path.md) — 2024-01-08
 - [高效减脂饮食指南：科学餐单设计与营养实践课程](./实战指南/efficient-fat-loss-diet-guide.md) — 2024-01-07
+- [2023年度豆瓣口碑佳作全集：多维度筛选年度电影、书籍与音乐精选指南](./实战指南/2023-douban-best-movies-books-music-guide.md) — 2024-01-07
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
