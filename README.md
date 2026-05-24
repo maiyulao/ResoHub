@@ -2727,6 +2727,7 @@
 - [BT蚂蚁磁力：高效资源聚合导航，通过精准索引实现快速磁力搜索](./创意工具/bt-ant-magnet-search-navigation.md) — 2023-12-08
 - [如何使用 Liber3 免费搜索并下载电子书：操作指南](./创意工具/how-to-use-liber3-free-ebook-download-guide.md) — 2023-12-07
 - [53BK全球报刊资源索引：国内外学术期刊与主流报纸汇总](./创意工具/53bk-global-periodicals-index.md) — 2023-12-07
+- [MacBook Pro 新机配置指南：必备软件清单及安装注意事项](./创意工具/macbook-pro-setup-guide-essential-software.md) — 2023-12-05
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
