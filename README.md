@@ -5080,6 +5080,7 @@
 - [钢琴初学者基础练习指南：从核心指法技巧到入门曲谱实操建议](./实战指南/piano-beginner-basic-exercises-guide.md) — 2023-12-07
 - [如何下载 2012-2023 年电脑报系列资源（含 2023 年第 46 期 PDF 及图片）](./实战指南/download-computer-bao-resources-2012-2023.md) — 2023-12-07
 - [亚马逊新品出单慢、转化低怎么办？分享一套可落地的推广实操方案](./实战指南/amazon-new-product-promotion-strategy.md) — 2023-12-06
+- [Adobe After Effects 与 Premiere Pro 协同工作流全指南：从基础操作到高级合成实战](./实战指南/adobe-after-effects-premiere-pro-workflow-guide.md) — 2023-12-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
