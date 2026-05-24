@@ -2699,6 +2699,7 @@
 - [想让文字变有声但不想付费？试试这款支持160多种音色的免费TTS在线转换工具](./创意工具/free-tts-online-converter-160-voices.md) — 2023-12-15
 - [TypingClub 中文指法训练指南：从零开始掌握高效打字技巧](./创意工具/typingclub-chinese-typing-guide.md) — 2023-12-15
 - [想找回童年玩过的经典中文老游戏？这里有 3000 多个在线免安装版本供你畅玩](./创意工具/classic-chinese-retro-games-online.md) — 2023-12-14
+- [盐神居：知乎盐选专栏内容的同步镜像与免费阅读平台](./创意工具/yanshenju-zhihu-yansuan-mirror.md) — 2023-12-14
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
