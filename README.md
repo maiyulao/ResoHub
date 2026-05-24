@@ -4839,6 +4839,7 @@
 - [101部1960-1990年代经典电影精选：174GB高清资源，纵览三十年影史黄金时代](./实战指南/101-classic-movies-1960-1990s-hd-collection.md) — 2024-01-18
 - [面对汇报急需但没时间设计？这里有 2 万余套可直接套用的付费级 PPT 模板](./实战指南/premium-ppt-templates-collection.md) — 2024-01-17
 - [Word/Excel/PPT全套学习资源：涵盖基础到进阶技巧，支持多版本环境部署与实操](./实战指南/word-excel-ppt-learning-resources.md) — 2024-01-17
+- [万首中国戏曲分类音频库：MP3格式资源全集](./实战指南/chinese-opera-audio-library-mp3.md) — 2024-01-17
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
