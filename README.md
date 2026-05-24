@@ -4918,6 +4918,7 @@
 - [白酒生产与经营全流程操作指南：从原材料选购到成品出厂的实施步骤](./实战指南/baijiu-production-and-operation-guide.md) — 2024-01-04
 - [2010-2020年TED演讲全集下载：含分级目录与多语言字幕资源说明](./实战指南/ted-talks-archive-2010-2020-download.md) — 2024-01-04
 - [256部精校短剧资源包：支持多平台播放，含画质增强版及完整集数清单](./实战指南/256-curated-short-drama-resource-pack.md) — 2024-01-04
+- [深度启发孩子认知成长的10部经典电影：从情感共情到世界观构建的系统指南](./实战指南/10-classic-movies-for-childrens-cognitive-growth.md) — 2024-01-03
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
