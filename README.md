@@ -2835,6 +2835,7 @@
 - [女性成长进阶：Q趣指南20门核心课程学习路径图](./大人学习课程/women-growth-qqu-learning-pathway.md) — 2024-01-11
 - [深度解析灵彤彤的情绪价值构建：通过10项具体魅惑技巧实现心理掌控与关系引导](./大人学习课程/ling-tongtong-emotional-value-and-psychological-control.md) — 2024-01-08
 - [从心态建设到实战技巧：快速脱单的系统操作指南](./大人学习课程/guide-to-getting-out-of-singlehood.md) — 2024-01-04
+- [从心态反转到吸引力重塑：将挽回僵局转化为对方主动追求的实操策略](./大人学习课程/mindset-shift-attraction-recovery-strategy.md) — 2024-01-01
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
