@@ -2712,6 +2712,7 @@
 - [知乎变现全路径指南：拆解900个实操案例，分维度解析获利模型与执行细节](./创意工具/zhihu-monetization-guide-case-studies.md) — 2023-12-11
 - [想知道家里养的植物是否会毒害宠物？试试这个宠物植物毒性检测工具](./创意工具/pet-plant-toxicity-checker.md) — 2023-12-11
 - [Just Laws：高效检索中华人民共和国法律条文的数字化文库](./创意工具/just-laws-china-legal-database.md) — 2023-12-11
+- [SAO.FM：支持全球 3 万个电台在线收听的免费广播资源站](./创意工具/sao-fm-free-global-radio-stations.md) — 2023-12-09
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
