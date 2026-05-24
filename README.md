@@ -2584,6 +2584,7 @@
 - [想在海外远程办公却不清楚签证办理？这份全球数字游民签证指南为你解答](./创意工具/digital-nomad-visa-guide.md) — 2024-01-16
 - [高效 WebP 格式转换方案：支持一键转为 PNG、JPG 及 GIF 的在线工具指南](./创意工具/efficient-webp-converter-guide.md) — 2024-01-15
 - [想找一个无需下载且涵盖经典款的在线小游戏合集？试试 IMC RE 平台](./创意工具/imc-re-online-classic-games-collection.md) — 2024-01-15
+- [AI+RPA 融合实战项目指南：从环境搭建到部署落地的全流程学习手册](./创意工具/ai-rpa-integration-practical-guide.md) — 2024-01-15
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
