@@ -925,6 +925,7 @@
 - [面对海量用户生成内容如何高效拦截违规词？试试集成 6W+ 词库的 Sensitive Word 高性能过滤工具](./GitHub项目/efficient-sensitive-word-filtering-tool.md) — 2024-01-23
 - [高效提升 Mac 生产力的软件安装与配置指南](./GitHub项目/mac-productivity-software-setup-guide.md) — 2024-01-18
 - [500个动态更新的优质IPTV直播源：自动化抓取与维护指南](./GitHub项目/500-dynamic-iptv-playlist-automation-guide.md) — 2024-01-12
+- [SearchEmoji开源项目：Emoji快捷搜索工具部署与使用指南](./GitHub项目/searchemoji-deployment-guide.md) — 2024-01-10
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
