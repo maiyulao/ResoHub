@@ -2657,6 +2657,7 @@
 - [Cmacked 资源站：提供各类 Mac 软件解锁版下载](./创意工具/cmacked-mac-software-downloads.md) — 2023-12-27
 - [如何使用磁力酷搜索引擎高效检索磁力资源：完整操作步骤](./创意工具/how-to-use-cilikoo-search-engine.md) — 2023-12-27
 - [小红书种草实操指南：通过构建“第三种营销范式”实现高效转化](./创意工具/xiaohongshu-marketing-guide-conversion.md) — 2023-12-26
+- [零域色彩：基于矢量的在线风格化头像定制工具](./创意工具/zero-domain-color-vector-avatar-stylizer.md) — 2023-12-24
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
