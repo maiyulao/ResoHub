@@ -570,6 +570,7 @@
 - [Anytext 多语言视觉文本生成实操指南：从安装到出图的完整步骤](./AI工具教程/anytext-multilingual-visual-text-generation-guide.md) — 2024-01-13
 - [高效 AI 照片转动漫指南：实现快速、免费且隐私安全的风格转换](./AI工具教程/ai-photo-to-anime-guide.md) — 2024-01-12
 - [使用 Drawing Prompt 将 AI 绘图提示词可视化的操作步骤](./AI工具教程/drawing-prompt-ai-visualization-guide.md) — 2024-01-12
+- [高效AI换脸工具指南：免费实现图片与视频面部替换的实操方案](./AI工具教程/ai-face-swap-tools-guide.md) — 2024-01-11
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
