@@ -1309,6 +1309,7 @@
 - [中医基础知识难记忆？这套10册的图解课程笔记帮你快速理清逻辑](./书籍/tcm-basic-knowledge-illustrated-notes.md) — 2024-01-21
 - [易经与风水经典书籍学习指南：从入门到精通的图解阅读步骤](./书籍/yi-jing-feng-shui-books-guide.md) — 2024-01-20
 - [500本心理学专业电子书合集：包含核心教材与经典著作，支持PDF/EPUB格式下载](./书籍/500-psychology-ebooks-collection.md) — 2024-01-18
+- [掌阅精品出版书单：3600册核心著作索引](./书籍/zhangyue-premium-book-list-3600-index.md) — 2024-01-17
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
