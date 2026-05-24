@@ -4873,6 +4873,7 @@
 - [长期低头导致颈椎酸痛怎么办？一套实用的颈部保养指南](./实战指南/neck-pain-relief-guide.md) — 2024-01-14
 - [喜马拉雅付费精品课程资源索引及分类指南](./实战指南/himalayas-paid-courses-index-guide.md) — 2024-01-14
 - [从零到精通：剪映专业版视频剪辑实操指南](./实战指南/capcut-desktop-video-editing-guide.md) — 2024-01-13
+- [1985-2021年裁判文书全量数据库：8500万份司法案例分析](./实战指南/judicial-case-database-1985-2021.md) — 2024-01-10
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
