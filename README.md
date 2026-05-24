@@ -1131,6 +1131,7 @@
 - [如何使用 PicList 构建高效的云存储与图床管理工作流](./Mac软件/piclist-cloud-storage-image-bed-workflow.md) — 2024-01-31
 - [Ultimate Vocal Remover GUI 下载安装：支持多种AI模型的开源人声与伴奏分离工具](./Mac软件/ultimate-vocal-remover-gui-download-install.md) — 2024-01-11
 - [VOICEVOX：可商用开源日语TTS软件下载与配置指南](./Mac软件/voicevox-open-source-japanese-tts-guide.md) — 2024-01-04
+- [GPT4All 实测：无需 GPU 与联网的本地开源 LLM 部署指南](./Mac软件/gpt4all-local-llm-deployment-guide.md) — 2023-12-13
 
 ### Twitter
 - [BlockExpress 插件安装指南：通过浏览器订阅推特 Web3 KOL 动态与行业情报](./Twitter/blockexpress-installation-guide-twitter-web3-kol-tracking.md) — 2024-05-24
