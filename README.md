@@ -4907,6 +4907,7 @@
 - [多平台解锁版软件实测清单：涵盖PC与安卓端的高效工具集，重点解决功能限制与订阅门槛](./实战指南/unlocked-software-test-list-pc-android.md) — 2024-01-06
 - [生财有术知识库：付费实操资源与商业案例汇总](./实战指南/shengcai-knowledge-base-resources-cases.md) — 2024-01-06
 - [从零开始掌握 Photoshop：视频教程与课件实操指南](./实战指南/photoshop-tutorial-for-beginners-guide.md) — 2024-01-06
+- [2023年度抖音趋势音乐全记录：1-12月热门BGM月度索引汇总](./实战指南/2023-douyin-trending-music-bgm-index.md) — 2024-01-05
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
