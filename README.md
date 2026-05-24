@@ -5052,6 +5052,7 @@
 - [搜索能力变现指南：掌握高价值职场技能以提升收入](./实战指南/search-skills-monetization-guide.md) — 2023-12-14
 - [精选100册设计进阶电子书：涵盖视觉、交互与品牌实战，构建专业知识图谱](./实战指南/100-design-ebooks-visual-interaction-branding.md) — 2023-12-13
 - [帕梅拉燃脂全套课程下载：适用居家健身场景及训练强度建议](./实战指南/pamela-fat-burn-courses-download-home-workout-guide.md) — 2023-12-11
+- [知识星球 400 篇付费课程资源汇总与学习指南](./实战指南/knowledge-planet-paid-courses-guide.md) — 2023-12-11
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
