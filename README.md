@@ -645,6 +645,7 @@
 - [月光宝盒XLITE：国内外电视直播软件配置与访问密码指南](./Android应用/moonlight-box-xlite-tv-live-config-guide.md) — 2024-02-22
 - [Yida益达：一站式开源多平台内容聚合工具，集成追剧、阅读与听书功能](./Android应用/yida-open-source-content-aggregator.md) — 2024-02-13
 - [如何在电视盒子安装夸克网盘TV版：APK下载与配置步骤](./Android应用/install-quark-netdisk-tv-apk-guide.md) — 2024-02-01
+- [磁力孤BT资源搜索指南：支持多环境磁力链接获取及使用要点](./Android应用/magnetic-isolated-bt-search-guide.md) — 2024-01-13
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
