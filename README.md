@@ -4950,6 +4950,7 @@
 - [网易云音乐 2023 年度热门单曲 Top 100 榜单解析](./实战指南/netease-music-2023-top-100-songs-analysis.md) — 2023-12-30
 - [民间志异精选：500则佚名怪谈的演播与文化解读](./实战指南/folk-strange-tales-collection-and-analysis.md) — 2023-12-29
 - [想给孩子找一套系统的小学补习资料？学而思全科目课程资源汇总指南](./实战指南/talents-primary-school-course-resources-guide.md) — 2023-12-29
+- [16种民族医药文献资料下载指南：适用范围与检索要点](./实战指南/ethnic-medicine-literature-download-guide.md) — 2023-12-29
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
