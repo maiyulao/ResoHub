@@ -579,6 +579,7 @@
 - [Inbox Zero 开源 AI 邮件管理工具：支持一键退订营销邮件及自动化分析部署指南](./AI工具教程/inbox-zero-open-source-ai-email-management-guide.md) — 2023-12-30
 - [企业内部文档碎片化导致AI问答不准确？尝试用支持GPT-4的开源工具Danswer构建知识库](./AI工具教程/solve-ai-hallucination-with-danswer-knowledge-base.md) — 2023-12-30
 - [构建人工智能视频搜索引擎（AVSE）的完整开发步骤](./AI工具教程/build-ai-video-search-engine-avse.md) — 2023-12-26
+- [Looka 深度评测：利用 AI 快速构建品牌视觉识别系统与 Logo 设计指南](./AI工具教程/looka-review-ai-branding-logo-design-guide.md) — 2023-12-25
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
