@@ -575,6 +575,7 @@
 - [AIundetect：AI生成内容检测与拟人化改写工具实测](./AI工具教程/aiundetect-review-ai-detection-humanizer.md) — 2024-01-08
 - [OpenVoice部署指南：支持即时克隆的AI语音工具及环境配置要点](./AI工具教程/openvoice-deployment-guide-ai-voice-cloning.md) — 2024-01-07
 - [如何利用AI关键词工具寻找低价平替商品：操作全流程](./AI工具教程/find-cheap-alternatives-with-ai-keyword-tools.md) — 2024-01-06
+- [基于Cloudflare构建的AI Web平台：通过集成Gemini Pro Vision与ChatGPT实现多模态能力融合](./AI工具教程/ai-web-platform-cloudflare-gemini-chatgpt-multimodal.md) — 2024-01-06
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
