@@ -4959,6 +4959,7 @@
 - [车载音响播放MP3总觉得音质不够纯净？试试这套41GB无损高保真音乐集](./实战指南/car-audio-lossless-mp3-music-collection.md) — 2023-12-29
 - [从基础建模到实战出图：SketchUp室内设计全流程进阶指南](./实战指南/sketchup-interior-design-full-workflow-guide.md) — 2023-12-28
 - [高效制作简历：免费doc模版下载与填写步骤指南](./实战指南/free-resume-templates-and-guide.md) — 2023-12-28
+- [女性冥想瑜伽指南：通过身心修炼构建内在力量与掌控感](./实战指南/womens-meditation-yoga-guide-inner-strength.md) — 2023-12-27
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
