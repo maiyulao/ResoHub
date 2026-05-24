@@ -565,6 +565,7 @@
 - [IP Adapter FaceID 部署指南：实现高保真 AI 人脸克隆与生成](./AI工具教程/ip-adapter-faceid-deployment-guide.md) — 2024-01-16
 - [想要私有化部署支持对话与AI绘画的ChatGPT及Midjourney网页端？试试这个一键部署方案](./AI工具教程/self-host-chatgpt-midjourney-web-deployment.md) — 2024-01-16
 - [AI 宠物行为分析：利用图像识别技术解读动物心境](./AI工具教程/ai-pet-behavior-analysis-image-recognition.md) — 2024-01-15
+- [ReplaceAnything 实现在线精准图像局部重绘：通过 AI 驱动的内容替换实现像素级图像修改](./AI工具教程/replaceanything-ai-image-inpainting-editing.md) — 2024-01-15
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
