@@ -4994,6 +4994,7 @@
 - [240GB 计算机二级全套学习资源（2023版）](./实战指南/computer-rank-2-learning-resources-2023.md) — 2023-12-24
 - [百余套圣诞主题PPT模板下载：适用节日庆典与商业汇报，含兼容性说明](./实战指南/christmas-ppt-templates-download.md) — 2023-12-24
 - [Python 分布式爬虫实战：三年迭代的工程化开发指南](./实战指南/python-distributed-crawler-engineering-guide.md) — 2023-12-23
+- [从零起步：微信小程序开发全流程实战指南](./实战指南/wechat-mini-program-development-guide.md) — 2023-12-22
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
