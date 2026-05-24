@@ -2732,6 +2732,7 @@
 - [MacBook Pro 新机配置指南：必备软件清单及安装注意事项](./创意工具/macbook-pro-setup-guide-essential-software.md) — 2023-12-05
 - [住宅装修实操避坑指南：从经验教训到方案优化](./创意工具/home-renovation-guide-tips-and-optimization.md) — 2023-12-05
 - [界面设计灵感采集：从需求分析到资源筛选的 5 个实用步骤](./创意工具/ui-design-inspiration-workflow-steps.md) — 2023-12-05
+- [Construct101：实操导向的DIY项目库，涵盖从基础构思到成品实现的完整手工指南](./创意工具/construct101-diy-project-guide.md) — 2023-12-04
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
