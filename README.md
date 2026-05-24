@@ -1138,6 +1138,7 @@
 - [Drawing Pics：支持离线部署的本地化 Stable Diffusion AI 绘画工具](./Mac软件/drawing-pics-stable-diffusion-offline-ai-tool.md) — 2023-12-13
 - [高效获取微信视频号无水印原片：WeChatVideoDownloader 核心功能解析与操作指南](./Mac软件/wechat-video-downloader-guide.md) — 2023-12-11
 - [Pinokio：将复杂 AI 模型转化为一键式浏览器的安装框架](./Mac软件/pinokio-ai-model-browser-installer.md) — 2023-12-05
+- [薯狗狗：通过竞品账号实时监控实现小红书精准数据分析与增长洞察](./Mac软件/shugougou-xiaohongshu-competitor-monitoring-analysis.md) — 2023-12-05
 
 ### Twitter
 - [BlockExpress 插件安装指南：通过浏览器订阅推特 Web3 KOL 动态与行业情报](./Twitter/blockexpress-installation-guide-twitter-web3-kol-tracking.md) — 2024-05-24
