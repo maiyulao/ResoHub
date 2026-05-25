@@ -995,6 +995,7 @@
 - [想要构建私有化的定制聊天机器人？尝试用 OpenGPTs 实现开源版 GPTs 部署](./GitHub项目/opengpts-open-source-custom-chatbots-deployment.md) — 2023-11-15
 - [程序员颈椎与腰椎间盘突出康复方案：实操指南及适用场景说明](./GitHub项目/programmer-cervical-lumbar-disc-recovery-guide.md) — 2023-11-05
 - [微软发布 Generative AI for Beginners：面向初学者的生成式 AI 入门指南](./GitHub项目/microsoft-generative-ai-for-beginners.md) — 2023-11-05
+- [如何快速去除图片中的水印或敏感信息？sfz打码工具实操指南](./GitHub项目/remove-image-watermark-sfz-guide.md) — 2023-11-01
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
