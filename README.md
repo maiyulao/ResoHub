@@ -2902,6 +2902,7 @@
 - [MIUI 官方 ROM 镜像库及米家设备刷机工具下载指南（含适用环境与注意事项）](./创意工具/miui-rom-mirrors-and-mi-device-flashing-tools-guide.md) — 2023-10-26
 - [基于多线程技术的网页端流量压力测试工具：Zixi 性能分析与实操指南](./创意工具/zixi-web-traffic-stress-testing-guide.md) — 2023-10-26
 - [哪煮米域名比价平台：通过全网实时价格监测，帮您快速锁定低价注册与续费方案](./创意工具/nazhumi-domain-price-comparison.md) — 2023-10-26
+- [跨语言录音转文字太麻烦？试试这款支持10余种语言的免费工具 Voice Transcriber Bot](./创意工具/voice-transcriber-bot-free-multilingual-transcription-tool.md) — 2023-10-26
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
