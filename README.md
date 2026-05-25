@@ -998,6 +998,7 @@
 - [微软发布 Generative AI for Beginners：面向初学者的生成式 AI 入门指南](./GitHub项目/microsoft-generative-ai-for-beginners.md) — 2023-11-05
 - [如何快速去除图片中的水印或敏感信息？sfz打码工具实操指南](./GitHub项目/remove-image-watermark-sfz-guide.md) — 2023-11-01
 - [中文播客资源清单：分场景收听指南与订阅渠道汇总](./GitHub项目/chinese-podcast-resource-list.md) — 2023-10-31
+- [中国独立开发者作品集：项目索引与资源汇总](./GitHub项目/china-indie-hackers-portfolio-index.md) — 2023-10-29
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
