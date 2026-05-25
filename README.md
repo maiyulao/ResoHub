@@ -5180,6 +5180,7 @@
 - [如何快速转存并收听有声读物全集：操作步骤详解](./实战指南/how-to-save-and-listen-audiobooks-full-collection.md) — 2023-11-22
 - [《黑莲花上位手册》短剧全集观看指南与剧情解析](./实战指南/black-lotus-drama-guide-and-analysis.md) — 2023-11-22
 - [知乎变现全指南：从入门到实操的900个盈利案例拆解](./实战指南/zhihu-monetization-guide-900-cases.md) — 2023-11-21
+- [Midjourney全流程实战指南：从零基础上手到商业级图像创作的进阶路径](./实战指南/midjourney-complete-guide-beginner-to-professional.md) — 2023-11-21
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
