@@ -2764,6 +2764,7 @@
 - [YouZack在线英语听力平台：通过逐句精听突破听力瓶颈，实现免费高效练习](./创意工具/youzack-english-listening-practice.md) — 2023-11-28
 - [B宅网：高品质ACG游戏与漫画资源索引库](./创意工具/bzhai-acg-game-manga-index.md) — 2023-11-28
 - [Urlebird 使用指南：无需账号在线浏览 TikTok 视频的镜像访问方案](./创意工具/urlebird-tiktok-viewer-guide.md) — 2023-11-28
+- [Can You RUN It 使用指南：覆盖 8500 款游戏的 PC 硬件性能检测](./创意工具/can-you-run-it-guide-pc-hardware-test.md) — 2023-11-27
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
