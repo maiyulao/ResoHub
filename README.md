@@ -5155,6 +5155,7 @@
 - [影视解说BGM资源包：1000首短视频背景音乐下载与配置指南](./实战指南/movie-commentary-bgm-resource-pack.md) — 2023-11-28
 - [想给电视盒子安装实用软件？这份TV端应用精选集合帮你快速搭建家庭影院](./实战指南/best-tv-box-apps-for-home-theater.md) — 2023-11-28
 - [三老师写真集PDF资源下载与内容概览](./实战指南/san-laoshi-photobook-pdf-download.md) — 2023-11-26
+- [小学作文进阶指南：学而思高效写作技巧拆解](./实战指南/xueersi-primary-school-writing-guide.md) — 2023-11-25
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
