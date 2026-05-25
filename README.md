@@ -2835,6 +2835,7 @@
 - [GPTs Hunter 资源指南：如何检索并部署 GPT Store 高质自定义模型](./创意工具/gpts-hunter-guide-retrieve-deploy-gpt-store-models.md) — 2023-11-11
 - [想进大厂却不知面试考什么？通过名企校招真题精准刷题，攻克技术面](./创意工具/big-company-interview-prep-questions.md) — 2023-11-11
 - [Mediy：高资源密度的私有云存储方案指南](./创意工具/mediy-private-cloud-storage-guide.md) — 2023-11-10
+- [bilibiliparse_bot：高效提取 B 站视频核心要点与全文解析](./创意工具/bilibiliparse-bot-bilibili-video-summary-parser.md) — 2023-11-10
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
