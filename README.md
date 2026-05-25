@@ -5158,6 +5158,7 @@
 - [小学作文进阶指南：学而思高效写作技巧拆解](./实战指南/xueersi-primary-school-writing-guide.md) — 2023-11-25
 - [厌倦了仅靠死工资生活？这份从职场跃迁至千万资产的实操路径指南请收好](./实战指南/career-leap-to-wealth-guide.md) — 2023-11-25
 - [付费短剧精选合集：高节奏爽文剧集推荐指南](./实战指南/paid-short-drama-collection-guide.md) — 2023-11-25
+- [零基础Python编程实战指南：从中文逻辑到代码实现的全流程视频课](./实战指南/python-programming-guide-for-beginners.md) — 2023-11-25
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
