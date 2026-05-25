@@ -5208,6 +5208,7 @@
 - [大学英语四六级全攻略：从核心考点突破到高效备考实操](./实战指南/cet-4-6-complete-guide.md) — 2023-11-19
 - [心理学进阶指南：精选课程与电子书资源库](./实战指南/psychology-advanced-guide-resources.md) — 2023-11-19
 - [专升本考研视频课资源汇总与学习指南](./实战指南/top-up-degree-postgraduate-video-courses-guide.md) — 2023-11-17
+- [背不完高考英语3500词？这份高效学习资料包帮你快速攻克](./实战指南/gaokao-english-3500-words-study-guide.md) — 2023-11-17
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
