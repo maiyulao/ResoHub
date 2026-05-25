@@ -5121,6 +5121,7 @@
 - [实操指南：通过 30 个 AI 应用场景重塑工作流并实现效能跃迁](./实战指南/30-ai-use-cases-workflow-efficiency.md) — 2023-12-02
 - [突破职场瓶颈：52个高频痛点分析与实操对策](./实战指南/break-career-bottlenecks-52-tips.md) — 2023-12-01
 - [深度解析：973GB 规模化 Photoshop 进阶学习资源库（含 80 套付费实战课程）](./实战指南/photoshop-advanced-learning-resources-973gb.md) — 2023-12-01
+- [高分考生的知识内化路径：核心笔记汇总与高效复习逻辑解析](./实战指南/high-score-student-knowledge-internalization-notes-and-review-logic.md) — 2023-11-30
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
