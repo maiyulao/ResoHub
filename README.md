@@ -3078,6 +3078,7 @@
 - [想尝试罗南希体位却不知如何发力？这份真人实操指南教你掌握要领](./大人学习课程/own-by-own-position-guide.md) — 2023-11-10
 - [香蕉公社全流程实操教学指南：从基础入门到进阶技巧](./大人学习课程/banana-commune-tutorial-guide.md) — 2023-11-07
 - [女性学习者视角：8组高效学习资料图谱及其应用指南](./大人学习课程/female-learners-efficient-study-resource-maps-guide.md) — 2023-11-05
+- [提升男性综合竞争力的14项实用技能进阶指南](./大人学习课程/14-essential-skills-for-men-competitiveness.md) — 2023-11-04
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
