@@ -2889,6 +2889,7 @@
 - [识别并应对 50 种常见认知偏差的操作指南](./创意工具/guide-to-50-common-cognitive-biases.md) — 2023-10-30
 - [就诊问问：医疗信息精准检索与在线问诊指南](./创意工具/jiu-zhen-wen-wen-medical-search-guide.md) — 2023-10-30
 - [想让视频人物说任何语言且口型精准匹配？尝试用 Sync Labs 实现实时唇形同步](./创意工具/sync-labs-real-time-lip-sync.md) — 2023-10-29
+- [高品质PPT模板资源库：免费素材下载与演示文稿设计指南](./创意工具/high-quality-ppt-templates-free-download-guide.md) — 2023-10-29
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
