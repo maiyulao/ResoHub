@@ -5171,6 +5171,7 @@
 - [情圣大卫恋爱学堂全集（33册PDF）：完整资源获取与阅读指南](./实战指南/david-love-school-pdf-collection.md) — 2023-11-23
 - [Java 大厂面试 300 题：核心考点详解与刷题指南](./实战指南/java-interview-300-questions-guide.md) — 2023-11-22
 - [提升男性个人魅力的系统化进阶指南：从形象塑造到社交进阶的实操步骤](./实战指南/mens-charisma-improvement-guide.md) — 2023-11-22
+- [如何快速转存并收听有声读物全集：操作步骤详解](./实战指南/how-to-save-and-listen-audiobooks-full-collection.md) — 2023-11-22
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
