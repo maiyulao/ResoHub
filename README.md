@@ -594,6 +594,7 @@
 - [Dynamic：将手绘草图实时转化为AI图像的生成工具](./AI工具教程/dynamic-sketch-to-ai-image-tool.md) — 2023-11-26
 - [AI绘画学习资源库：涵盖实操教程与工具指南（在线访问）](./AI工具教程/ai-painting-learning-resources.md) — 2023-11-22
 - [使用 Meshy 快速生成 3D 游戏资产的完整操作指南](./AI工具教程/meshy-3d-game-assets-guide.md) — 2023-11-22
+- [AMiner AI 学术检索平台：面向科技情报挖掘的论文与专利获取指南](./AI工具教程/aminer-ai-academic-search-guide.md) — 2023-11-22
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
