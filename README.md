@@ -2965,6 +2965,7 @@
 - [抖音直播流量操盘指南：技术性起号与增粉实操视频集](./大人学习课程/douyin-live-traffic-growth-guide.md) — 2023-12-18
 - [高阶私密空间技巧指南：从核心实操逻辑到分级进阶方案](./大人学习课程/advanced-private-space-guide.md) — 2023-12-11
 - [某博主密圈系列学习资源汇总（第1至15期）](./大人学习课程/blogger-secret-circle-learning-resources-1-15.md) — 2023-12-05
+- [高效信息检索指南：深度解析《你不可不学习的资料 101 式》繁体版核心方法论](./大人学习课程/efficient-information-retrieval-guide-101-methods.md) — 2023-11-29
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
