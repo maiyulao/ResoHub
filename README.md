@@ -3010,6 +3010,7 @@
 - [如何摆脱社交尴尬并提升个人吸引力？贝克书男性魅力进阶全套课程实操指南](./大人学习课程/overcome-social-awkwardness-and-boost-attraction-guide.md) — 2023-11-28
 - [微博街拍博主作品集：高清原图下载及适用场景指南](./大人学习课程/weibo-street-photography-portfolio-download-guide.md) — 2023-11-27
 - [增田丰下半身训练法PDF获取与实操步骤指南](./大人学习课程/masuda-yutaka-lower-body-training-guide.md) — 2023-11-21
+- [2023年10月番剧学习资源全集：含中文字幕及分门别类资料索引](./大人学习课程/october-2023-anime-learning-resources.md) — 2023-11-19
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
