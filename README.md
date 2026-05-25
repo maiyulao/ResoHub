@@ -5189,6 +5189,7 @@
 - [Midjourney全流程实战指南：从零基础上手到商业级图像创作的进阶路径](./实战指南/midjourney-complete-guide-beginner-to-professional.md) — 2023-11-21
 - [MySQL 大厂高频面试考点：核心知识点梳理与分步解析指南](./实战指南/mysql-interview-core-knowledge-guide.md) — 2023-11-20
 - [传统健身养生资源库：电子书与视频教学指南](./实战指南/traditional-fitness-wellness-resources.md) — 2023-11-20
+- [脱单师木木聊天实操课程：针对直男社交短板的沟通指南与获取路径](./实战指南/mumu-chatting-course-for-men.md) — 2023-11-20
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
