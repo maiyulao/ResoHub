@@ -1272,6 +1272,7 @@
 - [云萌 Windows 10 永久数字权利激活指南：实现系统正版授权的实操方案](./Windows软件/windows-10-permanent-digital-activation-guide.md) — 2023-12-08
 - [Photoshop 2024 v25.2 安装指南：启用生成式 AI 填充与多语言配置步骤](./Windows软件/photoshop-2024-v25-2-install-guide-generative-fill-config.md) — 2023-12-03
 - [想彻底删除 Windows 10 顽固内置软件？试试开源工具 PyDebloatX](./Windows软件/remove-windows-10-bloatware-pydebloatx.md) — 2023-11-21
+- [使用 Video Subtitle Remover (VSR) 无损去除 AI 视频硬字幕的操作指南](./Windows软件/video-subtitle-remover-vsr-guide.md) — 2023-11-15
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
