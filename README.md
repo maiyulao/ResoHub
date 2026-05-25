@@ -2885,6 +2885,7 @@
 - [成人用品使用指南与技巧学习资源汇总](./创意工具/adult-toys-guide-and-tips-resources.md) — 2023-10-31
 - [公考上岸全攻略：从核心资源库到实战学习技巧的系统化拆解](./创意工具/civil-service-exam-guide-resources-and-tips.md) — 2023-10-31
 - [识别并应对 50 种常见认知偏差的操作指南](./创意工具/guide-to-50-common-cognitive-biases.md) — 2023-10-30
+- [就诊问问：医疗信息精准检索与在线问诊指南](./创意工具/jiu-zhen-wen-wen-medical-search-guide.md) — 2023-10-30
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
