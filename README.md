@@ -5292,6 +5292,7 @@
 - [想快速提升英语能力却不知从何入手？尝试一套极简高效的系统学习方案](./实战指南/efficient-english-learning-system.md) — 2023-11-06
 - [职场新人避坑指南：求职阶段的 8 个关键风险识别点](./实战指南/job-hunting-risks-for-beginners.md) — 2023-11-05
 - [1988-2023年奥斯卡获奖影片全集：1.42TB超高清资源索引](./实战指南/oscar-winning-movies-1988-2023-uhd-index.md) — 2023-11-05
+- [普通话水平测试备考全流程：从学习到拿证的实操指南](./实战指南/putonghua-test-preparation-guide.md) — 2023-11-05
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
