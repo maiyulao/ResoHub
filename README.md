@@ -2816,6 +2816,7 @@
 - [全网音乐解析下载工具：实现音频资源在线提取的免费方案](./创意工具/music-downloader-online-extraction-free.md) — 2023-11-16
 - [低门槛获取 GPT-3.5 与 GPT-4 API 的免费领取指南](./创意工具/free-gpt-3-5-gpt-4-api-guide.md) — 2023-11-16
 - [北大出版社电子书架：在线教材免费阅读指南及使用注意事项](./创意工具/pku-press-ebooks-guide.md) — 2023-11-14
+- [如何使用热盘搜快速检索百度网盘资源：操作步骤详解](./创意工具/how-to-use-repan-sou-for-baidu-netdisk.md) — 2023-11-14
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
