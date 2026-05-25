@@ -2821,6 +2821,7 @@
 - [北大出版社电子书架：在线教材免费阅读指南及使用注意事项](./创意工具/pku-press-ebooks-guide.md) — 2023-11-14
 - [如何使用热盘搜快速检索百度网盘资源：操作步骤详解](./创意工具/how-to-use-repan-sou-for-baidu-netdisk.md) — 2023-11-14
 - [MZT 高质量图片素材库：在线获取指南与适用场景分析](./创意工具/mzt-high-quality-image-library-guide.md) — 2023-11-14
+- [想找无需注册且免费的 Mac 软件下载站？试试小怪兽 MAC 分享屋](./创意工具/free-mac-software-download-site-little-monster.md) — 2023-11-13
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
