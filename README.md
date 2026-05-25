@@ -5241,6 +5241,7 @@
 - [如何通过CV与NLP实战项目提升AI工程能力？详解咕泡P5人工智能课程学习路径](./实战指南/improve-ai-engineering-with-cv-nlp-projects-gupao-p5-path.md) — 2023-11-14
 - [英语基础薄弱怎么快速追赶？一套让学习效率翻盘的进阶方案](./实战指南/fast-track-english-learning-guide.md) — 2023-11-13
 - [有道英语专业八级（TEM-8）全流程备考指南与课程详解](./实战指南/youdao-tem8-preparation-guide.md) — 2023-11-13
+- [高质感第一视角驾驶视频素材：豪车行车场景制作指南](./实战指南/luxury-car-pov-driving-video-guide.md) — 2023-11-12
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
