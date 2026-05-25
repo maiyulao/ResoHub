@@ -694,6 +694,7 @@
 - [想快速通过驾考却被冗长的题库困扰？试试这款精简版的驾考题库 APP v2.2.8](./Android应用/simplified-driving-test-app-v2-2-8.md) — 2023-11-03
 - [淘京猪手 v4.1.3：自动化处理淘宝与京东双十一活动指南](./Android应用/taojing-zhushu-v4-1-3-taobao-jd-double-11-guide.md) — 2023-10-31
 - [Wifi万能钥匙极速版：去广告及SVIP权限解锁版](./Android应用/wifi-master-key-ad-free-svip-unlocked.md) — 2023-10-29
+- [Deep Search：多源磁力链接聚合搜索实测与指南](./Android应用/deep-search-magnet-link-aggregator-guide.md) — 2023-10-25
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
