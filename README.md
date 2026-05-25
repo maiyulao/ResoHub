@@ -689,6 +689,7 @@
 - [NewPipe 安装与配置指南：实现 YouTube 纯净无广告观看的开源方案](./Android应用/newpipe-install-and-setup-guide.md) — 2023-11-27
 - [如何使用 Lyricify 为 Apple Music 与 Spotify 配置滚动歌词](./Android应用/how-to-use-lyricify-for-apple-music-and-spotify-scrolling-lyrics.md) — 2023-11-09
 - [如何使用免费工具搜索并下载无损 FLAC 音乐：全流程操作指南](./Android应用/download-free-flac-music-guide.md) — 2023-11-03
+- [想快速通过驾考却被冗长的题库困扰？试试这款精简版的驾考题库 APP v2.2.8](./Android应用/simplified-driving-test-app-v2-2-8.md) — 2023-11-03
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
