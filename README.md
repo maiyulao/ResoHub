@@ -5284,6 +5284,7 @@
 - [想回顾东京时装秀 2010-2022 的风格演变？这份 TGC 全集带你拆解日系潮流趋势](./实战指南/tgc-tokyo-girls-collection-style-evolution-2010-2022.md) — 2023-11-07
 - [成人用品行业盈利模式与高潜赛道分析](./实战指南/adult-industry-profit-model-and-high-potential-sectors.md) — 2023-11-07
 - [英语启蒙动画《动物王国大冒险》全集：通过视听双模驱动，构建沉浸式自然语言学习环境](./实战指南/animal-kingdom-adventure-english-learning.md) — 2023-11-06
+- [想收藏陈奕迅的高品质无损音乐？这份资源获取与格式选择指南告诉你怎么做](./实战指南/eason-chan-hi-res-audio-guide.md) — 2023-11-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
