@@ -5165,6 +5165,7 @@
 - [36个低门槛副业实操方案：从单一薪资转向多元化增收](./实战指南/36-low-threshold-side-hustle-plans.md) — 2023-11-25
 - [MySQL 性能调优与高可用架构实战指南](./实战指南/mysql-performance-tuning-and-high-availability-guide.md) — 2023-11-25
 - [BEC商务英语全套PDF资源：下载指南及版本适用说明](./实战指南/bec-business-english-pdf-download-guide.md) — 2023-11-24
+- [情圣大卫恋爱学堂全集（33册PDF）：完整资源获取与阅读指南](./实战指南/david-love-school-pdf-collection.md) — 2023-11-23
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
