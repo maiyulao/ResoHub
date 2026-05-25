@@ -2872,6 +2872,7 @@
 - [Souka：日本专业课程检索平台与车牌号查询工具指南](./创意工具/souka-japan-course-search-and-license-plate-lookup.md) — 2023-11-01
 - [Sunshine Alist 网盘资源站：学习资料获取路径与使用指南](./创意工具/sunshine-alist-guide.md) — 2023-11-01
 - [IOT-IELTS 免费真题在线模拟测试指南](./创意工具/iot-ielts-free-practice-test-guide.md) — 2023-11-01
+- [找不到好用的免费追剧资源？试试这个影视森林导航站](./创意工具/free-movie-navigation-site.md) — 2023-11-01
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
