@@ -1397,6 +1397,7 @@
 - [经典风水典籍指南：从基础理论到实战应用的书单推荐](./书籍/classic-feng-shui-books-guide.md) — 2023-12-06
 - [想在计算机领域构建完整的知识体系？这191本经典黑皮书或许能提供答案](./书籍/191-classic-computer-science-books-knowledge-system.md) — 2023-12-04
 - [甲骨文技术实战指南：300册专业典籍深度解析](./书籍/oracle-technical-guide-300-books-analysis.md) — 2023-11-26
+- [获取机械工业出版社6000册电子书资源的具体操作步骤](./书籍/get-6000-mechanical-industry-press-ebooks-guide.md) — 2023-11-26
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
