@@ -5228,6 +5228,7 @@
 - [亚马逊FBA全流程实操指南：从仓储物流配置到高效订单履约的闭环管理](./实战指南/amazon-fba-complete-operational-guide.md) — 2023-11-15
 - [高效办公指南：Excel 实用模板应用与核心函数详解](./实战指南/excel-templates-and-core-functions-guide.md) — 2023-11-15
 - [高情商婆媳关系处理指南：通过《嫂子情商课》掌握家庭沟通技巧与矛盾化解方案](./实战指南/high-eq-mother-in-law-daughter-in-law-relationship-guide.md) — 2023-11-15
+- [拆解恶魔奶爸 Sam 的英语学习法：从环境构建到高效输出的实操步骤](./实战指南/sam-english-learning-method-guide.md) — 2023-11-14
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
