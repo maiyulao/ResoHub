@@ -2830,6 +2830,7 @@
 - [利用历史价格追踪工具识破虚假降价：通过价格曲线分析真实折扣，规避促销陷阱](./创意工具/spot-fake-discounts-with-price-tracking-tools.md) — 2023-11-11
 - [PubScholar：面向学术研究的开源文献检索与公益获取平台](./创意工具/pubscholar-open-academic-search-platform.md) — 2023-11-11
 - [Antimoon英语学习法：高效习得语言的实践指南](./创意工具/antimoon-english-learning-guide.md) — 2023-11-11
+- [GPTs Hunter 资源指南：如何检索并部署 GPT Store 高质自定义模型](./创意工具/gpts-hunter-guide-retrieve-deploy-gpt-store-models.md) — 2023-11-11
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
