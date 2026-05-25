@@ -3000,6 +3000,7 @@
 - [高效信息检索指南：深度解析《你不可不学习的资料 101 式》繁体版核心方法论](./大人学习课程/efficient-information-retrieval-guide-101-methods.md) — 2023-11-29
 - [如何摆脱社交尴尬并提升个人吸引力？贝克书男性魅力进阶全套课程实操指南](./大人学习课程/overcome-social-awkwardness-and-boost-attraction-guide.md) — 2023-11-28
 - [微博街拍博主作品集：高清原图下载及适用场景指南](./大人学习课程/weibo-street-photography-portfolio-download-guide.md) — 2023-11-27
+- [增田丰下半身训练法PDF获取与实操步骤指南](./大人学习课程/masuda-yutaka-lower-body-training-guide.md) — 2023-11-21
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
