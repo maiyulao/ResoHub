@@ -601,6 +601,7 @@
 - [计划出国游却不知如何规划行程？试试用 TravelGPT 快速定制你的AI旅游指南](./AI工具教程/travelgpt-ai-travel-planner-guide.md) — 2023-11-09
 - [想让视频出海时保留原声且自然对口型？尝试用 Rask AI 实现语音克隆与多语言翻译](./AI工具教程/rask-ai-voice-cloning-video-translation.md) — 2023-11-04
 - [利用 AI 驱动的动态图像生成：从文本到 GIF 的高效创作指南](./AI工具教程/ai-dynamic-image-generation-text-to-gif-guide.md) — 2023-11-03
+- [AI绘图提示词在线生成器：设计师专用灵感构建工具及使用指南](./AI工具教程/ai-art-prompt-generator-guide.md) — 2023-11-02
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
