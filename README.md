@@ -2790,6 +2790,7 @@
 - [烟海：中国古典学术资源索引与导航指南](./创意工具/yanhai-chinese-classical-academic-resources-guide.md) — 2023-11-23
 - [全网搜索引擎资源汇总与高效检索指南](./创意工具/search-engine-resources-guide.md) — 2023-11-22
 - [Every Noise at Once 使用指南：探索 Spotify 数千种音乐流派的交互式地图](./创意工具/every-noise-at-once-spotify-guide.md) — 2023-11-21
+- [深度解析 The Pudding：将叙事性报道与交互式数据可视化深度融合的数字出版实践](./创意工具/deep-dive-the-pudding-interactive-data-storytelling.md) — 2023-11-20
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
