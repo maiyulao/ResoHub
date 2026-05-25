@@ -672,6 +672,7 @@
 - [看球通：实时同步全球球赛直播，提供高清、免费的在线赛事观看体验](./Android应用/kanqiutong-live-football-streaming.md) — 2024-01-01
 - [速特生活：磁力资源高效搜索与在线播放工具指南](./Android应用/sutte-magnet-search-and-player-guide.md) — 2023-12-29
 - [波尼音乐：一款对标网易云音乐的开源音频播放器方案分析](./Android应用/bonymusic-open-source-audio-player-analysis.md) — 2023-12-24
+- [想给另一半准备惊喜却没灵感？试试这款高阶版情侣飞行棋网页版](./Android应用/advanced-couple-flying-chess-web-version.md) — 2023-11-29
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
