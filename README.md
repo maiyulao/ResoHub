@@ -2808,6 +2808,7 @@
 - [高效实现游戏账号扫码登录：网页版便捷登录方案及其操作指南](./创意工具/game-account-qr-login-guide.md) — 2023-11-18
 - [面对长文档阅读压力？试试用 Any Summary 快速提取核心要点](./创意工具/any-summary-long-document-reader.md) — 2023-11-17
 - [萤火虫资源站：Android 玩机指南与优质素材共享平台](./创意工具/firefly-android-guide-resources.md) — 2023-11-16
+- [全网音乐解析下载工具：实现音频资源在线提取的免费方案](./创意工具/music-downloader-online-extraction-free.md) — 2023-11-16
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
