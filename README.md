@@ -2897,6 +2897,7 @@
 - [公务员考试资料怎么选？这份竹叶数据的备考经验与资源清单可参考](./创意工具/civil-service-exam-study-materials-guide.md) — 2023-10-28
 - [MacKed：精选 macOS 软件资源下载站](./创意工具/macked-macos-software-resources.md) — 2023-10-28
 - [IQAir 实操指南：全球实时空气质量监测与城市排名查询](./创意工具/iqair-air-quality-guide-global-ranking.md) — 2023-10-27
+- [可可影视：支持多端同步的高清免费流媒体播放平台指南](./创意工具/keko-streaming-platform-guide.md) — 2023-10-27
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
