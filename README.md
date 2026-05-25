@@ -5259,6 +5259,7 @@
 - [知识付费实操指南：从零起步打造首套线上课程](./实战指南/knowledge-payment-course-guide.md) — 2023-11-10
 - [抖音直播绿幕背景全套方案：提供PSD可编辑源文件及实操配置教程](./实战指南/douyin-live-green-screen-solution-psd-tutorial.md) — 2023-11-10
 - [想看知乎盐选付费内容却不想逐篇购买？这里有 3700 余篇精选文章合集](./实战指南/zhihu-premium-articles-collection.md) — 2023-11-10
+- [《我的身体 我的心》S&amp;M 实用教程（1-2季）PDF 获取步骤指南](./实战指南/my-body-my-heart-sm-tutorial-pdf-guide.md) — 2023-11-10
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
