@@ -1403,6 +1403,7 @@
 - [甲骨文技术实战指南：300册专业典籍深度解析](./书籍/oracle-technical-guide-300-books-analysis.md) — 2023-11-26
 - [获取机械工业出版社6000册电子书资源的具体操作步骤](./书籍/get-6000-mechanical-industry-press-ebooks-guide.md) — 2023-11-26
 - [2000册2023年新出版图书资源集：涵盖多领域前沿知识，提供高质量数字化阅读资料](./书籍/2000-new-books-2023-digital-resources.md) — 2023-11-25
+- [想提升认知深度却不知从何读起？这份港大推荐的50本经典书单值得收藏](./书籍/hku-recommended-50-classic-books-for-cognitive-depth.md) — 2023-11-22
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
