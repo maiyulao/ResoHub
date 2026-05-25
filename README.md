@@ -2869,6 +2869,7 @@
 - [想用 ChatGPT 却卡在账号注册或 Plus 支付环节？从零起步的入门指南与会员购买全流程](./创意工具/chatgpt-registration-plus-payment-guide.md) — 2023-11-02
 - [PDF文件太大无法发送或格式难以转换？试试 Xodo 在线工具集实现高效压缩与编辑](./创意工具/xodo-online-pdf-compress-and-edit.md) — 2023-11-02
 - [Souka：日本专业课程检索平台与车牌号查询工具指南](./创意工具/souka-japan-course-search-and-license-plate-lookup.md) — 2023-11-01
+- [Sunshine Alist 网盘资源站：学习资料获取路径与使用指南](./创意工具/sunshine-alist-guide.md) — 2023-11-01
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
