@@ -2898,6 +2898,7 @@
 - [MacKed：精选 macOS 软件资源下载站](./创意工具/macked-macos-software-resources.md) — 2023-10-28
 - [IQAir 实操指南：全球实时空气质量监测与城市排名查询](./创意工具/iqair-air-quality-guide-global-ranking.md) — 2023-10-27
 - [可可影视：支持多端同步的高清免费流媒体播放平台指南](./创意工具/keko-streaming-platform-guide.md) — 2023-10-27
+- [如何使用云盘4K搜索引擎检索阿里、夸克及百度网盘资源](./创意工具/cloud-drive-4k-search-engine-guide.md) — 2023-10-27
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
