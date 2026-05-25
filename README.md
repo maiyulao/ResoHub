@@ -2800,6 +2800,7 @@
 - [想找高质量AI绘画素材却没方向？在森片社区探索多样化的AI图片资源库](./创意工具/explore-ai-image-resources-senpian.md) — 2023-11-19
 - [成人向独立游戏资源汇总与免费下载指南](./创意工具/adult-indie-games-resource-download-guide.md) — 2023-11-19
 - [Hubbub：全球中文播客在线收听平台（支持多设备同步与资源检索）](./创意工具/hubbub-chinese-podcast-platform.md) — 2023-11-18
+- [港澳上网方案全指南：海外运营商套餐对比与选购建议](./创意工具/hong-kong-macau-internet-guide.md) — 2023-11-18
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
