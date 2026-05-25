@@ -5304,6 +5304,7 @@
 - [普通话水平测试备考全流程：从学习到拿证的实操指南](./实战指南/putonghua-test-preparation-guide.md) — 2023-11-05
 - [从零开始掌握英语语法的操作指南：腾讯课堂学习步骤详解](./实战指南/english-grammar-guide-tencent-classroom.md) — 2023-11-05
 - [1200+套装修设计效果图资源包：涵盖主流风格，支持商业参考与方案导出](./实战指南/1200-interior-design-renderings-resource-pack.md) — 2023-11-03
+- [获取2023年热门短剧资源的完整操作步骤](./实战指南/get-popular-short-drama-resources-2023.md) — 2023-11-03
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
