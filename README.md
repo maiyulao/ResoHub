@@ -2760,6 +2760,7 @@
 - [舌头功能详解：实用技巧与操作指南](./创意工具/tongue-functions-guide-and-tips.md) — 2023-11-28
 - [午夜搜使用指南：高效检索成人向磁力资源的搜索引擎技巧](./创意工具/midnight-search-guide-magnet-tips.md) — 2023-11-28
 - [YouZack在线英语听力平台：通过逐句精听突破听力瓶颈，实现免费高效练习](./创意工具/youzack-english-listening-practice.md) — 2023-11-28
+- [B宅网：高品质ACG游戏与漫画资源索引库](./创意工具/bzhai-acg-game-manga-index.md) — 2023-11-28
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
