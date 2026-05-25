@@ -5322,6 +5322,7 @@
 - [人像摄影美姿教学全集：分场景姿态指南与实操技巧下载](./实战指南/portrait-photography-posing-guide.md) — 2023-11-02
 - [10月精选：万册免费电子书资源合集与分类指南](./实战指南/october-free-ebooks-collection-guide.md) — 2023-11-01
 - [如何学习马思瑞口语私教课：从视频观看、讲义配套到实操练习的步骤指南](./实战指南/how-to-study-masrui-speaking-course-guide.md) — 2023-11-01
+- [获取170部经典港剧影视资源的完整操作指南](./实战指南/guide-to-170-classic-hong-kong-dramas-resources.md) — 2023-11-01
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
