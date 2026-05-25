@@ -1182,6 +1182,7 @@
 - [面对付费文章的订阅弹窗？尝试用 Ladder 绕过付费墙实现免费阅读](./Mac软件/bypass-paywalls-with-ladder.md) — 2023-11-11
 - [Keyviz 开源键鼠可视化工具：支持实时显示输入，适用于演示与录屏环境](./Mac软件/keyviz-open-source-keyboard-mouse-visualizer.md) — 2023-11-10
 - [Spacedrive：支持多端同步的开源文件管理方案](./Mac软件/spacedrive-open-source-file-manager.md) — 2023-11-04
+- [跨平台离线AI换脸工具：支持Windows与macOS的本地部署方案](./Mac软件/cross-platform-offline-ai-faceswap-local-deployment.md) — 2023-11-01
 
 ### Twitter
 - [BlockExpress 插件安装指南：通过浏览器订阅推特 Web3 KOL 动态与行业情报](./Twitter/blockexpress-installation-guide-twitter-web3-kol-tracking.md) — 2024-05-24
