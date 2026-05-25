@@ -979,6 +979,7 @@
 - [想在不同平台流畅聆听李志的音乐？这款跨平台播放器帮你统一管理](./GitHub项目/cross-platform-music-player-for-li-zhi.md) — 2023-11-21
 - [如何部署与使用 LibSTC：一款开源的 IPFS 电子书搜索引擎](./GitHub项目/deploy-use-libstc-ipfs-ebook-search-engine.md) — 2023-11-20
 - [Pixel Art：高效将照片转换为像素风格的在线工具](./GitHub项目/photo-to-pixel-art-online-tool.md) — 2023-11-19
+- [英语学习路径指南：从资源选择到实操环境的进阶方法](./GitHub项目/english-learning-path-guide.md) — 2023-11-19
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
