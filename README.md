@@ -598,6 +598,7 @@
 - [高效语音转文字：基于 OpenAI Whisper 的极速音频识别工具指南](./AI工具教程/openai-whisper-speech-to-text-guide.md) — 2023-11-21
 - [想把 YouTube 视频快速转化为文字博客？试试用 Video To Blog 实现 GPT 一键转写](./AI工具教程/youtube-video-to-blog-gpt-transcription.md) — 2023-11-14
 - [利用 Bing DALL-E 3 将每日中国古诗词转化为 AI 视觉图像](./AI工具教程/bing-dalle3-chinese-poetry-ai-images.md) — 2023-11-10
+- [计划出国游却不知如何规划行程？试试用 TravelGPT 快速定制你的AI旅游指南](./AI工具教程/travelgpt-ai-travel-planner-guide.md) — 2023-11-09
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
