@@ -1590,6 +1590,7 @@
 - [独角兽专业美甲教学：全流程实操视频课程指南](./兴趣爱好/unicorn-nail-art-training-course.md) — 2023-12-22
 - [王力宏线上唱歌教学课程：获取渠道、适用人群及学习要点说明](./兴趣爱好/leehom-wang-singing-course-guide.md) — 2023-12-18
 - [帕梅拉全套高清健身课程资源指南（28GB完整版）](./兴趣爱好/pamela-fitness-courses-complete-guide.md) — 2023-12-09
+- [35.7GB风水玄学资料包：含多门类专业文献，适用于离线研习与学术参考](./兴趣爱好/fengshui-metaphysics-resource-pack.md) — 2023-10-31
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
