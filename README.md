@@ -1422,6 +1422,7 @@
 - [想提升认知深度却不知从何读起？这份港大推荐的50本经典书单值得收藏](./书籍/hku-recommended-50-classic-books-for-cognitive-depth.md) — 2023-11-22
 - [全行业知识图谱：34类专业电子书资源集（Epub版）](./书籍/industry-knowledge-graph-ebooks-collection.md) — 2023-11-17
 - [临床医学工具书电子版下载指南：适用场景与关键版本说明](./书籍/clinical-medical-books-download-guide.md) — 2023-11-15
+- [找不到高质量电子书资源？这份包含12.7万册图书的微力同步密钥库可供调用](./书籍/high-quality-ebooks-micloud-key-library.md) — 2023-11-14
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
