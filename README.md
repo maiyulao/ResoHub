@@ -1263,6 +1263,7 @@
 - [TTKMusicPlayer开源音乐播放器：支持无损音源下载与本地播放配置指南](./Windows软件/ttkmusicplayer-open-source-music-player-guide.md) — 2023-12-09
 - [云萌 Windows 10 永久数字权利激活指南：实现系统正版授权的实操方案](./Windows软件/windows-10-permanent-digital-activation-guide.md) — 2023-12-08
 - [Photoshop 2024 v25.2 安装指南：启用生成式 AI 填充与多语言配置步骤](./Windows软件/photoshop-2024-v25-2-install-guide-generative-fill-config.md) — 2023-12-03
+- [想彻底删除 Windows 10 顽固内置软件？试试开源工具 PyDebloatX](./Windows软件/remove-windows-10-bloatware-pydebloatx.md) — 2023-11-21
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
