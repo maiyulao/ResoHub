@@ -5160,6 +5160,7 @@
 - [付费短剧精选合集：高节奏爽文剧集推荐指南](./实战指南/paid-short-drama-collection-guide.md) — 2023-11-25
 - [零基础Python编程实战指南：从中文逻辑到代码实现的全流程视频课](./实战指南/python-programming-guide-for-beginners.md) — 2023-11-25
 - [36个低门槛副业实操方案：从单一薪资转向多元化增收](./实战指南/36-low-threshold-side-hustle-plans.md) — 2023-11-25
+- [MySQL 性能调优与高可用架构实战指南](./实战指南/mysql-performance-tuning-and-high-availability-guide.md) — 2023-11-25
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
