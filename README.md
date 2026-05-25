@@ -5361,6 +5361,7 @@
 - [孩子上幼儿园不知道怎么引导？这份7.43GB的学前教辅资源包帮你规划学习路径](./实战指南/preschool-learning-resources-guide.md) — 2023-10-29
 - [精选896首网易云音乐万赞神曲：高互动率金曲集锦，涵盖多维度听感共鸣](./实战指南/netease-cloud-music-10k-likes-songs-collection.md) — 2023-10-28
 - [Reddit用户共建百部恐怖片神作清单：涵盖影史经典与小众佳作，全集资源共477GB](./实战指南/reddit-horror-movies-masterlist-collection.md) — 2023-10-27
+- [高效学习名校名师英文演讲：17.5GB资源下载与学习步骤指南](./实战指南/learn-english-speeches-resources-guide.md) — 2023-10-27
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
