@@ -2877,6 +2877,7 @@
 - [低端影视使用指南：通过简洁界面免费观看在线影视的步骤](./创意工具/didian-movie-guide-free-streaming-steps.md) — 2023-11-01
 - [想给歌曲做伴奏却没原曲？尝试用 VocalRemover 在线快速分离人声与乐器](./创意工具/vocalremover-separate-vocals-and-instruments.md) — 2023-11-01
 - [想在Steam买游戏却不确定是否是历史最低价？用SteamDB追踪价格走势实现精准省钱](./创意工具/steamdb-price-tracking-guide.md) — 2023-11-01
+- [Music Bot 开源指南：实现全网音乐搜索与无损下载的自动化方案](./创意工具/music-bot-open-source-guide-music-search-download.md) — 2023-10-31
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
