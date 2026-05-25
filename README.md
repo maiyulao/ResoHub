@@ -5224,6 +5224,7 @@
 - [Keep会员付费课程指南：运动健身教程资源汇总](./实战指南/keep-member-course-guide-fitness-resources.md) — 2023-11-16
 - [60组国潮古风动态背景素材库：视觉风格与应用指南](./实战指南/60-guochao-ancient-style-motion-backgrounds-guide.md) — 2023-11-15
 - [亚马逊FBA全流程实操指南：从仓储物流配置到高效订单履约的闭环管理](./实战指南/amazon-fba-complete-operational-guide.md) — 2023-11-15
+- [高效办公指南：Excel 实用模板应用与核心函数详解](./实战指南/excel-templates-and-core-functions-guide.md) — 2023-11-15
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
