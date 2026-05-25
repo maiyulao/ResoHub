@@ -5266,6 +5266,7 @@
 - [《我的身体 我的心》S&amp;M 实用教程（1-2季）PDF 获取步骤指南](./实战指南/my-body-my-heart-sm-tutorial-pdf-guide.md) — 2023-11-10
 - [想系统提升英语能力却不知从哪本教材开始？新概念与剑桥课程全系列选购与学习指南](./实战指南/english-textbook-guide-new-concept-vs-cambridge.md) — 2023-11-10
 - [Java工程师面试突击训练全集（3季）：互联网求职适用，含核心考点与备考指南](./实战指南/java-engineer-interview-training-guide.md) — 2023-11-09
+- [宣传片配乐总担心版权违规？这几类无版权商用音乐素材可直接使用](./实战指南/royalty-free-music-for-promotional-videos.md) — 2023-11-09
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
