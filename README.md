@@ -2740,6 +2740,7 @@
 - [Spotify BOT：支持 FLAC 无损格式的音乐下载指南](./创意工具/spotify-bot-flac-download-guide.md) — 2023-12-03
 - [磁力多：高效BT资源检索与磁力链接搜索指南](./创意工具/magnetic-search-guide.md) — 2023-12-03
 - [YueChan Live 高清 IPTV 直播源 m3u 列表配置指南](./创意工具/yuechan-live-iptv-m3u-guide.md) — 2023-12-03
+- [百乐米稀有音乐库：在线听歌平台获取指南及使用注意事项](./创意工具/bellemie-rare-music-guide.md) — 2023-12-02
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
