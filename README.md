@@ -5229,6 +5229,7 @@
 - [高效办公指南：Excel 实用模板应用与核心函数详解](./实战指南/excel-templates-and-core-functions-guide.md) — 2023-11-15
 - [高情商婆媳关系处理指南：通过《嫂子情商课》掌握家庭沟通技巧与矛盾化解方案](./实战指南/high-eq-mother-in-law-daughter-in-law-relationship-guide.md) — 2023-11-15
 - [拆解恶魔奶爸 Sam 的英语学习法：从环境构建到高效输出的实操步骤](./实战指南/sam-english-learning-method-guide.md) — 2023-11-14
+- [如何通过CV与NLP实战项目提升AI工程能力？详解咕泡P5人工智能课程学习路径](./实战指南/improve-ai-engineering-with-cv-nlp-projects-gupao-p5-path.md) — 2023-11-14
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
