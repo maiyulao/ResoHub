@@ -2848,6 +2848,7 @@
 - [ChatGPT 最新核心更新：关键功能要点速览](./创意工具/chatgpt-latest-core-updates-key-features.md) — 2023-11-08
 - [sadTxt全本小说库：提供海量免费TXT资源下载，支持快速检索与一键获取](./创意工具/sadtxt-free-novel-library.md) — 2023-11-07
 - [SuperCook：基于现有食材的免费在线食谱检索工具及使用指南](./创意工具/supercook-recipe-search-tool-guide.md) — 2023-11-06
+- [背单词总是半途而废？试试这款追求极致丝滑体验的在线记忆工具](./创意工具/smooth-online-vocabulary-learning-tool.md) — 2023-11-05
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
