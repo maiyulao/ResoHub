@@ -5206,6 +5206,7 @@
 - [得到付费课程资源流出：内容获取路径与风险分析](./实战指南/dedao-course-leaks-acquisition-and-risks.md) — 2023-11-19
 - [大学英语四六级全攻略：从核心考点突破到高效备考实操](./实战指南/cet-4-6-complete-guide.md) — 2023-11-19
 - [心理学进阶指南：精选课程与电子书资源库](./实战指南/psychology-advanced-guide-resources.md) — 2023-11-19
+- [专升本考研视频课资源汇总与学习指南](./实战指南/top-up-degree-postgraduate-video-courses-guide.md) — 2023-11-17
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
