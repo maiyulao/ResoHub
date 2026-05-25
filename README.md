@@ -5425,6 +5425,7 @@
 - [想尝试 1Password 但不想绑定信用卡？现在可以通过此方法获取一年免费试用](./羊毛/1password-free-trial-no-credit-card.md) — 2024-08-05
 - [领取喜茶年度盛宴买一送一券的操作指南](./羊毛/heytea-annual-feast-bogo-guide.md) — 2023-12-19
 - [优酷视频VIP 1日会员限时领取指南：到账速度与领取条件详解](./羊毛/youku-vip-1-day-guide.md) — 2023-11-04
+- [想用 GPT-4 的全套工具却不想支付高昂订阅费？试试这款功能完备的账号共享方案](./羊毛/gpt-4-shared-account-solution.md) — 2023-11-04
 
 ### 音乐
 - [周杰伦《圣诞星》2023新曲：FLAC无损音质下载指南](./音乐/jay-chou-christmas-star-2023-flac-download.md) — 2023-12-21
