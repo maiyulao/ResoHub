@@ -1170,6 +1170,7 @@
 - [想让 AI 模仿特定人物的语气说话？尝试用 Clone voice-CV 实现高还原度声音克隆](./Mac软件/clone-voice-cv-ai-voice-cloning.md) — 2023-11-29
 - [Mac版WeChatHooks安装指南：实现微信多开与消息防撤回](./Mac软件/mac-wechathooks-installation-guide.md) — 2023-11-19
 - [面对付费文章的订阅弹窗？尝试用 Ladder 绕过付费墙实现免费阅读](./Mac软件/bypass-paywalls-with-ladder.md) — 2023-11-11
+- [Keyviz 开源键鼠可视化工具：支持实时显示输入，适用于演示与录屏环境](./Mac软件/keyviz-open-source-keyboard-mouse-visualizer.md) — 2023-11-10
 
 ### Twitter
 - [BlockExpress 插件安装指南：通过浏览器订阅推特 Web3 KOL 动态与行业情报](./Twitter/blockexpress-installation-guide-twitter-web3-kol-tracking.md) — 2024-05-24
