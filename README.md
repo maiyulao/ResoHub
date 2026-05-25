@@ -5103,6 +5103,7 @@
 - [面对社交场合的局促与心动时的不知如何开口？解析柯恩杰的快速建立吸引力技巧](./实战指南/cohen-attraction-techniques-social-skills.md) — 2023-12-03
 - [年会视觉设计素材包：包含PPT模版与视频特效，适用于企业年度汇报及庆典场景](./实战指南/annual-meeting-visual-design-assets.md) — 2023-12-03
 - [天涯社区经典神贴精选辑（PDF版）：深度复刻互联网早期的思想碰撞与社会观察，涵盖多领域高权重讨论帖全文](./实战指南/tianya-classic-threads-pdf-collection.md) — 2023-12-03
+- [从零到月入50万：英语实战应用与变现操作指南](./实战指南/english-practical-application-monetization-guide.md) — 2023-12-03
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
