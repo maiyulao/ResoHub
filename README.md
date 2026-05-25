@@ -5112,6 +5112,7 @@
 - [从零到月入50万：英语实战应用与变现操作指南](./实战指南/english-practical-application-monetization-guide.md) — 2023-12-03
 - [如何寻找能提升电影史诗感的震撼鼓点？这里有726款宏伟音效素材供你选择](./实战指南/epic-cinematic-drum-samples-pack.md) — 2023-12-03
 - [实操指南：通过 30 个 AI 应用场景重塑工作流并实现效能跃迁](./实战指南/30-ai-use-cases-workflow-efficiency.md) — 2023-12-02
+- [突破职场瓶颈：52个高频痛点分析与实操对策](./实战指南/break-career-bottlenecks-52-tips.md) — 2023-12-01
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
