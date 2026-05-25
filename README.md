@@ -676,6 +676,7 @@
 - [想给另一半准备惊喜却没灵感？试试这款高阶版情侣飞行棋网页版](./Android应用/advanced-couple-flying-chess-web-version.md) — 2023-11-29
 - [BlackHole 安装与配置指南：打造无广告的开源高颜值音乐播放器](./Android应用/blackhole-installation-configuration-guide.md) — 2023-11-28
 - [星火电视海外版 v1.0.30 APK 下载：适用海外网络环境及安装配置指南](./Android应用/spark-tv-overseas-v1-0-30-apk-download.md) — 2023-11-27
+- [NewPipe 安装与配置指南：实现 YouTube 纯净无广告观看的开源方案](./Android应用/newpipe-install-and-setup-guide.md) — 2023-11-27
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
