@@ -2794,6 +2794,7 @@
 - [深度解析 The Pudding：将叙事性报道与交互式数据可视化深度融合的数字出版实践](./创意工具/deep-dive-the-pudding-interactive-data-storytelling.md) — 2023-11-20
 - [顶尖成就者共读书单：深度解析其认知升级的阅读路径](./创意工具/top-achievers-reading-list-cognitive-upgrade.md) — 2023-11-20
 - [想要快速生成一张自然且随机的AI少女人像？试试这款在线图像生成工具](./创意工具/ai-girl-portrait-generator-tool.md) — 2023-11-19
+- [想找高质量AI绘画素材却没方向？在森片社区探索多样化的AI图片资源库](./创意工具/explore-ai-image-resources-senpian.md) — 2023-11-19
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
