@@ -673,6 +673,7 @@
 - [速特生活：磁力资源高效搜索与在线播放工具指南](./Android应用/sutte-magnet-search-and-player-guide.md) — 2023-12-29
 - [波尼音乐：一款对标网易云音乐的开源音频播放器方案分析](./Android应用/bonymusic-open-source-audio-player-analysis.md) — 2023-12-24
 - [想给另一半准备惊喜却没灵感？试试这款高阶版情侣飞行棋网页版](./Android应用/advanced-couple-flying-chess-web-version.md) — 2023-11-29
+- [BlackHole 安装与配置指南：打造无广告的开源高颜值音乐播放器](./Android应用/blackhole-installation-configuration-guide.md) — 2023-11-28
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
