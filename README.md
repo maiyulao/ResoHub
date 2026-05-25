@@ -2750,6 +2750,7 @@
 - [Trending Design：推特 X 高质量设计作品集获取指南及灵感筛选要点](./创意工具/x-design-portfolio-guide-inspiration.md) — 2023-12-01
 - [English-level-up-tips 资源指南：针对进阶学习者的实践路径与避坑要点](./创意工具/english-level-up-tips-guide.md) — 2023-12-01
 - [高效在线磁力种子下载指南：资源获取与快速下载技巧](./创意工具/efficient-online-magnet-torrent-download-guide.md) — 2023-11-30
+- [卡车配置单模拟生成工具：快速创建车辆订购清单截图](./创意工具/truck-config-generator.md) — 2023-11-30
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
