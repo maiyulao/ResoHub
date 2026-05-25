@@ -2755,6 +2755,7 @@
 - [卡车配置单模拟生成工具：快速创建车辆订购清单截图](./创意工具/truck-config-generator.md) — 2023-11-30
 - [乐子剧：全站短剧免费追剧，覆盖海量热门网络剧集在线播放](./创意工具/lezi-ju-free-short-drama-online.md) — 2023-11-30
 - [PixivNow：无需翻墙与登录的 Pixiv 镜像访问方案](./创意工具/pixivnow-pixiv-mirror-access.md) — 2023-11-29
+- [舌头功能详解：实用技巧与操作指南](./创意工具/tongue-functions-guide-and-tips.md) — 2023-11-28
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
