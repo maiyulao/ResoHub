@@ -2741,6 +2741,7 @@
 - [磁力多：高效BT资源检索与磁力链接搜索指南](./创意工具/magnetic-search-guide.md) — 2023-12-03
 - [YueChan Live 高清 IPTV 直播源 m3u 列表配置指南](./创意工具/yuechan-live-iptv-m3u-guide.md) — 2023-12-03
 - [百乐米稀有音乐库：在线听歌平台获取指南及使用注意事项](./创意工具/bellemie-rare-music-guide.md) — 2023-12-02
+- [习惯于在 Stack Overflow 翻页找答案？试试 Devv，这款专为开发者设计的 AI 搜索工具](./创意工具/devv-ai-search-tool-for-developers.md) — 2023-12-02
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
