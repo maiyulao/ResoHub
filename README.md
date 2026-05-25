@@ -5340,6 +5340,7 @@
 - [全能专业软件库：精选绿色便携及解锁版本，实现即插即用与功能全开](./实战指南/professional-software-library-portable-unlocked.md) — 2023-10-31
 - [获取高途课堂小初高全套学习资料（1.24TB）的操作指南](./实战指南/get-gaotu-learning-materials-guide.md) — 2023-10-31
 - [完蛋！我被美女包围了：Steam绿色免登录版安装与运行指南](./实战指南/love-is-a-joke-steam-green-version-install-guide.md) — 2023-10-31
+- [2023年6月行业趋势分析：核心增长指标概览与细分市场深度解析](./实战指南/industry-trends-analysis-june-2023.md) — 2023-10-30
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
