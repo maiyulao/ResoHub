@@ -1020,6 +1020,7 @@
 - [TuneWave：支持全国FM电台收听的免费中文广播软件（含安装与环境配置说明）](./iOS应用/tunewave-free-chinese-fm-radio-guide.md) — 2024-04-09
 - [iOS通话录音工具AudioRecorder中文版：安装指南与兼容性说明](./iOS应用/audiorecorder-ios-installation-compatibility.md) — 2024-03-12
 - [厌倦了阅读软件的广告弹窗？试试这款纯净且支持自定义书源的免费阅读器](./iOS应用/clean-free-reading-app-custom-sources.md) — 2023-11-24
+- [iOS 影视类 App 规避审核上架指南：从饮食类伪装到功能激活的实操流程](./iOS应用/ios-app-review-bypass-guide.md) — 2023-10-30
 
 ### iOS捷径指令
 - [如何使用 R⤓Download 实现 TikTok、Instagram 及 Snapchat 视频无水印下载](./iOS捷径指令/download-tiktok-instagram-snapchat-videos-without-watermark-r-download.md) — 2025-03-10
