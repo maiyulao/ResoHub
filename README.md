@@ -5250,6 +5250,7 @@
 - [高中数学全套视频课程（180讲）：全资源获取指南与学习环境配置说明](./实战指南/high-school-math-video-courses-guide.md) — 2023-11-12
 - [4K高清修复版《猫和老鼠》全集下载：画质重塑，完整收录经典剧集](./实战指南/tom-and-jerry-4k-remastered-full-collection-download.md) — 2023-11-12
 - [零基础想在半年内掌握英语？这份从入门到实操的学习路径图请收好](./实战指南/learn-english-roadmap-for-beginners.md) — 2023-11-11
+- [C4D全流程实战指南：从零基础到高阶进阶的体系化学习路径](./实战指南/c4d-complete-workflow-guide-beginner-to-advanced.md) — 2023-11-11
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
