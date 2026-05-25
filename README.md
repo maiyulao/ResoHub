@@ -592,6 +592,7 @@
 - [如何使用 MyLens-AI 快速构建任意主题的事件时间线](./AI工具教程/build-event-timeline-with-mylens-ai.md) — 2023-12-08
 - [AI 技术实战指南：人工智能、机器学习与大数据深度学习资源库](./AI工具教程/ai-machine-learning-deep-learning-guide.md) — 2023-11-28
 - [Dynamic：将手绘草图实时转化为AI图像的生成工具](./AI工具教程/dynamic-sketch-to-ai-image-tool.md) — 2023-11-26
+- [AI绘画学习资源库：涵盖实操教程与工具指南（在线访问）](./AI工具教程/ai-painting-learning-resources.md) — 2023-11-22
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
