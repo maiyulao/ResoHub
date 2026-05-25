@@ -5347,6 +5347,7 @@
 - [孩子学习遇到瓶颈找不到好资料？这份1-9年级全科目辅导资源包请收好](./实战指南/k12-study-resources-pack-grade-1-9.md) — 2023-10-30
 - [89.3GB车载无损HIFI音乐合集：支持主流车机播放，含资源下载与格式兼容指南](./实战指南/car-hifi-lossless-music-collection-download-guide.md) — 2023-10-30
 - [JavaEE 全栈开发实战指南 V13.0：通过源码级课件构建企业级就业竞争力](./实战指南/javaee-fullstack-development-guide-v13.md) — 2023-10-29
+- [孩子上幼儿园不知道怎么引导？这份7.43GB的学前教辅资源包帮你规划学习路径](./实战指南/preschool-learning-resources-guide.md) — 2023-10-29
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
