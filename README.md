@@ -5368,6 +5368,7 @@
 - [高效学习名校名师英文演讲：17.5GB资源下载与学习步骤指南](./实战指南/learn-english-speeches-resources-guide.md) — 2023-10-27
 - [权志龙与BigBang无损音乐资源获取及整理指南](./实战指南/g-dragon-bigbang-lossless-music-guide.md) — 2023-10-26
 - [港综经典犯罪档案：深度解析香港奇案系列影视的叙事逻辑与社会镜像](./实战指南/hong-kong-crime-series-analysis.md) — 2023-10-26
+- [雅思备考没方向？这份 2023 年新东方在线资源包帮你快速上手](./实战指南/ielts-preparation-new-oriental-resource-pack-2023.md) — 2023-10-26
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
