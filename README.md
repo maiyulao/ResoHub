@@ -2827,6 +2827,7 @@
 - [开发时总在搜各种格式转换和校验工具？试试这个集成化的 IT Tools 集合](./创意工具/integrated-it-tools-collection.md) — 2023-11-12
 - [高效商务沟通：名企英文邮件模版及写作实操指南](./创意工具/business-email-templates-and-writing-guide.md) — 2023-11-12
 - [利用历史价格追踪工具识破虚假降价：通过价格曲线分析真实折扣，规避促销陷阱](./创意工具/spot-fake-discounts-with-price-tracking-tools.md) — 2023-11-11
+- [PubScholar：面向学术研究的开源文献检索与公益获取平台](./创意工具/pubscholar-open-academic-search-platform.md) — 2023-11-11
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
