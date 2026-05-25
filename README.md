@@ -2854,6 +2854,7 @@
 - [牛客网企业笔试真题库：覆盖主流公司模拟题及面试实战资源下载指南](./创意工具/nowcoder-company-exam-questions-guide.md) — 2023-11-05
 - [主流CPU与GPU性能评级榜单：核心规格与跑分对比指南](./创意工具/cpu-gpu-performance-benchmarks-comparison-guide.md) — 2023-11-05
 - [高效提升英语听力：精选免费在线学习资源与实操指南](./创意工具/improve-english-listening-free-resources-guide.md) — 2023-11-04
+- [想快速上手设计软件与视频剪辑？这份在线实操指南帮你高效突破初学者瓶颈](./创意工具/design-software-video-editing-beginner-guide.md) — 2023-11-04
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
