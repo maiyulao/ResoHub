@@ -959,6 +959,7 @@
 - [如何使用 iztro 开源 JS 库实现轻量级紫微斗数排盘](./GitHub项目/iztro-javascript-library-ziwei-dou-shu-chart.md) — 2023-12-15
 - [全球大模型图谱：涵盖 18 个海外及 188 个国产 LLM 的对比清单](./GitHub项目/global-llm-landscape-comparison-list.md) — 2023-12-08
 - [Pear rec：支持多平台的截图与音视频录制工具（安装指引及使用要点）](./GitHub项目/pear-rec-guide-installation-usage.md) — 2023-12-02
+- [想让电子版PDF看起来像扫描件？试试这款开源工具 Look Scanned](./GitHub项目/look-scanned-pdf-to-scan-tool.md) — 2023-12-02
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
