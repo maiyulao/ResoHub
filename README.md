@@ -2842,6 +2842,7 @@
 - [构建兼顾安全性与易用性的账号密码管理方案](./创意工具/secure-and-easy-password-management-solution.md) — 2023-11-09
 - [Nsfwpicx 功能详解：开源免费的在线图像资源学习平台](./创意工具/nsfwpicx-features-guide.md) — 2023-11-09
 - [小叽资源：提供多平台游戏免费获取方案，涵盖资源检索与安装指南](./创意工具/xiaoji-free-game-resources-guide.md) — 2023-11-08
+- [使用 Haikei 制作自定义 SVG 背景图片的具体步骤](./创意工具/how-to-create-custom-svg-backgrounds-with-haikei.md) — 2023-11-08
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
