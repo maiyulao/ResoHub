@@ -983,6 +983,7 @@
 - [GitHub 访问缓慢或无法连接？试试这款高速稳定的免费镜像站 521Github](./GitHub项目/github-mirror-site-521github.md) — 2023-11-17
 - [构建全国高校校徽字体图标库的操作指南](./GitHub项目/guide-to-building-china-university-logo-font-library.md) — 2023-11-15
 - [基于多源采集机制的 GoFilm 影视站自动化构建方案](./GitHub项目/gofilm-automated-movie-site-construction.md) — 2023-11-15
+- [想要构建私有化的定制聊天机器人？尝试用 OpenGPTs 实现开源版 GPTs 部署](./GitHub项目/opengpts-open-source-custom-chatbots-deployment.md) — 2023-11-15
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
