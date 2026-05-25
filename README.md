@@ -2865,6 +2865,7 @@
 - [Screensavers Planet 资源库：1500+ 免费屏幕保护程序下载及安装指南](./创意工具/screensavers-planet-free-download-guide.md) — 2023-11-03
 - [UI设计师构建个人知识库的实操指南：从资源采集到体系搭建](./创意工具/ui-designer-knowledge-base-guide.md) — 2023-11-02
 - [想自学编程却不知从哪开始？这几个免费学习资源站能帮你快速上手](./创意工具/best-free-programming-learning-resources-for-beginners.md) — 2023-11-02
+- [想用 ChatGPT 却卡在账号注册或 Plus 支付环节？从零起步的入门指南与会员购买全流程](./创意工具/chatgpt-registration-plus-payment-guide.md) — 2023-11-02
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
