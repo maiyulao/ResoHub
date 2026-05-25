@@ -2772,6 +2772,7 @@
 - [炫美摄影：街拍作品赏析与摄影技巧进阶资源站](./创意工具/street-photography-gallery-and-tips.md) — 2023-11-26
 - [Java 高并发架构实战指南：通过 40 个核心场景解析系统设计关键点与落地方案](./创意工具/java-high-concurrency-architecture-guide.md) — 2023-11-26
 - [如何快速查询已注销企业的历史数据？详解死亡公司数据库的检索与应用](./创意工具/query-deregistered-company-historical-data.md) — 2023-11-26
+- [Sheetrans：支持214种语言的在线文档翻译工具（免费版使用指南）](./创意工具/sheetrans-online-document-translator-guide.md) — 2023-11-26
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
