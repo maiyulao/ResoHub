@@ -3052,6 +3052,7 @@
 - [想系统提升专业技能却不知从何入手？详解香蕉公社VIP课程的学习路径与权益](./大人学习课程/banana-community-vip-learning-path-benefits.md) — 2023-11-17
 - [吴么西男同学延时训练教程：获取路径及适用环境指南](./大人学习课程/wu-mexi-delay-training-guide.md) — 2023-11-16
 - [铁牛硬度提升与功能恢复实操指南](./大人学习课程/tieniu-hardness-improvement-and-recovery-guide.md) — 2023-11-14
+- [想尝试罗南希体位却不知如何发力？这份真人实操指南教你掌握要领](./大人学习课程/own-by-own-position-guide.md) — 2023-11-10
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
