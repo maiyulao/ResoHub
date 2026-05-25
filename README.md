@@ -1444,6 +1444,7 @@
 - [实现产品规模化自增长的 5 个核心操作步骤](./互联网营销/5-steps-for-product-growth-scaling.md) — 2023-12-23
 - [私域商业模式全解析：从顶层逻辑构建到总裁级实战执行方案](./互联网营销/private-traffic-business-model-guide.md) — 2023-12-09
 - [小红书账号权重提升指南：从权重机制到实操养号流程](./互联网营销/xiaohongshu-account-weight-guide.md) — 2023-12-04
+- [韩语学习全套课程资源下载：涵盖基础到进阶，适配自学环境及版本注意事项](./互联网营销/korean-learning-course-resources-download.md) — 2023-11-16
 
 ### 兴趣爱好
 - [家里东西总是在整理后迅速回潮？掌握这套收纳逻辑，让空间持久有序](./e585b4e8b6a3e788b1e5a5bd/home-organization-logic-for-lasting-order.md) — 2025-12-07
