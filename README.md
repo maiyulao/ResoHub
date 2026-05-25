@@ -3024,6 +3024,7 @@
 - [增田丰下半身训练法PDF获取与实操步骤指南](./大人学习课程/masuda-yutaka-lower-body-training-guide.md) — 2023-11-21
 - [2023年10月番剧学习资源全集：含中文字幕及分门别类资料索引](./大人学习课程/october-2023-anime-learning-resources.md) — 2023-11-19
 - [想系统提升专业技能却不知从何入手？详解香蕉公社VIP课程的学习路径与权益](./大人学习课程/banana-community-vip-learning-path-benefits.md) — 2023-11-17
+- [吴么西男同学延时训练教程：获取路径及适用环境指南](./大人学习课程/wu-mexi-delay-training-guide.md) — 2023-11-16
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
