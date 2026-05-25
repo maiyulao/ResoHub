@@ -5219,6 +5219,7 @@
 - [全量覆盖全国高考真题及标准答案：集成听力资源，分省市维度构建完整考题库](./实战指南/china-gaokao-exam-papers-database.md) — 2023-11-17
 - [寒假雅思系统提升方案：通过全流程课程体系快速突破分数瓶颈](./实战指南/winter-break-ielts-improvement-plan.md) — 2023-11-16
 - [Keep会员付费课程指南：运动健身教程资源汇总](./实战指南/keep-member-course-guide-fitness-resources.md) — 2023-11-16
+- [60组国潮古风动态背景素材库：视觉风格与应用指南](./实战指南/60-guochao-ancient-style-motion-backgrounds-guide.md) — 2023-11-15
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
