@@ -5373,6 +5373,7 @@
 - [雅思备考没方向？这份 2023 年新东方在线资源包帮你快速上手](./实战指南/ielts-preparation-new-oriental-resource-pack-2023.md) — 2023-10-26
 - [如何拍出电影感街头大片？分享 3000 张高画质街拍实拍案例与技巧](./实战指南/cinematic-street-photography-guide-and-examples.md) — 2023-10-26
 - [2023上海车展模特名录与详细资料汇总 (v1.0)](./实战指南/2023-shanghai-autoshow-models-list.md) — 2023-10-26
+- [马士兵教育：AI人工智能工程师实战课程（第二期）](./实战指南/ma-shibing-ai-engineer-course-v2.md) — 2023-10-25
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
