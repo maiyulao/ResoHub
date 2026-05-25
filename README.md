@@ -2896,6 +2896,7 @@
 - [WSupercars 4K 超级跑车壁纸库：提供极致画质的免费汽车影像资源，涵盖顶奢超跑全系列高清壁纸](./创意工具/wsupercars-4k-supercar-wallpapers.md) — 2023-10-29
 - [公务员考试资料怎么选？这份竹叶数据的备考经验与资源清单可参考](./创意工具/civil-service-exam-study-materials-guide.md) — 2023-10-28
 - [MacKed：精选 macOS 软件资源下载站](./创意工具/macked-macos-software-resources.md) — 2023-10-28
+- [IQAir 实操指南：全球实时空气质量监测与城市排名查询](./创意工具/iqair-air-quality-guide-global-ranking.md) — 2023-10-27
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
