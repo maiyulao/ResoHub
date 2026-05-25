@@ -961,6 +961,7 @@
 - [Pear rec：支持多平台的截图与音视频录制工具（安装指引及使用要点）](./GitHub项目/pear-rec-guide-installation-usage.md) — 2023-12-02
 - [想让电子版PDF看起来像扫描件？试试这款开源工具 Look Scanned](./GitHub项目/look-scanned-pdf-to-scan-tool.md) — 2023-12-02
 - [突破韩国网络屏蔽：访问 1119 个被封锁学习网站的实操指南](./GitHub项目/bypass-korea-internet-blocking-guide.md) — 2023-12-01
+- [如何使用 YABS 脚本测试 Linux 服务器性能：操作指南](./GitHub项目/test-linux-server-performance-with-yabs.md) — 2023-12-01
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
