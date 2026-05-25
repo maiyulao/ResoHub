@@ -1169,6 +1169,7 @@
 - [薯狗狗：通过竞品账号实时监控实现小红书精准数据分析与增长洞察](./Mac软件/shugougou-xiaohongshu-competitor-monitoring-analysis.md) — 2023-12-05
 - [想让 AI 模仿特定人物的语气说话？尝试用 Clone voice-CV 实现高还原度声音克隆](./Mac软件/clone-voice-cv-ai-voice-cloning.md) — 2023-11-29
 - [Mac版WeChatHooks安装指南：实现微信多开与消息防撤回](./Mac软件/mac-wechathooks-installation-guide.md) — 2023-11-19
+- [面对付费文章的订阅弹窗？尝试用 Ladder 绕过付费墙实现免费阅读](./Mac软件/bypass-paywalls-with-ladder.md) — 2023-11-11
 
 ### Twitter
 - [BlockExpress 插件安装指南：通过浏览器订阅推特 Web3 KOL 动态与行业情报](./Twitter/blockexpress-installation-guide-twitter-web3-kol-tracking.md) — 2024-05-24
