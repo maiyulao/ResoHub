@@ -975,6 +975,7 @@
 - [面对复杂的网络安全任务，如何挑选高效的 GPTs 助手？这里有一份精选 Agent 集合](./GitHub项目/best-gpts-agents-for-cybersecurity.md) — 2023-11-27
 - [国内外IPTV直播源m3u列表：支持多种播放器，含实时更新URL及配置指南](./GitHub项目/iptv-m3u-playlist-guide.md) — 2023-11-24
 - [想在豆瓣记录却搜不到的书影音？试试这样解决缺失条目问题](./GitHub项目/solve-missing-douban-entries.md) — 2023-11-22
+- [想在不同平台流畅聆听李志的音乐？这款跨平台播放器帮你统一管理](./GitHub项目/cross-platform-music-player-for-li-zhi.md) — 2023-11-21
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
