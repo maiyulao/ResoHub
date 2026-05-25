@@ -5133,6 +5133,7 @@
 - [2024年高考预测卷深度汇总：全科目考点分析与真题模拟资源指南](./实战指南/2024-gaokao-prediction-papers-analysis-guide.md) — 2023-11-30
 - [学而思全系列教辅资源下载：含秘籍系列，适用各年级同步复习与专项提升](./实战指南/xueersi-teaching-resources-download.md) — 2023-11-30
 - [1111歌手高保真无损音乐全集：资源整理与下载指南](./实战指南/1111-singer-hi-res-music-collection-download-guide.md) — 2023-11-29
+- [影视解说BGM资源包：1000首短视频背景音乐下载与配置指南](./实战指南/movie-commentary-bgm-resource-pack.md) — 2023-11-28
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
