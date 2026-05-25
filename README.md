@@ -2778,6 +2778,7 @@
 - [如何快速查询已注销企业的历史数据？详解死亡公司数据库的检索与应用](./创意工具/query-deregistered-company-historical-data.md) — 2023-11-26
 - [Sheetrans：支持214种语言的在线文档翻译工具（免费版使用指南）](./创意工具/sheetrans-online-document-translator-guide.md) — 2023-11-26
 - [TVBox可用接口地址汇总：提供多源免费资源配置，涵盖实时更新的接口链路与部署指南](./创意工具/tvbox-interface-links-guide.md) — 2023-11-25
+- [烟海：中国古典学术资源索引与导航指南](./创意工具/yanhai-chinese-classical-academic-resources-guide.md) — 2023-11-23
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
