@@ -2920,6 +2920,7 @@
 - [认知偏差指南：设计心理学实操要点解析](./创意工具/cognitive-bias-design-psychology-guide.md) — 2023-10-22
 - [OpenWrt 软路由配置指南：核心教程与插件实操手册](./创意工具/openwrt-configuration-guide-tutorial.md) — 2023-10-22
 - [如何让 GPT 输出更精准？这份 OpenAI 最佳实践指南用大白话为你拆解](./创意工具/openai-best-practices-guide-for-precise-gpt-outputs.md) — 2023-10-20
+- [New Space：支持端到端加密与无限空间的匿名文件共享工具](./创意工具/new-space-anonymous-file-sharing-e2ee.md) — 2023-10-20
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
