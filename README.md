@@ -3069,6 +3069,7 @@
 - [A-Gen Accounts：支持 Disney+ 与 Hulu 等平台的共享账号自动化获取工具](./创意工具/a-gen-accounts-shared-account-automation-tool.md) — 2023-09-18
 - [全球男性生殖器尺寸分布研究：基于多国样本的平均数值与统计差异分析](./创意工具/global-male-genital-size-distribution-study.md) — 2023-09-17
 - [全球人口动态实时监测：核心统计数据及其多维度人口分布分析](./创意工具/global-population-dynamics-monitoring-and-analysis.md) — 2023-09-17
+- [大湾区口碑餐饮指南：精选美食店名录与实测分享](./创意工具/gba-dining-guide-best-restaurants.md) — 2023-09-17
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
