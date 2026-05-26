@@ -3056,6 +3056,7 @@
 - [30余份名校留学、保研、考研及就业经验指南（飞跃手册）获取与使用指南](./创意工具/top-university-experience-guides-manual.md) — 2023-09-20
 - [Obooko 免费英文电子书下载指南：支持 PDF 与 ePub 格式且无下载限制](./创意工具/obooko-free-ebook-download-guide.md) — 2023-09-19
 - [教师专属 ChatGPT 指令集：100 余个高效教学场景提示词模版](./创意工具/chatgpt-prompts-for-teachers.md) — 2023-09-19
+- [FreePD 全指南：获取免版权商用音乐素材的高效途径，涵盖资源分类与快速下载流程](./创意工具/freepd-complete-guide-royalty-free-music.md) — 2023-09-19
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
