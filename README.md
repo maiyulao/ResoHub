@@ -5393,6 +5393,7 @@
 - [算法实战通关指南：从数据结构基础到高频面试题的深度训练营](./实战指南/algorithm-practical-guide-data-structures-to-interview-questions.md) — 2023-10-23
 - [汪峰全专辑无损音乐资源库：涵盖18张专辑共32CD（FLAC/MP3格式）](./实战指南/wang-feng-discography-flac-mp3.md) — 2023-10-23
 - [小力盘：高效获取 Kindle 电子书的免费资源库，涵盖多领域海量书目及便捷下载指南](./实战指南/xiaolipan-kindle-ebooks-free-library.md) — 2023-10-23
+- [人教版高中英语全科目学习资源汇总](./实战指南/pep-high-school-english-learning-resources.md) — 2023-10-22
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
