@@ -2979,6 +2979,7 @@
 - [AudioBook Bay (ABB) 使用指南：免费获取无删减英文有声书](./创意工具/audiobook-bay-abb-guide.md) — 2023-10-07
 - [安乐视：集成全网VIP解析能力的影视工具，实现无广告高清资源免费点播](./创意工具/anleshi-vip-video-tool.md) — 2023-10-06
 - [PICB 图床指南：实现无限制存储与全网 CDN 加速的免费方案](./创意工具/picb-free-image-hosting-cdn-guide.md) — 2023-10-06
+- [阅读 APP 配置指南：从小说源订阅到净化规则的设置步骤](./创意工具/reading-app-setup-guide-sources-and-filters.md) — 2023-10-06
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
