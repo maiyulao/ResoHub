@@ -3026,6 +3026,7 @@
 - [如何使用 Free MP3 Download 免费获取全网无损音乐：操作指南](./创意工具/free-mp3-download-guide.md) — 2023-09-26
 - [如何部署影猫MVCAT：从环境搭建到运行电影推荐系统的全流程指南](./创意工具/deploy-mvcat-movie-recommendation-system-guide.md) — 2023-09-26
 - [JOJO看报：获取历史报纸与期刊杂志的下载指南](./创意工具/jojo-historical-newspapers-magazines-download-guide.md) — 2023-09-26
+- [69书吧：纯净无弹窗的免费小说阅读平台，提供极简界面与海量在线书库](./创意工具/69shuba-free-novel-reading-platform.md) — 2023-09-25
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
