@@ -2977,6 +2977,7 @@
 - [Yesicon 矢量图标库：提供 18.7 万款高质量开源图标，支持快速检索与免费下载](./创意工具/yesicon-vector-icons-library.md) — 2023-10-07
 - [SecToolsOrg 整理的 125 款网络安全工具清单：分类索引与部署指南](./创意工具/125-cybersecurity-tools-list-guide.md) — 2023-10-07
 - [AudioBook Bay (ABB) 使用指南：免费获取无删减英文有声书](./创意工具/audiobook-bay-abb-guide.md) — 2023-10-07
+- [安乐视：集成全网VIP解析能力的影视工具，实现无广告高清资源免费点播](./创意工具/anleshi-vip-video-tool.md) — 2023-10-06
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
