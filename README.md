@@ -603,6 +603,7 @@
 - [利用 AI 驱动的动态图像生成：从文本到 GIF 的高效创作指南](./AI工具教程/ai-dynamic-image-generation-text-to-gif-guide.md) — 2023-11-03
 - [AI绘图提示词在线生成器：设计师专用灵感构建工具及使用指南](./AI工具教程/ai-art-prompt-generator-guide.md) — 2023-11-02
 - [Hello Calc：集成时薪测算等多种场景的免费在线工具集](./AI工具教程/hello-calc-free-online-tools-collection.md) — 2023-10-28
+- [高效无损压缩图片：免费在线优化画质与文件体积的实用方案](./AI工具教程/lossless-image-compression-online-free.md) — 2023-10-24
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
