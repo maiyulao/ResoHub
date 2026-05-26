@@ -5417,6 +5417,7 @@
 - [想听郭德纲最经典的相声段子？这份精选MP3合集帮你一次性找全](./实战指南/guodegang-classic-xiangsheng-mp3-collection.md) — 2023-10-19
 - [ELLE 2023年9月号：世界时装之苑刊载内容概览](./实战指南/elle-september-2023-issue-overview.md) — 2023-10-19
 - [孩子小学数学缺乏逻辑思维？尝试用学而思1-12级思维培养系列PDF与视频系统提升](./实战指南/xueersi-math-logical-thinking-pdf-video.md) — 2023-10-18
+- [英语听说流利度进阶方案：零基础学习路径与核心资源指南](./实战指南/english-speaking-listening-fluency-guide.md) — 2023-10-18
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
