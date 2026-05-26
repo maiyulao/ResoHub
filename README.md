@@ -2921,6 +2921,7 @@
 - [OpenWrt 软路由配置指南：核心教程与插件实操手册](./创意工具/openwrt-configuration-guide-tutorial.md) — 2023-10-22
 - [如何让 GPT 输出更精准？这份 OpenAI 最佳实践指南用大白话为你拆解](./创意工具/openai-best-practices-guide-for-precise-gpt-outputs.md) — 2023-10-20
 - [New Space：支持端到端加密与无限空间的匿名文件共享工具](./创意工具/new-space-anonymous-file-sharing-e2ee.md) — 2023-10-20
+- [高效提取推特高清视频：这款下载机器人可实现一键保存，支持多种分辨率选择与快速导出](./创意工具/download-twitter-hd-videos-bot.md) — 2023-10-19
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
