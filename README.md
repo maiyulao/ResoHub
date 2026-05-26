@@ -704,6 +704,7 @@
 - [厌倦了 WPS 的弹窗广告？尝试安装 13.37.6 官方原版并使用激活码实现纯净办公](./Android应用/wps-official-version-13-37-6-clean-install.md) — 2023-10-04
 - [如何使用方格音乐播放无损音乐：安装与配置全流程指南](./Android应用/how-to-use-fangge-music-lossless-guide.md) — 2023-10-02
 - [如何使用淘宝买家秀1.2高效采集与管理收货评价照片](./Android应用/taobao-buyer-show-1-2-collection-guide.md) — 2023-10-02
+- [想知道时间都花在哪个软件上？用开源工具 ActivityWatch 自动记录屏幕使用时长](./Android应用/activitywatch-screen-time-tracker.md) — 2023-09-30
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
