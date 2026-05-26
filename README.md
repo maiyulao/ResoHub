@@ -3034,6 +3034,7 @@
 - [69书吧：纯净无弹窗的免费小说阅读平台，提供极简界面与海量在线书库](./创意工具/69shuba-free-novel-reading-platform.md) — 2023-09-25
 - [电商平台买家秀视频产品需求文档 (PRD)](./创意工具/ecommerce-buyer-show-video-prd.md) — 2023-09-24
 - [I Miss My Bar：沉浸式酒吧环境白噪音模拟器](./创意工具/i-miss-my-bar-ambient-noise-simulator.md) — 2023-09-24
+- [AnyBT：利用 ENS 与 IPFS 构建去中心化磁力索引，实现无审查的资源检索与高效分发](./创意工具/anybt-decentralized-magnet-index-ens-ipfs.md) — 2023-09-24
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
