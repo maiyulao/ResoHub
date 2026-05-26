@@ -616,6 +616,7 @@
 - [美图设计室AI商品图生成：通过一键替换背景与光影重塑，快速提升电商视觉质感](./AI工具教程/meitu-ai-product-image-generator.md) — 2023-09-23
 - [ChatGPT API 水龙头详解：定义、运作机制与潜在风险](./AI工具教程/chatgpt-api-faucet-guide.md) — 2023-09-23
 - [NoteAI：通过 AI 驱动的智能搜索实现网页内容快速概括](./AI工具教程/noteai-ai-powered-smart-search-web-summarization.md) — 2023-09-19
+- [想用 AI 创作可商用的背景音乐？试试 Stable Audio 的免费生成方案](./AI工具教程/stable-audio-free-commercial-bgm.md) — 2023-09-17
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
