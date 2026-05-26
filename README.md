@@ -5576,6 +5576,7 @@
 - [知乎盐选付费专栏资源集锦：涵盖 2888 部作品（共 5.03GB）](./实战指南/zhihu-salt-selected-columns-collection.md) — 2023-09-22
 - [全阶段英语词汇记忆方案：从小学到大学的习得路径与实践指南](./实战指南/english-vocabulary-learning-path-primary-to-college.md) — 2023-09-21
 - [英语留学电子书获取指南：从资源搜索到高效下载的完整步骤](./实战指南/english-study-ebooks-download-guide.md) — 2023-09-20
+- [10.97GB学前教育教辅资源包：含全套教材及习题，适用于幼儿园教学环境](./实战指南/preschool-education-teaching-resources-pack.md) — 2023-09-19
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
