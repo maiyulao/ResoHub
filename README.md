@@ -1032,6 +1032,7 @@
 - [waifu2x 使用指南：通过 3 个步骤实现图片无损放大](./GitHub项目/waifu2x-guide-image-upscaling.md) — 2023-09-29
 - [想找计算机经典书籍却不知从何入手？这份涵盖 1000 余册的 CS-Books 资源清单为你提供参考](./GitHub项目/cs-books-resource-list.md) — 2023-09-24
 - [计算机考研408综合课程复习指南：从基础到冲刺的实操步骤](./GitHub项目/computer-science-408-exam-study-guide.md) — 2023-09-23
+- [2024届应届生全职招聘指南：岗位详情与申请要点](./GitHub项目/2024-graduate-recruitment-guide.md) — 2023-09-20
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
