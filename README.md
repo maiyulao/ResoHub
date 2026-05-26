@@ -3002,6 +3002,7 @@
 - [磁力印象使用指南：通过在线预览截图快速筛选磁力资源](./创意工具/magnetic-impression-guide-preview-screenshots.md) — 2023-10-02
 - [灵异档案库：海量恐怖故事与都市传说在线阅读](./创意工具/paranormal-horror-stories-urban-legends.md) — 2023-10-02
 - [无极镜像资源中心：开源免费商用字体库下载指南](./创意工具/free-commercial-fonts-download-guide.md) — 2023-10-02
+- [高品质无损音乐与学习素材在线网盘资源指南](./创意工具/high-quality-lossless-music-and-learning-resources-guide.md) — 2023-10-02
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
