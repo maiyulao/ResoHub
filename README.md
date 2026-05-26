@@ -2999,6 +2999,7 @@
 - [全站源代码克隆工具：支持多环境部署的静态资源下载方案及注意事项](./创意工具/website-source-code-cloning-tool-static-resource-download.md) — 2023-10-05
 - [高审美人物摄影学习指南：通过解析高质量人像作品提升视觉捕捉与构图能力](./创意工具/aesthetic-portrait-photography-guide.md) — 2023-10-04
 - [云·原神网页版部署指南：无需安装即可在浏览器运行原神](./创意工具/cloud-genshin-web-deployment-guide.md) — 2023-10-02
+- [磁力印象使用指南：通过在线预览截图快速筛选磁力资源](./创意工具/magnetic-impression-guide-preview-screenshots.md) — 2023-10-02
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
