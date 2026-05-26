@@ -1053,6 +1053,7 @@
 - [厌倦了阅读软件的广告弹窗？试试这款纯净且支持自定义书源的免费阅读器](./iOS应用/clean-free-reading-app-custom-sources.md) — 2023-11-24
 - [iOS 影视类 App 规避审核上架指南：从饮食类伪装到功能激活的实操流程](./iOS应用/ios-app-review-bypass-guide.md) — 2023-10-30
 - [如何使用小旋风收音机收听国内外免费FM调频广播：操作全步骤](./iOS应用/how-to-use-xiaoxuanfeng-radio-for-fm-broadcast.md) — 2023-10-09
+- [Auto Clicker 免费自动点击器：抢购抢票配置指南与下载安装说明](./iOS应用/auto-clicker-guide-download.md) — 2023-09-24
 
 ### iOS捷径指令
 - [如何使用 R⤓Download 实现 TikTok、Instagram 及 Snapchat 视频无水印下载](./iOS捷径指令/download-tiktok-instagram-snapchat-videos-without-watermark-r-download.md) — 2025-03-10
