@@ -1456,6 +1456,7 @@
 - [千册人物传记电子书资源库：深度解析名人之生平与思想](./书籍/biography-ebooks-library.md) — 2023-11-13
 - [2237册清华大学出版社正版电子书下载：适用领域及版本说明](./书籍/tsinghua-university-press-ebooks-download.md) — 2023-11-02
 - [想找高质量书单却不知从哪看起？对比知乎、豆瓣与当当的三大权威书籍榜单](./书籍/book-list-comparison-zhihu-douban-dangdang.md) — 2023-10-28
+- [大明帝国的终局：从崇祯的权力困境看明末崩溃的必然逻辑](./书籍/ming-dynasty-collapse-chongzhen-power-dilemma.md) — 2023-10-17
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
