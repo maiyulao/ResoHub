@@ -619,6 +619,7 @@
 - [想用 AI 创作可商用的背景音乐？试试 Stable Audio 的免费生成方案](./AI工具教程/stable-audio-free-commercial-bgm.md) — 2023-09-17
 - [Petalica Paint：基于 AI 的照片与线稿自动上色工具详解](./AI工具教程/petalica-paint-ai-coloring-tool.md) — 2023-09-13
 - [智囊AI：基于ChatGPT的私人助手部署指南与使用环境说明](./AI工具教程/zhina-ai-chatgpt-private-assistant-deployment-guide.md) — 2023-09-11
+- [想在无需特殊网络环境的情况下免费使用AI助手？试试这款无限制的百度AI工具](./AI工具教程/free-baidu-ai-assistant-no-restrictions.md) — 2023-09-10
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
