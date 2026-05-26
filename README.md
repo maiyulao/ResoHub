@@ -5629,6 +5629,7 @@
 - [面对繁杂的护肤品成分和攻略，如何建立科学的护肤体系？这份丁香医生电子书合集为你提供解答](./实战指南/scientific-skincare-guide-dingxiang-ebooks.md) — 2023-09-12
 - [万款付费模板获取与高效应用全流程指南](./实战指南/paid-templates-acquisition-and-application-guide.md) — 2023-09-10
 - [创业全链路实战知识库：76套核心课程资源集锦（197GB）](./实战指南/entrepreneurship-full-link-knowledge-base.md) — 2023-09-10
+- [如何寻找高质量的赛博格或超人类角色素材？Transhumans开源插图库提供可商用方案](./实战指南/find-high-quality-transhuman-cyborg-illustrations-open-source.md) — 2023-09-09
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
