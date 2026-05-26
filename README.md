@@ -2939,6 +2939,7 @@
 - [如何利用有梗蛙网络流行语知识库快速检索梗百科](./创意工具/how-to-use-yougengwa-internet-slang-knowledge-base.md) — 2023-10-17
 - [如何利用 Gag 网站获取学习姿势参考图：操作步骤详解](./创意工具/how-to-get-drawing-references-from-gag-website.md) — 2023-10-16
 - [照片相机Logo水印与描述边框添加工具：logo边框使用指南](./创意工具/photo-logo-watermark-border-guide.md) — 2023-10-16
+- [YES Downloader：高效下载P站视频的免费工具，支持多分辨率提取与批量保存](./创意工具/yes-downloader-pxiv-video-downloader.md) — 2023-10-16
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
