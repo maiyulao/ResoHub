@@ -3014,6 +3014,7 @@
 - [深圳各区地道美食指南：分区域推荐名单及探店避坑建议](./创意工具/shenzhen-district-food-guide.md) — 2023-09-29
 - [火锅食材涮煮时间指南：分步骤掌控最佳熟度](./创意工具/hotpot-ingredients-cooking-time-guide.md) — 2023-09-29
 - [找不到心仪的字体或无法直接转换格式？试试这款在线字体转换与下载工具](./创意工具/online-font-converter-and-downloader.md) — 2023-09-29
+- [想通过 Nextra 搭建个人知识库记录移民心路？从目的地选择到具体执行路径的实操指南](./创意工具/nextra-knowledge-base-immigration-guide.md) — 2023-09-28
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
