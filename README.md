@@ -5480,6 +5480,7 @@
 - [英语听力进阶：优质练习资源清单与高效训练法](./实战指南/english-listening-resources-and-training-methods.md) — 2023-10-08
 - [2024年申论高频考点精选100题：通过真题演练掌握核心解题技巧（2023年3月更新版）](./实战指南/2024-shenlun-high-frequency-questions-100.md) — 2023-10-07
 - [360部爽文短剧连播资源包：全集下载与播放环境配置指南](./实战指南/360-short-drama-collection-download-guide.md) — 2023-10-07
+- [儿童x教育课程体系与资源指南](./实战指南/children-x-education-curriculum-resources.md) — 2023-10-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
