@@ -3003,6 +3003,7 @@
 - [灵异档案库：海量恐怖故事与都市传说在线阅读](./创意工具/paranormal-horror-stories-urban-legends.md) — 2023-10-02
 - [无极镜像资源中心：开源免费商用字体库下载指南](./创意工具/free-commercial-fonts-download-guide.md) — 2023-10-02
 - [高品质无损音乐与学习素材在线网盘资源指南](./创意工具/high-quality-lossless-music-and-learning-resources-guide.md) — 2023-10-02
+- [如何使用好戏网免费观看高清蓝光无广告VIP影视资源：操作指南](./创意工具/haoxiwang-free-hd-movies-guide.md) — 2023-10-01
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
