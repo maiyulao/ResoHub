@@ -2916,6 +2916,7 @@
 - [想买4K投影但预算有限？教你如何对比参数挑选高性价比机型](./创意工具/budget-4k-projector-buying-guide.md) — 2023-10-22
 - [发布短视频总被限流或误删？试试用零克查词快速筛查抖音、B站、小红书敏感词](./创意工具/check-sensitive-words-for-short-video-platforms.md) — 2023-10-22
 - [认知偏差指南：设计心理学实操要点解析](./创意工具/cognitive-bias-design-psychology-guide.md) — 2023-10-22
+- [OpenWrt 软路由配置指南：核心教程与插件实操手册](./创意工具/openwrt-configuration-guide-tutorial.md) — 2023-10-22
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
