@@ -1011,6 +1011,7 @@
 - [使用 MAS 开源脚本激活 Windows 与 Office 的操作指南](./GitHub项目/activate-windows-office-with-mas-script.md) — 2023-10-14
 - [浏览器 URL 请求全链路解析：从 DNS 寻址到页面渲染的完整交互流程](./GitHub项目/browser-url-request-full-process-dns-to-rendering.md) — 2023-10-10
 - [开源公共 API 资源索引：高效集成全球免费接口，涵盖多领域开发工具集](./GitHub项目/open-source-public-api-index.md) — 2023-10-10
+- [tl-rtc-file-tool 使用指南：从部署到实现 P2P 文件传输与音视频实时通信](./GitHub项目/tl-rtc-file-tool-guide-p2p-transfer-and-rtc.md) — 2023-10-10
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
