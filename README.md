@@ -1196,6 +1196,7 @@
 - [Spacedrive：支持多端同步的开源文件管理方案](./Mac软件/spacedrive-open-source-file-manager.md) — 2023-11-04
 - [跨平台离线AI换脸工具：支持Windows与macOS的本地部署方案](./Mac软件/cross-platform-offline-ai-faceswap-local-deployment.md) — 2023-11-01
 - [TTime 效率工具：集成快捷截图与划词翻译的轻量化方案](./Mac软件/ttime-efficiency-tool-screenshot-translation.md) — 2023-10-27
+- [Bezel：将 iPhone 镜像投屏至 Mac 的轻量化工具指南](./Mac软件/bezel-iphone-mirroring-to-mac-guide.md) — 2023-10-17
 
 ### Twitter
 - [BlockExpress 插件安装指南：通过浏览器订阅推特 Web3 KOL 动态与行业情报](./Twitter/blockexpress-installation-guide-twitter-web3-kol-tracking.md) — 2024-05-24
