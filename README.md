@@ -5432,6 +5432,7 @@
 - [英语听说流利度进阶方案：零基础学习路径与核心资源指南](./实战指南/english-speaking-listening-fluency-guide.md) — 2023-10-18
 - [Windows版Adobe全家桶2024安装与激活全流程指南](./实战指南/adobe-creative-cloud-2024-windows-install-activation-guide.md) — 2023-10-17
 - [2023年银行从业资格考试全维度复习资源库（195GB 深度精选）](./实战指南/2023-bank-exam-study-resources-library.md) — 2023-10-16
+- [零基础写作变现指南：兼职月入万级实操路径与避坑要点](./实战指南/writing-monetization-guide-for-beginners.md) — 2023-10-16
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
