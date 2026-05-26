@@ -5472,6 +5472,7 @@
 - [2023年度教师招聘备考资源包（全集 49.3GB）](./实战指南/2023-teacher-recruitment-study-resources-pack.md) — 2023-10-10
 - [69.1GB 高清壁纸资源库：多场景图片素材集锦](./实战指南/69gb-hd-wallpaper-resource-library.md) — 2023-10-09
 - [K-12 全阶段奥数系统学习指南：从基础逻辑到竞赛进阶](./实战指南/k12-math-olympiad-learning-guide.md) — 2023-10-08
+- [英语听力进阶：优质练习资源清单与高效训练法](./实战指南/english-listening-resources-and-training-methods.md) — 2023-10-08
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
