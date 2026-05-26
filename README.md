@@ -3099,6 +3099,7 @@
 - [Papers with Code：打通机器学习论文阅读与代码复现的开源资源库](./创意工具/papers-with-code-ml-papers-and-implementation.md) — 2023-09-09
 - [全球纪录片资源库：全平台获取路径与观看环境指南](./创意工具/global-documentary-resources-guide.md) — 2023-09-08
 - [Mac 新手上手指南：高效配置流程与常见问题解决方案](./创意工具/mac-beginner-setup-guide-and-faq.md) — 2023-09-07
+- [高效磁力资源检索指南：从筛选到下载的实操步骤](./创意工具/efficient-magnet-resource-search-guide.md) — 2023-09-07
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
