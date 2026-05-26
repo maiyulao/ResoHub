@@ -3017,6 +3017,7 @@
 - [找不到心仪的字体或无法直接转换格式？试试这款在线字体转换与下载工具](./创意工具/online-font-converter-and-downloader.md) — 2023-09-29
 - [想通过 Nextra 搭建个人知识库记录移民心路？从目的地选择到具体执行路径的实操指南](./创意工具/nextra-knowledge-base-immigration-guide.md) — 2023-09-28
 - [找不到想要的电子书？试试 xunshu 寻书：一个高效的免费电子书聚合搜索工具](./创意工具/xunshu-ebook-search-tool.md) — 2023-09-28
+- [Cloud TTS 免费文本转语音操作指南：从文本输入到语音导出](./创意工具/cloud-tts-free-text-to-speech-guide.md) — 2023-09-28
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
