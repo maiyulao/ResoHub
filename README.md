@@ -5573,4 +5573,5 @@
 - [周杰伦《圣诞星》2023新曲：FLAC无损音质下载指南](./音乐/jay-chou-christmas-star-2023-flac-download.md) — 2023-12-21
 - [获取周杰伦无损音乐全集的具体操作步骤](./音乐/download-jay-chou-lossless-music-collection.md) — 2023-12-17
 - [766GB经典音乐无损资源包：多格式兼容，支持直接下载与环境配置指南](./音乐/766gb-classical-music-lossless-resources-download-guide.md) — 2023-11-25
+- [高保真无损专辑库正式上线：涵盖多领域音乐集合，提供原质听感体验](./音乐/high-fidelity-lossless-album-library-launch.md) — 2023-10-14
 <!-- LE_AUTOPOST_INDEX_END -->
