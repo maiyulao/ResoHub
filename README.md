@@ -3103,6 +3103,7 @@
 - [高效磁力资源检索指南：从筛选到下载的实操步骤](./创意工具/efficient-magnet-resource-search-guide.md) — 2023-09-07
 - [如何使用山东大学开源软件镜像站：配置与下载指南](./创意工具/sdu-open-source-mirror-guide.md) — 2023-09-07
 - [Yandex Translate：支持图片OCR识别的在线翻译工具使用指南](./创意工具/yandex-translate-ocr-guide.md) — 2023-09-07
+- [TableConvert：高效实现在线表格格式互转的免费工具](./创意工具/tableconvert-free-online-table-converter.md) — 2023-09-07
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
