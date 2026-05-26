@@ -3093,6 +3093,7 @@
 - [免注册在线有声书资源库：全平台兼容及试听指南](./创意工具/free-online-audiobooks-library-guide.md) — 2023-09-10
 - [高效检索百度网盘资源：基于实时索引的在线数据搜索工具及使用指南](./创意工具/baidu-netdisk-resource-search-tool-guide.md) — 2023-09-10
 - [高效影视资源检索：BT种子与磁力链接下载指南](./创意工具/movie-resource-bt-magnet-download-guide.md) — 2023-09-10
+- [Papers with Code：打通机器学习论文阅读与代码复现的开源资源库](./创意工具/papers-with-code-ml-papers-and-implementation.md) — 2023-09-09
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
