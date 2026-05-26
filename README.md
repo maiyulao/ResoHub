@@ -2947,6 +2947,7 @@
 - [The RarBg 镜像站：高效获取 Rarbg 磁力资源的备用索引入口及使用指南](./创意工具/rarbg-mirror-sites-guide.md) — 2023-10-14
 - [Webtor 使用指南：支持磁力链接在线播放与种子下载的跨平台工具](./创意工具/webtor-guide-magnet-torrent-player.md) — 2023-10-13
 - [如何获取并使用美区共享Apple ID：操作步骤详解](./创意工具/how-to-get-and-use-us-shared-apple-id.md) — 2023-10-13
+- [拍的照片或截图无法直接编辑？试试这款免费的图片转Excel在线识别工具](./创意工具/image-to-excel-online-tool.md) — 2023-10-12
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
