@@ -1499,6 +1499,7 @@
 - [精选豆瓣高分电子书清单：涵盖多领域深度阅读资源，通过分门别类地提供高质量书单，助力高效构建知识体系](./书籍/douban-high-score-ebooks-list.md) — 2023-09-24
 - [分年龄段少儿课外阅读书单：资源下载路径与选书指南](./书籍/children-reading-list-by-age-guide.md) — 2023-09-24
 - [300部经典科普全集：精校插图版，构建从基础到前沿的科学知识体系](./书籍/300-classic-popular-science-collection.md) — 2023-09-24
+- [精选860册摄影专业书单：从理论基础到实操进阶的系统化阅读指南](./书籍/860-photography-books-reading-guide.md) — 2023-09-22
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
