@@ -5591,6 +5591,7 @@
 - [可编辑荣誉证书设计模版：含源文件与效果预览图](./实战指南/editable-certificate-design-templates.md) — 2023-09-18
 - [考研复习找不到正版电子教材？这份23-24年度全科目资料清单请查收](./实战指南/postgraduate-exam-study-materials-2023-2024.md) — 2023-09-18
 - [373部高分爽剧精选：快节奏剧情与反转短剧合集](./实战指南/373-best-fast-paced-short-dramas-collection.md) — 2023-09-17
+- [日语N1真题集：历年考点分析与高效刷题指南](./实战指南/jlpt-n1-past-papers-guide.md) — 2023-09-17
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
