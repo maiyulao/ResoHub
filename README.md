@@ -3062,6 +3062,7 @@
 - [想入职互联网大厂却担心踩坑？这份避雷名单帮你快速筛掉风险公司](./创意工具/internet-company-blacklist-guide.md) — 2023-09-18
 - [布谷TV：4K蓝光原盘无水印影视资源下载指南（支持超高清播放环境）](./创意工具/bugu-tv-4k-bluray-download-guide.md) — 2023-09-18
 - [想看电影却总被广告打断或提示会员付费？试试这个无广告、无VIP限制的免费影视站](./创意工具/free-ad-free-movie-streaming-site.md) — 2023-09-18
+- [基于 Cloudflare WARP 搭建 WireGuard 节点以解锁 ChatGPT 的实操指南](./创意工具/build-wireguard-node-cloudflare-warp-unlock-chatgpt.md) — 2023-09-18
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
