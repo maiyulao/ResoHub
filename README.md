@@ -3083,6 +3083,7 @@
 - [高效远程办公实操指南：从环境搭建到协作流程的全面进阶路径](./创意工具/remote-work-efficiency-guide.md) — 2023-09-13
 - [在线字体识别指南：快速精准定位字体名称](./创意工具/online-font-identification-guide.md) — 2023-09-13
 - [Pose Search开源人体姿态检索方案：实现精准动作搜索，支持高效姿态匹配与快速筛选](./创意工具/pose-search-open-source-human-pose-retrieval.md) — 2023-09-13
+- [可商用4K高清无水印视频素材站推荐](./创意工具/best-free-4k-stock-video-sites.md) — 2023-09-12
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
