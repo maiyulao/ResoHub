@@ -5390,6 +5390,7 @@
 - [如何获取并高效使用 2.6W+ 套付费级 PPT 模板（70.6GB 资源包）](./实战指南/high-quality-ppt-templates-resource-pack.md) — 2023-10-24
 - [周星驰44部电影蓝光REMUX无损原盘资源合集](./实战指南/stephen-chow-44-movies-remux-collection.md) — 2023-10-24
 - [算法实战通关指南：从数据结构基础到高频面试题的深度训练营](./实战指南/algorithm-practical-guide-data-structures-to-interview-questions.md) — 2023-10-23
+- [汪峰全专辑无损音乐资源库：涵盖18张专辑共32CD（FLAC/MP3格式）](./实战指南/wang-feng-discography-flac-mp3.md) — 2023-10-23
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
