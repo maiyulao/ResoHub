@@ -5517,6 +5517,7 @@
 - [互联网大厂校招：全流程笔试与面试真题解析指南](./实战指南/big-tech-campus-recruitment-guide.md) — 2023-10-02
 - [李丽珍主演电影集锦（35部）：资源获取指南与观看环境配置](./实战指南/lee-lee-chen-movies-collection-guide.md) — 2023-10-02
 - [高分丧尸电影精选集：10部顶尖口碑佳作，涵盖123GB超清原画资源](./实战指南/best-zombie-movies-collection.md) — 2023-09-30
+- [经典动画《猫和老鼠》全系列电影资源汇总](./实战指南/tom-and-jerry-movies-collection.md) — 2023-09-30
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
