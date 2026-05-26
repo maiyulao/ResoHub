@@ -3059,6 +3059,7 @@
 - [教师专属 ChatGPT 指令集：100 余个高效教学场景提示词模版](./创意工具/chatgpt-prompts-for-teachers.md) — 2023-09-19
 - [FreePD 全指南：获取免版权商用音乐素材的高效途径，涵盖资源分类与快速下载流程](./创意工具/freepd-complete-guide-royalty-free-music.md) — 2023-09-19
 - [想入职互联网大厂却担心踩坑？这份避雷名单帮你快速筛掉风险公司](./创意工具/internet-company-blacklist-guide.md) — 2023-09-18
+- [布谷TV：4K蓝光原盘无水印影视资源下载指南（支持超高清播放环境）](./创意工具/bugu-tv-4k-bluray-download-guide.md) — 2023-09-18
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
