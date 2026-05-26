@@ -1515,6 +1515,7 @@
 - [《埃隆·马斯克传》多格式电子书资源下载指南](./书籍/elon-musk-ebook-download-guide.md) — 2023-09-18
 - [149GB 电子书库：2016-2023年高质量典籍精选](./书籍/149gb-ebook-library-2016-2023.md) — 2023-09-15
 - [七彩英语全站 3750 册电子书资源汇总与分类索引](./书籍/qicai-english-ebooks-collection-index.md) — 2023-09-11
+- [计算机技术书籍精选指南：从分类检索到高效学习的 5 个步骤](./书籍/computer-science-books-learning-guide.md) — 2023-09-09
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
