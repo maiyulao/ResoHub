@@ -712,6 +712,7 @@
 - [如何使用方格音乐播放无损音乐：安装与配置全流程指南](./Android应用/how-to-use-fangge-music-lossless-guide.md) — 2023-10-02
 - [如何使用淘宝买家秀1.2高效采集与管理收货评价照片](./Android应用/taobao-buyer-show-1-2-collection-guide.md) — 2023-10-02
 - [想知道时间都花在哪个软件上？用开源工具 ActivityWatch 自动记录屏幕使用时长](./Android应用/activitywatch-screen-time-tracker.md) — 2023-09-30
+- [厌倦了APP启动时的强制开屏广告？试试用开源工具SKIP实现自动跳过](./Android应用/skip-app-splash-ads-open-source-tool.md) — 2023-09-19
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
