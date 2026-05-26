@@ -5603,6 +5603,7 @@
 - [373部高分爽剧精选：快节奏剧情与反转短剧合集](./实战指南/373-best-fast-paced-short-dramas-collection.md) — 2023-09-17
 - [日语N1真题集：历年考点分析与高效刷题指南](./实战指南/jlpt-n1-past-papers-guide.md) — 2023-09-17
 - [30G万唯中考全科资料库：涵盖2023年最新系列课程，分模块提供系统化学习资源](./实战指南/wanwei-zhongkao-study-resources-2023.md) — 2023-09-14
+- [2023年6月CET-4考虫VIP全套课程资源：适用备考环境及下载安装指南](./实战指南/cet-4-kaochong-vip-course-june-2023-guide.md) — 2023-09-14
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
