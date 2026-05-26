@@ -3219,6 +3219,7 @@
 - [周思乔绘画学习资源汇总：从基础理论到实战案例的系统化图文指南](./大人学习课程/siqiao-zhou-painting-learning-resources.md) — 2023-11-03
 - [抖音短视频创作者资源集锦：1.6万+优质博主清单](./大人学习课程/douyin-creator-resource-list.md) — 2023-10-31
 - [阿朱学习资料获取与整理全流程指南](./大人学习课程/azhu-learning-materials-guide.md) — 2023-10-25
+- [新婚生活实操指南：成年人必备的婚姻知识科普](./大人学习课程/marriage-guide-for-newlyweds.md) — 2023-10-03
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
