@@ -2985,6 +2985,7 @@
 - [想要实现 Markdown 即时渲染与富文本编辑的无缝切换？试试 Vditor 这款编辑器](./创意工具/vditor-markdown-rich-text-editor.md) — 2023-10-06
 - [Skymuz：支持全网音乐在线试听与下载的免费工具（含使用环境及注意事项）](./创意工具/skymuz-free-music-downloader-guide.md) — 2023-10-06
 - [梗图溯源工具：快速定位热门模因出处，一键检索海量流行图库](./创意工具/meme-source-finder.md) — 2023-10-05
+- [利用可可英语提升听力的具体操作步骤与功能指南](./创意工具/coco-english-listening-guide.md) — 2023-10-05
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
