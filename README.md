@@ -1007,6 +1007,7 @@
 - [计算机科学与商业领域高含金量认证课程指南：从学习路径到证书获取](./GitHub项目/cs-and-business-certification-guide.md) — 2023-10-21
 - [CN Values 政治倾向测试：通过交互式问卷量化个人价值观，分析立场分布与认知偏差](./GitHub项目/cn-values-political-test.md) — 2023-10-21
 - [IDIFY：高效免费的证件照在线制作方案](./GitHub项目/idify-free-online-id-photo-maker.md) — 2023-10-15
+- [使用 MAS 开源脚本激活 Windows 与 Office 的操作指南](./GitHub项目/activate-windows-office-with-mas-script.md) — 2023-10-14
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
