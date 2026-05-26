@@ -1306,6 +1306,7 @@
 - [JavPlayer 去马赛克操作指南：从安装到导出视频的完整步骤](./Windows软件/javplayer-guide-installation-to-export.md) — 2023-11-13
 - [pyvideotrans开源视频翻译方案：实现自动化字幕翻译与多语种AI配音的一站式工作流](./Windows软件/pyvideotrans-automated-video-translation-ai-dubbing.md) — 2023-11-07
 - [Alexandria：支持多格式阅读的轻量化跨平台电子书管理器](./Windows软件/alexandria-cross-platform-ebook-manager.md) — 2023-10-17
+- [微信聊天图片总是手动保存太麻烦？试试这款开源自动备份工具 WxAutoExIm](./Windows软件/wxautoexim-wechat-image-auto-backup-tool.md) — 2023-10-16
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
