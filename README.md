@@ -3050,6 +3050,7 @@
 - [多国虚拟身份信息生成工具：支持美国地址伪造与环境模拟配置指南](./创意工具/multi-country-virtual-identity-generator-guide.md) — 2023-09-22
 - [Excel 高阶函数实战指南：从逻辑构建到高效应用](./创意工具/excel-advanced-functions-guide.md) — 2023-09-21
 - [HiringCafe：高效聚合全球远程职位的招聘信息检索平台](./创意工具/hiringcafe-remote-job-search-platform.md) — 2023-09-21
+- [记不住日语和英语单词？试试 Memword 这款在线记忆工具](./创意工具/memword-language-learning-tool.md) — 2023-09-20
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
