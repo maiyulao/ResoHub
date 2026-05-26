@@ -2968,6 +2968,7 @@
 - [Landingfolio：高效构建高转化页面的设计灵感库与模板指南](./创意工具/landingfolio-landing-page-inspiration-templates.md) — 2023-10-09
 - [MAGNET VIP：高效磁力链接转种子工具，支持快速解析与批量下载](./创意工具/magnet-vip-magnet-link-to-torrent-tool.md) — 2023-10-09
 - [DuckyEnglish：高效驱动雅思词汇记忆的轻量化练习工具](./创意工具/duckyenglish-ielts-vocabulary-tool.md) — 2023-10-08
+- [高效获取皮皮虾影视资源：无广告下载操作指南](./创意工具/pipixia-movie-download-guide.md) — 2023-10-08
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
