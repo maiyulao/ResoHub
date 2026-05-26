@@ -3079,6 +3079,7 @@
 - [多搜搜：集成全网资源的聚合搜索工具](./创意工具/duososuo-aggregated-search-tool.md) — 2023-09-13
 - [高质量海外技术博客清单：分领域资源汇总及访问指南](./创意工具/high-quality-overseas-tech-blogs-list.md) — 2023-09-13
 - [高效远程办公实操指南：从环境搭建到协作流程的全面进阶路径](./创意工具/remote-work-efficiency-guide.md) — 2023-09-13
+- [在线字体识别指南：快速精准定位字体名称](./创意工具/online-font-identification-guide.md) — 2023-09-13
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
