@@ -5627,6 +5627,7 @@
 - [2013-2023年广交会参展商名录汇总：含年度更新数据及导出格式说明](./实战指南/canton-fair-exhibitors-list-2013-2023.md) — 2023-09-12
 - [面对繁杂的护肤品成分和攻略，如何建立科学的护肤体系？这份丁香医生电子书合集为你提供解答](./实战指南/scientific-skincare-guide-dingxiang-ebooks.md) — 2023-09-12
 - [万款付费模板获取与高效应用全流程指南](./实战指南/paid-templates-acquisition-and-application-guide.md) — 2023-09-10
+- [创业全链路实战知识库：76套核心课程资源集锦（197GB）](./实战指南/entrepreneurship-full-link-knowledge-base.md) — 2023-09-10
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
