@@ -2912,6 +2912,7 @@
 - [小众特色软件资源清单：安装环境与核心功能指南](./创意工具/niche-software-resources-guide.md) — 2023-10-23
 - [Photoshop全流程进阶指南：从基础操作到大师级视觉创作的系统化实操路径](./创意工具/photoshop-advanced-guide-basic-to-master.md) — 2023-10-23
 - [如何使用 Aconvert 免费转换在线文件格式：操作全流程](./创意工具/how-to-use-aconvert-free-online-file-converter.md) — 2023-10-23
+- [395在线电子印章生成工具：支持自定义公章制作及快速导出指南](./创意工具/online-electronic-seal-generator-guide.md) — 2023-10-23
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
