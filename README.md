@@ -2937,6 +2937,7 @@
 - [Ourboy 朋友圈截图模拟器：一键快速生成高仿真转发与集赞页面，支持自定义内容与视觉效果](./创意工具/ourboy-wechat-moment-simulator.md) — 2023-10-17
 - [如何利用有梗蛙网络流行语知识库快速检索梗百科](./创意工具/how-to-use-yougengwa-internet-slang-knowledge-base.md) — 2023-10-17
 - [如何利用 Gag 网站获取学习姿势参考图：操作步骤详解](./创意工具/how-to-get-drawing-references-from-gag-website.md) — 2023-10-16
+- [照片相机Logo水印与描述边框添加工具：logo边框使用指南](./创意工具/photo-logo-watermark-border-guide.md) — 2023-10-16
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
