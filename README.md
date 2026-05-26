@@ -5382,6 +5382,7 @@
 - [Python 全栈开发实战指南：从技术进阶到就业竞争力构建](./实战指南/python-fullstack-development-guide.md) — 2023-10-24
 - [Premiere Pro 全能实操指南：从零基础到精通剪辑的 100 课体系化路径](./实战指南/premiere-pro-complete-guide-zero-to-mastery.md) — 2023-10-24
 - [如何获取并高效使用 2.6W+ 套付费级 PPT 模板（70.6GB 资源包）](./实战指南/high-quality-ppt-templates-resource-pack.md) — 2023-10-24
+- [周星驰44部电影蓝光REMUX无损原盘资源合集](./实战指南/stephen-chow-44-movies-remux-collection.md) — 2023-10-24
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
