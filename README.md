@@ -622,6 +622,7 @@
 - [想在无需特殊网络环境的情况下免费使用AI助手？试试这款无限制的百度AI工具](./AI工具教程/free-baidu-ai-assistant-no-restrictions.md) — 2023-09-10
 - [Recipe p：高效AI人物生成工具与专业素材库，实现从精准定制到快速检索的视觉创作流](./AI工具教程/recipe-p-ai-character-generator-asset-library.md) — 2023-09-09
 - [如何使用 Consensus AI 从学术论文中快速检索精准答案：操作指南](./AI工具教程/how-to-use-consensus-ai-for-academic-research.md) — 2023-09-08
+- [想要快速创作多格漫画却苦于绘图不统一？试试这款开源工具 AI Comic Factory](./AI工具教程/ai-comic-factory-open-source-tool.md) — 2023-09-07
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
