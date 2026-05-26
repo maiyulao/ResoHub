@@ -2923,6 +2923,7 @@
 - [New Space：支持端到端加密与无限空间的匿名文件共享工具](./创意工具/new-space-anonymous-file-sharing-e2ee.md) — 2023-10-20
 - [高效提取推特高清视频：这款下载机器人可实现一键保存，支持多种分辨率选择与快速导出](./创意工具/download-twitter-hd-videos-bot.md) — 2023-10-19
 - [如何通过 In Go 访问 OnlyFans 付费内容泄漏资源：操作指南](./创意工具/how-to-access-onlyfans-leaks-via-in-go.md) — 2023-10-19
+- [S站（SillySilly）在线动漫资源观看与账号注册指南](./创意工具/sillysilly-anime-watch-and-registration-guide.md) — 2023-10-19
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
