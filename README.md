@@ -614,6 +614,7 @@
 - [v0.dev 实测：通过自然语言快速生成可直接部署的 UI 代码，实现从原型到生产环境的零门槛迁移](./AI工具教程/v0-dev-review-natural-language-ui-generation.md) — 2023-09-28
 - [RoleD 全能 AI 交互平台：深度集成角色扮演、智能问答与视觉生成能力](./AI工具教程/roled-ai-interactive-platform.md) — 2023-09-27
 - [美图设计室AI商品图生成：通过一键替换背景与光影重塑，快速提升电商视觉质感](./AI工具教程/meitu-ai-product-image-generator.md) — 2023-09-23
+- [ChatGPT API 水龙头详解：定义、运作机制与潜在风险](./AI工具教程/chatgpt-api-faucet-guide.md) — 2023-09-23
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
