@@ -5561,6 +5561,7 @@
 - [134GB AI实战课程与行业分析报告：全集下载及环境部署指南](./实战指南/ai-practical-course-industry-report-download-guide.md) — 2023-09-28
 - [面对2024年高考备考压力，如何高效利用《五年高考三年模拟》九科全套资料进行刷题与复盘？](./实战指南/gaokao-2024-study-guide-5-3-materials.md) — 2023-09-26
 - [备考2024考研英语不知从何入手？详解新东方全程班的教学路径与提分方案](./实战指南/new-oriental-postgraduate-english-course-guide-2024.md) — 2023-09-24
+- [知乎盐选付费专栏资源集锦：涵盖 2888 部作品（共 5.03GB）](./实战指南/zhihu-salt-selected-columns-collection.md) — 2023-09-22
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
