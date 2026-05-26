@@ -607,6 +607,7 @@
 - [聊聊学AI文档分析工具：功能特性、部署环境及快速上手指南](./AI工具教程/ai-document-analysis-tool-guide.md) — 2023-10-24
 - [想知道音乐背后的理论逻辑？试用 SONOTELLER 实时分析曲谱与和声结构](./AI工具教程/sonoteller-music-theory-analysis-harmonic-structure.md) — 2023-10-11
 - [文本驱动的开源AI Emoji生成器：实现自定义表情实时创作](./AI工具教程/open-source-ai-emoji-generator.md) — 2023-10-07
+- [字节跳动AI工具集：小悟空（原悟空搜索）功能解析与应用指南](./AI工具教程/byte-ai-xiaowukong-guide.md) — 2023-10-05
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
