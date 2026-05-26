@@ -1508,6 +1508,7 @@
 - [精选860册摄影专业书单：从理论基础到实操进阶的系统化阅读指南](./书籍/860-photography-books-reading-guide.md) — 2023-09-22
 - [中信出版社全书单指南：涵盖617本核心著作，按主题领域分层解析](./书籍/citic-press-complete-book-list-guide.md) — 2023-09-22
 - [《埃隆·马斯克传》多格式电子书资源下载指南](./书籍/elon-musk-ebook-download-guide.md) — 2023-09-18
+- [149GB 电子书库：2016-2023年高质量典籍精选](./书籍/149gb-ebook-library-2016-2023.md) — 2023-09-15
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
