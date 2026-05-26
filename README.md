@@ -5586,6 +5586,7 @@
 - [英语留学电子书获取指南：从资源搜索到高效下载的完整步骤](./实战指南/english-study-ebooks-download-guide.md) — 2023-09-20
 - [10.97GB学前教育教辅资源包：含全套教材及习题，适用于幼儿园教学环境](./实战指南/preschool-education-teaching-resources-pack.md) — 2023-09-19
 - [可编辑荣誉证书设计模版：含源文件与效果预览图](./实战指南/editable-certificate-design-templates.md) — 2023-09-18
+- [考研复习找不到正版电子教材？这份23-24年度全科目资料清单请查收](./实战指南/postgraduate-exam-study-materials-2023-2024.md) — 2023-09-18
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
