@@ -1006,6 +1006,7 @@
 - [中国独立开发者作品集：项目索引与资源汇总](./GitHub项目/china-indie-hackers-portfolio-index.md) — 2023-10-29
 - [计算机科学与商业领域高含金量认证课程指南：从学习路径到证书获取](./GitHub项目/cs-and-business-certification-guide.md) — 2023-10-21
 - [CN Values 政治倾向测试：通过交互式问卷量化个人价值观，分析立场分布与认知偏差](./GitHub项目/cn-values-political-test.md) — 2023-10-21
+- [IDIFY：高效免费的证件照在线制作方案](./GitHub项目/idify-free-online-id-photo-maker.md) — 2023-10-15
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
