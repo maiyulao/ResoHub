@@ -3024,6 +3024,7 @@
 - [123Series：海外高画质免费在线影视资源站指南](./创意工具/123series-free-hd-movies-guide.md) — 2023-09-27
 - [XClub 使用指南：如何获取国外 OnlyFans 创作者的免费资源与学习资料](./创意工具/xclub-guide-free-onlyfans-resources.md) — 2023-09-26
 - [如何使用 Free MP3 Download 免费获取全网无损音乐：操作指南](./创意工具/free-mp3-download-guide.md) — 2023-09-26
+- [如何部署影猫MVCAT：从环境搭建到运行电影推荐系统的全流程指南](./创意工具/deploy-mvcat-movie-recommendation-system-guide.md) — 2023-09-26
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
