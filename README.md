@@ -1630,6 +1630,7 @@
 - [35.7GB风水玄学资料包：含多门类专业文献，适用于离线研习与学术参考](./兴趣爱好/fengshui-metaphysics-resource-pack.md) — 2023-10-31
 - [王者荣耀23款热门英雄进阶指南：从机制解析到实战操作的深度教学](./兴趣爱好/honor-of-kings-hero-guide-2023.md) — 2023-10-11
 - [日系少女插画进阶指南：通过 iPad 数字化绘画实现细腻风格，涵盖从基础构图到色彩渲染的全流程技巧](./兴趣爱好/japanese-girl-illustration-guide-ipad-digital-art.md) — 2023-10-09
+- [高效健身：付费VIP课程资源获取与学习指南](./兴趣爱好/efficient-fitness-vip-courses-guide.md) — 2023-10-02
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
