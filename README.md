@@ -5599,6 +5599,7 @@
 - [SuperCopy 浏览器插件下载：解除网页右键禁用与复制限制的实用指南](./效率工具/supercopy-browser-extension-download-guide.md) — 2023-12-15
 - [想尝试 AI 换脸却被英文界面挡住？DeepFaceLab 0602 汉化版安装与下载指南](./效率工具/deepfacelab-0602-chinese-installation-guide.md) — 2023-11-30
 - [想在 Medium 阅读付费文章却被挡在墙外？试试这款解析器实现无限制访问](./效率工具/medium-paywall-bypass-parser.md) — 2023-11-23
+- [Buster reCaptcha 自动求解插件：安装配置指南与浏览器兼容性说明](./效率工具/buster-recaptcha-installation-guide-compatibility.md) — 2023-10-04
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
