@@ -2925,6 +2925,7 @@
 - [如何通过 In Go 访问 OnlyFans 付费内容泄漏资源：操作指南](./创意工具/how-to-access-onlyfans-leaks-via-in-go.md) — 2023-10-19
 - [S站（SillySilly）在线动漫资源观看与账号注册指南](./创意工具/sillysilly-anime-watch-and-registration-guide.md) — 2023-10-19
 - [使用 Mailbo 免费在线发送批量邮件的操作指南](./创意工具/mailbo-free-bulk-email-guide.md) — 2023-10-19
+- [使用 Pear 在线生成奖状的详细操作步骤](./创意工具/pear-online-certificate-generator-guide.md) — 2023-10-19
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
