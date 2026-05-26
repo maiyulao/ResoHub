@@ -5425,6 +5425,9 @@
 - [互联网新人如何快速读懂职场黑话：从解析到实操的四步指南](./小声说/guide-to-understanding-corporate-jargon-for-beginners.md) — 2024-01-04
 - [亚马逊封号避坑指南：排查并解决导致账号被停用的10个关键因素](./小声说/amazon-account-suspension-guide-10-factors.md) — 2023-12-10
 
+### 折腾记
+- [giffgaff 英国手机卡转 eSIM 申请流程与激活要点](./折腾记/giffgaff-uk-sim-to-esim-guide.md) — 2023-10-19
+
 ### 效率工具
 - [利用 RPA 实现多平台同步：PostBot 开源自媒体矩阵分发配置指南](./productivity-tools/postbot-rpa-social-media-distribution-guide.md) — 2026-01-18
 - [利用 NotebookLM Web Importer 构建个人知识库：从碎片化阅读到结构化存储的 4 个步骤](./productivity-tools/build-personal-knowledge-base-with-notebooklm-web-importer.md) — 2026-01-12
