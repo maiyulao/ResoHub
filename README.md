@@ -3009,6 +3009,7 @@
 - [如何使用 SVGPO 快速获取高清矢量 Logo 资源：操作指南](./创意工具/how-to-use-svgpo-for-vector-logos.md) — 2023-10-01
 - [分级语言阅读能力提升指南：从入门到精通的练习步骤清单](./创意工具/graded-language-reading-guide.md) — 2023-09-30
 - [居家健身如何判断动作是否标准？详解 Rex fit 摄像头姿势检测与实时打分机制](./创意工具/rex-fit-home-workout-pose-detection-scoring.md) — 2023-09-30
+- [深圳各区地道美食指南：分区域推荐名单及探店避坑建议](./创意工具/shenzhen-district-food-guide.md) — 2023-09-29
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
