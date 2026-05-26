@@ -1491,6 +1491,7 @@
 - [想让照片质感提升却不知从何学起？这份摄影修图电子书合集帮你快速上手](./书籍/photography-retouching-ebook-collection.md) — 2023-10-09
 - [打造推理、恐怖与悬疑小说集：从选材到分类的构建步骤](./书籍/building-mystery-horror-suspense-anthology.md) — 2023-10-02
 - [47.8GB医学专业文献库：千册临床与基础医学书籍资源汇总](./书籍/medical-literature-library-collection.md) — 2023-09-26
+- [精选豆瓣高分电子书清单：涵盖多领域深度阅读资源，通过分门别类地提供高质量书单，助力高效构建知识体系](./书籍/douban-high-score-ebooks-list.md) — 2023-09-24
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
