@@ -3046,6 +3046,7 @@
 - [Midlibrary 提示词库：Midjourney 风格化参考图集获取与使用指南](./创意工具/midlibrary-midjourney-style-reference-guide.md) — 2023-09-23
 - [乐聊CHaT++出海电商AI内容生成工具：支持商品标题与详情页自动产出及配置指南](./创意工具/lechao-chat-ai-ecommerce-content-generator-guide.md) — 2023-09-22
 - [英语电影台词检索工具：支持快速查找原句及适用场景说明](./创意工具/english-movie-quotes-search-tool.md) — 2023-09-22
+- [多国虚拟身份信息生成工具：支持美国地址伪造与环境模拟配置指南](./创意工具/multi-country-virtual-identity-generator-guide.md) — 2023-09-22
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
