@@ -610,6 +610,7 @@
 - [字节跳动AI工具集：小悟空（原悟空搜索）功能解析与应用指南](./AI工具教程/byte-ai-xiaowukong-guide.md) — 2023-10-05
 - [Skybox AI 深度评测：快速构建 360° 全景 3D 环境的 AI 工具](./AI工具教程/skybox-ai-review-360-panorama-3d-environment.md) — 2023-10-03
 - [想让二维码不再单调？尝试用 QR Code AI 将其转化为艺术视觉图](./AI工具教程/qr-code-ai-art-generator.md) — 2023-09-30
+- [想要提升亲密关系质量却不知从何入手？尝试用 Beducated AI 智能教练定制你的性健康指南](./AI工具教程/improve-intimacy-with-beducated-ai-sexual-wellness-guide.md) — 2023-09-29
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
