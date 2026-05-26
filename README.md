@@ -3077,6 +3077,7 @@
 - [纸砚：高效且免费的双拼输入法练习工具](./创意工具/zhiyandian-shuangpin-practice-tool.md) — 2023-09-15
 - [OSLAW Wiki：构建法律专业知识体系的在线协作库，通过结构化文档实现行业经验的沉淀与共享](./创意工具/oslaw-wiki-legal-knowledge-base.md) — 2023-09-14
 - [多搜搜：集成全网资源的聚合搜索工具](./创意工具/duososuo-aggregated-search-tool.md) — 2023-09-13
+- [高质量海外技术博客清单：分领域资源汇总及访问指南](./创意工具/high-quality-overseas-tech-blogs-list.md) — 2023-09-13
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
