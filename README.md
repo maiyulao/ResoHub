@@ -5403,6 +5403,7 @@
 - [初创企业全流程实操指南：从顶层设计到落地执行的体系化资源库](./实战指南/startup-operational-guide-systematic-resource-library.md) — 2023-10-21
 - [Midjourney 全流程实操指南：从零基础起步至高级绘画技巧](./实战指南/midjourney-complete-guide-beginner-to-advanced.md) — 2023-10-21
 - [1000本儿童绘本资源包：支持多端阅读，含分类索引及下载指南](./实战指南/1000-childrens-picture-books-resource-pack.md) — 2023-10-21
+- [雪梨英语全体系课程指南：从自然拼读、国际音标到新概念语法进阶](./实战指南/xueli-english-course-guide.md) — 2023-10-20
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
