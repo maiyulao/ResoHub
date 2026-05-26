@@ -2910,6 +2910,7 @@
 - [想让 Midjourney 生成的画面更精准？详解影响出图质量的关键命令参数](./创意工具/midjourney-prompt-parameters-guide.md) — 2023-10-24
 - [高质量视觉审美学习指南：聚焦微博优质博主，解析极简构图与纯净影像风格](./创意工具/visual-aesthetic-learning-guide-weibo-minimalist-style.md) — 2023-10-24
 - [小众特色软件资源清单：安装环境与核心功能指南](./创意工具/niche-software-resources-guide.md) — 2023-10-23
+- [Photoshop全流程进阶指南：从基础操作到大师级视觉创作的系统化实操路径](./创意工具/photoshop-advanced-guide-basic-to-master.md) — 2023-10-23
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
