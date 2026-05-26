@@ -2945,6 +2945,7 @@
 - [YES Downloader：高效下载P站视频的免费工具，支持多分辨率提取与批量保存](./创意工具/yes-downloader-pxiv-video-downloader.md) — 2023-10-16
 - [DaYing 自动化出题工具：高效构建语数英个性化习题集](./创意工具/daying-automated-question-generator.md) — 2023-10-14
 - [The RarBg 镜像站：高效获取 Rarbg 磁力资源的备用索引入口及使用指南](./创意工具/rarbg-mirror-sites-guide.md) — 2023-10-14
+- [Webtor 使用指南：支持磁力链接在线播放与种子下载的跨平台工具](./创意工具/webtor-guide-magnet-torrent-player.md) — 2023-10-13
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
