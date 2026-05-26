@@ -2966,6 +2966,7 @@
 - [想找海外远程工作却不知从哪开始？试试这个集成全球招聘信息的聚合工具 FreshRemote Work](./创意工具/freshremote-work-global-remote-jobs-aggregator.md) — 2023-10-11
 - [想在不下载的情况下直接观看4K超清电影？推荐几个高质量的免费在线影视站](./创意工具/best-free-4k-online-movie-streaming-sites.md) — 2023-10-10
 - [Landingfolio：高效构建高转化页面的设计灵感库与模板指南](./创意工具/landingfolio-landing-page-inspiration-templates.md) — 2023-10-09
+- [MAGNET VIP：高效磁力链接转种子工具，支持快速解析与批量下载](./创意工具/magnet-vip-magnet-link-to-torrent-tool.md) — 2023-10-09
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
