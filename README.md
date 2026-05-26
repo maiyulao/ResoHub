@@ -3039,6 +3039,7 @@
 - [AnyBT：利用 ENS 与 IPFS 构建去中心化磁力索引，实现无审查的资源检索与高效分发](./创意工具/anybt-decentralized-magnet-index-ens-ipfs.md) — 2023-09-24
 - [加拿大移民转码实操指南：从职业切换到身份申请的步骤详解](./创意工具/canada-immigration-career-change-guide.md) — 2023-09-23
 - [如何使用 RARBG 磁力数据库搜索引擎检索资源：分步操作指南](./创意工具/how-to-use-rarbg-magnet-search-engine-guide.md) — 2023-09-23
+- [You Life 知识学习平台：访问指南、适用场景及使用要点](./创意工具/you-life-knowledge-platform-guide.md) — 2023-09-23
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
