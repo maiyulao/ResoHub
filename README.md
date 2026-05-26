@@ -2950,6 +2950,7 @@
 - [拍的照片或截图无法直接编辑？试试这款免费的图片转Excel在线识别工具](./创意工具/image-to-excel-online-tool.md) — 2023-10-12
 - [遇到网页内容被付费墙拦截？尝试用 Webpage Archive 绕过限制解锁全文](./创意工具/bypass-paywall-with-webpage-archive.md) — 2023-10-12
 - [如何使用什么值得看：配置全网热点新闻聚合工具的步骤指南](./创意工具/how-to-use-shenmezhidekan-setup-guide.md) — 2023-10-12
+- [高品质无损音乐免费下载全流程：从选站到保存的实操指南](./创意工具/free-high-quality-lossless-music-download-guide.md) — 2023-10-12
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
