@@ -1028,6 +1028,7 @@
 - [Image/Manga Translator 开源部署指南：支持漫画图片翻译的工具安装与配置说明](./GitHub项目/image-manga-translator-deployment-guide.md) — 2023-10-06
 - [Python 爬虫实战指南：从入门级示例快速掌握自动化数据采集技巧](./GitHub项目/python-web-scraping-guide.md) — 2023-10-02
 - [waifu2x 使用指南：通过 3 个步骤实现图片无损放大](./GitHub项目/waifu2x-guide-image-upscaling.md) — 2023-09-29
+- [想找计算机经典书籍却不知从何入手？这份涵盖 1000 余册的 CS-Books 资源清单为你提供参考](./GitHub项目/cs-books-resource-list.md) — 2023-09-24
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
