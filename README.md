@@ -1037,6 +1037,7 @@
 - [计算机考研408综合课程复习指南：从基础到冲刺的实操步骤](./GitHub项目/computer-science-408-exam-study-guide.md) — 2023-09-23
 - [2024届应届生全职招聘指南：岗位详情与申请要点](./GitHub项目/2024-graduate-recruitment-guide.md) — 2023-09-20
 - [构建垂直领域大模型资源库：开源模型、数据集与评测基准的检索与整理指南](./GitHub项目/vertical-llm-resource-library-guide.md) — 2023-09-17
+- [为什么 DeFi 项目总被黑？剖析 101 起安全漏洞的底层逻辑与共性原因](./GitHub项目/why-defi-projects-get-hacked-security-vulnerabilities-analysis.md) — 2023-09-16
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
