@@ -2951,6 +2951,7 @@
 - [遇到网页内容被付费墙拦截？尝试用 Webpage Archive 绕过限制解锁全文](./创意工具/bypass-paywall-with-webpage-archive.md) — 2023-10-12
 - [如何使用什么值得看：配置全网热点新闻聚合工具的步骤指南](./创意工具/how-to-use-shenmezhidekan-setup-guide.md) — 2023-10-12
 - [高品质无损音乐免费下载全流程：从选站到保存的实操指南](./创意工具/free-high-quality-lossless-music-download-guide.md) — 2023-10-12
+- [天天Fan号：日语成人在线学习资源站指南](./创意工具/japanese-adult-learning-resources-guide.md) — 2023-10-11
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
