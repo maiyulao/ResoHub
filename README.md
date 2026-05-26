@@ -2932,6 +2932,7 @@
 - [全球车牌视觉图鉴：涵盖多国现行样式与历史演变细节](./创意工具/global-license-plates-visual-guide.md) — 2023-10-18
 - [无需考核的Emby公益服务器汇总：提供稳定账号资源及快速接入指南](./创意工具/free-emby-servers-guide.md) — 2023-10-18
 - [Ourboy 朋友圈截图模拟器：一键快速生成高仿真转发与集赞页面，支持自定义内容与视觉效果](./创意工具/ourboy-wechat-moment-simulator.md) — 2023-10-17
+- [如何利用有梗蛙网络流行语知识库快速检索梗百科](./创意工具/how-to-use-yougengwa-internet-slang-knowledge-base.md) — 2023-10-17
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
