@@ -1479,6 +1479,7 @@
 - [想在不订阅的情况下阅读知乎盐选专栏？这里有3000篇付费文章合集供你查阅](./书籍/read-zhihu-salt-selection-articles-free.md) — 2023-10-15
 - [财新周刊2023年1-38期PDF全集：下载路径与阅读环境说明](./书籍/caixin-weekly-2023-pdf-full-collection.md) — 2023-10-10
 - [想让照片质感提升却不知从何学起？这份摄影修图电子书合集帮你快速上手](./书籍/photography-retouching-ebook-collection.md) — 2023-10-09
+- [打造推理、恐怖与悬疑小说集：从选材到分类的构建步骤](./书籍/building-mystery-horror-suspense-anthology.md) — 2023-10-02
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
