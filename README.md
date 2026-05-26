@@ -2987,6 +2987,7 @@
 - [梗图溯源工具：快速定位热门模因出处，一键检索海量流行图库](./创意工具/meme-source-finder.md) — 2023-10-05
 - [利用可可英语提升听力的具体操作步骤与功能指南](./创意工具/coco-english-listening-guide.md) — 2023-10-05
 - [想通过一张照片找到心仪的日本老师？试试 searchByImage 以图搜图功能](./创意工具/search-by-image-japanese-teacher.md) — 2023-10-05
+- [全站源代码克隆工具：支持多环境部署的静态资源下载方案及注意事项](./创意工具/website-source-code-cloning-tool-static-resource-download.md) — 2023-10-05
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
