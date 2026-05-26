@@ -5502,6 +5502,7 @@
 - [电商海报视觉进阶：Photoshop 核心设计技巧与实战指南](./实战指南/ecommerce-poster-ps-design-guide.md) — 2023-10-05
 - [110份全行业创业计划书编写指南：从模版选择到方案撰写步骤](./实战指南/entrepreneurship-business-plan-guide.md) — 2023-10-05
 - [Web前端高级工程师实战进阶（021期）：构建全栈开发能力，深度攻克复杂业务场景](./实战指南/frontend-senior-engineer-fullstack-development.md) — 2023-10-03
+- [互联网大厂校招：全流程笔试与面试真题解析指南](./实战指南/big-tech-campus-recruitment-guide.md) — 2023-10-02
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
