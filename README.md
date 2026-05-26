@@ -5379,6 +5379,7 @@
 - [马士兵教育：AI人工智能工程师实战课程（第二期）](./实战指南/ma-shibing-ai-engineer-course-v2.md) — 2023-10-25
 - [2024考研核心备考资料库：数学、政治、英语全科资源汇总](./实战指南/2024-postgraduate-exam-study-resources.md) — 2023-10-24
 - [Python 全栈开发实战指南：从技术进阶到就业竞争力构建](./实战指南/python-fullstack-development-guide.md) — 2023-10-24
+- [Premiere Pro 全能实操指南：从零基础到精通剪辑的 100 课体系化路径](./实战指南/premiere-pro-complete-guide-zero-to-mastery.md) — 2023-10-24
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
