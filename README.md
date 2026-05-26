@@ -2970,6 +2970,7 @@
 - [DuckyEnglish：高效驱动雅思词汇记忆的轻量化练习工具](./创意工具/duckyenglish-ielts-vocabulary-tool.md) — 2023-10-08
 - [高效获取皮皮虾影视资源：无广告下载操作指南](./创意工具/pipixia-movie-download-guide.md) — 2023-10-08
 - [心力衰竭初诊患者家庭护理手册v1.0：日常照护要点与实操指南](./创意工具/heart-failure-home-care-guide-v1.md) — 2023-10-08
+- [爱看买家秀：实拍案例聚合平台获取指南及使用环境说明](./创意工具/aikansha-buyer-show-guide-and-environment.md) — 2023-10-08
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
