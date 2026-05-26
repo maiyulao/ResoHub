@@ -3044,6 +3044,7 @@
 - [如何使用 RARBG 磁力数据库搜索引擎检索资源：分步操作指南](./创意工具/how-to-use-rarbg-magnet-search-engine-guide.md) — 2023-09-23
 - [You Life 知识学习平台：访问指南、适用场景及使用要点](./创意工具/you-life-knowledge-platform-guide.md) — 2023-09-23
 - [Midlibrary 提示词库：Midjourney 风格化参考图集获取与使用指南](./创意工具/midlibrary-midjourney-style-reference-guide.md) — 2023-09-23
+- [乐聊CHaT++出海电商AI内容生成工具：支持商品标题与详情页自动产出及配置指南](./创意工具/lechao-chat-ai-ecommerce-content-generator-guide.md) — 2023-09-22
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
