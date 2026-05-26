@@ -5408,6 +5408,7 @@
 - [雪梨英语全体系课程指南：从自然拼读、国际音标到新概念语法进阶](./实战指南/xueli-english-course-guide.md) — 2023-10-20
 - [高效掌握多语种：精选外语学习资源库及分级进阶指南](./实战指南/language-learning-resources-and-guide.md) — 2023-10-20
 - [软考中级软件设计师通关指南：核心知识体系拆解与实战考点解析](./实战指南/software-designer-exam-guide.md) — 2023-10-19
+- [如何高效搜集并整理抖音热门爽文短剧：全流程操作指南](./实战指南/how-to-collect-douyin-short-drama-scripts.md) — 2023-10-19
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
