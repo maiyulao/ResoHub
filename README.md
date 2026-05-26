@@ -5536,6 +5536,7 @@
 - [专升本英语复习没方向？这套 22.5GB 的全科资料包帮你理清考点](./实战指南/topup-english-study-materials-package.md) — 2023-09-29
 - [想从零开始掌握 AE、PR 和 C4D 却不知如何循序渐进？这份千集实操指南帮你打通全流程](./实战指南/master-ae-pr-c4d-learning-guide.md) — 2023-09-29
 - [134GB AI实战课程与行业分析报告：全集下载及环境部署指南](./实战指南/ai-practical-course-industry-report-download-guide.md) — 2023-09-28
+- [面对2024年高考备考压力，如何高效利用《五年高考三年模拟》九科全套资料进行刷题与复盘？](./实战指南/gaokao-2024-study-guide-5-3-materials.md) — 2023-09-26
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
