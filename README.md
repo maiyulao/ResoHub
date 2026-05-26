@@ -1013,6 +1013,7 @@
 - [开源公共 API 资源索引：高效集成全球免费接口，涵盖多领域开发工具集](./GitHub项目/open-source-public-api-index.md) — 2023-10-10
 - [tl-rtc-file-tool 使用指南：从部署到实现 P2P 文件传输与音视频实时通信](./GitHub项目/tl-rtc-file-tool-guide-p2p-transfer-and-rtc.md) — 2023-10-10
 - [QmaoTai抢购工具：支持淘宝京东环境的部署指南与使用要点](./GitHub项目/qmaotai-deployment-guide.md) — 2023-10-08
+- [深度学习实战指南：详解《动手学深度学习》第二版预览版核心内容与PDF获取方式](./GitHub项目/dive-into-deep-learning-v2-guide-pdf.md) — 2023-10-07
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
