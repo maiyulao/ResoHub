@@ -2954,6 +2954,7 @@
 - [高品质无损音乐免费下载全流程：从选站到保存的实操指南](./创意工具/free-high-quality-lossless-music-download-guide.md) — 2023-10-12
 - [天天Fan号：日语成人在线学习资源站指南](./创意工具/japanese-adult-learning-resources-guide.md) — 2023-10-11
 - [想把 YouTube Music 的歌曲下载到本地离线听？试试这款免费的下载机器人](./创意工具/download-youtube-music-songs-free-bot.md) — 2023-10-11
+- [如何从 Fontshare 下载可商用高品质英文字体：操作指南](./创意工具/how-to-download-fonts-from-fontshare.md) — 2023-10-11
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
