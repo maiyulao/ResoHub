@@ -5608,6 +5608,7 @@
 - [30G万唯中考全科资料库：涵盖2023年最新系列课程，分模块提供系统化学习资源](./实战指南/wanwei-zhongkao-study-resources-2023.md) — 2023-09-14
 - [2023年6月CET-4考虫VIP全套课程资源：适用备考环境及下载安装指南](./实战指南/cet-4-kaochong-vip-course-june-2023-guide.md) — 2023-09-14
 - [宫崎骏全集资源：159GB 高清作品库](./实战指南/hayao-miyazaki-complete-collection-159gb.md) — 2023-09-13
+- [初中九年级科学高分复习笔记：核心考点全覆盖，无水印高清原件支持高效温习](./实战指南/grade-9-science-revision-notes-core-points.md) — 2023-09-13
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
