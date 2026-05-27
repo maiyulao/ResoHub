@@ -5891,6 +5891,7 @@
 - [Billboard美国单曲榜TOP100 FLAC无损音乐资源下载与兼容性指南](./实战指南/billboard-hot-100-flac-download-guide.md) — 2023-07-26
 - [男性体能提升与身体素质训练指南](./实战指南/mens-physical-fitness-training-guide.md) — 2023-07-26
 - [iPhone 全系列历史壁纸库：从初代到最新款的视觉演进与原画下载指南](./实战指南/iphone-all-series-wallpaper-history-evolution-download.md) — 2023-07-25
+- [海量英语词汇资源库：千本专业词书分类汇总](./实战指南/massive-english-vocabulary-resources-library.md) — 2023-07-20
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
