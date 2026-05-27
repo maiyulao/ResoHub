@@ -3267,6 +3267,7 @@
 - [PrettyPolly：通过AI模拟真实对话提升外语口语，无需付费即可实现沉浸式练习](./创意工具/prettypolly-ai-language-learning-immersive-speaking-practice.md) — 2023-08-03
 - [Stable Diffusion 从零到精通：分步实操安装与进阶配置指南](./创意工具/stable-diffusion-installation-and-configuration-guide.md) — 2023-08-03
 - [合同嗖嗖：基于AI的智能合同自动化生成方案](./创意工具/ai-smart-contract-automation-solution.md) — 2023-08-02
+- [简历本：支持在线编辑与智能诊断的简历制作平台（含模板下载）](./创意工具/resume-builder-online-editor-smart-diagnosis.md) — 2023-08-02
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
