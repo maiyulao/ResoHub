@@ -1107,6 +1107,7 @@
 - [alms 乞讨类网站源码部署与配置全流程指南](./GitHub项目/alms-source-code-deployment-guide.md) — 2023-07-27
 - [Fetch GitHub Hosts：通过优化 Host 映射实现国内快速访问 GitHub 的实用工具](./GitHub项目/fetch-github-hosts-optimize-access.md) — 2023-07-22
 - [高效提问指南：通过结构化表达快速获取精准答案，提升沟通与解决问题的效率](./GitHub项目/efficient-prompting-guide-for-precise-answers.md) — 2023-07-22
+- [GLaDOS Signin 配置指南：实现出海工具自动签到与额度续期](./GitHub项目/glados-signin-configuration-guide.md) — 2023-07-19
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
