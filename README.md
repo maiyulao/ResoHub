@@ -733,6 +733,7 @@
 - [如何使用看刊宝 App 1.2.2 免费阅读全网期刊杂志：操作指南](./Android应用/kankanbao-app-free-magazines-guide.md) — 2023-09-03
 - [高效屏蔽APP开屏广告：通过自动化跳过机制实现秒开，支持多场景快速配置与实时拦截](./Android应用/block-app-splash-ads-automation.md) — 2023-09-02
 - [萌妹影视App安装指南：高清追剧资源与伪装上架绕过方案](./Android应用/mengmei-app-install-guide-bypass-solution.md) — 2023-08-26
+- [安装李跳跳派大星 2.2 正式版：免 ROOT 自动拦截弹窗广告操作指南](./Android应用/install-li-tiao-tiao-paidaxing-2-2-ad-blocker.md) — 2023-08-24
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
