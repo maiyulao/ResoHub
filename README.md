@@ -752,6 +752,7 @@
 - [安装李跳跳派大星 2.2 正式版：免 ROOT 自动拦截弹窗广告操作指南](./Android应用/install-li-tiao-tiao-paidaxing-2-2-ad-blocker.md) — 2023-08-24
 - [想要IDM下载速度更快且功能更强？试试 11.2.1 魔改增强版](./Android应用/idm-11-2-1-enhanced-edition.md) — 2023-08-24
 - [Magnet Robot v1.0.9：磁力检索机器人更新要点](./Android应用/magnet-robot-v1-0-9-update-highlights.md) — 2023-08-16
+- [想在一部软件里看遍全网影视资源？试试集成 150 多个站点的龙门视频聚合 APP](./Android应用/longmen-video-aggregator-app.md) — 2023-08-09
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
