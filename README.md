@@ -3302,6 +3302,7 @@
 - [高效获取高清无水印素材：每日Meizi图资源库及其图片学习应用指南](./创意工具/meizi-hd-images-guide.md) — 2023-07-24
 - [Windows 与 Office 激活密钥资源汇总：常用免费获取渠道指南](./创意工具/windows-office-activation-keys-guide.md) — 2023-07-24
 - [想要获取权威的互联网数据研究报告？试试 199IT 下载资源库](./创意工具/199it-internet-data-reports-library.md) — 2023-07-24
+- [engVid 免费英语视频课全指南：通过名师授课体系快速提升语言能力](./创意工具/engvid-free-english-courses-guide.md) — 2023-07-24
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
