@@ -638,6 +638,7 @@
 - [手绘草图难以还原真实质感？试试用 Stable Doodle 将简单线条转化为高保真图像](./AI工具教程/stable-doodle-sketch-to-high-fidelity-image.md) — 2023-08-23
 - [Human Generator AI 实操指南：如何高效生成高保真全身写实人像](./AI工具教程/human-generator-ai-guide-realistic-full-body-portraits.md) — 2023-08-22
 - [写不出高转化率的营销词？试试用 ZMTAI 智能生成文案](./AI工具教程/zmtai-ai-copywriting-generator.md) — 2023-08-21
+- [BriefGPT-AI：实现 ArXiv AI 领域论文的自动化抓取与高效追踪](./AI工具教程/briefgpt-ai-arxiv-automation-tracking.md) — 2023-08-17
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
