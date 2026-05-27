@@ -1127,6 +1127,7 @@
 - [如何使用 R⤓Download 实现 TikTok、Instagram 及 Snapchat 视频无水印下载](./iOS捷径指令/download-tiktok-instagram-snapchat-videos-without-watermark-r-download.md) — 2025-03-10
 - [Siri Ultra：通过快捷指令将 AI 大模型集成至 iPhone](./iOS捷径指令/siri-ultra-integrate-ai-llm-iphone-shortcuts.md) — 2025-03-01
 - [2024年YouTube视频下载指南：高效工具与实操方案](./iOS捷径指令/youtube-video-downloader-guide-2024.md) — 2024-05-17
+- [TVDL 4.0.0：最新可用推特视频下载快捷指令指南](./iOS捷径指令/tvdl-4-0-0-twitter-video-downloader-shortcuts-guide.md) — 2023-08-06
 
 ### Mac软件
 - [Agent Battery：实时监控 Claude Code 额度的 Mac 状态栏工具](./Mac软件/agent-battery-claude-code-monitor-mac.md) — 2026-05-17
