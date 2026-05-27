@@ -3278,6 +3278,7 @@
 - [想找无需会员且没有诱导套路的公益游戏下载站？Switch618 可能是你的答案](./创意工具/switch618-free-game-download-site.md) — 2023-08-01
 - [加拿大移民与留学全攻略：从路径选择到落地实操的体系化指南](./创意工具/canada-immigration-and-study-guide.md) — 2023-07-31
 - [百度网盘直链解析指南：通过第三方工具绕过限速实现极速下载](./创意工具/baidu-netdisk-direct-link-guide.md) — 2023-07-31
+- [想进入暗网却找不到可靠的入口？这份主流暗网市场与服务链接指南为你指路](./创意工具/dark-web-market-services-links-guide.md) — 2023-07-29
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
