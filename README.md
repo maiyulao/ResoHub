@@ -1557,6 +1557,7 @@
 - [七彩英语全站 3750 册电子书资源汇总与分类索引](./书籍/qicai-english-ebooks-collection-index.md) — 2023-09-11
 - [计算机技术书籍精选指南：从分类检索到高效学习的 5 个步骤](./书籍/computer-science-books-learning-guide.md) — 2023-09-09
 - [获取CSDN会员免费电子书的1000本领取指南](./书籍/get-1000-free-csdn-ebooks-guide.md) — 2023-09-05
+- [康纳PUA玩家手册电子版下载：实操指南与适用场景分析](./书籍/connor-pua-guide-download.md) — 2023-08-19
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
