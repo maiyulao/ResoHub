@@ -1092,6 +1092,7 @@
 - [程序员相亲实操手册：从自我定位到高效面谈的五个步骤](./GitHub项目/programmer-dating-guide-5-steps.md) — 2023-08-21
 - [想在B站或抖音用Live2D数字人直播？尝试用GPT vup实现自动化实时互动](./GitHub项目/live2d-digital-human-livestreaming-gpt-vup.md) — 2023-08-16
 - [VASCMS开源视频课程系统：支持多角色权限管理与快速部署指南](./GitHub项目/vascms-open-source-video-course-system-guide.md) — 2023-08-08
+- [Apple ID 自动化管理工具：实现账号状态检测与解锁流程自动化](./GitHub项目/apple-id-automation-tool-status-check-unlock.md) — 2023-08-08
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
