@@ -3252,6 +3252,7 @@
 - [Myflixer 使用指南：高效访问海外高清免费影视资源的实操路径](./创意工具/myflixer-guide-free-movies-streaming.md) — 2023-08-06
 - [想找免费的全球电子书资源却不知从哪搜？这几个高质量下载站值得收藏](./创意工具/best-free-ebook-download-sites.md) — 2023-08-06
 - [如何观看TFBOYS十年之约演唱会直播：完整观看步骤指南](./创意工具/tfboys-10th-anniversary-concert-live-stream-guide.md) — 2023-08-06
+- [不懂编程怎么把想法变成代码？试试 AI 代码翻译器实现零门槛开发](./创意工具/ai-code-translator-for-non-programmers.md) — 2023-08-06
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
