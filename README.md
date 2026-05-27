@@ -3227,6 +3227,7 @@
 - [熊猫影院：为海外华人打造的高清纯净影视平台，支持全平台免费在线观看](./创意工具/panda-cinema-free-hd-streaming-for-overseas-chinese.md) — 2023-08-11
 - [自动化网站签到工具配置指南：高效实现多平台每日打卡](./创意工具/automated-website-checkin-guide.md) — 2023-08-11
 - [沙雕新闻素材库：幽默资讯采集渠道与适用场景指南](./创意工具/funny-news-material-library-guide.md) — 2023-08-11
+- [PlayOK 使用指南：从注册到开始经典棋牌对弈的完整步骤](./创意工具/playok-guide-registration-to-gameplay.md) — 2023-08-10
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
