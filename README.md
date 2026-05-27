@@ -3490,6 +3490,7 @@
 - [男性专项体能训练指南：通过针对性强化练习，根治核心力量不足与功能性障碍](./大人学习课程/mens-strength-and-conditioning-guide.md) — 2023-09-03
 - [全方位身体素质提升指南：从科学训练理论到实操健体方案](./大人学习课程/comprehensive-physical-fitness-guide.md) — 2023-08-29
 - [双人协作：录音资料学习实践指南](./大人学习课程/collaborative-audio-learning-guide.md) — 2023-08-28
+- [金瓶梅多版本对比合集：一站式解析不同校本的文本差异与版本演进](./大人学习课程/jinpingmei-versions-comparison-analysis.md) — 2023-08-04
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
