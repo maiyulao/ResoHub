@@ -646,6 +646,7 @@
 - [ToolAI：全方位 AI 工具索引库与资源导航指南](./AI工具教程/toolai-ai-tools-directory-guide.md) — 2023-08-14
 - [BeeBee AI 财报会议分析实测：将复杂会议记录转化为高效金融洞察](./AI工具教程/beebee-ai-earnings-call-analysis-review.md) — 2023-08-14
 - [不知道AI绘画提示词怎么写？试试这个能自动生成关键词的AI画廊](./AI工具教程/ai-art-prompt-generator-gallery.md) — 2023-08-13
+- [AIGirl AI动漫角色生成器：部署环境与模型获取指南](./AI工具教程/aigirl-ai-anime-character-generator-deployment-guide.md) — 2023-08-10
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
