@@ -643,6 +643,7 @@
 - [Fooocus 快速部署指南：零门槛安装开源 AI 绘画工具](./AI工具教程/fooocus-quick-installation-guide.md) — 2023-08-15
 - [HodlSoftware：支持隐私加密的在线PDF工具箱，无需安装即可实现文档加解密](./AI工具教程/hodlsoftware-privacy-pdf-encryption-tools.md) — 2023-08-14
 - [NameGPT：面向企业的AI起名工具，支持免费在线生成及品牌命名建议](./AI工具教程/namegpt-ai-business-naming-tool.md) — 2023-08-14
+- [ToolAI：全方位 AI 工具索引库与资源导航指南](./AI工具教程/toolai-ai-tools-directory-guide.md) — 2023-08-14
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
