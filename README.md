@@ -3194,6 +3194,7 @@
 - [OLOCR：支持 70 余种语言的免费开源 OCR 文本识别方案](./创意工具/olocr-free-open-source-ocr-70-languages.md) — 2023-08-19
 - [无需安装：在浏览器直接体验 Microsoft Start 在线益智游戏集](./创意工具/microsoft-start-online-puzzle-games.md) — 2023-08-19
 - [漫漫LU使用指南：在线漫画阅读与VIP权限激活技巧](./创意工具/manmanlu-guide-online-manga-vip-activation.md) — 2023-08-19
+- [想找能根据英语水平分级且内容实时更新的素材？试试 Breaking News English 这个免费学习平台](./创意工具/breaking-news-english-free-learning-platform.md) — 2023-08-19
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
