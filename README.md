@@ -1695,6 +1695,7 @@
 - [高效健身：付费VIP课程资源获取与学习指南](./兴趣爱好/efficient-fitness-vip-courses-guide.md) — 2023-10-02
 - [专业催乳师进阶实操指南：从临床理论到高阶技法全解析](./兴趣爱好/professional-lactation-consultant-guide.md) — 2023-09-20
 - [全方位瑜伽进阶指南：七大主题系列课程详解](./兴趣爱好/comprehensive-advanced-yoga-guide-7-series.md) — 2023-09-04
+- [微淼财务报表分析实战指南：从核心指标到业务洞察的技能进阶](./兴趣爱好/weimiao-financial-report-analysis-guide.md) — 2023-08-24
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
