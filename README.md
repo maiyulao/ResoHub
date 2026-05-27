@@ -3311,6 +3311,7 @@
 - [WallpapersCraft：支持4K超高清画质的免费壁纸素材库](./创意工具/wallpaperscraft-free-4k-wallpapers.md) — 2023-07-22
 - [想在 Telegram 中快速保存各平台视频？试试这款全能下载机器人 TorPurrBot](./创意工具/telegram-video-downloader-torpurrbot.md) — 2023-07-22
 - [想找高清且无需付费的在线观影平台？试试人人影视PRO](./创意工具/renren-yingshi-pro-free-hd-streaming.md) — 2023-07-22
+- [百度网盘直链解析工具：突破限速实现高速下载](./创意工具/baidu-netdisk-direct-link-generator.md) — 2023-07-22
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
