@@ -3318,6 +3318,7 @@
 - [AIBox：集成人脸替换与虚拟试衣功能的综合性AI创作工具集](./创意工具/aibox-face-swap-virtual-try-on-ai-toolkit.md) — 2023-07-21
 - [近期完结高画质4K影视资源精选清单](./创意工具/best-4k-movies-completed-list.md) — 2023-07-21
 - [Bilinguis：通过双语对照读物提升语言能力，提供海量免费在线资源与分级阅读体验](./创意工具/bilinguis-dual-language-reading-resources.md) — 2023-07-20
+- [桃花缘驾驶地图学习平台：通过实战路线解析与在线交互，快速提升复杂路况掌控力](./创意工具/taohua-driving-map-learning-platform.md) — 2023-07-20
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
