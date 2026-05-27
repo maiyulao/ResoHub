@@ -3201,6 +3201,7 @@
 - [极致微观视角：昆虫肖像系列超清微距摄影，揭示生物构造的精细纹理与视觉震撼](./创意工具/ultra-macro-insect-portraits-textures.md) — 2023-08-18
 - [美区 Apple ID 共享指南：获取小 H 箭免费账号的实操步骤](./创意工具/us-apple-id-sharing-guide.md) — 2023-08-17
 - [Picyard：一站式在线截图美化与多功能图片生成工具指南](./创意工具/picyard-online-screenshot-beautifier-guide.md) — 2023-08-17
+- [复盘谷歌、苹果与微软的弃产史：产品被砍的共性分析与演进步骤](./创意工具/google-apple-microsoft-product-discontinuation-analysis.md) — 2023-08-17
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
