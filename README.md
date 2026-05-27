@@ -3149,6 +3149,7 @@
 - [想进央国企但不知从哪找入口？2024年校招、社招及实习机会全汇总](./创意工具/central-state-owned-enterprise-jobs-2024.md) — 2023-08-29
 - [太极书馆：免登录无广告的经典古籍在线阅读与下载资源站](./创意工具/taiji-library-ancient-books-online.md) — 2023-08-28
 - [Web 3.0 核心概念与入门实操指南](./创意工具/web3-core-concepts-and-beginner-guide.md) — 2023-08-27
+- [壁纸湖：无广告纯净壁纸站，支持手机端直接下载与适配](./创意工具/wallpaper-lake-ad-free-mobile-download.md) — 2023-08-27
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
