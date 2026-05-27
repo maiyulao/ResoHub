@@ -1064,6 +1064,7 @@
 - [找不到心仪的开源SVG图标？试试这款免费在线图标库 IconBrew](./GitHub项目/iconbrew-free-open-source-svg-icons-library.md) — 2023-09-03
 - [面对前端面试考点繁多且零散？这份全维度题库帮你快速梳理知识体系](./GitHub项目/frontend-interview-question-bank.md) — 2023-08-31
 - [TUMCC中文语料库：揭秘Telegram地下市场的多维数据分析与语言特征研究](./GitHub项目/tumcc-telegram-underground-market-analysis.md) — 2023-08-26
+- [易笺：支持百兆级大文本秒开的在线TXT阅读器](./GitHub项目/yijian-large-txt-online-reader.md) — 2023-08-25
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
