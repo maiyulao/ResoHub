@@ -648,6 +648,7 @@
 - [不知道AI绘画提示词怎么写？试试这个能自动生成关键词的AI画廊](./AI工具教程/ai-art-prompt-generator-gallery.md) — 2023-08-13
 - [AIGirl AI动漫角色生成器：部署环境与模型获取指南](./AI工具教程/aigirl-ai-anime-character-generator-deployment-guide.md) — 2023-08-10
 - [DWAI 公益版：解锁 GPT-4.0 模型及其无限制免费使用指南](./AI工具教程/dwai-free-gpt-4-guide.md) — 2023-08-07
+- [IELTS9ME：利用GPT-4实现雅思作文精准评分与深度批改的AI工具](./AI工具教程/ielts9me-gpt4-ielts-writing-scoring-correction-tool.md) — 2023-08-07
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
