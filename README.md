@@ -3112,6 +3112,7 @@
 - [DownLoadPanda：高效解析抖音与 TikTok 视频去水印的免费在线工具](./创意工具/downloadpanda-tiktok-douyin-video-downloader.md) — 2023-09-06
 - [洋芋田免费商用字体下载：适用场景及授权使用指南](./创意工具/yangyutian-free-font-download-guide.md) — 2023-09-05
 - [高效访问指南：MirrorSite 常用镜像站点地址汇总](./创意工具/mirrorsite-list-guide.md) — 2023-09-05
+- [高效检索工具软件：兔-搜索引擎通过极简界面与无广告环境提升搜索纯净度](./创意工具/tu-search-engine-minimalist-ad-free.md) — 2023-09-05
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
