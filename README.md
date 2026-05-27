@@ -5905,6 +5905,7 @@
 - [海量英语词汇资源库：千本专业词书分类汇总](./实战指南/massive-english-vocabulary-resources-library.md) — 2023-07-20
 - [想做短视频却不知从何拍起？从零开始快速搭建账号并实现高效运营的实操指南](./实战指南/short-video-account-setup-and-operation-guide.md) — 2023-07-20
 - [BBC自然科学纪录片精选：适合儿童的启蒙观看清单](./实战指南/bbc-nature-documentaries-for-kids.md) — 2023-07-19
+- [无人直播全流程实操指南：通过工具配置与素材搭建实现自动化播流](./实战指南/unmanned-livestreaming-automation-guide.md) — 2023-07-18
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
