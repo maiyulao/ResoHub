@@ -1055,6 +1055,7 @@
 - [李跳跳自定义规则配置指南：通过精准定义过滤逻辑，实现更高效的广告拦截与界面精简](./GitHub项目/litti-custom-rules-guide.md) — 2023-09-07
 - [Windows 12 交互模拟网页版：在线预览功能与体验指南](./GitHub项目/windows-12-interactive-web-preview-guide.md) — 2023-09-06
 - [找不到心仪的开源SVG图标？试试这款免费在线图标库 IconBrew](./GitHub项目/iconbrew-free-open-source-svg-icons-library.md) — 2023-09-03
+- [面对前端面试考点繁多且零散？这份全维度题库帮你快速梳理知识体系](./GitHub项目/frontend-interview-question-bank.md) — 2023-08-31
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
