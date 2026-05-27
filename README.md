@@ -722,6 +722,7 @@
 - [厌倦了APP启动时的强制开屏广告？试试用开源工具SKIP实现自动跳过](./Android应用/skip-app-splash-ads-open-source-tool.md) — 2023-09-19
 - [CodeTome 编程自学工具：安装部署指南与环境配置要点](./Android应用/codetome-installation-and-configuration-guide.md) — 2023-09-07
 - [宝宝定位 v3.3.0 会员版：无需Root实现虚拟位置模拟](./Android应用/baby-location-v3-3-0-virtual-location-no-root.md) — 2023-09-04
+- [如何使用看刊宝 App 1.2.2 免费阅读全网期刊杂志：操作指南](./Android应用/kankanbao-app-free-magazines-guide.md) — 2023-09-03
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
