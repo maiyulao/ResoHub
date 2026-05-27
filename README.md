@@ -5923,6 +5923,7 @@
 - [Z-Library Finder：实时获取最新可用域名的地址检索工具（含部署与使用指南）](./效率工具/z-library-finder-guide.md) — 2023-09-01
 - [EnglishXYZ：YouTube 双语字幕与划词翻译插件安装及使用指南](./效率工具/englishxyz-youtube-bilingual-subtitles-guide.md) — 2023-08-30
 - [如何使用 YouTube Dubbing 插件实现视频字幕翻译与实时中文配音](./效率工具/youtube-dubbing-translation-and-voiceover.md) — 2023-08-28
+- [高效获取微软必应奖励：自动化刷分工具实现全自动积分累积](./效率工具/automate-microsoft-bing-rewards-points.md) — 2023-08-06
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
