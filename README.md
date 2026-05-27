@@ -3297,6 +3297,7 @@
 - [开源ChatGPT Web镜像部署指南：无需API Key实现全功能免费对话](./创意工具/open-source-chatgpt-web-mirror-deployment-guide.md) — 2023-07-26
 - [Class Central：聚合全球名校公开课的搜索引擎，通过课程对比与评价体系优化学习路径](./创意工具/class-central-global-online-courses-search-engine.md) — 2023-07-25
 - [想快速核实对方公司背景却没专业账号？试试钉钉企典免费查询](./创意工具/dingtalk-company-check-free.md) — 2023-07-25
+- [Promptchan使用指南：支持NSFW内容的AI图像生成工具及访问方式](./创意工具/promptchan-guide-nsfw-ai-image-generator.md) — 2023-07-25
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
