@@ -1105,6 +1105,7 @@
 - [卷王：支持高频调研与在线考试的开源问卷系统详解](./GitHub项目/juanwang-open-source-survey-exam-system.md) — 2023-08-06
 - [想在照片中随意修改或替换局部元素？试试 EditAnything 这一在线 AI 图像编辑工具](./GitHub项目/editanything-ai-image-editor.md) — 2023-07-31
 - [alms 乞讨类网站源码部署与配置全流程指南](./GitHub项目/alms-source-code-deployment-guide.md) — 2023-07-27
+- [Fetch GitHub Hosts：通过优化 Host 映射实现国内快速访问 GitHub 的实用工具](./GitHub项目/fetch-github-hosts-optimize-access.md) — 2023-07-22
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
