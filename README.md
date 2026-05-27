@@ -3326,6 +3326,7 @@
 - [YouIcons 4800万+矢量图标与LOGO素材库：支持多格式下载及商业适用指南](./创意工具/youicons-vector-icons-logo-library-guide.md) — 2023-07-19
 - [利用 World Bank Open Data 免费构建全球发展数据库：一站式获取各国宏观经济与社会指标的实操指南](./创意工具/build-global-development-database-world-bank-open-data.md) — 2023-07-19
 - [全球M3U8 IPTV直播源在线播放指南与播放器推荐](./创意工具/m3u8-iptv-guide-and-players.md) — 2023-07-19
+- [高效利用苹果日历：配置中国节假日及体育赛事订阅指南](./创意工具/apple-calendar-china-holidays-sports-subscriptions-guide.md) — 2023-07-19
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
