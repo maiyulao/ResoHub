@@ -3309,6 +3309,7 @@
 - [engVid 免费英语视频课全指南：通过名师授课体系快速提升语言能力](./创意工具/engvid-free-english-courses-guide.md) — 2023-07-24
 - [想在家里尝试新菜色却找不到好食谱？试试 Cook 这款便捷的在线烹饪助手](./创意工具/cook-online-cooking-assistant.md) — 2023-07-22
 - [WallpapersCraft：支持4K超高清画质的免费壁纸素材库](./创意工具/wallpaperscraft-free-4k-wallpapers.md) — 2023-07-22
+- [想在 Telegram 中快速保存各平台视频？试试这款全能下载机器人 TorPurrBot](./创意工具/telegram-video-downloader-torpurrbot.md) — 2023-07-22
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
