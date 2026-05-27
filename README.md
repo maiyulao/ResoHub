@@ -628,6 +628,7 @@
 - [AI 驱动雅思口语备考全指南：从模拟实战到精准评分的提分路径](./AI工具教程/ai-ielts-speaking-preparation-guide.md) — 2023-08-30
 - [使用 ChangeFaceAi 为经典照片更换面孔的操作指南](./AI工具教程/changefaceai-face-swap-guide.md) — 2023-08-30
 - [旧照片模糊或背景难以剔除？尝试用 Magickimg-AI 实现一键修复、着色与风格化转换](./AI工具教程/magickimg-ai-photo-restoration-colorization-stylization.md) — 2023-08-28
+- [图片放大后模糊且有锯齿？试试用 Vectorizer AI 将位图转换为无损矢量图](./AI工具教程/vectorize-ai-bitmap-to-vector.md) — 2023-08-27
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
