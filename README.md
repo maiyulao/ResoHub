@@ -1075,6 +1075,7 @@
 - [腾讯开源 GFPGAN：基于生成对抗网络的 AI 人脸修复实战指南](./GitHub项目/tencent-gfpgan-ai-face-restoration-guide.md) — 2023-08-25
 - [想要快速搭建中文NLP项目却苦于找不到可靠的数据集和工具？试试 funNLP 资源库](./GitHub项目/funnlp-chinese-nlp-datasets-tools.md) — 2023-08-22
 - [LeetCode 算法实战笔记：通过典型题解沉淀高效解题思维与技术路径](./GitHub项目/leetcode-algorithm-notes-problem-solving-strategies.md) — 2023-08-22
+- [BlockTheSpot 使用指南：解锁 Spotify 广告屏蔽与无限跳过功能](./GitHub项目/blockthespot-guide-spotify-ad-block-unlimited-skips.md) — 2023-08-22
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
