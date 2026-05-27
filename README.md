@@ -3261,6 +3261,7 @@
 - [SliderKZ：高效检索并下载免费音乐的工具指南](./创意工具/sliderkz-free-music-downloader-guide.md) — 2023-08-04
 - [Yuc's Anime List：2023年度新番追番指南与国内外资源管理工具](./创意工具/yucs-anime-list-2023-guide-and-tools.md) — 2023-08-04
 - [Unscreen 视频背景自动移除工具：无需绿屏的在线去除方案及使用指南](./创意工具/unscreen-video-background-remover-guide.md) — 2023-08-04
+- [zBook：高效访问 Z-Library 电子书资源的实用指南](./创意工具/zbook-zlibrary-guide.md) — 2023-08-04
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
