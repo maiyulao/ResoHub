@@ -5733,6 +5733,7 @@
 - [如何利用 Python 快速上手数据挖掘？从基础分析到实战应用的全流程指南](./实战指南/python-data-mining-guide.md) — 2023-08-27
 - [零基础英语语法全体系教程：从入门到精通的 50 讲进阶指南](./实战指南/english-grammar-complete-course-beginner-to-advanced.md) — 2023-08-25
 - [2022年度高分影剧指南：精选豆瓣口碑佳作及其资源获取路径](./实战指南/best-movies-shows-2022-douban-guide.md) — 2023-08-22
+- [背高中英语3500词总觉得缺资料？这份31.6GB的超全资源库帮你彻底解决](./实战指南/high-school-english-3500-words-resource-library.md) — 2023-08-21
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
