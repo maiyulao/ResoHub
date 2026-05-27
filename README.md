@@ -1398,6 +1398,7 @@
 - [Clean WeChat X：高效精简的微信 PC 版存储空间清理工具，通过深度扫描冗余文件快速释放磁盘空间](./Windows软件/clean-wechat-x.md) — 2023-09-26
 - [Adobe 全系列 2023 离线安装包：多版本兼容选择与激活部署指南](./Windows软件/adobe-2023-offline-installer-guide.md) — 2023-09-05
 - [使用开源工具 Optimizer 优化 Windows 隐私与安全性的操作指南](./Windows软件/optimize-windows-privacy-security-with-optimizer.md) — 2023-08-20
+- [想在B站漫画中离线保存未解锁章节？试试这款BiliBili Manga Downloader下载工具](./Windows软件/bilibili-manga-downloader-offline-save.md) — 2023-08-13
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
