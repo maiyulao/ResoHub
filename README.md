@@ -3295,6 +3295,7 @@
 - [跨平台数据秒传：通过极简网络剪贴板实现设备间信息高效同步与暂存](./创意工具/cross-platform-network-clipboard-sync.md) — 2023-07-27
 - [基于 GPT-3.5 Turbo 构建的 AI 俚语与粗口对话系统实现方案](./创意工具/ai-slang-and-profanity-chatbot-gpt-3-5-turbo.md) — 2023-07-26
 - [开源ChatGPT Web镜像部署指南：无需API Key实现全功能免费对话](./创意工具/open-source-chatgpt-web-mirror-deployment-guide.md) — 2023-07-26
+- [Class Central：聚合全球名校公开课的搜索引擎，通过课程对比与评价体系优化学习路径](./创意工具/class-central-global-online-courses-search-engine.md) — 2023-07-25
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
