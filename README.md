@@ -3329,6 +3329,7 @@
 - [高效利用苹果日历：配置中国节假日及体育赛事订阅指南](./创意工具/apple-calendar-china-holidays-sports-subscriptions-guide.md) — 2023-07-19
 - [OpenKEY：构建可高频调用的 ChatGPT API 账号池方案](./创意工具/openkey-chatgpt-api-account-pool.md) — 2023-07-19
 - [IntelliJ IDEA 激活指南：最新可用激活码与安装配置详解](./创意工具/intellij-idea-activation-guide.md) — 2023-07-18
+- [Freehand意绘：高效免费的AI图像生成工具指南](./创意工具/freehand-ai-image-generator-guide.md) — 2023-07-18
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
