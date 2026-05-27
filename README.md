@@ -3291,6 +3291,7 @@
 - [开源 ChatWeb 国粹版：基于 ChatGPT 构建的中文脏话机器人指南](./创意工具/chatweb-chinese-curse-bot-guide.md) — 2023-07-28
 - [高效生成微信集赞模拟截图：无需真实点赞即可快速构建社交凭证，支持自定义数量与界面细节](./创意工具/wechat-like-screenshot-generator.md) — 2023-07-28
 - [跨平台数据秒传：通过极简网络剪贴板实现设备间信息高效同步与暂存](./创意工具/cross-platform-network-clipboard-sync.md) — 2023-07-27
+- [基于 GPT-3.5 Turbo 构建的 AI 俚语与粗口对话系统实现方案](./创意工具/ai-slang-and-profanity-chatbot-gpt-3-5-turbo.md) — 2023-07-26
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
