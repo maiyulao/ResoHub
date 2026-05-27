@@ -3179,6 +3179,7 @@
 - [计算机专业公务员考试：全量题库与刷题指南](./创意工具/computer-science-civil-service-exam-guide.md) — 2023-08-23
 - [通过 100 Word Story 练习英文写作的 3 个实操步骤](./创意工具/3-steps-improve-english-writing-with-100-word-story.md) — 2023-08-22
 - [如何使用 Taco 搜索高效检索知识文档与电子书：操作指南](./创意工具/taco-search-guide-knowledge-docs-ebooks.md) — 2023-08-22
+- [高效生成SFZ格式照片：通过在线自动化工具实现快速出图与格式优化](./创意工具/efficient-sfz-photo-generation-automation-tool.md) — 2023-08-21
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
