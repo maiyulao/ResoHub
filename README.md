@@ -3209,6 +3209,7 @@
 - [复盘谷歌、苹果与微软的弃产史：产品被砍的共性分析与演进步骤](./创意工具/google-apple-microsoft-product-discontinuation-analysis.md) — 2023-08-17
 - [想给设备换一套高清应用图标却找不到原图？试试用 HQ ICON 批量提取 App Store 资源](./创意工具/batch-extract-app-store-icons-with-hq-icon.md) — 2023-08-16
 - [全球在线漫画资源聚合平台：覆盖海内外多语种正版与优质作品库](./创意工具/global-online-manga-aggregation-platform.md) — 2023-08-16
+- [使用 caption2text 将 ASS 和 SRT 视频字幕转换为文本的步骤指南](./创意工具/caption2text-convert-ass-srt-subtitles-to-text-guide.md) — 2023-08-15
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
