@@ -3133,6 +3133,7 @@
 - [全方位知识进阶指南：脸红红学习平台的资源分布与使用技巧](./创意工具/lianhonghong-learning-guide-resources-tips.md) — 2023-09-02
 - [自动化营业执照样本生成方案：依托审计百宝箱实现快速合规模拟与凭证校验](./创意工具/automated-business-license-sample-generation-audit-toolbox.md) — 2023-09-02
 - [WW漫画：成人向漫画在线阅读与学习平台](./创意工具/ww-manga-adult-online-reading-learning-platform.md) — 2023-09-01
+- [全网高质量信息源检索指南：高效筛选标准与获取路径](./创意工具/high-quality-information-sources-guide.md) — 2023-08-31
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
