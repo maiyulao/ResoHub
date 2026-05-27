@@ -3274,6 +3274,7 @@
 - [SCL-90 心理健康自测指南：量表解析与在线评估](./创意工具/scl-90-mental-health-test-guide.md) — 2023-08-01
 - [B站免费网课资源汇总：涵盖各领域学习路径与高效检索指南](./创意工具/bilibili-free-courses-guide.md) — 2023-08-01
 - [DenoPark：通过键盘打字交互增强词汇记忆的在线学习游戏](./创意工具/denopark-typing-game-vocabulary-learning.md) — 2023-08-01
+- [想找无需会员且没有诱导套路的公益游戏下载站？Switch618 可能是你的答案](./创意工具/switch618-free-game-download-site.md) — 2023-08-01
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
