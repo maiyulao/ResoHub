@@ -3222,6 +3222,7 @@
 - [随机漫游全球街景：通过谷歌地图挖掘世界角落的奇异之美](./创意工具/random-walk-google-street-view-hidden-beauty.md) — 2023-08-14
 - [BBC经典纪录片全集资源库：高画质下载与分类索引指南](./创意工具/bbc-documentaries-collection-download-guide.md) — 2023-08-13
 - [获取优质ASMR视频资源的具体步骤与免费下载指南](./创意工具/how-to-get-free-high-quality-asmr-videos.md) — 2023-08-13
+- [想在海外远程办公却不知选哪座城市？Nomad List 居住地综合指南帮你筛选](./创意工具/nomad-list-digital-nomad-city-guide.md) — 2023-08-11
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
