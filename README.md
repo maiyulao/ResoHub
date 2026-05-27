@@ -5804,6 +5804,7 @@
 - [2024年高中核心考点专项练习集（5.05 GB）](./实战指南/2024-high-school-core-exam-practice-set.md) — 2023-08-14
 - [高效排版指南：十万级专业字体资源库及应用实操](./实战指南/professional-fonts-resource-guide.md) — 2023-08-11
 - [万份分类PPT素材库：高效构建演示文稿的资源清单](./实战指南/ppt-resource-library-list.md) — 2023-08-09
+- [TFBOYS 2023十年之约演唱会全机位原画资源下载与观看指南](./实战指南/tfboys-2023-10th-anniversary-concert-download-guide.md) — 2023-08-07
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
