@@ -632,6 +632,7 @@
 - [想实现高质量的AI换脸却苦于找不到好工具？试试开源的 FaceFusion](./AI工具教程/facefusion-open-source-ai-face-swap-tool.md) — 2023-08-27
 - [面对百种语言的沟通壁垒，Meta SeamlessM4T 如何实现实时语音转录与翻译？](./AI工具教程/meta-seamlessm4t-real-time-speech-translation.md) — 2023-08-26
 - [MediSearch：基于科学实证的AI医疗信息检索工具](./AI工具教程/medisearch-evidence-based-ai-medical-search.md) — 2023-08-24
+- [利用 Segment Anything 实现任意图像对象的精准 AI 抠图：操作指南](./AI工具教程/segment-anything-ai-image-cutout-guide.md) — 2023-08-24
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
