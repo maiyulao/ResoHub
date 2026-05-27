@@ -1248,6 +1248,7 @@
 - [跨平台离线AI换脸工具：支持Windows与macOS的本地部署方案](./Mac软件/cross-platform-offline-ai-faceswap-local-deployment.md) — 2023-11-01
 - [TTime 效率工具：集成快捷截图与划词翻译的轻量化方案](./Mac软件/ttime-efficiency-tool-screenshot-translation.md) — 2023-10-27
 - [Bezel：将 iPhone 镜像投屏至 Mac 的轻量化工具指南](./Mac软件/bezel-iphone-mirroring-to-mac-guide.md) — 2023-10-17
+- [洛雪音乐助手 v2.3.0：打破平台壁垒的开源音乐聚合工具，实现多源曲库统一检索与播放](./Mac软件/luoxue-music-assistant-v2-3-0.md) — 2023-09-01
 
 ### Twitter
 - [BlockExpress 插件安装指南：通过浏览器订阅推特 Web3 KOL 动态与行业情报](./Twitter/blockexpress-installation-guide-twitter-web3-kol-tracking.md) — 2024-05-24
