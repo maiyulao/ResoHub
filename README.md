@@ -5670,6 +5670,7 @@
 - [多行业应急救援预案模板下载：适用场景及编制要点指南](./实战指南/emergency-response-plan-templates-guide.md) — 2023-09-04
 - [高效电商运营：全链路数据管理表格模板库](./实战指南/ecommerce-data-management-templates.md) — 2023-09-03
 - [高效屏蔽APP开屏广告：主流工具推荐与配置步骤](./实战指南/block-app-splash-ads-guide.md) — 2023-09-03
+- [2023年12月英语四六级VIP全套备考资源：获取渠道及适用环境指南](./实战指南/cet-vip-exam-resources-dec-2023.md) — 2023-09-02
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
