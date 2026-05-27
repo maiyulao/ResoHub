@@ -3234,6 +3234,7 @@
 - [日本教师教学资源库：涵盖多学科优质教案与实操课件的专业学习平台](./创意工具/japan-teacher-resource-library.md) — 2023-08-10
 - [磁力熊：支持在线播放的高分影视磁力资源站指南](./创意工具/magnetic-bear-movie-resource-guide.md) — 2023-08-10
 - [WhatsLink：通过在线预览磁力链接，过滤无效资源下载](./创意工具/whatslink-magnet-link-online-preview.md) — 2023-08-10
+- [腾讯 AIDesign 快速构建商用 Logo：10秒自动化生成，覆盖全场景品牌视觉需求](./创意工具/tencent-aidesign-commercial-logo-generator.md) — 2023-08-09
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
