@@ -3257,6 +3257,7 @@
 - [无需魔法：Claude 2 国内镜像站访问指南与使用体验](./创意工具/claude-2-mirror-site-guide.md) — 2023-08-05
 - [小唐即时搜索：支持代码片段精准检索的编程知识搜索引擎](./创意工具/xiaotang-instant-search-programming-engine.md) — 2023-08-05
 - [计算机科学（CS）自学路径：从零基础到进阶的实操指南](./创意工具/computer-science-self-study-guide.md) — 2023-08-05
+- [高效AI提示词库：适用场景指南与实用指令集下载](./创意工具/ai-prompt-library-guide-and-downloads.md) — 2023-08-04
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
