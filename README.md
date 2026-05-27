@@ -721,6 +721,7 @@
 - [想知道时间都花在哪个软件上？用开源工具 ActivityWatch 自动记录屏幕使用时长](./Android应用/activitywatch-screen-time-tracker.md) — 2023-09-30
 - [厌倦了APP启动时的强制开屏广告？试试用开源工具SKIP实现自动跳过](./Android应用/skip-app-splash-ads-open-source-tool.md) — 2023-09-19
 - [CodeTome 编程自学工具：安装部署指南与环境配置要点](./Android应用/codetome-installation-and-configuration-guide.md) — 2023-09-07
+- [宝宝定位 v3.3.0 会员版：无需Root实现虚拟位置模拟](./Android应用/baby-location-v3-3-0-virtual-location-no-root.md) — 2023-09-04
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
