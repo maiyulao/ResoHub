@@ -3123,6 +3123,7 @@
 - [红袖招小说站：全平台免费阅读资源获取指南及使用注意事项](./创意工具/hongxiuzhao-free-reading-guide.md) — 2023-09-04
 - [全球IMAX及主流影厅分布地图：实时更新版获取路径与环境适配指南](./创意工具/global-imax-cinema-map-guide.md) — 2023-09-03
 - [使用 justin3go 高效搜索阿里云盘资源的具体步骤](./创意工具/how-to-search-aliyun-disk-with-justin3go.md) — 2023-09-03
+- [便利店选址实操手册：基于百家门店数据的选址逻辑与避坑指南](./创意工具/convenience-store-site-selection-guide.md) — 2023-09-03
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
