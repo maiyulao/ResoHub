@@ -6033,6 +6033,7 @@
 - [中国移动5元话费领取指南：限前10万名用户，到账实时且名额有限](./羊毛/china-mobile-5-yuan-credit-guide.md) — 2023-08-04
 - [广东移动用户领取12GB流量及一年黄金会员的操作指南与注意事项](./羊毛/guangdong-mobile-12gb-data-gold-membership-guide.md) — 2023-08-04
 - [移动云盘用户月度权益：微信及支付宝2元立减金领取指南](./羊毛/mobile-cloud-monthly-benefits-wechat-alipay-coupon.md) — 2023-08-04
+- [广东移动3GB短期流量领取指南：操作步骤与有效期说明](./羊毛/guangdong-mobile-3gb-data-guide.md) — 2023-07-21
 
 ### 音乐
 - [周杰伦《圣诞星》2023新曲：FLAC无损音质下载指南](./音乐/jay-chou-christmas-star-2023-flac-download.md) — 2023-12-21
