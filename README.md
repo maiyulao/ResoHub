@@ -5652,6 +5652,7 @@
 - [创业全链路实战知识库：76套核心课程资源集锦（197GB）](./实战指南/entrepreneurship-full-link-knowledge-base.md) — 2023-09-10
 - [如何寻找高质量的赛博格或超人类角色素材？Transhumans开源插图库提供可商用方案](./实战指南/find-high-quality-transhuman-cyborg-illustrations-open-source.md) — 2023-09-09
 - [多款影视应用去广告汇总：VIP功能解锁与纯净版安装指南](./实战指南/ad-free-video-apps-vip-unlocked-guide.md) — 2023-09-07
+- [450个实操网赚项目指南：从筛选到落地的执行步骤](./实战指南/450-make-money-online-projects-guide.md) — 2023-09-05
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
