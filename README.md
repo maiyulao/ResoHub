@@ -640,6 +640,7 @@
 - [写不出高转化率的营销词？试试用 ZMTAI 智能生成文案](./AI工具教程/zmtai-ai-copywriting-generator.md) — 2023-08-21
 - [BriefGPT-AI：实现 ArXiv AI 领域论文的自动化抓取与高效追踪](./AI工具教程/briefgpt-ai-arxiv-automation-tracking.md) — 2023-08-17
 - [如何使用 QRBTF 开源工具生成艺术二维码：操作全流程](./AI工具教程/how-to-generate-art-qr-code-with-qrbtf.md) — 2023-08-16
+- [Fooocus 快速部署指南：零门槛安装开源 AI 绘画工具](./AI工具教程/fooocus-quick-installation-guide.md) — 2023-08-15
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
