@@ -3323,6 +3323,7 @@
 - [Tusi Art：支持在线免费绘图的 AI 模型共享平台](./创意工具/tusi-art-ai-model-sharing-platform.md) — 2023-07-20
 - [解锁《经济学人》商业评论付费内容：基于脚本与快捷指令的自动化访问方案](./创意工具/unlock-economist-business-review-automation-guide.md) — 2023-07-19
 - [想在 iOS 设备上安装非 App Store 软件却找不到可靠资源？这里有免费的 IPA 软件下载与分享方案](./创意工具/free-ios-ipa-software-download-share.md) — 2023-07-19
+- [YouIcons 4800万+矢量图标与LOGO素材库：支持多格式下载及商业适用指南](./创意工具/youicons-vector-icons-logo-library-guide.md) — 2023-07-19
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
