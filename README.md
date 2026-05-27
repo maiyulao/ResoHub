@@ -3224,6 +3224,7 @@
 - [获取优质ASMR视频资源的具体步骤与免费下载指南](./创意工具/how-to-get-free-high-quality-asmr-videos.md) — 2023-08-13
 - [想在海外远程办公却不知选哪座城市？Nomad List 居住地综合指南帮你筛选](./创意工具/nomad-list-digital-nomad-city-guide.md) — 2023-08-11
 - [熊猫影院：为海外华人打造的高清纯净影视平台，支持全平台免费在线观看](./创意工具/panda-cinema-free-hd-streaming-for-overseas-chinese.md) — 2023-08-11
+- [自动化网站签到工具配置指南：高效实现多平台每日打卡](./创意工具/automated-website-checkin-guide.md) — 2023-08-11
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
