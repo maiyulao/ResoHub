@@ -625,6 +625,7 @@
 - [想要快速创作多格漫画却苦于绘图不统一？试试这款开源工具 AI Comic Factory](./AI工具教程/ai-comic-factory-open-source-tool.md) — 2023-09-07
 - [AIdea：集成聊天、协作与图像生成的开源 AI 全能工作站](./AI工具教程/aidea-open-source-ai-workstation.md) — 2023-09-02
 - [Ideogram 实测：如何利用 AI 精准生成含文字的图像与 Logo 设计](./AI工具教程/ideogram-ai-text-to-image-logo-design.md) — 2023-09-02
+- [AI 驱动雅思口语备考全指南：从模拟实战到精准评分的提分路径](./AI工具教程/ai-ielts-speaking-preparation-guide.md) — 2023-08-30
 
 ### Android应用
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
