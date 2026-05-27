@@ -3126,6 +3126,7 @@
 - [使用 justin3go 高效搜索阿里云盘资源的具体步骤](./创意工具/how-to-search-aliyun-disk-with-justin3go.md) — 2023-09-03
 - [便利店选址实操手册：基于百家门店数据的选址逻辑与避坑指南](./创意工具/convenience-store-site-selection-guide.md) — 2023-09-03
 - [TRAC API 使用指南：从接口调用到低频请求的实操步骤](./创意工具/trac-api-usage-guide.md) — 2023-09-03
+- [全方位知识进阶指南：脸红红学习平台的资源分布与使用技巧](./创意工具/lianhonghong-learning-guide-resources-tips.md) — 2023-09-02
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
