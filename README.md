@@ -1099,6 +1099,7 @@
 - [VASCMS开源视频课程系统：支持多角色权限管理与快速部署指南](./GitHub项目/vascms-open-source-video-course-system-guide.md) — 2023-08-08
 - [Apple ID 自动化管理工具：实现账号状态检测与解锁流程自动化](./GitHub项目/apple-id-automation-tool-status-check-unlock.md) — 2023-08-08
 - [卷王：支持高频调研与在线考试的开源问卷系统详解](./GitHub项目/juanwang-open-source-survey-exam-system.md) — 2023-08-06
+- [想在照片中随意修改或替换局部元素？试试 EditAnything 这一在线 AI 图像编辑工具](./GitHub项目/editanything-ai-image-editor.md) — 2023-07-31
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
