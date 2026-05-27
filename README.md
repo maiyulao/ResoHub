@@ -5781,6 +5781,7 @@
 - [Buster reCaptcha 自动求解插件：安装配置指南与浏览器兼容性说明](./效率工具/buster-recaptcha-installation-guide-compatibility.md) — 2023-10-04
 - [GitHub Old Feed：通过插件还原经典 Feed 界面，找回高效的动态浏览体验](./效率工具/github-old-feed-plugin.md) — 2023-09-14
 - [虚拟通话记录模拟工具：功能实现与生成指南](./效率工具/virtual-call-log-simulator-guide.md) — 2023-09-03
+- [Z-Library Finder：实时获取最新可用域名的地址检索工具（含部署与使用指南）](./效率工具/z-library-finder-guide.md) — 2023-09-01
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
