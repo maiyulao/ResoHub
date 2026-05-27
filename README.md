@@ -761,6 +761,7 @@
 - [全平台无广告影视APP：支持手机与电视盒子，实现免费高清流畅观看](./Android应用/ad-free-movie-app-for-mobile-and-tv.md) — 2023-07-27
 - [微多开分身 v9.9.8 解锁版下载：支持多账号并行运行及环境配置指南](./Android应用/weiduo-app-cloner-v9-9-8-unlocked-download.md) — 2023-07-26
 - [OpenAI 官方 App 现已适配 iOS 与 Android 系统：安装指南及使用环境说明](./Android应用/openai-app-ios-android-installation-guide.md) — 2023-07-26
+- [无需Root权限即可实现手机虚拟定位：摩尼定位的功能特性与操作指南](./Android应用/moni-virtual-location-guide-no-root.md) — 2023-07-24
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
