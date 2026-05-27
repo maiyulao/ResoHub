@@ -3270,6 +3270,7 @@
 - [简历本：支持在线编辑与智能诊断的简历制作平台（含模板下载）](./创意工具/resume-builder-online-editor-smart-diagnosis.md) — 2023-08-02
 - [如何使用老王磁力搜索引擎：高效检索资源的完整步骤指南](./创意工具/how-to-use-laowang-magnet-search-engine.md) — 2023-08-01
 - [NB AI Face：高效实现视频与图片AI换脸的免费工具，支持一键替换面部特征并保持自然画质](./创意工具/nb-ai-face-free-ai-faceswap-tool.md) — 2023-08-01
+- [如何将天涯社区经典神贴导出并保存为 PDF 文件的操作指南](./创意工具/export-tianya-threads-to-pdf-guide.md) — 2023-08-01
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
