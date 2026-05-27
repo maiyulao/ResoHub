@@ -3159,6 +3159,7 @@
 - [想在 Notion 中高效管理年度订阅？试试这款订阅清单模板](./创意工具/notion-subscription-tracker-template.md) — 2023-08-25
 - [SQL之母：闯关式交互学习平台（适用初学者，支持在线练习与自学）](./创意工具/sql-mother-interactive-learning-platform.md) — 2023-08-25
 - [如何下载并安装 Google Chrome 最新版离线安装包及配置自动更新](./创意工具/download-install-google-chrome-offline-installer-and-auto-update.md) — 2023-08-25
+- [67项认知偏差设计心理学手册：适用场景与应用指南](./创意工具/67-cognitive-bias-design-psychology-guide.md) — 2023-08-25
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
