@@ -3212,6 +3212,7 @@
 - [使用 caption2text 将 ASS 和 SRT 视频字幕转换为文本的步骤指南](./创意工具/caption2text-convert-ass-srt-subtitles-to-text-guide.md) — 2023-08-15
 - [无需安装软件且不想注册账号？试试这款国内可直接访问的在线图像处理工具](./创意工具/online-image-editor-no-registration-no-install.md) — 2023-08-15
 - [低分辨率图片模糊且有噪点？尝试用 waifu2x 无限制版实现 4 倍无损放大与降噪](./创意工具/waifu2x-unlimited-image-upscaling-denoising.md) — 2023-08-15
+- [全球海关官方查询网站汇总：分步骤检索与访问指南](./创意工具/global-customs-official-search-guide.md) — 2023-08-14
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
