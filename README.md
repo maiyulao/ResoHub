@@ -3168,6 +3168,7 @@
 - [多平台电子书资源索引：全量阅读书源仓库指南](./创意工具/ebook-resource-index-guide.md) — 2023-08-25
 - [TheFuture 电子书检索指南：通过高效索引快速定位免费数字文献资源](./创意工具/thefuture-ebook-search-guide.md) — 2023-08-25
 - [实战派写作指南：名家笔耕经验的深度拆解与应用](./创意工具/practical-writing-guide-expert-experience.md) — 2023-08-24
+- [计算机专业公务员考试：全量题库与刷题指南](./创意工具/computer-science-civil-service-exam-guide.md) — 2023-08-23
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
