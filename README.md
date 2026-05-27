@@ -5686,6 +5686,7 @@
 - [2023年12月英语四六级VIP全套备考资源：获取渠道及适用环境指南](./实战指南/cet-vip-exam-resources-dec-2023.md) — 2023-09-02
 - [备考计算机二级总觉得资料零散？这里有一套183GB的完整专题资源包](./实战指南/computer-rank-exam-resource-pack.md) — 2023-09-02
 - [税务师基础班全套专题课：资源下载路径及适用学习场景指南](./实战指南/tax-agent-foundation-course-resources-guide.md) — 2023-08-30
+- [算法与数据结构进阶实战：从底层原理到高频面试题的体系化训练方案](./实战指南/algorithm-data-structure-advanced-practice.md) — 2023-08-30
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
