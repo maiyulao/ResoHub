@@ -1081,6 +1081,7 @@
 - [LeetCode 算法实战笔记：通过典型题解沉淀高效解题思维与技术路径](./GitHub项目/leetcode-algorithm-notes-problem-solving-strategies.md) — 2023-08-22
 - [BlockTheSpot 使用指南：解锁 Spotify 广告屏蔽与无限跳过功能](./GitHub项目/blockthespot-guide-spotify-ad-block-unlimited-skips.md) — 2023-08-22
 - [程序员相亲实操手册：从自我定位到高效面谈的五个步骤](./GitHub项目/programmer-dating-guide-5-steps.md) — 2023-08-21
+- [想在B站或抖音用Live2D数字人直播？尝试用GPT vup实现自动化实时互动](./GitHub项目/live2d-digital-human-livestreaming-gpt-vup.md) — 2023-08-16
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
