@@ -3153,6 +3153,7 @@
 - [太极书馆：免登录无广告的经典古籍在线阅读与下载资源站](./创意工具/taiji-library-ancient-books-online.md) — 2023-08-28
 - [Web 3.0 核心概念与入门实操指南](./创意工具/web3-core-concepts-and-beginner-guide.md) — 2023-08-27
 - [壁纸湖：无广告纯净壁纸站，支持手机端直接下载与适配](./创意工具/wallpaper-lake-ad-free-mobile-download.md) — 2023-08-27
+- [家庭药箱配置指南：分类常备药清单与用药要点](./创意工具/home-medicine-cabinet-guide.md) — 2023-08-25
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
