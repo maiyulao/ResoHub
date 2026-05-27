@@ -5864,6 +5864,7 @@
 - [200份AI行业深度报告精选：2023年6-7月趋势分析与研究合集](./实战指南/200-ai-industry-reports-trends-2023-june-july.md) — 2023-07-29
 - [高效安装iOS企业级应用的最新证书指南：提供230729可用凭证及其部署细节](./实战指南/ios-enterprise-certificate-installation-guide-230729.md) — 2023-07-29
 - [Billboard美国单曲榜TOP100 FLAC无损音乐资源下载与兼容性指南](./实战指南/billboard-hot-100-flac-download-guide.md) — 2023-07-26
+- [男性体能提升与身体素质训练指南](./实战指南/mens-physical-fitness-training-guide.md) — 2023-07-26
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
