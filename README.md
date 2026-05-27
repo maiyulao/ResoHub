@@ -3242,6 +3242,7 @@
 - [想给安卓手机增加更多实用功能？试试 Xposed 模块仓库解锁进阶玩法](./创意工具/xposed-module-repository-guide.md) — 2023-08-09
 - [找不到高质量的学习资料？试试 TomyJan 在线资源网盘](./创意工具/tomyjan-online-resource-cloud.md) — 2023-08-09
 - [OpenYYY 开源转换指南：将加密音乐格式高效转为 MP3 与 FLAC](./创意工具/openyyy-convert-encrypted-music-to-mp3-flac.md) — 2023-08-07
+- [KnowSe：成人知识科普与视觉教育资源库](./创意工具/knowse-adult-knowledge-visual-education-library.md) — 2023-08-07
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
