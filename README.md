@@ -5762,6 +5762,7 @@
 - [如何高效下载并整理289部经典影星电影合集（1.16TB）](./实战指南/download-and-organize-classic-movie-collection.md) — 2023-08-17
 - [1.7TB考研专题资料库：从资源分类到高效检索的获取指南](./实战指南/1-7tb-postgraduate-exam-resources-guide.md) — 2023-08-17
 - [找不到2023版一建教材电子版？这份PDF资源助你高效备考](./实战指南/2023-construction-engineer-exam-pdf-resources.md) — 2023-08-17
+- [人人影视 1.07TB 电影全站资源合集（珍藏版）](./实战指南/renren-movie-collection-1-07tb.md) — 2023-08-16
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
