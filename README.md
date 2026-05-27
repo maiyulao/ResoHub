@@ -1354,6 +1354,7 @@
 - [微信聊天图片总是手动保存太麻烦？试试这款开源自动备份工具 WxAutoExIm](./Windows软件/wxautoexim-wechat-image-auto-backup-tool.md) — 2023-10-16
 - [wechatDownload：支持开源免费下载微信公众号文章的工具及环境配置指南](./Windows软件/wechat-download-guide.md) — 2023-10-04
 - [Clean WeChat X：高效精简的微信 PC 版存储空间清理工具，通过深度扫描冗余文件快速释放磁盘空间](./Windows软件/clean-wechat-x.md) — 2023-09-26
+- [Adobe 全系列 2023 离线安装包：多版本兼容选择与激活部署指南](./Windows软件/adobe-2023-offline-installer-guide.md) — 2023-09-05
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
