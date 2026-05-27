@@ -3118,6 +3118,7 @@
 - [高效检索工具软件：兔-搜索引擎通过极简界面与无广告环境提升搜索纯净度](./创意工具/tu-search-engine-minimalist-ad-free.md) — 2023-09-05
 - [英文外刊免费获取指南：通过 Free Magazines 站下载全球优质 PDF 杂志](./创意工具/free-english-magazines-download-guide.md) — 2023-09-04
 - [TGwiki：构建面向 Telegram 生态的开源高质量知识库](./创意工具/tgwiki-telegram-open-source-knowledge-base.md) — 2023-09-04
+- [ACG嘤嘤怪免费汉化游戏下载与安装全流程指南](./创意工具/acg-yingyingguai-game-download-install-guide.md) — 2023-09-04
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
