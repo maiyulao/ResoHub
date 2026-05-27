@@ -3230,6 +3230,7 @@
 - [沙雕新闻素材库：幽默资讯采集渠道与适用场景指南](./创意工具/funny-news-material-library-guide.md) — 2023-08-11
 - [PlayOK 使用指南：从注册到开始经典棋牌对弈的完整步骤](./创意工具/playok-guide-registration-to-gameplay.md) — 2023-08-10
 - [Fape 资源库指南：高效获取国外成人内容学习素材的免费渠道与使用方法](./创意工具/fape-resource-guide-free-adult-content-materials.md) — 2023-08-10
+- [日本教师教学资源库：涵盖多学科优质教案与实操课件的专业学习平台](./创意工具/japan-teacher-resource-library.md) — 2023-08-10
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
