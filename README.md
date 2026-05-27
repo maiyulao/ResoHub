@@ -3247,6 +3247,7 @@
 - [KnowSe：成人知识科普与视觉教育资源库](./创意工具/knowse-adult-knowledge-visual-education-library.md) — 2023-08-07
 - [ChatGPT 免费账号获取指南：OpenAI 账号共享与注册方案](./创意工具/chatgpt-free-account-guide.md) — 2023-08-07
 - [多品牌相机水印快捷指令：一键实现莱卡、哈苏、蔡司风格水印，快速提升照片质感](./创意工具/multi-brand-camera-watermark-shortcuts.md) — 2023-08-07
+- [Myflixer 使用指南：高效访问海外高清免费影视资源的实操路径](./创意工具/myflixer-guide-free-movies-streaming.md) — 2023-08-06
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
