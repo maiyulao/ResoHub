@@ -3137,6 +3137,7 @@
 - [全网高质量信息源检索指南：高效筛选标准与获取路径](./创意工具/high-quality-information-sources-guide.md) — 2023-08-31
 - [LibriVox：开源非营利性公共领域有声书资源库](./创意工具/librivox-open-source-public-domain-audiobooks.md) — 2023-08-31
 - [Wuxiaworld：中文网文出海的标杆译站，通过专业英译构建全球武侠与仙侠阅读生态](./创意工具/wuxiaworld-chinese-webnovel-translation-benchmark.md) — 2023-08-31
+- [JC 频道：YouTube 视频学习资源指南](./创意工具/jc-channel-youtube-learning-resources-guide.md) — 2023-08-30
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
