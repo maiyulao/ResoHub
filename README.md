@@ -758,6 +758,7 @@
 - [DaMaiHelper：大麦网抢票效率提升工具及自动化辅助指南](./Android应用/damaihelper-ticket-automation-guide.md) — 2023-08-06
 - [想用彩云天气Pro却在犹豫付费？现在可以通过限免渠道免费领取30天SVIP](./Android应用/caiyun-weather-pro-free-svip.md) — 2023-08-03
 - [钉钉虚拟定位实操指南：通过三件套实现远程打卡，详解配置流程与避坑要点](./Android应用/dingtalk-virtual-location-guide.md) — 2023-08-03
+- [全平台无广告影视APP：支持手机与电视盒子，实现免费高清流畅观看](./Android应用/ad-free-movie-app-for-mobile-and-tv.md) — 2023-07-27
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
