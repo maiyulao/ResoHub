@@ -3121,6 +3121,7 @@
 - [TGwiki：构建面向 Telegram 生态的开源高质量知识库](./创意工具/tgwiki-telegram-open-source-knowledge-base.md) — 2023-09-04
 - [ACG嘤嘤怪免费汉化游戏下载与安装全流程指南](./创意工具/acg-yingyingguai-game-download-install-guide.md) — 2023-09-04
 - [红袖招小说站：全平台免费阅读资源获取指南及使用注意事项](./创意工具/hongxiuzhao-free-reading-guide.md) — 2023-09-04
+- [全球IMAX及主流影厅分布地图：实时更新版获取路径与环境适配指南](./创意工具/global-imax-cinema-map-guide.md) — 2023-09-03
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
