@@ -3157,6 +3157,7 @@
 - [家庭药箱配置指南：分类常备药清单与用药要点](./创意工具/home-medicine-cabinet-guide.md) — 2023-08-25
 - [想在 Notion 中高效管理年度订阅？试试这款订阅清单模板](./创意工具/notion-subscription-tracker-template.md) — 2023-08-25
 - [SQL之母：闯关式交互学习平台（适用初学者，支持在线练习与自学）](./创意工具/sql-mother-interactive-learning-platform.md) — 2023-08-25
+- [如何下载并安装 Google Chrome 最新版离线安装包及配置自动更新](./创意工具/download-install-google-chrome-offline-installer-and-auto-update.md) — 2023-08-25
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
