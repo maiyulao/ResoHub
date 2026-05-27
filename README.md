@@ -3284,6 +3284,7 @@
 - [Python数据科学免费课程：学习路径、环境配置与获取指南](./创意工具/python-data-science-free-courses-guide.md) — 2023-07-29
 - [Perplexity AI 实测：打破信息滞后的联网 AI 搜索工具](./创意工具/perplexity-ai-review-realtime-search-tool.md) — 2023-07-29
 - [如何使用光点红AI智能写作工具高效创作文案：操作全流程指南](./创意工具/guangdianhong-ai-writing-guide.md) — 2023-07-29
+- [MX动漫：纯净无广告的高清动漫在线观看指南](./创意工具/mx-anime-ad-free-hd-guide.md) — 2023-07-29
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
