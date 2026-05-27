@@ -1276,6 +1276,7 @@
 - [Bezel：将 iPhone 镜像投屏至 Mac 的轻量化工具指南](./Mac软件/bezel-iphone-mirroring-to-mac-guide.md) — 2023-10-17
 - [洛雪音乐助手 v2.3.0：打破平台壁垒的开源音乐聚合工具，实现多源曲库统一检索与播放](./Mac软件/luoxue-music-assistant-v2-3-0.md) — 2023-09-01
 - [Hackt1vator Unlock 使用指南：如何免费移除 iOS MDM 远程管理锁](./Mac软件/hackt1vator-unlock-ios-mdm-removal-guide.md) — 2023-08-30
+- [v2A 配置与使用指南：实现跨平台网络连接的完整步骤](./Mac软件/v2a-configuration-and-setup-guide.md) — 2023-08-16
 
 ### Twitter
 - [BlockExpress 插件安装指南：通过浏览器订阅推特 Web3 KOL 动态与行业情报](./Twitter/blockexpress-installation-guide-twitter-web3-kol-tracking.md) — 2024-05-24
