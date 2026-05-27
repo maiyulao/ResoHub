@@ -1073,6 +1073,7 @@
 - [TUMCC中文语料库：揭秘Telegram地下市场的多维数据分析与语言特征研究](./GitHub项目/tumcc-telegram-underground-market-analysis.md) — 2023-08-26
 - [易笺：支持百兆级大文本秒开的在线TXT阅读器](./GitHub项目/yijian-large-txt-online-reader.md) — 2023-08-25
 - [腾讯开源 GFPGAN：基于生成对抗网络的 AI 人脸修复实战指南](./GitHub项目/tencent-gfpgan-ai-face-restoration-guide.md) — 2023-08-25
+- [想要快速搭建中文NLP项目却苦于找不到可靠的数据集和工具？试试 funNLP 资源库](./GitHub项目/funnlp-chinese-nlp-datasets-tools.md) — 2023-08-22
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
