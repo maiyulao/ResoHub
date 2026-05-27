@@ -5755,6 +5755,7 @@
 - [2022年度高分影剧指南：精选豆瓣口碑佳作及其资源获取路径](./实战指南/best-movies-shows-2022-douban-guide.md) — 2023-08-22
 - [背高中英语3500词总觉得缺资料？这份31.6GB的超全资源库帮你彻底解决](./实战指南/high-school-english-3500-words-resource-library.md) — 2023-08-21
 - [高效学习英语：TED-Ed 700集精选资源获取与使用指南](./实战指南/ted-ed-700-lessons-english-learning-guide.md) — 2023-08-20
+- [如何高效下载并整理289部经典影星电影合集（1.16TB）](./实战指南/download-and-organize-classic-movie-collection.md) — 2023-08-17
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
