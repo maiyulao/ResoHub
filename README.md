@@ -5943,6 +5943,7 @@
 - [EnglishXYZ：YouTube 双语字幕与划词翻译插件安装及使用指南](./效率工具/englishxyz-youtube-bilingual-subtitles-guide.md) — 2023-08-30
 - [如何使用 YouTube Dubbing 插件实现视频字幕翻译与实时中文配音](./效率工具/youtube-dubbing-translation-and-voiceover.md) — 2023-08-28
 - [高效获取微软必应奖励：自动化刷分工具实现全自动积分累积](./效率工具/automate-microsoft-bing-rewards-points.md) — 2023-08-06
+- [想找回 2015 年那种简洁的推特界面？试试用 Old Twitter Layout 恢复经典布局](./效率工具/restore-old-twitter-layout-2015.md) — 2023-08-02
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
