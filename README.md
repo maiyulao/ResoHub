@@ -756,6 +756,7 @@
 - [Magnet Robot v1.0.9：磁力检索机器人更新要点](./Android应用/magnet-robot-v1-0-9-update-highlights.md) — 2023-08-16
 - [想在一部软件里看遍全网影视资源？试试集成 150 多个站点的龙门视频聚合 APP](./Android应用/longmen-video-aggregator-app.md) — 2023-08-09
 - [DaMaiHelper：大麦网抢票效率提升工具及自动化辅助指南](./Android应用/damaihelper-ticket-automation-guide.md) — 2023-08-06
+- [想用彩云天气Pro却在犹豫付费？现在可以通过限免渠道免费领取30天SVIP](./Android应用/caiyun-weather-pro-free-svip.md) — 2023-08-03
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
