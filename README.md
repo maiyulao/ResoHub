@@ -3349,6 +3349,7 @@
 - [阿朱学习资料获取与整理全流程指南](./大人学习课程/azhu-learning-materials-guide.md) — 2023-10-25
 - [新婚生活实操指南：成年人必备的婚姻知识科普](./大人学习课程/marriage-guide-for-newlyweds.md) — 2023-10-03
 - [新婚生活实操指南：从心态建设到矛盾化解的进阶攻略（修订版）](./大人学习课程/newlywed-life-guide-mindset-and-conflict-resolution.md) — 2023-09-20
+- [男性专项体能训练指南：通过针对性强化练习，根治核心力量不足与功能性障碍](./大人学习课程/mens-strength-and-conditioning-guide.md) — 2023-09-03
 
 ### 实战指南
 - [视频号电商全链路实战教程：含起号流程、微信豆投放及ROAS优化方案](./practical-guides/channels-ecommerce-full-guide-growth-ads-roas.md) — 2026-01-12
