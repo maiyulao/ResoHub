@@ -1114,6 +1114,7 @@
 - [想在业余时间通过技术变现却担心影响主业？程序员构建精益副业的实操指南](./GitHub项目/lean-side-hustle-guide-for-developers.md) — 2023-07-15
 - [Roop开源视频换脸工具：安装部署指南与环境配置要点](./GitHub项目/roop-video-face-swap-installation-guide.md) — 2023-07-14
 - [AI 工程师面试全攻略：深度学习 500 题知识图谱与实战解析](./GitHub项目/ai-engineer-interview-deep-learning-guide.md) — 2023-07-13
+- [搭建彩虹外链网盘：实现开源大容量云存储与自定义文件外链的步骤指南](./GitHub项目/setup-rainbow-cloud-storage-open-source-file-hosting.md) — 2023-07-10
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
