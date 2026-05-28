@@ -3362,6 +3362,7 @@
 - [免服务器部署：实现阿里云盘每日自动签到的操作指南](./创意工具/aliyun-drive-auto-checkin-guide.md) — 2023-07-11
 - [代码之外：程序员的健康管理与长寿实践指南](./创意工具/programmers-health-and-longevity-guide.md) — 2023-07-10
 - [如何使用聊天图在线制作仿真对话截图：全流程操作指南](./创意工具/how-to-create-fake-chat-screenshots-online-guide.md) — 2023-07-10
+- [英文原版编程电子书免费下载：适用环境与获取路径指南](./创意工具/free-english-programming-ebooks-download-guide.md) — 2023-07-10
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
