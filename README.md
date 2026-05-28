@@ -6116,6 +6116,7 @@
 - [iOS 17 原装壁纸高清原图下载：支持全系列设备适配及安装指南](./实战指南/ios-17-stock-wallpapers-download.md) — 2023-06-06
 - [2023届高考全科复习资料集：含全套电子版及适用版本说明](./实战指南/2023-gaokao-review-materials-collection.md) — 2023-06-05
 - [2TB 极清 4K 原盘纪录片资源集：分门类高清存档指南](./实战指南/2tb-4k-uhd-documentary-archive-guide.md) — 2023-06-02
+- [掌握算法与数据结构底层逻辑：从核心体系构建到实战应用进阶](./实战指南/algorithms-data-structures-core-logic-and-practice.md) — 2023-06-01
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
