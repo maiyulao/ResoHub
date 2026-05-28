@@ -3451,6 +3451,7 @@
 - [如何快速将碎片想法转化为结构化思维导图？试试 TreeMind AI 树图及其百万级模板库](./创意工具/treemind-ai-mind-map-templates-structured-thinking.md) — 2023-06-20
 - [拾音人：高清音乐MV免费下载资源站](./创意工具/shiyinren-hd-music-mv-download.md) — 2023-06-20
 - [好趣网：集成 2000 余路海内外高清电视直播源的在线观看指南](./创意工具/haoqu-iptv-live-tv-guide.md) — 2023-06-20
+- [DownloadsMasterBot：支持多平台音视频提取的Telegram下载机器人及使用指南](./创意工具/downloadsmasterbot-telegram-downloader-guide.md) — 2023-06-19
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
