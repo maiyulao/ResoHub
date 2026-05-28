@@ -6142,6 +6142,7 @@
 - [Vue 全家桶开发实战：从环境搭建到项目部署的完整操作指南](./实战指南/vue-ecosystem-development-guide.md) — 2023-06-01
 - [AI绘画全流程实战指南：从工具上手到商业作品产出的进阶路径](./实战指南/ai-painting-complete-guide-to-commercial-works.md) — 2023-06-01
 - [50GB车机专用抖音热门MV合集：高清MP4格式，适配车载播放，涵盖多首年度爆火神曲](./实战指南/50gb-car-douyin-mv-collection-hd-mp4.md) — 2023-06-01
+- [想听AI版孙燕姿怎么搜？这里有一份完整的曲目合集](./实战指南/ai-sun-yanzi-song-list.md) — 2023-05-28
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
