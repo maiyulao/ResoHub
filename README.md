@@ -6057,6 +6057,7 @@
 - [移动云盘用户月度权益：微信及支付宝2元立减金领取指南](./羊毛/mobile-cloud-monthly-benefits-wechat-alipay-coupon.md) — 2023-08-04
 - [广东移动3GB短期流量领取指南：操作步骤与有效期说明](./羊毛/guangdong-mobile-3gb-data-guide.md) — 2023-07-21
 - [广东云闪付联动微信小程序：每周领取1-5元随机立减券（满10元可用）](./羊毛/guangdong-yunshanfu-wechat-coupon.md) — 2023-07-17
+- [爱企查VIP年费会员免费获取指南](./羊毛/aikicha-vip-free-guide.md) — 2023-07-17
 
 ### 音乐
 - [周杰伦《圣诞星》2023新曲：FLAC无损音质下载指南](./音乐/jay-chou-christmas-star-2023-flac-download.md) — 2023-12-21
