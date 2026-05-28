@@ -3543,6 +3543,7 @@
 - [寻找无需注册且不限速的大容量云存储？试试匿名网盘 Userscloud](./创意工具/userscloud-anonymous-cloud-storage-no-registration.md) — 2023-05-24
 - [高效图片水印在线添加方案：一键批量标记，支持自定义样式与快速导出](./创意工具/efficient-online-image-watermark-tool.md) — 2023-05-23
 - [ACG漫音社：高品质动漫无损音乐资源获取指南](./创意工具/acg-anime-lossless-music-guide.md) — 2023-05-23
+- [ONSOO：纯净的视觉艺术学习平台，通过精选图库与极简界面提升审美实践能力](./创意工具/onsoo-visual-art-learning-platform.md) — 2023-05-23
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
