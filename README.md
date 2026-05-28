@@ -3349,6 +3349,7 @@
 - [Cloudflare WARP 自选 IP 配置指南：实现海外高速无限制流量访问（含适用环境与避坑要点）](./创意工具/cloudflare-warp-custom-ip-guide.md) — 2023-07-15
 - [国内招投标信息查询平台与效率工具汇总：适用环境及获取指南](./创意工具/china-bidding-platforms-and-tools-guide.md) — 2023-07-14
 - [AGI 进阶指南：构建结构化 AI 知识库，从基础理论到前沿实践的系统路径](./创意工具/agi-guide-structured-ai-knowledge-base.md) — 2023-07-13
+- [想在一个界面看所有直播平台？长风网络聚合工具帮你实现高效同步观看](./创意工具/changfeng-network-live-streaming-aggregator.md) — 2023-07-13
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
