@@ -3520,6 +3520,7 @@
 - [面对海量AI工具不知如何选择？AiMapPro 为你梳理全球创意实用工具导航图谱](./创意工具/aimappro-ai-tools-navigation-map.md) — 2023-05-30
 - [麻豆壹佰：高颜值模特兼职约拍与买家秀服务平台](./创意工具/madou100-model-photography-service.md) — 2023-05-30
 - [想把精心规划的自驾路线分享给他人？试试这个路书分享平台](./创意工具/road-trip-itinerary-sharing-platform.md) — 2023-05-30
+- [想学外语却不想花钱买课？试试支持50多种语言的免费在线平台Loecsen](./创意工具/learn-languages-free-with-loecsen.md) — 2023-05-29
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
