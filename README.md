@@ -3497,6 +3497,7 @@
 - [如何访问暗网：常用 onion 站点导航与连接步骤指南](./创意工具/how-to-access-darkweb-onion-sites-guide.md) — 2023-06-05
 - [兄弟盘：支持多平台云盘资源的在线搜索与索引工具](./创意工具/xiongdi-pan-cloud-search-tool.md) — 2023-06-05
 - [AIGC X AI生成内容检测工具：支持在线实测，识别率90%以上及适用场景说明](./创意工具/aigc-ai-content-detection-tools.md) — 2023-06-03
+- [DataFit ChatGPT 提示词社区：实用 Prompt 资源分享与实战指南](./创意工具/datafit-chatgpt-prompt-community-guide.md) — 2023-06-03
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
