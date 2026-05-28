@@ -766,6 +766,7 @@
 - [跨平台高清影视播放器：支持 Android 与 iOS 的免费追剧方案](./Android应用/cross-platform-hd-video-player-android-ios.md) — 2023-07-16
 - [大饼AI变声器使用指南：实现游戏与App实时语音转换的步骤](./Android应用/dabing-ai-voice-changer-guide.md) — 2023-07-14
 - [想免费体验 GPT-4.0 但被额度限制困扰？试试这款解锁版水仙GPT](./Android应用/free-gpt-4-unlocked-narcissus-gpt.md) — 2023-07-05
+- [想体验 GPT-4 的强大能力却不想付费？试试这款集聊天与 AI 绘画于一体的免费机器人](./Android应用/free-gpt4-ai-chatbot-and-image-generator.md) — 2023-07-03
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
