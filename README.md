@@ -5951,6 +5951,7 @@
 - [收藏李玟同名专辑及配套MTV合集的完整步骤](./实战指南/collect-coqui-self-titled-album-mtv-collection-guide.md) — 2023-07-11
 - [男同学指导丛书 PDF 下载：适用场景及阅读注意事项](./实战指南/male-classmate-guide-pdf-download.md) — 2023-07-10
 - [沉浸式虚拟现实电影精选：从视觉奇观到叙事创新，多维度解析VR电影的艺术实践与观看体验](./实战指南/immersive-vr-movies-art-and-experience.md) — 2023-07-09
+- [高效获取无删减及海外禁播影视资源的实操指南](./实战指南/guide-to-get-uncensored-and-overseas-movies.md) — 2023-07-08
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
