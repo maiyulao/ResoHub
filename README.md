@@ -3441,6 +3441,7 @@
 - [AI推文分析指南：通过智能解析挖掘社交媒体洞察，实现多维度内容分析与趋势追踪](./创意工具/ai-tweet-analysis-guide.md) — 2023-06-23
 - [美区 Apple ID 共享账号：含 Shadowrocket 已购项目指南](./创意工具/us-apple-id-shared-account-shadowrocket-guide.md) — 2023-06-23
 - [高效提取YouTube视频封面原图：视觉族提供一键式高清缩略图下载方案，支持多种分辨率选择与批量导出](./创意工具/download-youtube-video-thumbnails-high-resolution.md) — 2023-06-23
+- [游子视频：纯净无广告的高清在线影视资源站](./创意工具/youzi-video-ad-free-hd-movies.md) — 2023-06-22
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
