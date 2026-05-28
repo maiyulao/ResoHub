@@ -3473,6 +3473,7 @@
 - [如何使用 IMGBIN 获取免费高清 PNG 免抠素材：操作全流程指南](./创意工具/how-to-use-imgbin-for-free-png-images.md) — 2023-06-12
 - [想找资源全且无广告的成人漫画阅读站？试试这个纯净的学习平台](./创意工具/best-ad-free-adult-manga-reading-site.md) — 2023-06-12
 - [酷安大学自习室：在线网盘课程资源汇总（含获取路径与使用环境说明）](./创意工具/coolan-university-cloud-drive-courses.md) — 2023-06-12
+- [Rico 极简网页版待办清单：开源免费获取及浏览器环境部署指南](./创意工具/rico-minimalist-todo-list-guide.md) — 2023-06-12
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
