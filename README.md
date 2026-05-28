@@ -3366,6 +3366,7 @@
 - [AI 艺术二维码定制指南：从提示词优化到视觉效果实现](./创意工具/ai-art-qr-code-guide-2.md) — 2023-07-09
 - [Uncrop：利用AI实现图像画幅智能扩展与内容补全](./创意工具/uncrop-ai-image-expansion-and-outpainting.md) — 2023-07-08
 - [BusinessAI 实测：无需魔法直接访问的 AI 对话与绘画集成平台](./创意工具/businessai-review-integrated-ai-chat-painting-platform.md) — 2023-07-08
+- [作业帮智能计算器：支持步骤解析的在线数学运算工具](./创意工具/zuoyebang-smart-calculator-math-solver.md) — 2023-07-08
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
