@@ -3479,6 +3479,7 @@
 - [精选160个高质量免费电子书资源站汇总](./创意工具/160-best-free-ebook-resources.md) — 2023-06-11
 - [心晴网心理学入门书单：全站免费在线阅读指南及使用注意事项](./创意工具/psychology-beginner-reading-list-guide.md) — 2023-06-10
 - [兔小乖字帖：支持自定义生成与打印的在线练字工具](./创意工具/tuxiaoguai-copybook-online-tool.md) — 2023-06-10
+- [AI商业化落地：16个可复制的变现实战方案](./创意工具/ai-commercialization-monetization-strategies.md) — 2023-06-10
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
