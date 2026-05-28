@@ -3541,6 +3541,7 @@
 - [纯净版图像学习资源站：专注高质量视觉素材，分门别类解析构图与色彩技巧](./创意工具/high-quality-image-learning-resources.md) — 2023-05-25
 - [如何使用 ChatPluginTop 搜索并安装 ChatGPT 插件：操作指南](./创意工具/how-to-install-chatgpt-plugins-with-chatplugintop.md) — 2023-05-24
 - [寻找无需注册且不限速的大容量云存储？试试匿名网盘 Userscloud](./创意工具/userscloud-anonymous-cloud-storage-no-registration.md) — 2023-05-24
+- [高效图片水印在线添加方案：一键批量标记，支持自定义样式与快速导出](./创意工具/efficient-online-image-watermark-tool.md) — 2023-05-23
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
