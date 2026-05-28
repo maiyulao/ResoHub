@@ -3445,6 +3445,7 @@
 - [游子视频：纯净无广告的高清在线影视资源站](./创意工具/youzi-video-ad-free-hd-movies.md) — 2023-06-22
 - [ReviewGPT：支持评分与重写功能的AI报告写作助手](./创意工具/reviewgpt-ai-report-writing-assistant.md) — 2023-06-22
 - [如何使用在线工具自定义PDF压缩范围：具体操作步骤详解](./创意工具/custom-pdf-compression-range-guide.md) — 2023-06-22
+- [写不出复杂的Excel公式？试试用AI将自然语言直接转换为函数指令](./创意工具/ai-excel-formula-generator.md) — 2023-06-21
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
