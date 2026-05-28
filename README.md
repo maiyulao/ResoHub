@@ -6278,6 +6278,7 @@
 - [ZipZap：集成ChatGPT的免费AI助手，实现划词翻译与高效文本处理](./效率工具/zipzap-free-chatgpt-ai-assistant.md) — 2023-06-02
 - [KeepChatGPT：通过浏览器插件有效解决 ChatGPT 访问报错与连接中断问题](./效率工具/keepchatgpt-fix-connection-errors-browser-extension.md) — 2023-05-28
 - [高效解锁视频学习平台VIP权限的脚本实现方案](./效率工具/video-learning-platform-vip-script-solution.md) — 2023-05-27
+- [Twemex 浏览器插件安装指南：实现 Twitter 侧边栏快速搜索与热门内容筛选](./效率工具/twemex-browser-extension-installation-guide.md) — 2023-05-25
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
