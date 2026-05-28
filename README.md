@@ -1327,6 +1327,7 @@
 - [WeChatTweak：解锁 macOS 微信多开与消息撤回拦截功能](./Mac软件/wechattweak-macos-wechat-multi-instance-message-intercept.md) — 2023-07-12
 - [Final2x：支持自定义尺寸的开源图片无损放大指南](./Mac软件/final2x-open-source-image-upscaler-guide.md) — 2023-07-04
 - [想在 Mac 上用 Stable Diffusion 却被复杂的部署环境挡住？DiffusionBee 提供了无需配置的开源安装方案](./Mac软件/diffusionbee-stable-diffusion-mac-easy-install.md) — 2023-07-03
+- [Windows端DragGAN离线安装指南：从解压到运行的完整步骤](./Mac软件/windows-draggan-offline-installation-guide.md) — 2023-07-01
 
 ### Twitter
 - [BlockExpress 插件安装指南：通过浏览器订阅推特 Web3 KOL 动态与行业情报](./Twitter/blockexpress-installation-guide-twitter-web3-kol-tracking.md) — 2024-05-24
