@@ -3351,6 +3351,7 @@
 - [AGI 进阶指南：构建结构化 AI 知识库，从基础理论到前沿实践的系统路径](./创意工具/agi-guide-structured-ai-knowledge-base.md) — 2023-07-13
 - [想在一个界面看所有直播平台？长风网络聚合工具帮你实现高效同步观看](./创意工具/changfeng-network-live-streaming-aggregator.md) — 2023-07-13
 - [微信公众号封面图在线提取工具：支持多种环境下快速获取及使用指南](./创意工具/wechat-cover-image-extractor.md) — 2023-07-13
+- [支持千余站点的 YouTube 4K 高清视频下载方案](./创意工具/youtube-4k-video-downloader-solution-multi-site.md) — 2023-07-12
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
