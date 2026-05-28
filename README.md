@@ -6283,6 +6283,7 @@
 
 ### 福利
 - [想免费试用美区Apple娱乐服务？Apple Card用户如何领取五大订阅福利全指南](./福利/apple-card-free-subscription-guide.md) — 2025-04-20
+- [某字母站7万+视频学习账号共享：获取途径及使用注意事项](./福利/shared-video-learning-accounts-guide.md) — 2023-05-27
 
 ### 编程开发
 - [高通过率简历模板库：涵盖多行业实战范本，提供排版指南与内容优化建议](./编程开发/high-pass-rate-resume-templates-library.md) — 2024-02-05
