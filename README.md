@@ -3401,6 +3401,7 @@
 - [如何使用 MoyuDuck 在线随机获取学习参考图：免费操作指南](./创意工具/moyuduck-random-study-images-guide.md) — 2023-07-02
 - [多摸鱼：聚合全网资讯的统一浏览平台，实现高效信息采集与一站式阅读](./创意工具/mouyu-aggregated-information-platform.md) — 2023-07-02
 - [艺码：通过AI生成艺术二维码，将视觉美学与功能入口深度融合](./创意工具/ai-artistic-qr-code-visual-aesthetics.md) — 2023-07-02
+- [剑桥大学开源口语训练机器人：Speak &amp; Improve 使用指南](./创意工具/speak-improve-cambridge-guide.md) — 2023-07-01
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
