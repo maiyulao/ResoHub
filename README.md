@@ -3447,6 +3447,7 @@
 - [如何使用在线工具自定义PDF压缩范围：具体操作步骤详解](./创意工具/custom-pdf-compression-range-guide.md) — 2023-06-22
 - [写不出复杂的Excel公式？试试用AI将自然语言直接转换为函数指令](./创意工具/ai-excel-formula-generator.md) — 2023-06-21
 - [如何将枯燥的黑白二维码转化为AI艺术画？尝试用 ArtQR 智绘二维码实现一键生成](./创意工具/artqr-ai-art-qr-code-generator.md) — 2023-06-21
+- [如何快速将碎片想法转化为结构化思维导图？试试 TreeMind AI 树图及其百万级模板库](./创意工具/treemind-ai-mind-map-templates-structured-thinking.md) — 2023-06-20
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
