@@ -5928,6 +5928,7 @@
 - [无人直播全流程实操指南：通过工具配置与素材搭建实现自动化播流](./实战指南/unmanned-livestreaming-automation-guide.md) — 2023-07-18
 - [港产灵异电影精选指南：核心经典作集结，分主题剖析港式恐怖美学](./实战指南/best-hong-kong-horror-movies-guide.md) — 2023-07-15
 - [C语言全栈知识图谱：从底层原理到实战应用指南](./实战指南/c-language-fullstack-knowledge-graph.md) — 2023-07-14
+- [教资面试准备没头绪？这份2023年通用资源礼包帮你快速上手](./实战指南/teacher-certification-interview-resources-2023.md) — 2023-07-13
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
