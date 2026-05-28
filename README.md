@@ -1449,6 +1449,7 @@
 - [LKY_OfficeTools 使用指南：三步完成开源 Office 安装与激活自动化部署](./Windows软件/lky-officetools-installation-activation-guide.md) — 2023-07-13
 - [WeChat Article：高效抓取微信公众号文章的自动化工具，支持结构化数据提取与批量采集](./Windows软件/wechat-article-automation-scraper.md) — 2023-07-06
 - [曦月写真批量下载工具（生日版）操作指南：从安装到一键抓取的完整步骤](./Windows软件/xiyue-photo-batch-downloader-guide.md) — 2023-06-30
+- [如何使用爱小助导出微信公众号文章搜索结果：操作全流程](./Windows软件/export-wechat-articles-via-aixiaozhu.md) — 2023-06-30
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
