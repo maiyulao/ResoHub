@@ -3514,6 +3514,7 @@
 - [Owen TV 影视直播源：支持长期更新的免费稳定接口及配置指南](./创意工具/owen-tv-live-stream-guide.md) — 2023-05-31
 - [火山写作 Writingo：字节跳动推出的中英文 AI 创作工具](./创意工具/writingo-bytedance-ai-writing-tool.md) — 2023-05-31
 - [无需科学上网的ChatGPT免费镜像站汇总：访问方法与使用注意事项](./创意工具/free-chatgpt-mirror-sites-guide.md) — 2023-05-30
+- [DisPDF-AI：基于PDF文档的学术论文分析与总结工具（部署指南与使用要点）](./创意工具/dispdf-ai-academic-paper-analysis-guide.md) — 2023-05-30
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
