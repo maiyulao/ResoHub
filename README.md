@@ -1350,6 +1350,7 @@
 - [Windows端DragGAN离线安装指南：从解压到运行的完整步骤](./Mac软件/windows-draggan-offline-installation-guide.md) — 2023-07-01
 - [ChatALL：支持十余款主流大模型的统一对话客户端](./Mac软件/chatall-unified-ai-chatbot-client.md) — 2023-06-24
 - [高效批量下载抖音与TikTok无水印视频的操作指南](./Mac软件/batch-download-tiktok-douyin-no-watermark.md) — 2023-06-22
+- [EasySpider开源可视化爬虫：无代码配置指南与部署环境说明](./Mac软件/easyspider-no-code-crawler-guide-deployment.md) — 2023-05-31
 
 ### Twitter
 - [BlockExpress 插件安装指南：通过浏览器订阅推特 Web3 KOL 动态与行业情报](./Twitter/blockexpress-installation-guide-twitter-web3-kol-tracking.md) — 2024-05-24
