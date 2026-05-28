@@ -3359,6 +3359,7 @@
 - [Netflav 引入 AI 智能搜片：通过语义理解精准定位学习资源，大幅提升视频检索效率](./创意工具/netflav-ai-semantic-video-search.md) — 2023-07-11
 - [三步实现抖音全类型短视频无水印解析与下载（含捷径配置指南）](./创意工具/douyin-video-downloader-guide.md) — 2023-07-11
 - [免服务器部署：实现阿里云盘每日自动签到的操作指南](./创意工具/aliyun-drive-auto-checkin-guide.md) — 2023-07-11
+- [代码之外：程序员的健康管理与长寿实践指南](./创意工具/programmers-health-and-longevity-guide.md) — 2023-07-10
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
