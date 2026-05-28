@@ -3372,6 +3372,7 @@
 - [作业帮智能计算器：支持步骤解析的在线数学运算工具](./创意工具/zuoyebang-smart-calculator-math-solver.md) — 2023-07-08
 - [AWS 免费一年实例部署 ChatGPT 服务的全流程指南](./创意工具/aws-free-tier-chatgpt-deployment-guide.md) — 2023-07-07
 - [灵鹿 AI：高效能免费智能写作工具实测与指南](./创意工具/linglu-ai-writing-tool-review-guide.md) — 2023-07-07
+- [AI驱动的学术论文自动化生成方案：利用大数据分析实现高效撰写与结构优化](./创意工具/ai-powered-academic-paper-automation-big-data.md) — 2023-07-07
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
