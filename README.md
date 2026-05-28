@@ -3529,6 +3529,7 @@
 - [快文CopyDone：基于AI的营销文案高效创作工具与智能生成指南](./创意工具/copydone-ai-marketing-copywriting-tool-guide.md) — 2023-05-29
 - [想在 ChatGPT 中快速找到好用的插件？试试这款 Plugin Overview 搜索工具](./创意工具/chatgpt-plugin-overview-search-tool.md) — 2023-05-29
 - [LogoAi：高效构建品牌视觉识别，通过AI驱动的自动化流程快速生成专业英文LOGO](./创意工具/logoai-ai-powered-professional-logo-generator.md) — 2023-05-28
+- [灵感PPT：通过AI一键自动化生成演示文稿，实现从大纲构建到视觉排版的快速产出](./创意工具/ai-automated-ppt-generation.md) — 2023-05-28
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
