@@ -6034,6 +6034,7 @@
 - [想找回 2015 年那种简洁的推特界面？试试用 Old Twitter Layout 恢复经典布局](./效率工具/restore-old-twitter-layout-2015.md) — 2023-08-02
 - [CookieCloud：基于自建服务器实现多设备 Cookie 实时同步与免登录迁移](./效率工具/cookiecloud-self-hosted-cookie-sync-migration.md) — 2023-07-29
 - [想把 X 还原成经典蓝色小鸟？这款浏览器插件能帮你找回推特原版 Logo](./效率工具/restore-twitter-classic-blue-bird-logo-extension.md) — 2023-07-26
+- [Free Canvas v4.1.1 下载：针对标小智与标智客海报Logo的去水印工具及使用指南](./效率工具/free-canvas-v411-download-watermark-remover-guide.md) — 2023-07-14
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
