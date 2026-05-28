@@ -3457,6 +3457,7 @@
 - [外贸实操知识库：从底层逻辑到业务增长的全流程指南-Lisa聊外贸](./创意工具/foreign-trade-knowledge-base-growth-guide.md) — 2023-06-18
 - [想免费体验 ChatGPT 但没有账号或支付手段？试试 JustChatGPT 这个公益站点](./创意工具/free-chatgpt-alternative-justchatgpt.md) — 2023-06-18
 - [影猫の仓库：一站式影视资源聚合搜索，通过高效索引实现全网快速定位](./创意工具/shadowcat-movie-resource-search.md) — 2023-06-17
+- [从零开始的编程自学路径：学习路线图与核心资源集锦](./创意工具/programming-self-study-roadmap-and-resources.md) — 2023-06-17
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
