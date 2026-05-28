@@ -6039,6 +6039,7 @@
 - [CTF Web 攻防实战指南：从基础入门到进阶精通](./实战指南/ctf-web-attack-defense-guide.md) — 2023-06-29
 - [十分绘画零基础指南：从基础技巧到实战创作的阶梯式进阶路径](./实战指南/drawing-guide-for-beginners.md) — 2023-06-28
 - [2023高考志愿填报全攻略：专业分析、选校逻辑与避坑指南](./实战指南/2023-gaokao-guide-major-university-tips.md) — 2023-06-26
+- [学而思五年级网校课程解析：培优课学习路径与实操建议](./实战指南/xueersi-grade5-online-course-guide.md) — 2023-06-22
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
