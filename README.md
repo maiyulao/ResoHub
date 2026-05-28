@@ -3356,6 +3356,7 @@
 - [想快速保存 Instagram 的图片和视频？试试这款高效的下载捷径 1.7](./创意工具/download-instagram-photos-videos-shortcut.md) — 2023-07-12
 - [SQL Genius 使用指南：AI 驱动的数据库 SQL 语句生成与解析工具](./创意工具/sql-genius-guide-ai-sql-generator.md) — 2023-07-12
 - [ChatGPT 共享账号获取指南与使用要点](./创意工具/chatgpt-shared-account-guide-2.md) — 2023-07-12
+- [Netflav 引入 AI 智能搜片：通过语义理解精准定位学习资源，大幅提升视频检索效率](./创意工具/netflav-ai-semantic-video-search.md) — 2023-07-11
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
