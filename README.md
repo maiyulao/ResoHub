@@ -3339,6 +3339,7 @@
 - [稿定AI在线抠图：实现自动化背景移除的免费工具指南](./创意工具/gaoding-ai-background-remover-guide.md) — 2023-07-17
 - [知乎盐选文章免费阅读指南：嘚巴德使用方法与要点](./创意工具/zhihu-yansuan-free-reading-guide-deba-de.md) — 2023-07-16
 - [Numbeo 全球城市生活成本实时对比分析工具](./创意工具/numbeo-cost-of-living-comparison-tool.md) — 2023-07-16
+- [如何通过直链提取 API 实现百度网盘文件不限速下载：操作指南](./创意工具/baidu-netdisk-direct-link-api-unlimited-speed-download.md) — 2023-07-15
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
