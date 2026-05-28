@@ -6128,6 +6128,7 @@
 - [Free Canvas v4.1.1 下载：针对标小智与标智客海报Logo的去水印工具及使用指南](./效率工具/free-canvas-v411-download-watermark-remover-guide.md) — 2023-07-14
 - [PureTwitter 使用指南：高效过滤推文与屏蔽违规账号](./效率工具/puretwitter-guide-filter-tweets-block-accounts.md) — 2023-07-09
 - [虚假截图助手 2.0：自定义网页界面模拟与伪造工具](./效率工具/fake-screenshot-helper-2-web-mockup-tool.md) — 2023-07-09
+- [如何安装并配置推特屏蔽色情回复插件：详细操作指南](./效率工具/install-configure-twitter-block-nsfw-replies-guide.md) — 2023-06-28
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
