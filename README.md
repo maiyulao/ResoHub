@@ -6097,6 +6097,7 @@
 - [Mitch Leeuwe绘画教学全指南：从电子书理论到视频实操的学习步骤](./实战指南/mitch-leeuwe-painting-guide-learning-steps.md) — 2023-06-13
 - [公务员与事业单位考编资料下载：涵盖适用岗位、备考重点及报名注意事项](./实战指南/civil-service-exam-materials-download.md) — 2023-06-13
 - [工程施工进度计划：100套实战应用模板与编制指南](./实战指南/construction-schedule-templates-and-guide.md) — 2023-06-06
+- [全域学科中考真题库：覆盖多省市历年考卷，分维度解析出题趋势与知识点分布](./实战指南/comprehensive-zhongkao-exam-question-bank.md) — 2023-06-06
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
