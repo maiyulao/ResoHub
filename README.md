@@ -3527,6 +3527,7 @@
 - [JRS低调看球：免费体育赛事直播平台指南](./创意工具/free-sports-streaming-guide-jrs.md) — 2023-05-29
 - [ChatGPT 入门实操手册：从账号注册到高效指令调优指南](./创意工具/chatgpt-beginner-guide-registration-and-prompt-optimization.md) — 2023-05-29
 - [快文CopyDone：基于AI的营销文案高效创作工具与智能生成指南](./创意工具/copydone-ai-marketing-copywriting-tool-guide.md) — 2023-05-29
+- [想在 ChatGPT 中快速找到好用的插件？试试这款 Plugin Overview 搜索工具](./创意工具/chatgpt-plugin-overview-search-tool.md) — 2023-05-29
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
