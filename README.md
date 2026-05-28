@@ -3494,6 +3494,7 @@
 - [Campus FM：全球大学广播电台在线收听指南](./创意工具/campus-fm-online-listening-guide.md) — 2023-06-06
 - [购物党：电商历史价格走势查询工具，识别虚假降价避坑指南](./创意工具/ecommerce-price-tracker-guide.md) — 2023-06-05
 - [如何访问暗网：常用 onion 站点导航与连接步骤指南](./创意工具/how-to-access-darkweb-onion-sites-guide.md) — 2023-06-05
+- [兄弟盘：支持多平台云盘资源的在线搜索与索引工具](./创意工具/xiongdi-pan-cloud-search-tool.md) — 2023-06-05
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
