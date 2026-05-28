@@ -767,6 +767,7 @@
 - [大饼AI变声器使用指南：实现游戏与App实时语音转换的步骤](./Android应用/dabing-ai-voice-changer-guide.md) — 2023-07-14
 - [想免费体验 GPT-4.0 但被额度限制困扰？试试这款解锁版水仙GPT](./Android应用/free-gpt-4-unlocked-narcissus-gpt.md) — 2023-07-05
 - [想体验 GPT-4 的强大能力却不想付费？试试这款集聊天与 AI 绘画于一体的免费机器人](./Android应用/free-gpt4-ai-chatbot-and-image-generator.md) — 2023-07-03
+- [找不到 Z-Library 官网入口？教你如何安装支持多平台的官方客户端](./Android应用/how-to-install-z-library-official-client.md) — 2023-06-27
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
