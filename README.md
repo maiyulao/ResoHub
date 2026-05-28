@@ -3546,6 +3546,7 @@
 - [ONSOO：纯净的视觉艺术学习平台，通过精选图库与极简界面提升审美实践能力](./创意工具/onsoo-visual-art-learning-platform.md) — 2023-05-23
 - [月光宝盒影视会员接口：实现全网VIP资源高效解析，支持多平台权限绕过与API快速集成](./创意工具/moonlight-box-vip-api-integration.md) — 2023-05-23
 - [通过 API 接口查询 QQ 号码 IP 归属地的操作步骤](./创意工具/query-qq-number-ip-location-api.md) — 2023-05-23
+- [跨平台安装 Stable Diffusion：Mac 与 Windows 环境部署全流程指南](./创意工具/install-stable-diffusion-mac-windows-guide.md) — 2023-05-23
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
