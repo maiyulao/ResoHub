@@ -1131,6 +1131,7 @@
 - [OpenResume：支持简历自动生成与结构化解析的开源工具集](./GitHub项目/openresume-open-source-resume-generator-parser.md) — 2023-06-30
 - [在国内无法直接访问 Bing AI？尝试用 Go 搭建一个免登录的代理演示站](./GitHub项目/bing-ai-proxy-with-go.md) — 2023-06-19
 - [想在本地部署AI聊天与绘画工具？试试这个集成化开源AI工具箱](./GitHub项目/local-open-source-ai-toolbox-chat-drawing.md) — 2023-06-19
+- [想在网页端同时调用 ChatGPT 和 Midjourney 却不想付费？教你如何一键部署私人集成应用](./GitHub项目/deploy-private-chatgpt-midjourney-integration.md) — 2023-06-10
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
