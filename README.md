@@ -3533,6 +3533,7 @@
 - [高效检索海量电子书：没用的Shu聚合搜索工具功能详解与使用指南](./创意工具/meiyongdeshu-ebook-search-guide.md) — 2023-05-27
 - [AI 正则表达式生成器：支持自然语言转正则公式及多语言环境适配指南](./创意工具/ai-regex-generator-natural-language-to-regex-guide.md) — 2023-05-27
 - [iOS 应用安装包（IPA）资源汇总与下载指南](./创意工具/ios-ipa-apps-download-guide.md) — 2023-05-27
+- [想了解全球各地的制服样式？这个地图资源库帮你把世界制服照片集齐了](./创意工具/global-uniforms-map-resource-library.md) — 2023-05-26
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
