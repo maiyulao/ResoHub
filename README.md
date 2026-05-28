@@ -770,6 +770,7 @@
 - [找不到 Z-Library 官网入口？教你如何安装支持多平台的官方客户端](./Android应用/how-to-install-z-library-official-client.md) — 2023-06-27
 - [海星TV解锁版使用指南：会员频道激活密码 5516](./Android应用/haixing-tv-unlocked-guide-password-5516.md) — 2023-06-25
 - [海外华人想在电视上流畅看国内影视直播？试试星视界TV版](./Android应用/xing-shijie-tv-for-overseas-chinese.md) — 2023-06-24
+- [趣听音乐馆：全平台VIP音乐解锁指南及适用环境说明](./Android应用/quting-music-vip-unlock-guide.md) — 2023-06-14
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
