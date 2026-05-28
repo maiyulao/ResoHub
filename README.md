@@ -3523,6 +3523,7 @@
 - [想学外语却不想花钱买课？试试支持50多种语言的免费在线平台Loecsen](./创意工具/learn-languages-free-with-loecsen.md) — 2023-05-29
 - [如何通过优化提示词让 AI 输出更精准？Prompt Engineering 全方位实操指南](./创意工具/prompt-engineering-guide-for-better-ai-outputs.md) — 2023-05-29
 - [高效识别恶意软件：9款主流检测分析平台评测指南](./创意工具/best-malware-analysis-platforms-review.md) — 2023-05-29
+- [JRS低调看球：免费体育赛事直播平台指南](./创意工具/free-sports-streaming-guide-jrs.md) — 2023-05-29
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
