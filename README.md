@@ -3419,6 +3419,7 @@
 - [AirPano：通过360°全景影像实现全球虚拟旅行](./创意工具/airpano-360-panorama-virtual-travel.md) — 2023-06-29
 - [想在美区 App Store 下载 Shadowrocket 或 Kindle 但没有外币卡？这里有可直接使用的共享 Apple ID 账号](./创意工具/shared-us-apple-id-for-shadowrocket-kindle.md) — 2023-06-28
 - [字母大人自测表（两套）：下载路径、适用场景及使用注意事项](./创意工具/alphabet-adult-self-test-guide.md) — 2023-06-28
+- [ChatMap AI：通过自然语言交互重塑地图搜索，实现从关键词匹配到智能场景导航的跨越](./创意工具/chatmap-ai-natural-language-map-search.md) — 2023-06-28
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
