@@ -3427,6 +3427,7 @@
 - [想要在家庭影院体验纯正的4K蓝光原盘画质？蚂蚁4K为你提供免费的影视资源下载方案](./创意工具/ant-4k-free-bluray-download-guide.md) — 2023-06-26
 - [69书吧：免注册免费小说阅读站，适配多端浏览器且无广告干扰](./创意工具/69shuba-free-novel-reading-site.md) — 2023-06-26
 - [区块链开发全栈资源库：从底层架构到实战框架的综合技术指南](./创意工具/blockchain-fullstack-development-resources-guide.md) — 2023-06-26
+- [国内快速配置 ChatGPT 与 AI 绘画：从环境搭建到实操的 3 个步骤](./创意工具/setup-chatgpt-ai-painting-guide.md) — 2023-06-26
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
