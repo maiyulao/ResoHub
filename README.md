@@ -1471,6 +1471,7 @@
 - [想在视频中快速更换角色面孔？Swapface AI 换脸工具操作指南](./Windows软件/swapface-ai-tutorial.md) — 2023-06-28
 - [高效提取微信公众号内容：支持文章、音视频批量下载的自动化工具指南](./Windows软件/wechat-official-account-content-extractor-guide.md) — 2023-06-23
 - [MagicPods 指南：在 Windows 系统中复现 AirPods 的 iOS 原生交互体验](./Windows软件/magicpods-windows-airpods-ios-experience.md) — 2023-06-09
+- [百度网盘突破限速下载：红尘工具操作指南](./Windows软件/baidu-netdisk-speed-up-hongchen-guide.md) — 2023-06-02
 
 ### 书籍
 - [体制内高效沟通与职场生存指南：高情商处世逻辑拆解](./书籍/efficient-communication-and-survival-guide-in-system.md) — 2025-11-10
