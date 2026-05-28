@@ -1118,6 +1118,7 @@
 - [Rust 原子操作与锁（Atomics and Locks）中文译本：资源获取与环境适配指南](./GitHub项目/rust-atomics-and-locks-chinese-translation-guide.md) — 2023-07-07
 - [Chat2DB 开源安装指南：支持自然语言转 SQL 的 AI 数据库管理工具](./GitHub项目/chat2db-open-source-installation-guide.md) — 2023-07-07
 - [Python 潮流周刊：每周精选趋势资源获取与阅读指南](./GitHub项目/python-weekly-trends-guide.md) — 2023-07-07
+- [主流 iOS 代理工具 App 解锁脚本配置指南（支持 QX/Loon/Surge/Shadowrocket）](./GitHub项目/ios-proxy-app-unlock-script-guide.md) — 2023-07-06
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
