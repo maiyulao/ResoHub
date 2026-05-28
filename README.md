@@ -3388,6 +3388,7 @@
 - [如何使用优品PPT获取精美免费模板：下载与操作全流程指南](./创意工具/how-to-get-free-ppt-templates-guide.md) — 2023-07-05
 - [Stable Diffusion 运行硬件要求：显存门槛与电脑配置选型指南](./创意工具/stable-diffusion-hardware-requirements-vram-guide.md) — 2023-07-04
 - [B站 AI 搜索助手内测申请指南：入口与参与方式](./创意工具/bilibili-ai-search-beta-guide.md) — 2023-07-04
+- [Bilibili封面高清下载方案：通过bilibiliq快速提取原图并支持批量导出](./创意工具/bilibili-cover-hd-download-bilibiliq.md) — 2023-07-04
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
