@@ -6268,6 +6268,7 @@
 - [高效净化 CSDN 浏览体验：通过 Greener 插件彻底拦截广告与登录弹窗](./效率工具/clean-csdn-experience-with-greener-plugin.md) — 2023-06-05
 - [ZipZap：集成ChatGPT的免费AI助手，实现划词翻译与高效文本处理](./效率工具/zipzap-free-chatgpt-ai-assistant.md) — 2023-06-02
 - [KeepChatGPT：通过浏览器插件有效解决 ChatGPT 访问报错与连接中断问题](./效率工具/keepchatgpt-fix-connection-errors-browser-extension.md) — 2023-05-28
+- [高效解锁视频学习平台VIP权限的脚本实现方案](./效率工具/video-learning-platform-vip-script-solution.md) — 2023-05-27
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
