@@ -3461,6 +3461,7 @@
 - [2023年全国各省高考真题及答案解析全集：PDF下载与适用版本说明](./创意工具/2023-china-gaokao-papers-answers-pdf.md) — 2023-06-16
 - [Forefront Chat：免费调用 GPT-4 的 AI 聊天工具（支持多模型切换与环境配置）](./创意工具/forefront-chat-free-gpt4-ai-tool.md) — 2023-06-16
 - [想在网页端快速刷到随机风格的女性短视频？试试 lcc8 在线平台](./创意工具/lcc8-random-female-short-videos-online.md) — 2023-06-16
+- [TikTok 与抖音视频去水印：高效批量在线解析 API 方案](./创意工具/tiktok-douyin-video-watermark-remover-api.md) — 2023-06-16
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
