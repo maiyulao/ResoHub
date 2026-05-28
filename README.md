@@ -774,6 +774,7 @@
 - [微商助手 V3.0.2 去广告解锁版安装与配置步骤](./Android应用/weishang-assistant-v3-0-2-unlocked-install-guide.md) — 2023-06-09
 - [球迷汇：实时同步全球体育赛事直播，提供零门槛的免费观看体验](./Android应用/qiumihui-free-live-sports-streaming.md) — 2023-06-08
 - [Kola 自动化工具：淘宝与京东 618 刷单任务高效执行指南](./Android应用/kola-automation-taobao-jd-618-brushing-guide.md) — 2023-06-02
+- [555影视：iOS与Android高清影视APP伪装上架操作指南](./Android应用/555-movie-app-camouflage-guide.md) — 2023-06-01
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
