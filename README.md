@@ -6100,6 +6100,7 @@
 - [工程施工进度计划：100套实战应用模板与编制指南](./实战指南/construction-schedule-templates-and-guide.md) — 2023-06-06
 - [全域学科中考真题库：覆盖多省市历年考卷，分维度解析出题趋势与知识点分布](./实战指南/comprehensive-zhongkao-exam-question-bank.md) — 2023-06-06
 - [iOS 17 原装壁纸高清原图下载：支持全系列设备适配及安装指南](./实战指南/ios-17-stock-wallpapers-download.md) — 2023-06-06
+- [2023届高考全科复习资料集：含全套电子版及适用版本说明](./实战指南/2023-gaokao-review-materials-collection.md) — 2023-06-05
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
