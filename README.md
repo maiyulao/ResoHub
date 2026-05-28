@@ -3383,6 +3383,7 @@
 - [获取全球行业研究报告的完整下载指南](./创意工具/global-industry-research-reports-download-guide.md) — 2023-07-05
 - [想把YouTube视频快速翻译并配音成多国语言？试试免费的AI工具Felo Dubbing](./创意工具/translate-youtube-videos-with-felo-dubbing.md) — 2023-07-05
 - [街拍APP实操指南：如何利用在线图片学习网站提升摄影技巧](./创意工具/street-photography-app-guide-learning-tips.md) — 2023-07-05
+- [高效图像背景移除指南：实现一键透明化，详解自动化抠图工具的操作流程与应用场景](./创意工具/efficient-image-background-removal-guide.md) — 2023-07-05
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
