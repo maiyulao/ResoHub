@@ -3393,6 +3393,7 @@
 - [Bilibili封面高清下载方案：通过bilibiliq快速提取原图并支持批量导出](./创意工具/bilibili-cover-hd-download-bilibiliq.md) — 2023-07-04
 - [AWS 与 Cloudflare IP 优选操作指南：从工具选择到网速加速的实施步骤](./创意工具/aws-cloudflare-ip-optimization-guide.md) — 2023-07-04
 - [Nai子图：高质量在线AI绘画学习资源指南](./创意工具/nai-art-learning-guide.md) — 2023-07-03
+- [Debian 官方参考手册下载与使用指南：适用版本及配置要点](./创意工具/debian-reference-manual-download-guide.md) — 2023-07-03
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
