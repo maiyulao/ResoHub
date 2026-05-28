@@ -5977,6 +5977,7 @@
 - [Flink 核心原理分析与工业级实战指南：部署环境及关键配置详解](./实战指南/flink-core-principles-and-industrial-practice-guide.md) — 2023-07-07
 - [高效CAD平面图设计资源库：涵盖多场景标准图集与工程实战素材](./实战指南/efficient-cad-floor-plan-resource-library.md) — 2023-07-06
 - [韩宇极简英语全集：核心课程要点与学习路径指南](./实战指南/hanyu-minimalist-english-guide.md) — 2023-07-05
+- [Adobe 全系列软件 2023 版安装指南与资源汇总](./实战指南/adobe-2023-all-software-installation-guide-resources.md) — 2023-07-04
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
