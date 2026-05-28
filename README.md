@@ -6058,6 +6058,7 @@
 - [黑马PHP全栈开发实战课程：历时108天从基础到就业的完整学习路径](./实战指南/heima-php-fullstack-development-course.md) — 2023-06-19
 - [2023年专升本备考全流程：从课程选择到学习计划的执行步骤](./实战指南/2023-top-up-degree-preparation-guide.md) — 2023-06-18
 - [3TB+全格式音乐资源库：涵盖无损音频与高清视频合集](./实战指南/3tb-music-audio-video-library.md) — 2023-06-17
+- [曾仕强《易经》全集资源获取指南：800G资料包下载与整理步骤](./实战指南/zeng-shiqiang-yi-jing-collection-download-guide.md) — 2023-06-17
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
