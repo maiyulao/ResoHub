@@ -3363,6 +3363,7 @@
 - [代码之外：程序员的健康管理与长寿实践指南](./创意工具/programmers-health-and-longevity-guide.md) — 2023-07-10
 - [如何使用聊天图在线制作仿真对话截图：全流程操作指南](./创意工具/how-to-create-fake-chat-screenshots-online-guide.md) — 2023-07-10
 - [英文原版编程电子书免费下载：适用环境与获取路径指南](./创意工具/free-english-programming-ebooks-download-guide.md) — 2023-07-10
+- [AI 艺术二维码定制指南：从提示词优化到视觉效果实现](./创意工具/ai-art-qr-code-guide-2.md) — 2023-07-09
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
