@@ -1791,6 +1791,7 @@
 - [微淼财务报表分析实战指南：从核心指标到业务洞察的技能进阶](./兴趣爱好/weimiao-financial-report-analysis-guide.md) — 2023-08-24
 - [人像摄影全指南：从光影布局到色彩构图的实操进阶技巧](./兴趣爱好/portrait-photography-guide-lighting-composition-tips.md) — 2023-07-23
 - [730套折纸实操指南全集](./兴趣爱好/730-origami-guide-complete-collection.md) — 2023-07-17
+- [2024版行测5000题全解析：通过高频考点覆盖与题型拆解，快速构建公考解题逻辑](./兴趣爱好/2024-xingce-5000-questions-analysis.md) — 2023-06-12
 
 ### 创意工具
 - [域名续费价格波动大？用 TLDHub 快速对比各注册商的真实成本](./创意工具/domain-renewal-cost-comparison-tldhub.md) — 2026-05-03
