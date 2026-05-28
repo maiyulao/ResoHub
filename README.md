@@ -6156,6 +6156,7 @@
 - [如何使用北京大学出版社电子教材：从账号激活到资源访问全流程指南](./实战指南/guide-to-pku-press-digital-textbooks.md) — 2023-05-25
 - [TV端软件资源包：适用安卓盒子安装，含获取路径与兼容性说明](./实战指南/tv-software-resource-pack-android-box.md) — 2023-05-25
 - [知乎盐选会员付费专栏：1090篇深度内容合集解析](./实战指南/zhihu-yansuan-paid-columns-collection-analysis.md) — 2023-05-25
+- [多款变声器高级版去广告资源汇总](./实战指南/voice-changer-premium-ad-free-collection.md) — 2023-05-25
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
