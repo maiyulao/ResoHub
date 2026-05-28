@@ -764,6 +764,7 @@
 - [无需Root权限即可实现手机虚拟定位：摩尼定位的功能特性与操作指南](./Android应用/moni-virtual-location-guide-no-root.md) — 2023-07-24
 - [QQ音乐等级与影响力快速提升指南：无需密码的时长增加工具实操 v1.0](./Android应用/qq-music-level-influence-boost-guide.md) — 2023-07-18
 - [跨平台高清影视播放器：支持 Android 与 iOS 的免费追剧方案](./Android应用/cross-platform-hd-video-player-android-ios.md) — 2023-07-16
+- [大饼AI变声器使用指南：实现游戏与App实时语音转换的步骤](./Android应用/dabing-ai-voice-changer-guide.md) — 2023-07-14
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
