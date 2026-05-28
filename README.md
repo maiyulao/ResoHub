@@ -777,6 +777,7 @@
 - [555影视：iOS与Android高清影视APP伪装上架操作指南](./Android应用/555-movie-app-camouflage-guide.md) — 2023-06-01
 - [京东淘宝 618 自动化任务执行工具指南](./Android应用/jd-taobao-618-automation-tool-guide.md) — 2023-05-29
 - [Reface Pro v3.39.0 专业版安装与换脸功能配置指南](./Android应用/reface-pro-v3-39-0-installation-guide.md) — 2023-05-24
+- [如何快速在 Telegram 中精准定位目标群组、频道与机器人？试试 TelSearch 搜索工具](./Android应用/telsearch-telegram-search-tool.md) — 2023-05-22
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
