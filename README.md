@@ -3423,6 +3423,7 @@
 - [字母大人自测表（两套）：下载路径、适用场景及使用注意事项](./创意工具/alphabet-adult-self-test-guide.md) — 2023-06-28
 - [ChatMap AI：通过自然语言交互重塑地图搜索，实现从关键词匹配到智能场景导航的跨越](./创意工具/chatmap-ai-natural-language-map-search.md) — 2023-06-28
 - [HiFiNi音乐磁场：支持在线检索与无损音轨下载的免费音乐资源站](./创意工具/hifini-music-resource-site.md) — 2023-06-28
+- [2024年国考与省考备考资料包：gongkao6688 资源获取及使用指南](./创意工具/2024-civil-service-exam-gongkao6688-guide.md) — 2023-06-26
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
