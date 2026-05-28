@@ -3377,6 +3377,7 @@
 - [AI驱动的学术论文自动化生成方案：利用大数据分析实现高效撰写与结构优化](./创意工具/ai-powered-academic-paper-automation-big-data.md) — 2023-07-07
 - [硬盘少女资源站：多媒体学习素材在线获取指南及使用注意事项](./创意工具/hard-disk-girl-multimedia-learning-resources-guide.md) — 2023-07-06
 - [想在网上找随机视频聊天？这 2 万多个实时互动频道或许能满足你的需求](./创意工具/best-random-video-chat-channels.md) — 2023-07-06
+- [如何使用不太灵影视站下载高清蓝光4K资源：纯净无广告操作指南](./创意工具/how-to-download-4k-movies-from-butailing.md) — 2023-07-06
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
