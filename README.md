@@ -3345,6 +3345,7 @@
 - [如何通过直链提取 API 实现百度网盘文件不限速下载：操作指南](./创意工具/baidu-netdisk-direct-link-api-unlimited-speed-download.md) — 2023-07-15
 - [部署基于 ChatGPT Next Web 的私人 AI 助手：从环境配置到国内网络访问全流程](./创意工具/deploy-chatgpt-next-web-private-ai-assistant.md) — 2023-07-15
 - [Cloudflare WARP 自选 IP 配置指南：实现海外高速无限制流量访问（含适用环境与避坑要点）](./创意工具/cloudflare-warp-custom-ip-guide.md) — 2023-07-15
+- [国内招投标信息查询平台与效率工具汇总：适用环境及获取指南](./创意工具/china-bidding-platforms-and-tools-guide.md) — 2023-07-14
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
