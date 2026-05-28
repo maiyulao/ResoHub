@@ -1136,6 +1136,7 @@
 - [想在本地部署AI聊天与绘画工具？试试这个集成化开源AI工具箱](./GitHub项目/local-open-source-ai-toolbox-chat-drawing.md) — 2023-06-19
 - [想在网页端同时调用 ChatGPT 和 Midjourney 却不想付费？教你如何一键部署私人集成应用](./GitHub项目/deploy-private-chatgpt-midjourney-integration.md) — 2023-06-10
 - [RARBG 磁力链接备份与导出操作指南](./GitHub项目/rarbg-magnet-backup-export-guide.md) — 2023-06-03
+- [EmailSender：高效模拟钓鱼邮件发送的实战工具指南](./GitHub项目/emailsender-phishing-simulation-guide.md) — 2023-06-02
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
