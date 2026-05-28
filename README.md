@@ -3398,6 +3398,7 @@
 - [Debian 官方参考手册下载与使用指南：适用版本及配置要点](./创意工具/debian-reference-manual-download-guide.md) — 2023-07-03
 - [开源编程学习资源库：涵盖多语言免费电子书及其分类索引](./创意工具/open-source-programming-learning-resources.md) — 2023-07-03
 - [熊猫无损音乐：高品质Hi-Res音乐免费下载操作指南](./创意工具/panda-lossless-hires-music-download-guide.md) — 2023-07-03
+- [如何使用 MoyuDuck 在线随机获取学习参考图：免费操作指南](./创意工具/moyuduck-random-study-images-guide.md) — 2023-07-02
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
