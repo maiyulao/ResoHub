@@ -1163,6 +1163,7 @@
 - [算清税薪资计算器：支持社保公积金及个税实时测算与配置说明](./iOS应用/tax-salary-calculator.md) — 2023-06-30
 - [有数鸟：国内外会员订阅的一站式免费管理工具](./iOS应用/youshuniao-subscription-management-tool.md) — 2023-06-29
 - [模拟社交聊天截图工具：一键生成支付宝与微信对话界面，支持自定义内容与视觉还原](./iOS应用/fake-chat-screenshot-generator-wechat-alipay.md) — 2023-06-20
+- [ChatX 全指南：支持 GPT-4 Pro 订阅免费激活的 AI 聊天客户端](./iOS应用/chatx-guide-gpt4-pro-free-activation.md) — 2023-06-06
 
 ### iOS捷径指令
 - [如何使用 R⤓Download 实现 TikTok、Instagram 及 Snapchat 视频无水印下载](./iOS捷径指令/download-tiktok-instagram-snapchat-videos-without-watermark-r-download.md) — 2025-03-10
