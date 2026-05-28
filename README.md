@@ -6128,6 +6128,7 @@
 - [爱企查VIP年费会员免费获取指南](./羊毛/aikicha-vip-free-guide.md) — 2023-07-17
 - [想在京东购物但没凑够满减？试试这组全品类通用券，每日限量发放](./羊毛/jd-universal-coupons-guide.md) — 2023-07-15
 - [领取2个月QQ音乐VIP体验卡：激活步骤与适用账号说明](./羊毛/qq-music-vip-free-trial-guide.md) — 2023-07-08
+- [中国移动限时发放4GB流量日包：领取流程及适用范围详解](./羊毛/china-mobile-4gb-data-package-guide.md) — 2023-07-04
 
 ### 音乐
 - [周杰伦《圣诞星》2023新曲：FLAC无损音质下载指南](./音乐/jay-chou-christmas-star-2023-flac-download.md) — 2023-12-21
