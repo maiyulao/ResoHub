@@ -3437,6 +3437,7 @@
 - [全能型资源检索指南：从快速定位到高效获取的实用步骤](./创意工具/comprehensive-resource-retrieval-guide.md) — 2023-06-24
 - [IPTVindex：电视直播软件推荐与实时直播源汇总](./创意工具/iptvindex-live-tv-software-and-sources.md) — 2023-06-23
 - [无需注册即可快速去除短视频水印：酷豆在线工具实现免登录高效处理](./创意工具/remove-short-video-watermark-online-free.md) — 2023-06-23
+- [AI推文分析指南：通过智能解析挖掘社交媒体洞察，实现多维度内容分析与趋势追踪](./创意工具/ai-tweet-analysis-guide.md) — 2023-06-23
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
