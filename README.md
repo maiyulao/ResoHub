@@ -1113,6 +1113,7 @@
 - [GLaDOS Signin 配置指南：实现出海工具自动签到与额度续期](./GitHub项目/glados-signin-configuration-guide.md) — 2023-07-19
 - [想在业余时间通过技术变现却担心影响主业？程序员构建精益副业的实操指南](./GitHub项目/lean-side-hustle-guide-for-developers.md) — 2023-07-15
 - [Roop开源视频换脸工具：安装部署指南与环境配置要点](./GitHub项目/roop-video-face-swap-installation-guide.md) — 2023-07-14
+- [AI 工程师面试全攻略：深度学习 500 题知识图谱与实战解析](./GitHub项目/ai-engineer-interview-deep-learning-guide.md) — 2023-07-13
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
