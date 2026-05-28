@@ -5942,6 +5942,7 @@
 - [教资面试准备没头绪？这份2023年通用资源礼包帮你快速上手](./实战指南/teacher-certification-interview-resources-2023.md) — 2023-07-13
 - [2000名资深影迷共选：100部高分恐怖片4K资源清单](./实战指南/100-best-horror-movies-4k-list.md) — 2023-07-12
 - [收藏李玟同名专辑及配套MTV合集的完整步骤](./实战指南/collect-coqui-self-titled-album-mtv-collection-guide.md) — 2023-07-11
+- [男同学指导丛书 PDF 下载：适用场景及阅读注意事项](./实战指南/male-classmate-guide-pdf-download.md) — 2023-07-10
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
