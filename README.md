@@ -3538,6 +3538,7 @@
 - [想了解全球各地的制服样式？这个地图资源库帮你把世界制服照片集齐了](./创意工具/global-uniforms-map-resource-library.md) — 2023-05-26
 - [精选1000余款高质量免费PPT模板，涵盖多行业场景并支持快速下载](./创意工具/1000-free-high-quality-ppt-templates.md) — 2023-05-25
 - [纯净版图像学习资源站：专注高质量视觉素材，分门别类解析构图与色彩技巧](./创意工具/high-quality-image-learning-resources.md) — 2023-05-25
+- [如何使用 ChatPluginTop 搜索并安装 ChatGPT 插件：操作指南](./创意工具/how-to-install-chatgpt-plugins-with-chatplugintop.md) — 2023-05-24
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
