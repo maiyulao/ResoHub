@@ -6221,6 +6221,7 @@
 - [ChatHub：集成 ChatGPT 与 Bing Chat 的多模型对话客户端](./效率工具/chathub-multi-model-ai-client.md) — 2023-06-19
 - [经济学人全站内容解锁指南：通过定制脚本绕过订阅限制，实现完整文章无损阅读](./效率工具/economist-paywall-bypass-guide.md) — 2023-06-06
 - [GPT-4 Mobile 插件详解：在 ChatGPT 中实现 GPT-4 无限制对话](./效率工具/gpt-4-mobile-plugin-unlimited-chat.md) — 2023-06-06
+- [高效净化 CSDN 浏览体验：通过 Greener 插件彻底拦截广告与登录弹窗](./效率工具/clean-csdn-experience-with-greener-plugin.md) — 2023-06-05
 
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
