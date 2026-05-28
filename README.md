@@ -3511,6 +3511,7 @@
 - [智子星：集成 AI 绘画与 ChatGPT 对话的在线工具集](./创意工具/zhizixing-ai-drawing-chatgpt-toolset.md) — 2023-06-02
 - [身份证姓名二要素验证：快捷指令实现方案与接口配置](./创意工具/id-name-verification-shortcuts-api.md) — 2023-05-31
 - [Owen TV 影视直播源：支持长期更新的免费稳定接口及配置指南](./创意工具/owen-tv-live-stream-guide.md) — 2023-05-31
+- [火山写作 Writingo：字节跳动推出的中英文 AI 创作工具](./创意工具/writingo-bytedance-ai-writing-tool.md) — 2023-05-31
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
