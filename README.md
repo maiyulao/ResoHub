@@ -3415,6 +3415,7 @@
 - [如何使用 Object Remover 免费删除照片中多余物体：分步操作指南](./创意工具/how-to-use-object-remover-free-guide.md) — 2023-06-30
 - [ChatGPT 核心技巧与实操指南：学习资源汇总及应用场景指南](./创意工具/chatgpt-core-tips-and-practical-guide.md) — 2023-06-30
 - [想在 iOS 上安装微信多开或 TikTok 等自签 IPA 软件？这里有完整的资源与安装指南](./创意工具/ios-install-wechat-tiktok-ipa-guide.md) — 2023-06-30
+- [高效成人自学资源导航：从筛选到利用的实操指南](./创意工具/adult-self-learning-resources-guide.md) — 2023-06-29
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
