@@ -3468,6 +3468,7 @@
 - [XF音乐盒：突破VIP限制实现音乐解析与免费下载](./创意工具/xf-music-box-free-download-unlock.md) — 2023-06-15
 - [想知道苹果 App Store 哪些付费软件在限免？GoFans 为你实时推送 macOS 与 iOS 优质应用优惠](./创意工具/gofans-app-store-free-deals-macos-ios.md) — 2023-06-15
 - [Image Extractor：高效提取网页图片并批量打包下载](./创意工具/image-extractor-batch-download.md) — 2023-06-14
+- [无马区日本名师课程资源：支持全集视频高效下载与学习指南](./创意工具/wumaqu-japan-master-courses-download-guide.md) — 2023-06-13
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
