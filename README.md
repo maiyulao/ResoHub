@@ -1116,6 +1116,7 @@
 - [AI 工程师面试全攻略：深度学习 500 题知识图谱与实战解析](./GitHub项目/ai-engineer-interview-deep-learning-guide.md) — 2023-07-13
 - [搭建彩虹外链网盘：实现开源大容量云存储与自定义文件外链的步骤指南](./GitHub项目/setup-rainbow-cloud-storage-open-source-file-hosting.md) — 2023-07-10
 - [Rust 原子操作与锁（Atomics and Locks）中文译本：资源获取与环境适配指南](./GitHub项目/rust-atomics-and-locks-chinese-translation-guide.md) — 2023-07-07
+- [Chat2DB 开源安装指南：支持自然语言转 SQL 的 AI 数据库管理工具](./GitHub项目/chat2db-open-source-installation-guide.md) — 2023-07-07
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
