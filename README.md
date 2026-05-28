@@ -3412,6 +3412,7 @@
 - [2023年建造师与造价师备考资源获取及学习步骤指南](./创意工具/2023-constructor-cost-engineer-exam-guide.md) — 2023-07-01
 - [HalfWork事半：面向ChatGPT的实用提示词库（在线访问与配置指南）](./创意工具/halfwork-chatgpt-prompts-guide.md) — 2023-06-30
 - [如何使用 Object Remover 免费删除照片中多余物体：分步操作指南](./创意工具/how-to-use-object-remover-free-guide.md) — 2023-06-30
+- [ChatGPT 核心技巧与实操指南：学习资源汇总及应用场景指南](./创意工具/chatgpt-core-tips-and-practical-guide.md) — 2023-06-30
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
