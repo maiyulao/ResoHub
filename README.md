@@ -3489,6 +3489,7 @@
 - [OpenAI API Key 免费获取指南：ChatGPT 接口调用实操分享](./创意工具/get-free-openai-api-key-guide.md) — 2023-06-09
 - [想在欧洲体验首届成人教育视频直播？这份在线学习指南为你揭秘](./创意工具/adult-education-video-streaming-guide-europe.md) — 2023-06-07
 - [国内可用 ChatGPT 在线体验平台的筛选与访问指南](./创意工具/chatgpt-online-platforms-guide-china.md) — 2023-06-06
+- [RARBG 替代镜像站汇总：访问地址、兼容环境及安全注意事项](./创意工具/rarbg-alternatives-mirrors-guide.md) — 2023-06-06
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
