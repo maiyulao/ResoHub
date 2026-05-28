@@ -5997,6 +5997,7 @@
 - [Adobe 全系列软件 2023 版安装指南与资源汇总](./实战指南/adobe-2023-all-software-installation-guide-resources.md) — 2023-07-04
 - [AI全栈进阶实战指南：从底层原理到商业应用，构建人工智能核心竞争力](./实战指南/ai-fullstack-guide-principles-to-business.md) — 2023-07-03
 - [多版本YouTube第三方客户端下载指南：适用场景与安装注意事项](./实战指南/youtube-third-party-clients-download-guide.md) — 2023-07-03
+- [想要精进 NLP 核心能力？人工智能专业课第七期正式开启报名](./实战指南/nlp-core-skills-ai-course-7.md) — 2023-06-30
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
