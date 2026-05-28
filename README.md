@@ -1123,6 +1123,7 @@
 - [主流 iOS 代理工具 App 解锁脚本配置指南（支持 QX/Loon/Surge/Shadowrocket）](./GitHub项目/ios-proxy-app-unlock-script-guide.md) — 2023-07-06
 - [Python 编程实战指南：从基础到进阶的系统学习路径](./GitHub项目/python-programming-guide-basic-to-advanced.md) — 2023-07-05
 - [AI 工程师求职指南：从技术实战到面试通关的学习路径图](./GitHub项目/ai-engineer-job-search-guide.md) — 2023-07-03
+- [Moli X 提供的 Quantumult X 去广告脚本与会员解锁规则集：配置指南及适用环境说明](./GitHub项目/moli-x-quantumult-x-adblock-rules-guide.md) — 2023-07-01
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
