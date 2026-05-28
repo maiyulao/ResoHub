@@ -1315,6 +1315,7 @@
 - [使用 FotoSketcher 将照片转换为绘画风格的详细操作步骤](./Mac软件/convert-photos-to-paintings-with-fotosketcher.md) — 2023-08-09
 - [想尝试 PS 2023 Beta 的 AI 智能填充功能？从安装到激活的完整指南](./Mac软件/ps-2023-beta-ai-generative-fill-install-activation-guide.md) — 2023-07-27
 - [高效学术翻译工具 CopyTranslator：实现复制即译，灵活集成多款翻译 API 接口](./Mac软件/copytranslator-academic-translation-tool.md) — 2023-07-16
+- [WeChatTweak：解锁 macOS 微信多开与消息撤回拦截功能](./Mac软件/wechattweak-macos-wechat-multi-instance-message-intercept.md) — 2023-07-12
 
 ### Twitter
 - [BlockExpress 插件安装指南：通过浏览器订阅推特 Web3 KOL 动态与行业情报](./Twitter/blockexpress-installation-guide-twitter-web3-kol-tracking.md) — 2024-05-24
