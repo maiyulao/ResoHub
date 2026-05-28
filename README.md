@@ -3433,6 +3433,7 @@
 - [国内快速配置 ChatGPT 与 AI 绘画：从环境搭建到实操的 3 个步骤](./创意工具/setup-chatgpt-ai-painting-guide.md) — 2023-06-26
 - [跨境电商出海资源指南：高效工具与实用资源汇总](./创意工具/cross-border-ecommerce-resources-guide.md) — 2023-06-25
 - [如何使用 AIO Search 磁力聚合搜索引擎：从配置到高效搜索的完整步骤](./创意工具/aio-search-magnet-guide.md) — 2023-06-24
+- [深度评测50款ChatGPT教程：核心干货筛选与优质资源下载指南](./创意工具/best-chatgpt-tutorials-review-and-resources.md) — 2023-06-24
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
