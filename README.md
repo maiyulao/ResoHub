@@ -3465,6 +3465,7 @@
 - [AI 艺术二维码制作全指南：从提示词调优到图像融合的实操路径](./创意工具/ai-art-qr-code-guide.md) — 2023-06-16
 - [TT快下：实现百度网盘文件不限速下载的在线解析方案](./创意工具/tt-kuai-xia-baidu-netdisk-unlimited-speed-download.md) — 2023-06-15
 - [XF音乐盒：突破VIP限制实现音乐解析与免费下载](./创意工具/xf-music-box-free-download-unlock.md) — 2023-06-15
+- [想知道苹果 App Store 哪些付费软件在限免？GoFans 为你实时推送 macOS 与 iOS 优质应用优惠](./创意工具/gofans-app-store-free-deals-macos-ios.md) — 2023-06-15
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
