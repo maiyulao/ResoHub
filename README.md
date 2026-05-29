@@ -3754,6 +3754,7 @@
 - [ChatGPT 快速上手指南：90 分钟从入门到精通的实操路径](./创意工具/chatgpt-quick-start-guide.md) — 2023-04-08
 - [如何部署基于 GPT-4 的免费塔罗牌占卜机器人 TeleTarot：全流程配置指南](./创意工具/deploy-gpt4-teletarot-bot-guide.md) — 2023-04-08
 - [通义千问内测申请指南：适用场景与获取步骤详解](./创意工具/tongyi-qianwen-beta-access-guide.md) — 2023-04-07
+- [高效驱动ChatGPT的指令库：通过结构化提示词提升AI输出质量与精准度](./创意工具/chatgpt-prompt-library-structured-prompts.md) — 2023-04-07
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
