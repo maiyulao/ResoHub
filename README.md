@@ -3597,6 +3597,7 @@
 - [Booltool：集成多模态处理与内容创作的AI全能工具集](./创意工具/booltool-multimodal-ai-content-creation-toolkit.md) — 2023-05-15
 - [Yodayo AI 绘图工具：在线生成指南及模型适用场景说明](./创意工具/yodayo-ai-drawing-guide-and-models.md) — 2023-05-14
 - [随机女性人像素材库：获取渠道、适用场景及版权注意事项](./创意工具/random-female-portrait-resources.md) — 2023-05-14
+- [面对海量 AI 工具难以筛选和管理？试试这个一站式聚合导航页](./创意工具/ai-tools-aggregation-navigation-page.md) — 2023-05-13
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
