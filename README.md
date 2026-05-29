@@ -3652,6 +3652,7 @@
 - [EarthCam 全球实时监控资源：在线浏览世界各地的实况摄像头与接入指南](./创意工具/earthcam-global-live-cameras-guide.md) — 2023-05-02
 - [OpenAI API 消费分析仪表板：计费详情监控与使用量统计指南](./创意工具/openai-api-usage-billing-dashboard-guide.md) — 2023-05-02
 - [开源 AIGC 学习指南：从零掌握 Prompt 提示词工程](./创意工具/open-source-aigc-prompt-engineering-guide.md) — 2023-05-01
+- [高效构建 Midjourney 视觉语言：提示词生成工具实操指南](./创意工具/midjourney-prompt-generator-guide-2.md) — 2023-05-01
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
