@@ -1659,6 +1659,7 @@
 - [康纳PUA玩家手册电子版下载：实操指南与适用场景分析](./书籍/connor-pua-guide-download.md) — 2023-08-19
 - [高效检索指南：Google 搜索进阶技巧与实操手册 v4.0](./书籍/google-search-advanced-tips-guide.md) — 2023-08-05
 - [计算机专业书籍精选指南](./书籍/best-computer-science-books-guide.md) — 2023-07-21
+- [想提升拍照技术却不知读什么书？这份中外摄影电子书清单为你指路](./书籍/best-photography-ebooks-list.md) — 2023-05-15
 
 ### 互联网
 - [GPT-4o 快速上手指南：从免费获取权限到体验双倍速响应的操作步骤](./互联网/gpt-4o-quick-start-guide.md) — 2024-05-15
