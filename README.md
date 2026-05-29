@@ -790,6 +790,7 @@
 
 ### Category 9166
 - [旧打印机只有 USB 接口无法远程打印？尝试用 CUPS 搭建局域网共享服务](./Category 9166/share-usb-printer-via-cups-lan.md) — 2026-05-23
+- [如何通过 FreeLLMAPI 搭建自托管网关以统一管理多模型测试额度](./Category 9166/self-hosted-gateway-freellmapi-manage-model-quotas.md) — 2026-05-23
 - [如何使用 Data-Analysis-Agent 通过自然语言查询数据库：开源配置与操作指南](./Category 9166/data-analysis-agent-natural-language-database-query-guide.md) — 2026-05-12
 
 ### Category 9167
