@@ -251,6 +251,7 @@
 ### AI工具教程
 - [想在本地部署大模型却不确定硬件是否达标？试试 Can I Run AI 快速检测](./AI工具教程/can-i-run-ai-hardware-check.md) — 2026-05-27
 - [MioSub 开源指南：实现视频转录、翻译与字幕压制的 AI 自动化工作流](./AI工具教程/miosub-open-source-ai-video-transcription-translation-workflow.md) — 2026-05-25
+- [如何使用 AirTranslate 为 Mac 视频与会议实时生成悬浮翻译字幕](./AI工具教程/airtranslate-mac-realtime-video-meeting-captions.md) — 2026-05-19
 - [使用 Violin 实现 AI 视频翻译：支持 33 种语言及本地自动化工作流的操作指南](./AI工具教程/violin-ai-video-translation-guide.md) — 2026-05-18
 - [如何使用 MCP-Use 实现 LLM 与 MCP 服务器的快速集成：操作指南](./AI工具教程/mcp-use-llm-mcp-server-integration-guide.md) — 2025-04-18
 - [EmojiMyFace：将真实人脸照片快速转换为匹配 Emoji 的 AI 工具](./AI工具教程/emojimyface-ai-face-to-emoji-converter.md) — 2025-04-17
