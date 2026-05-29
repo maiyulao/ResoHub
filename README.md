@@ -1403,6 +1403,7 @@
 - [无需Root：使用开源跨平台软件 QtScrcpy 实现安卓实时投屏的操作指南](./Mac软件/qtscrcpy-android-screen-mirroring-guide.md) — 2023-05-31
 - [Media Downloader：高效抓取m3u8视频流的开源方案，支持在线解析与快速下载](./Mac软件/media-downloader-m3u8-open-source-solution.md) — 2023-05-25
 - [OneGPT 使用指南：一站式集成 ChatGPT、文心一言、通义千问及 Bard 等多模型平台的操作步骤](./Mac软件/onegpt-user-guide-multi-model-platform.md) — 2023-04-18
+- [高效集成 BingGPT 的跨平台桌面客户端：实现 AI 聊天体验的本地化与多端同步](./Mac软件/binggpt-cross-platform-desktop-client.md) — 2023-04-09
 
 ### Twitter
 - [BlockExpress 插件安装指南：通过浏览器订阅推特 Web3 KOL 动态与行业情报](./Twitter/blockexpress-installation-guide-twitter-web3-kol-tracking.md) — 2024-05-24
