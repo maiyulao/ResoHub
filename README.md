@@ -3667,6 +3667,7 @@
 - [ChatKit 深度集成 OpenAI API 打造全能网页端，实现文章、视频及文档的快速摘要与分析](./创意工具/chatkit-openai-api-integration-web-summary-analysis.md) — 2023-04-28
 - [如何使用张大妈计算器核算五险一金与税后到手工资：操作指南](./创意工具/smzdm-salary-calculator-guide.md) — 2023-04-28
 - [TextGPT安装指南：在iMessage中集成ChatGPT对话与AI绘图功能](./创意工具/textgpt-installation-guide-imessage-chatgpt-ai-drawing.md) — 2023-04-27
+- [QuantumultX 基础配置指南：分流规则、会员解锁与广告过滤部署方案](./创意工具/quantumultx-basic-configuration-guide.md) — 2023-04-27
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
