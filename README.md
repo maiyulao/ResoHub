@@ -3775,6 +3775,7 @@
 - [ZeroGPT：AI生成内容检测与文本真实性分析工具](./创意工具/zerogpt-ai-content-detection-analysis.md) — 2023-04-02
 - [ChatPPT 实操指南：通过指令快速生成演示文稿](./创意工具/chatppt-guide-generate-presentations.md) — 2023-04-01
 - [如何高效利用美图鉴赏进行视频与图片审美学习：操作指南](./创意工具/aesthetic-learning-guide-meitu-app.md) — 2023-04-01
+- [OI Wiki：面向算法竞赛的知识体系与学习指南](./创意工具/oi-wiki-algorithm-competition-guide.md) — 2023-04-01
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
