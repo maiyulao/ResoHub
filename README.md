@@ -3692,6 +3692,7 @@
 - [高效 Prompt 共享库：通过场景化指令集提升 AI 输出质量，涵盖多领域实战模版与优化技巧](./创意工具/efficient-prompt-library-ai-output-optimization.md) — 2023-04-21
 - [应对早起困难的实操方案与逻辑拆解](./创意工具/how-to-wake-up-early-guide.md) — 2023-04-21
 - [Library Genesis 全指南：无需注册即可免费下载海量电子书](./创意工具/library-genesis-free-ebook-download-guide.md) — 2023-04-21
+- [高效下载 GitHub 资源的国内加速方案指南](./创意工具/github-download-acceleration-guide-2.md) — 2023-04-20
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
