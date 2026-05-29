@@ -3708,6 +3708,7 @@
 - [高效检索日本教师课程：某V Plus Bot 机器人功能指南与使用流程](./创意工具/japan-teacher-course-v-plus-bot-guide.md) — 2023-04-18
 - [面对AI侵权却不知如何起诉？教你用ChatGPT快速搭建自动化起诉书生成工具](./创意工具/ai-copyright-lawsuit-automation-tool-with-chatgpt.md) — 2023-04-18
 - [海角社区付费解析接口 v2.3（捷径版）：含卡密激活与部署指南](./创意工具/haijiao-paid-api-v2-3-deployment-guide.md) — 2023-04-18
+- [写英文邮件总担心语法错误？试试这款免费的在线AI语法检查工具](./创意工具/free-ai-english-grammar-checker.md) — 2023-04-17
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
