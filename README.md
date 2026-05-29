@@ -791,6 +791,7 @@
 - [叮小跳：高效自动化跳过 APP 开屏广告的实用方案](./Android应用/dingxiaotiao-app-ad-skip-automation.md) — 2023-05-08
 - [HoleFlix 安装指南：支持多平台的无广告轻量化追剧工具及配置要点](./Android应用/holeflix-installation-guide.md) — 2023-05-04
 - [想看高清体育赛事直播却找不到稳定平台？178直播为你提供实时赛事转播服务](./Android应用/178-live-sports-streaming-platform-2.md) — 2023-04-23
+- [壳儿APP：提供多线路解析接口的免费在线影视平台，支持灵活切换播放源以确保流畅观看](./Android应用/ker-app-free-online-video-platform.md) — 2023-04-06
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
