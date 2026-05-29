@@ -3685,6 +3685,7 @@
 - [基于 AI 的 Auto Travel 旅游助手：从行程规划到自动化执行的实现路径](./创意工具/ai-auto-travel-assistant-implementation-path.md) — 2023-04-23
 - [想给浏览器安装油猴脚本却不知去哪找？试试这个高效的脚本搜索工具](./创意工具/best-tampermonkey-script-search-tool.md) — 2023-04-22
 - [写论文找不到高质量文献或素材？这份毕业论文资源导航清单帮你高效检索](./创意工具/graduation-thesis-resource-navigation-guide.md) — 2023-04-22
+- [PlayPhrase 使用指南：通过电影对白片段检索英语短语发音与语境](./创意工具/playphrase-guide-english-phrases-pronunciation-context.md) — 2023-04-22
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
