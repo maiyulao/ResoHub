@@ -6283,6 +6283,7 @@
 - [高中全科手写笔记模版：通过结构化知识梳理提升复习效率，涵盖各科目核心考点与逻辑框架](./实战指南/high-school-handwritten-notes-templates.md) — 2023-05-11
 - [学术答辩PPT高效视觉方案：通过结构化排版提升逻辑说服力，涵盖多专业通用设计模板](./实战指南/academic-defense-ppt-visual-design-templates.md) — 2023-05-07
 - [如何得体地处理员工离职谈话？这套辞退实操指南与PPT模板帮你规避风险](./实战指南/employee-termination-interview-guide-and-template.md) — 2023-05-03
+- [小猪佩奇 1-9季全集：中英双语版资源汇总](./实战指南/peppa-pig-seasons-1-9-bilingual-resource.md) — 2023-05-03
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
