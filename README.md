@@ -3681,6 +3681,7 @@
 - [解析磁力链接加密代码：实现资源地址快速还原的转换机制与操作指南](./创意工具/decrypt-magnet-link-conversion-guide.md) — 2023-04-25
 - [使用 FinChat 解决金融投资问题的具体操作步骤](./创意工具/finchat-financial-investment-guide.md) — 2023-04-23
 - [交互式可视化学习指南：通过 VisuAlgo 攻克数据结构与算法基础](./创意工具/visualgo-interactive-learning-guide-data-structures-algorithms.md) — 2023-04-23
+- [基于 AI 的 Auto Travel 旅游助手：从行程规划到自动化执行的实现路径](./创意工具/ai-auto-travel-assistant-implementation-path.md) — 2023-04-23
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
