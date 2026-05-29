@@ -6233,6 +6233,7 @@
 - [2021版AI全攻略：从基础理论到实战应用的人工智能学习路径图](./实战指南/ai-learning-roadmap-2021.md) — 2023-05-17
 - [罗翔2020刑法课程全集下载与安装操作指南](./实战指南/luoxiang-criminal-law-course-2020-download-guide.md) — 2023-05-17
 - [75.9GB 漫画全集下载与离线整理步骤指南](./实战指南/manga-full-collection-download-guide.md) — 2023-05-15
+- [iOS Flutter 高级进阶实战：从环境配置到性能优化的学习路径](./实战指南/ios-flutter-advanced-guide-performance-optimization.md) — 2023-05-12
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
