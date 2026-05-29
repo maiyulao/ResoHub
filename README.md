@@ -3649,6 +3649,7 @@
 - [Z-library 域名被 FBI 扣押导致无法访问？试试这个最新的可用地址 singlelogin.me](./创意工具/z-library-latest-working-address-singlelogin-me.md) — 2023-05-03
 - [如何通过共享Apple ID获取400余款付费软件：详细内购操作步骤](./创意工具/get-paid-apps-via-shared-apple-id-guide.md) — 2023-05-03
 - [EarthCam 全球实时监控资源：在线浏览世界各地的实况摄像头与接入指南](./创意工具/earthcam-global-live-cameras-guide.md) — 2023-05-02
+- [OpenAI API 消费分析仪表板：计费详情监控与使用量统计指南](./创意工具/openai-api-usage-billing-dashboard-guide.md) — 2023-05-02
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
