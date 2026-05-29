@@ -3558,6 +3558,7 @@
 - [智能电视功能进阶指南：从系统精简到第三方应用安装的实操方案](./创意工具/smart-tv-advanced-guide-optimization-and-apps.md) — 2023-05-21
 - [美区Apple ID共享账号：含常用已购软件，适用iOS设备登录指南及风险注意](./创意工具/us-apple-id-shared-account-guide.md) — 2023-05-21
 - [520 节日营销：实用福利工具清单与配置指南](./创意工具/520-marketing-tools-and-guide.md) — 2023-05-19
+- [高效提升文本质量：Microsoft 在线语法检查工具使用指南](./创意工具/microsoft-online-grammar-checker-guide.md) — 2023-05-19
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
