@@ -3632,6 +3632,7 @@
 - [使用 Sydney AI 体验 GPT-4 智能对话的配置步骤与操作指南](./创意工具/sydney-ai-gpt4-setup-guide.md) — 2023-05-08
 - [总觉得不了解真实的自己？试试通过这套自我测试挖掘潜能与特质](./创意工具/self-test-discover-potential-and-traits.md) — 2023-05-07
 - [编程满天星：IT 面试题库与技术手册下载及使用指南](./创意工具/programming-interview-questions-and-tech-manuals-guide.md) — 2023-05-07
+- [如何利用 ChatGPT 构建 Roam Around AI 旅行助手：从环境搭建至功能实现](./创意工具/build-roam-around-ai-travel-assistant-with-chatgpt.md) — 2023-05-06
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
