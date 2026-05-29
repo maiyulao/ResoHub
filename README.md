@@ -3757,6 +3757,7 @@
 - [通义千问内测申请指南：适用场景与获取步骤详解](./创意工具/tongyi-qianwen-beta-access-guide.md) — 2023-04-07
 - [高效驱动ChatGPT的指令库：通过结构化提示词提升AI输出质量与精准度](./创意工具/chatgpt-prompt-library-structured-prompts.md) — 2023-04-07
 - [仙女屋：面向设计学习的在线图片素材库与获取指南](./创意工具/fairyhouse-design-image-library-guide.md) — 2023-04-06
+- [面对厚重的书籍不知从何读起？尝试用 BookAI 结合 ChatGPT 快速生成核心总结](./创意工具/bookai-chatgpt-book-summary.md) — 2023-04-06
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
