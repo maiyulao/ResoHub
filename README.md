@@ -3736,6 +3736,7 @@
 - [HOTOKE AI 部署指南：基于 AI 的佛学心理疏导工具获取与使用说明](./创意工具/hotoke-ai-deployment-guide.md) — 2023-04-11
 - [TAOLIX高清影视在线观看：无需注册的免费资源站及访问指南](./创意工具/taolix-free-hd-movies-guide.md) — 2023-04-11
 - [Aivesa 智聊：无需代理直连的免费 ChatGPT 网页端应用](./创意工具/aivesa-chatgpt-free-web-app.md) — 2023-04-11
+- [高效驱动 ChatGPT 的通用提示词（Prompt）优化指南](./创意工具/chatgpt-prompt-optimization-guide.md) — 2023-04-11
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
