@@ -1188,6 +1188,7 @@
 - [掌握 AI 提示词工程：Learn Prompting 全开源免费课程指南](./GitHub项目/master-ai-prompt-engineering-learn-prompting-guide.md) — 2023-04-09
 - [无需科学上网：国内可用 ChatGPT 免费镜像站资源汇总](./GitHub项目/free-chatgpt-mirror-sites-china.md) — 2023-04-05
 - [想在无需魔法的情况下直接使用 ChatGPT？试试通过 Next Web 实现国内直连的一键部署方案](./GitHub项目/chatgpt-next-web-direct-deployment.md) — 2023-04-01
+- [Learning Prompt 提示词工程免费教程：学习路径与实操指南](./GitHub项目/learning-prompt-engineering-tutorial.md) — 2023-04-01
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
