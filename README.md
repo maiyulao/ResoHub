@@ -3663,6 +3663,7 @@
 - [97文案：电商AI智能内容创作工具实测与应用指南](./创意工具/97wenan-ecommerce-ai-content-tool-guide.md) — 2023-04-29
 - [高效下载开源软件：快点软件镜像站资源索引](./创意工具/kuaidian-software-mirror-index.md) — 2023-04-29
 - [主流国产AI绘画网页端评测：核心功能对比与工具选型指南](./创意工具/chinese-ai-painting-web-review-comparison-guide.md) — 2023-04-28
+- [全国省市高速路网实时监控：假期交通路况查询指南](./创意工具/china-highway-traffic-realtime-monitoring-guide.md) — 2023-04-28
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
