@@ -3635,6 +3635,7 @@
 - [编程满天星：IT 面试题库与技术手册下载及使用指南](./创意工具/programming-interview-questions-and-tech-manuals-guide.md) — 2023-05-07
 - [如何利用 ChatGPT 构建 Roam Around AI 旅行助手：从环境搭建至功能实现](./创意工具/build-roam-around-ai-travel-assistant-with-chatgpt.md) — 2023-05-06
 - [GPT-4 深度实操指南：从核心机制到高效提示词工程](./创意工具/gpt-4-deep-dive-guide-prompt-engineering.md) — 2023-05-05
+- [如何使用 MFSC123 快速检索免版权商用素材：操作指南](./创意工具/mfsc123-copyright-free-assets-guide.md) — 2023-05-05
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
