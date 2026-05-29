@@ -3610,6 +3610,7 @@
 - [浏览器直接运行的红白机经典游戏合集：免安装在线版，支持百款小霸王模拟器游戏](./创意工具/browser-nes-emulator-classic-games-collection.md) — 2023-05-12
 - [白瓜AI助手：集成多场景AI应用与高效创作工具集](./创意工具/baigua-ai-assistant-tools.md) — 2023-05-11
 - [男性身体机能调理与健康维护实操指南](./创意工具/mens-body-function-and-health-guide.md) — 2023-05-11
+- [SolidPoint：高效提取YouTube视频核心要点的免费总结工具](./创意工具/solidpoint-free-youtube-video-summarizer.md) — 2023-05-11
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
