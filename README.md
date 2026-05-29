@@ -3711,6 +3711,7 @@
 - [写英文邮件总担心语法错误？试试这款免费的在线AI语法检查工具](./创意工具/free-ai-english-grammar-checker.md) — 2023-04-17
 - [OpenWrt 核心插件精选指南：通过分类索引快速定位并安装常用软件包](./创意工具/openwrt-essential-plugins-guide.md) — 2023-04-17
 - [想看成人电影却不知如何评价？带你深度剖析首档成人影片解说节目《水果派》](./创意工具/fruit-pie-adult-movie-review-show.md) — 2023-04-17
+- [CTF 选手实战指南：如何高效使用 CTFever 在线安全工具箱](./创意工具/ctf-guide-ctfever-toolbox.md) — 2023-04-17
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
