@@ -3554,6 +3554,7 @@
 - [计算机专业经典电子书获取指南：从资源筛选到一键下载的完整步骤](./创意工具/computer-science-ebooks-download-guide.md) — 2023-05-21
 - [TwitterDlrobot：通过 Telegram 机器人下载 Twitter 视频的操作指南与环境配置](./创意工具/twitterdlrobot-telegram-bot-guide.md) — 2023-05-21
 - [盐神阁：知乎盐选会员内容同步共享平台](./创意工具/yanshenge-zhihu-salt-member-sharing.md) — 2023-05-21
+- [光点红：高效创作AI文案的免费在线工具](./创意工具/guangdianhong-free-ai-copywriting-tool.md) — 2023-05-21
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
