@@ -3675,6 +3675,7 @@
 - [ZNPlayer 影视解析接口：全网 VIP 资源调用指南及适用环境说明](./创意工具/znplayer-api-vip-resource-guide.md) — 2023-04-26
 - [如何使用 Twitter Media Downloader 下载推特视频：分步操作指南](./创意工具/how-to-use-twitter-media-downloader.md) — 2023-04-26
 - [壹盘：高资源密度的共享网盘使用指南与体验分析](./创意工具/yipan-shared-cloud-storage-guide.md) — 2023-04-26
+- [解析磁力链接加密代码：实现资源地址快速还原的转换机制与操作指南](./创意工具/decrypt-magnet-link-conversion-guide.md) — 2023-04-25
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
