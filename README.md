@@ -6413,6 +6413,7 @@
 - [Twemex 浏览器插件安装指南：实现 Twitter 侧边栏快速搜索与热门内容筛选](./效率工具/twemex-browser-extension-installation-guide.md) — 2023-05-25
 - [WebChatGPT开源扩展安装指南：实现ChatGPT实时联网搜索与数据更新](./效率工具/webchatgpt-installation-guide-realtime-search.md) — 2023-05-07
 - [使用 GPT-4 快速总结网页文章：ChatGPT 摘要助手操作指南](./效率工具/gpt-4-web-page-summarizer-guide.md) — 2023-05-05
+- [Alita AI 安装指南：通过 ChatGPT-4 将网页内容快速同步至 Notion](./效率工具/alita-ai-installation-guide-chatgpt4-to-notion.md) — 2023-05-01
 
 ### 教程
 - [美区 App Store 礼品卡购买渠道与账户充值实操指南（2023版）](./教程/us-app-store-gift-card-guide-2023.md) — 2023-05-18
