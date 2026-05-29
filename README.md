@@ -3653,6 +3653,7 @@
 - [OpenAI API 消费分析仪表板：计费详情监控与使用量统计指南](./创意工具/openai-api-usage-billing-dashboard-guide.md) — 2023-05-02
 - [开源 AIGC 学习指南：从零掌握 Prompt 提示词工程](./创意工具/open-source-aigc-prompt-engineering-guide.md) — 2023-05-01
 - [高效构建 Midjourney 视觉语言：提示词生成工具实操指南](./创意工具/midjourney-prompt-generator-guide-2.md) — 2023-05-01
+- [MultiTranslate：一站式多引擎翻译聚合方案，通过同步调用主流翻译接口实现结果对比与质量优化](./创意工具/multitranslate-multi-engine-translation-aggregator.md) — 2023-05-01
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
