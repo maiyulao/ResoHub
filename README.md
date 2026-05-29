@@ -653,6 +653,7 @@
 - [IELTS9ME：利用GPT-4实现雅思作文精准评分与深度批改的AI工具](./AI工具教程/ielts9me-gpt4-ielts-writing-scoring-correction-tool.md) — 2023-08-07
 
 ### Android应用
+- [UniClipboard：支持多平台的开源跨设备剪贴板同步方案（无需账号注册）](./Android应用/uniclipboard-open-source-cross-platform-clipboard-sync.md) — 2026-05-24
 - [CameraFTP 跨平台图传方案：实现相机至 Win/Android 端的开源 FTP 自动化传输](./Android应用/cameraftp-cross-platform-open-source-ftp-transfer.md) — 2026-04-23
 - [2026 TikTok跨境选品实操：搭建原生环境监控竞品的具体步骤](./android/tiktok-product-research-2026-competitor-monitoring-guide.md) — 2026-02-11
 - [独居安全增强方案：利用 Keep Alive 机制构建手机自动报警系统的操作步骤](./android/solo-living-security-keep-alive-auto-alarm-system.md) — 2026-01-17
