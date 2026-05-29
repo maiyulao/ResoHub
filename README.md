@@ -3553,6 +3553,7 @@
 - [AI Colors：通过关键词快速生成AI配色方案](./创意工具/ai-colors-keyword-color-palette-generator.md) — 2023-05-22
 - [计算机专业经典电子书获取指南：从资源筛选到一键下载的完整步骤](./创意工具/computer-science-ebooks-download-guide.md) — 2023-05-21
 - [TwitterDlrobot：通过 Telegram 机器人下载 Twitter 视频的操作指南与环境配置](./创意工具/twitterdlrobot-telegram-bot-guide.md) — 2023-05-21
+- [盐神阁：知乎盐选会员内容同步共享平台](./创意工具/yanshenge-zhihu-salt-member-sharing.md) — 2023-05-21
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
