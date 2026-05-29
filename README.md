@@ -3723,6 +3723,7 @@
 - [从零开始掌握 Midjourney：中文实操指南与核心步骤详解](./创意工具/midjourney-beginners-guide-chinese.md) — 2023-04-14
 - [yikekee 夸克网盘资源索引站：在线检索与快速获取指南](./创意工具/yikekee-quark-resource-index-guide.md) — 2023-04-14
 - [生如夏花：成人知识共享与社区化学习平台](./创意工具/adult-knowledge-sharing-community-learning.md) — 2023-04-14
+- [如何将设计模式应用到实际开发中？从 Ant Design 的源码实践中寻找答案](./创意工具/design-patterns-practice-ant-design-source-code.md) — 2023-04-14
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
