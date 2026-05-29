@@ -3623,6 +3623,7 @@
 - [九蛙工具箱：浏览器端实用小工具集（在线即用）](./创意工具/ninefrog-toolbox-browser-utilities.md) — 2023-05-10
 - [AI 生产力工具实战清单：核心能力概览与分场景应用指南](./创意工具/ai-productivity-tools-guide.md) — 2023-05-09
 - [云图：通过一键式在线操作降低 Midjourney 门槛，实现零设计基础的高质量 AI 绘图](./创意工具/yuntu-midjourney-ai-drawing-guide.md) — 2023-05-09
+- [zBook资源指南：高效获取海量免费电子书的实用路径与操作指南](./创意工具/zbook-free-ebooks-guide.md) — 2023-05-08
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
