@@ -3725,6 +3725,7 @@
 - [生如夏花：成人知识共享与社区化学习平台](./创意工具/adult-knowledge-sharing-community-learning.md) — 2023-04-14
 - [如何将设计模式应用到实际开发中？从 Ant Design 的源码实践中寻找答案](./创意工具/design-patterns-practice-ant-design-source-code.md) — 2023-04-14
 - [写不出高质量营销文案？试试用 AiTxt 智能助手高效生成](./创意工具/aitxt-ai-marketing-copywriting-generator.md) — 2023-04-13
+- [想快速做出高颜值的简历却不擅长排版？试试这款可视化编辑工具热速美斯](./创意工具/resume-visual-editor-resumes.md) — 2023-04-13
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
