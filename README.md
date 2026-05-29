@@ -3717,6 +3717,7 @@
 - [找资源总是在不同网盘间跳来跳去？试试这款聚合多平台资源的工具站](./创意工具/multi-platform-resource-aggregator-tool.md) — 2023-04-16
 - [高品质ASMR音频免费资源下载指南：中国好SY精选集](./创意工具/high-quality-free-asmr-audio-downloads-guide.md) — 2023-04-16
 - [高效访问指南：优质 ChatGPT 免费镜像站汇总与选择建议](./创意工具/best-free-chatgpt-mirror-sites-guide.md) — 2023-04-15
+- [高效提取推特视频资源：Twitter Media Downloader 功能详解与使用指南](./创意工具/twitter-media-downloader-guide.md) — 2023-04-15
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
