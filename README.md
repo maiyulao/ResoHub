@@ -1190,6 +1190,7 @@
 - [想在无需魔法的情况下直接使用 ChatGPT？试试通过 Next Web 实现国内直连的一键部署方案](./GitHub项目/chatgpt-next-web-direct-deployment.md) — 2023-04-01
 - [Learning Prompt 提示词工程免费教程：学习路径与实操指南](./GitHub项目/learning-prompt-engineering-tutorial.md) — 2023-04-01
 - [RoomGPT 实践指南：利用 AI 实现室内空间快速方案重构](./GitHub项目/roomgpt-guide-ai-interior-design-reconstruction.md) — 2023-04-01
+- [跨语言代码迁移：利用 AI 实现编程语言的高效转换与重构](./GitHub项目/ai-cross-language-code-migration-conversion-refactoring.md) — 2023-04-01
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
