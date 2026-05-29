@@ -792,6 +792,9 @@
 ### Category 9167
 - [使用 TablePro 管理多数据库：从安装配置到 AI 辅助 SQL 编写的实操指南](./Category 9167/tablepro-multi-database-management-guide.md) — 2026-05-16
 
+### Category 9177
+- [Privacy Filter：通过本地化脱敏确保 AI 交互安全，在数据传输前自动清理敏感文本](./Category 9177/privacy-filter-local-data-masking-for-ai-security.md) — 2026-05-28
+
 ### Category 9183
 - [使用88查查询企业工商信息与经营风险的操作指南](./Category 9183/88cha-enterprise-credit-risk-guide.md) — 2026-05-15
 
