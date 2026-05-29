@@ -3594,6 +3594,7 @@
 - [无需科学上网：也略 ChatGPT 镜像站访问指南与使用实操](./创意工具/chatgpt-mirror-site-guide.md) — 2023-05-16
 - [优酷会员接口调用指南：获取路径、适用环境及配置要点](./创意工具/youku-member-api-guide.md) — 2023-05-15
 - [JiDrop：实现局域网设备高效互传的免费工具，支持跨平台无缝传输与快速文件同步](./创意工具/jidrop-fast-lan-file-transfer.md) — 2023-05-15
+- [Booltool：集成多模态处理与内容创作的AI全能工具集](./创意工具/booltool-multimodal-ai-content-creation-toolkit.md) — 2023-05-15
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
