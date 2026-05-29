@@ -3688,6 +3688,7 @@
 - [PlayPhrase 使用指南：通过电影对白片段检索英语短语发音与语境](./创意工具/playphrase-guide-english-phrases-pronunciation-context.md) — 2023-04-22
 - [开放猫：AI 应用资源导航站（含分类索引与快速接入指南）](./创意工具/open-cat-ai-resource-navigation.md) — 2023-04-21
 - [设备损坏不敢乱拆？试试 iFixit 免费在线修理手册](./创意工具/ifixit-free-repair-manuals.md) — 2023-04-21
+- [GRAVITI Diffus：Stable Diffusion WebUI 云端部署方案与使用指南](./创意工具/graviti-diffus-stable-diffusion-webui-cloud-guide.md) — 2023-04-21
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
