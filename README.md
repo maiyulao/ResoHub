@@ -3701,6 +3701,7 @@
 - [在 Telegram 中集成 ChatGPT：实现 AI 聊天机器人快速部署与高效交互的完整指南](./创意工具/integrate-chatgpt-telegram-bot-guide.md) — 2023-04-19
 - [如何使用 Myshell AI 机器人进行外语口语练习：基于 AI 与 Web3 的操作指南](./创意工具/myshell-ai-foreign-language-speaking-guide.md) — 2023-04-19
 - [OpenAI API 余额不足导致调用失败？试试这个便捷的在线查询工具](./创意工具/openai-api-balance-checker-tool.md) — 2023-04-19
+- [Namso Gen 随机数据生成工具：高效构建信用卡号与用户模拟数据集](./创意工具/namso-gen-random-data-generator.md) — 2023-04-18
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
