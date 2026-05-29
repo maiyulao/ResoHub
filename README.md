@@ -3592,6 +3592,7 @@
 - [纯净版聚合电子书库：支持小说在线阅读且无广告干扰](./创意工具/clean-aggregated-ebook-library-no-ads.md) — 2023-05-17
 - [找不到正版 Office 或 Windows 激活码？试试 PKeyTool 密钥分享平台](./创意工具/pkeytool-office-windows-activation-keys.md) — 2023-05-16
 - [无需科学上网：也略 ChatGPT 镜像站访问指南与使用实操](./创意工具/chatgpt-mirror-site-guide.md) — 2023-05-16
+- [优酷会员接口调用指南：获取路径、适用环境及配置要点](./创意工具/youku-member-api-guide.md) — 2023-05-15
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
