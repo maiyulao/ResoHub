@@ -3599,6 +3599,7 @@
 - [随机女性人像素材库：获取渠道、适用场景及版权注意事项](./创意工具/random-female-portrait-resources.md) — 2023-05-14
 - [面对海量 AI 工具难以筛选和管理？试试这个一站式聚合导航页](./创意工具/ai-tools-aggregation-navigation-page.md) — 2023-05-13
 - [麦当劳推出营养计算器：精准掌控热量摄入，实时量化产品卡路里成分](./创意工具/mcdonalds-nutrition-calculator.md) — 2023-05-13
+- [零基础快速上手日语：详解 IRODORI 实用生活化课程的资源价值与学习路径](./创意工具/learn-japanese-irodori-guide.md) — 2023-05-13
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
