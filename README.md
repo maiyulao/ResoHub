@@ -823,6 +823,7 @@
 - [使用 Just Mark-AI 实现网页一键收藏与 AI 智能分类检索的操作指南](./Chrome/just-mark-ai-web-bookmarking-guide.md) — 2024-02-28
 - [突破网页右键禁用限制：Allow Right Click 插件功能详解与安装指南](./Chrome/allow-right-click-plugin-guide.md) — 2024-02-25
 - [想把碎片化的网页文章整理成电子书？试试用 EpubKit 实现快速转换](./Chrome/epubkit-web-to-ebook-converter.md) — 2024-02-21
+- [突破160余家外媒付费墙：Bypass Paywalls 开源阅读扩展功能详解与安装指南](./Chrome/bypass-paywalls-guide-installation.md) — 2023-05-03
 
 ### GitHub项目
 - [Lofi Radio Web：集成专注计时功能的开源网页播放器](./GitHub项目/lofi-radio-web-open-source-player.md) — 2026-05-01
