@@ -6294,6 +6294,7 @@
 - [如何得体地处理员工离职谈话？这套辞退实操指南与PPT模板帮你规避风险](./实战指南/employee-termination-interview-guide-and-template.md) — 2023-05-03
 - [小猪佩奇 1-9季全集：中英双语版资源汇总](./实战指南/peppa-pig-seasons-1-9-bilingual-resource.md) — 2023-05-03
 - [如何下载天涯论坛200余篇经典神贴PDF合集：操作步骤详解](./实战指南/download-tianya-forum-classic-posts-pdf.md) — 2023-05-02
+- [7.5TB超高清4K电影资源库：获取与同步更新步骤指南](./实战指南/7-5tb-4k-movie-library-guide.md) — 2023-04-30
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
