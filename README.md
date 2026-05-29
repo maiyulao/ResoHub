@@ -3751,6 +3751,7 @@
 - [Go语言入门指南：从环境搭建到核心语法实战教程](./创意工具/go-language-beginner-guide-setup-and-syntax.md) — 2023-04-09
 - [高效检索BT资源的磁力搜索引擎：功能指南与使用技巧](./创意工具/best-magnet-search-engines-guide.md) — 2023-04-08
 - [HiPDF：高效免费的在线 PDF 转换与编辑全能工具集](./创意工具/hipdf-free-online-pdf-converter-editor.md) — 2023-04-08
+- [ChatGPT 快速上手指南：90 分钟从入门到精通的实操路径](./创意工具/chatgpt-quick-start-guide.md) — 2023-04-08
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
