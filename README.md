@@ -6358,6 +6358,7 @@
 - [厌倦了臃肿的广告和预装软件？试试这些精简的定制版纯净应用](./实战指南/lightweight-bloatware-free-apps.md) — 2023-04-19
 - [如何挑选并配置抖音热卖的车载音乐U盘：从曲库筛选到车辆导入的完整步骤](./实战指南/how-to-choose-and-configure-car-music-usb-drive.md) — 2023-04-18
 - [JSMR 资源指南：日系 ASMR 视频学习与采集平台分析](./实战指南/jsmr-japanese-asmr-resource-guide.md) — 2023-04-18
+- [证券研究报告全解析：宏观趋势、行业洞察与公司分析](./实战指南/securities-research-report-analysis.md) — 2023-04-16
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
