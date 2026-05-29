@@ -1174,6 +1174,7 @@
 - [Ask2End：通过苏格拉底式引导深度挖掘 AI 潜能的递进式提问工具](./GitHub项目/ask2end-socratic-prompting-tool.md) — 2023-05-09
 - [利用开源 AI 移除图像与视频背景的实操指南](./GitHub项目/open-source-ai-remove-image-video-background-guide.md) — 2023-05-08
 - [Chatbot UI：无需翻墙即可部署的开源 AI 界面，支持 GPT-4 及多模型快速集成](./GitHub项目/chatbot-ui-open-source-ai-interface-gpt4.md) — 2023-05-06
+- [无需科学上网：免费使用 ChatGPT 共享账号的操作指南](./GitHub项目/free-chatgpt-shared-account-guide.md) — 2023-05-04
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
