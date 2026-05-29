@@ -3571,6 +3571,7 @@
 - [高效信息检索机器人配置指南：从数据库筛选到实际应用步骤](./创意工具/efficient-information-retrieval-bot-configuration-guide.md) — 2023-05-18
 - [MovieMania 高清无字影视壁纸库：从资源检索到免费下载的完整步骤](./创意工具/moviemania-hd-movie-wallpapers-download-guide.md) — 2023-05-17
 - [纯净版聚合电子书库：支持小说在线阅读且无广告干扰](./创意工具/clean-aggregated-ebook-library-no-ads.md) — 2023-05-17
+- [找不到正版 Office 或 Windows 激活码？试试 PKeyTool 密钥分享平台](./创意工具/pkeytool-office-windows-activation-keys.md) — 2023-05-16
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
