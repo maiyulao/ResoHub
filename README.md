@@ -796,6 +796,7 @@
 - [Privacy Filter：通过本地化脱敏确保 AI 交互安全，在数据传输前自动清理敏感文本](./Category 9177/privacy-filter-local-data-masking-for-ai-security.md) — 2026-05-28
 
 ### Category 9183
+- [出境 eSIM 选购指南：从设备兼容性到流量套餐与验证码限制全解析](./Category 9183/travel-esim-buying-guide.md) — 2026-05-27
 - [使用88查查询企业工商信息与经营风险的操作指南](./Category 9183/88cha-enterprise-credit-risk-guide.md) — 2026-05-15
 
 ### Chrome
