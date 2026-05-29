@@ -3556,6 +3556,7 @@
 - [盐神阁：知乎盐选会员内容同步共享平台](./创意工具/yanshenge-zhihu-salt-member-sharing.md) — 2023-05-21
 - [光点红：高效创作AI文案的免费在线工具](./创意工具/guangdianhong-free-ai-copywriting-tool.md) — 2023-05-21
 - [智能电视功能进阶指南：从系统精简到第三方应用安装的实操方案](./创意工具/smart-tv-advanced-guide-optimization-and-apps.md) — 2023-05-21
+- [美区Apple ID共享账号：含常用已购软件，适用iOS设备登录指南及风险注意](./创意工具/us-apple-id-shared-account-guide.md) — 2023-05-21
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
