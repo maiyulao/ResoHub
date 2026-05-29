@@ -1167,6 +1167,7 @@
 - [Docker快速部署DM Ticket大麦网自动购票工具的操作指南](./GitHub项目/docker-deploy-dm-ticket-guide.md) — 2023-06-01
 - [基于 GPTLink 的商用 ChatGPT 站点部署指南：环境配置与快速搭建流程](./GitHub项目/gptlink-chatgpt-deployment-guide.md) — 2023-05-30
 - [想批量保存抖音视频却被水印困扰？试试这款免费开源的去水印下载工具](./GitHub项目/douyin-video-downloader-no-watermark-open-source.md) — 2023-05-11
+- [周报通：基于AI的在线周报生成工具（含使用指南与适用场景）](./GitHub项目/zhoubaotong-ai-weekly-report-generator.md) — 2023-05-09
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
