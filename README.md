@@ -3669,6 +3669,7 @@
 - [TextGPT安装指南：在iMessage中集成ChatGPT对话与AI绘图功能](./创意工具/textgpt-installation-guide-imessage-chatgpt-ai-drawing.md) — 2023-04-27
 - [QuantumultX 基础配置指南：分流规则、会员解锁与广告过滤部署方案](./创意工具/quantumultx-basic-configuration-guide.md) — 2023-04-27
 - [使用 SwinIR 修复老照片并实现无损放大的操作指南](./创意工具/swinir-old-photo-restoration-upscaling-guide.md) — 2023-04-27
+- [如何利用 GptDemo 快速检索并部署高效 AI 工具：操作指南](./创意工具/gptdemo-ai-tools-deployment-guide.md) — 2023-04-26
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
