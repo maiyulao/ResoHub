@@ -3714,6 +3714,7 @@
 - [CTF 选手实战指南：如何高效使用 CTFever 在线安全工具箱](./创意工具/ctf-guide-ctfever-toolbox.md) — 2023-04-17
 - [如何使用舅舅磁力高效搜索无广告磁力资源：完整操作指南](./创意工具/jiu-jiu-magnet-search-guide.md) — 2023-04-17
 - [想快速去掉图片背景却不想注册账号？试试这款免费高清的 AI 抠图工具 PixianAI](./创意工具/pixianai-free-ai-background-remover.md) — 2023-04-17
+- [找资源总是在不同网盘间跳来跳去？试试这款聚合多平台资源的工具站](./创意工具/multi-platform-resource-aggregator-tool.md) — 2023-04-16
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
