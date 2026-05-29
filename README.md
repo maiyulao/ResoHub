@@ -3639,6 +3639,7 @@
 - [如何使用 MFSC123 快速检索免版权商用素材：操作指南](./创意工具/mfsc123-copyright-free-assets-guide.md) — 2023-05-05
 - [周杰伦无损FLAC全集：在线试听与下载操作指南](./创意工具/jay-chou-flac-lossless-download-guide.md) — 2023-05-05
 - [如何配置并使用全民解析免费影视VIP视频接口：操作全流程](./创意工具/quanmin-jiexi-free-vip-api-guide.md) — 2023-05-05
+- [构建AI行业知识库：从资源采集到体系化搭建的实操指南](./创意工具/building-ai-industry-knowledge-base-guide.md) — 2023-05-04
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
