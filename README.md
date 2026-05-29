@@ -6514,6 +6514,7 @@
 - [Alita AI 安装指南：通过 ChatGPT-4 将网页内容快速同步至 Notion](./效率工具/alita-ai-installation-guide-chatgpt4-to-notion.md) — 2023-05-01
 - [如何使用脚本将 OpenAI 界面菜单与内容汉化：操作指南](./效率工具/translate-openai-interface-with-scripts-guide.md) — 2023-04-29
 - [海角社区付费内容解析：油猴脚本安装与配置步骤](./效率工具/haijiao-paid-content-tampermonkey-guide.md) — 2023-04-20
+- [绕过阿里云盘2分钟视频限制：无需客户端实现文件直接下载的实操方案](./效率工具/bypass-aliyun-drive-video-download-limit.md) — 2023-04-10
 
 ### 教程
 - [美区 App Store 礼品卡购买渠道与账户充值实操指南（2023版）](./教程/us-app-store-gift-card-guide-2023.md) — 2023-05-18
