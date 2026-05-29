@@ -6399,6 +6399,7 @@
 - [JSMR 资源指南：日系 ASMR 视频学习与采集平台分析](./实战指南/jsmr-japanese-asmr-resource-guide.md) — 2023-04-18
 - [证券研究报告全解析：宏观趋势、行业洞察与公司分析](./实战指南/securities-research-report-analysis.md) — 2023-04-16
 - [469GB美食纪录片资源库：从分类整理到高效存储的获取步骤](./实战指南/469gb-food-documentary-collection-guide.md) — 2023-04-10
+- [中医中药专业文献库：下载渠道、适用场景及使用指南](./实战指南/tcm-literature-database-guide.md) — 2023-04-08
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
