@@ -3731,6 +3731,7 @@
 - [Flair AI 商业产品摄影指南：通过 AI 快速生成高质量商品场景图](./创意工具/flair-ai-commercial-product-photography-guide.md) — 2023-04-12
 - [算法学习路径指南：从代码随想录开始构建知识体系](./创意工具/algorithm-learning-path-codetop.md) — 2023-04-12
 - [PMAI-SQL生成器及AI实用工具集：获取路径与环境配置指南](./创意工具/pmai-sql-generator-ai-tools-guide.md) — 2023-04-11
+- [BT1207 深度评测：高效获取磁力链接的极简搜索工具](./创意工具/bt1207-review-magnet-search-tool.md) — 2023-04-11
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
