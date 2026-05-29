@@ -6596,6 +6596,7 @@
 - [中国移动宽带升级至1000M免费提速操作指南](./羊毛/china-mobile-broadband-1000m-free-upgrade-guide.md) — 2023-05-15
 - [工行信用卡微信支付10元立减金领取指南](./羊毛/icbc-credit-card-wechat-pay-discount.md) — 2023-04-08
 - [低调用率 P站共享学习账号资源汇总](./羊毛/low-usage-pixiv-shared-accounts-list.md) — 2023-04-03
+- [百度网盘 7 天会员限时领取指南](./羊毛/baidu-netdisk-7-days-vip-guide.md) — 2023-04-02
 
 ### 音乐
 - [周杰伦《圣诞星》2023新曲：FLAC无损音质下载指南](./音乐/jay-chou-christmas-star-2023-flac-download.md) — 2023-12-21
