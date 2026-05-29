@@ -3742,6 +3742,7 @@
 - [Telegram 账户安全加固方案：通过三项关键设置杜绝盗号风险，基于真实被盗案例的防御实践](./创意工具/telegram-account-security-guide.md) — 2023-04-10
 - [Telegram 学习频道配置指南：从账号注册到加入 19 岁学习群组的完整步骤](./创意工具/telegram-learning-channel-setup-guide.md) — 2023-04-10
 - [使用 Anime AI 将照片转换为动漫风格的具体步骤](./创意工具/photo-to-anime-ai-steps.md) — 2023-04-09
+- [多墨智能：通过AI实现文档、流程图与思维导图的自动化生成，提升知识结构化产出效率](./创意工具/domo-ai-automated-document-flowchart-mindmap-generation.md) — 2023-04-09
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
