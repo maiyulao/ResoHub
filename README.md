@@ -797,6 +797,9 @@
 ### Category 9167
 - [使用 TablePro 管理多数据库：从安装配置到 AI 辅助 SQL 编写的实操指南](./Category 9167/tablepro-multi-database-management-guide.md) — 2026-05-16
 
+### Category 9168
+- [Image Provenance：通过浏览器端校验签名与 EXIF 的 AI 图片溯源方案](./Category 9168/image-provenance-browser-signature-exif-verification.md) — 2026-05-20
+
 ### Category 9177
 - [Privacy Filter：通过本地化脱敏确保 AI 交互安全，在数据传输前自动清理敏感文本](./Category 9177/privacy-filter-local-data-masking-for-ai-security.md) — 2026-05-28
 
