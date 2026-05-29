@@ -3644,6 +3644,7 @@
 - [Stable Diffusion 核心模型选型指南：从基础底模到风格化微调模型的实操建议](./创意工具/stable-diffusion-model-selection-guide.md) — 2023-05-04
 - [BetterPrompt：支持百余种语言的 Midjourney 提示词优化工具](./创意工具/betterprompt-midjourney-prompt-optimizer.md) — 2023-05-04
 - [T耳系列ASMR音频使用指南：分步实现深度身心放松](./创意工具/t-ear-asmr-audio-guide-deep-relaxation.md) — 2023-05-03
+- [Z-library 域名被 FBI 扣押导致无法访问？试试这个最新的可用地址 singlelogin.me](./创意工具/z-library-latest-working-address-singlelogin-me.md) — 2023-05-03
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
