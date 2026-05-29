@@ -1184,6 +1184,7 @@
 - [Docker 实战指南：从核心概念到容器化部署](./GitHub项目/docker-practical-guide-concepts-to-deployment.md) — 2023-04-23
 - [使用 ChatPaper 快速总结学术论文的完整操作指南](./GitHub项目/chatpaper-academic-paper-summary-guide.md) — 2023-04-18
 - [配置 Cursor AI 集成 OpenAI 接口的详细操作步骤](./GitHub项目/configure-cursor-ai-openai-api.md) — 2023-04-10
+- [掌握 AI 提示词工程：Learn Prompting 全开源免费课程指南](./GitHub项目/master-ai-prompt-engineering-learn-prompting-guide.md) — 2023-04-09
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
