@@ -3690,6 +3690,7 @@
 - [设备损坏不敢乱拆？试试 iFixit 免费在线修理手册](./创意工具/ifixit-free-repair-manuals.md) — 2023-04-21
 - [GRAVITI Diffus：Stable Diffusion WebUI 云端部署方案与使用指南](./创意工具/graviti-diffus-stable-diffusion-webui-cloud-guide.md) — 2023-04-21
 - [高效 Prompt 共享库：通过场景化指令集提升 AI 输出质量，涵盖多领域实战模版与优化技巧](./创意工具/efficient-prompt-library-ai-output-optimization.md) — 2023-04-21
+- [应对早起困难的实操方案与逻辑拆解](./创意工具/how-to-wake-up-early-guide.md) — 2023-04-21
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
