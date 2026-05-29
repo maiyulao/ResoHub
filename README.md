@@ -6177,6 +6177,7 @@
 - [5.1声道无损音频资源获取指南：适用设备与播放配置要点](./实战指南/5-1-lossless-audio-guide-setup.md) — 2023-05-23
 - [FRDS 压制版 IMDb Top 250 影视资源下载：适用环境与版本特性说明](./实战指南/frds-imdb-top-250-resources-guide.md) — 2023-05-22
 - [电视盒子刷机指南：从固件选择到安装的完整操作步骤](./实战指南/tv-box-flashing-guide.md) — 2023-05-21
+- [2023年粉笔公共基础知识全科课程资料集锦](./实战指南/fenbi-public-basic-knowledge-courses-2023.md) — 2023-05-21
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
