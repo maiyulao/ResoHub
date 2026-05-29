@@ -3551,6 +3551,7 @@
 - [通过 API 接口查询 QQ 号码 IP 归属地的操作步骤](./创意工具/query-qq-number-ip-location-api.md) — 2023-05-23
 - [跨平台安装 Stable Diffusion：Mac 与 Windows 环境部署全流程指南](./创意工具/install-stable-diffusion-mac-windows-guide.md) — 2023-05-23
 - [AI Colors：通过关键词快速生成AI配色方案](./创意工具/ai-colors-keyword-color-palette-generator.md) — 2023-05-22
+- [计算机专业经典电子书获取指南：从资源筛选到一键下载的完整步骤](./创意工具/computer-science-ebooks-download-guide.md) — 2023-05-21
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
