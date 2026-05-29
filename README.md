@@ -1210,6 +1210,7 @@
 - [iOS 限时免费：Picroll 滚动截屏拼接工具下载指南](./iOS应用/ios-picroll-free-download-guide.md) — 2023-05-26
 - [ChatAI Lite：基于 GPT 架构的轻量化免费 AI 问答工具](./iOS应用/chatai-lite-free-gpt-ai-tool.md) — 2023-05-22
 - [AALocker iOS 版限时免费：实现任意 App 深度隐藏与隐私锁定](./iOS应用/aalocker-ios-free-app-hide-lock.md) — 2023-05-06
+- [MacGPT 安装指南：支持多种 API 调用模式的 macOS 客户端配置与使用](./iOS应用/macgpt-installation-guide-macos-client-setup.md) — 2023-05-02
 
 ### iOS捷径指令
 - [如何使用 R⤓Download 实现 TikTok、Instagram 及 Snapchat 视频无水印下载](./iOS捷径指令/download-tiktok-instagram-snapchat-videos-without-watermark-r-download.md) — 2025-03-10
