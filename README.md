@@ -3665,6 +3665,7 @@
 - [主流国产AI绘画网页端评测：核心功能对比与工具选型指南](./创意工具/chinese-ai-painting-web-review-comparison-guide.md) — 2023-04-28
 - [全国省市高速路网实时监控：假期交通路况查询指南](./创意工具/china-highway-traffic-realtime-monitoring-guide.md) — 2023-04-28
 - [ChatKit 深度集成 OpenAI API 打造全能网页端，实现文章、视频及文档的快速摘要与分析](./创意工具/chatkit-openai-api-integration-web-summary-analysis.md) — 2023-04-28
+- [如何使用张大妈计算器核算五险一金与税后到手工资：操作指南](./创意工具/smzdm-salary-calculator-guide.md) — 2023-04-28
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
