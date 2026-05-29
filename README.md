@@ -6203,6 +6203,7 @@
 - [1996版《金瓶梅》国语AI修复版：50GB超高码率重现经典画质，深度优化视觉细节与音频清晰度](./实战指南/jin-ping-mei-1996-ai-remastered-50gb.md) — 2023-05-19
 - [2021版AI全攻略：从基础理论到实战应用的人工智能学习路径图](./实战指南/ai-learning-roadmap-2021.md) — 2023-05-17
 - [罗翔2020刑法课程全集下载与安装操作指南](./实战指南/luoxiang-criminal-law-course-2020-download-guide.md) — 2023-05-17
+- [75.9GB 漫画全集下载与离线整理步骤指南](./实战指南/manga-full-collection-download-guide.md) — 2023-05-15
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
