@@ -1171,6 +1171,7 @@
 - [周报通：基于AI的在线周报生成工具（含使用指南与适用场景）](./GitHub项目/zhoubaotong-ai-weekly-report-generator.md) — 2023-05-09
 - [SQL Chat：通过自然语言交互重塑数据库管理，实现从对话到查询的无缝转换](./GitHub项目/sql-chat-natural-language-database-management.md) — 2023-05-09
 - [Ask2End：通过苏格拉底式引导深度挖掘 AI 潜能的递进式提问工具](./GitHub项目/ask2end-socratic-prompting-tool.md) — 2023-05-09
+- [利用开源 AI 移除图像与视频背景的实操指南](./GitHub项目/open-source-ai-remove-image-video-background-guide.md) — 2023-05-08
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
