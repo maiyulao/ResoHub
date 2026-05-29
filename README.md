@@ -3655,6 +3655,7 @@
 - [高效构建 Midjourney 视觉语言：提示词生成工具实操指南](./创意工具/midjourney-prompt-generator-guide-2.md) — 2023-05-01
 - [MultiTranslate：一站式多引擎翻译聚合方案，通过同步调用主流翻译接口实现结果对比与质量优化](./创意工具/multitranslate-multi-engine-translation-aggregator.md) — 2023-05-01
 - [如何使用AI绘画关键词生成器高效构建 Midjourney Prompt](./创意工具/midjourney-prompt-generator-guide.md) — 2023-05-01
+- [面对大量繁琐的文本数据不知如何可视化？试试用 ChartGPT 将文字直接转换为图表](./创意工具/chartgpt-text-to-chart-visualization.md) — 2023-05-01
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
