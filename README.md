@@ -3721,6 +3721,7 @@
 - [Arthub AI 绘画模型库：提示词（Prompt）获取指南与适用场景说明](./创意工具/arthub-ai-prompt-guide-and-use-cases.md) — 2023-04-15
 - [如何使用淘声网搜索并下载全球音效素材：操作指南](./创意工具/how-to-search-and-download-sound-effects-on-taosheng.md) — 2023-04-15
 - [从零开始掌握 Midjourney：中文实操指南与核心步骤详解](./创意工具/midjourney-beginners-guide-chinese.md) — 2023-04-14
+- [yikekee 夸克网盘资源索引站：在线检索与快速获取指南](./创意工具/yikekee-quark-resource-index-guide.md) — 2023-04-14
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
