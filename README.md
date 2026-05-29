@@ -3697,6 +3697,7 @@
 - [北京国际电影节第十三届指南：春季观影最佳选择与影片解析](./创意工具/beijing-international-film-festival-13th-guide.md) — 2023-04-20
 - [Stable Diffusion 实操指南：从基础环境搭建到高阶提示词技巧的全流程进阶方案](./创意工具/stable-diffusion-complete-guide-setup-to-prompt-tips.md) — 2023-04-20
 - [沉浸式日语习得指南：利用动漫资源构建高效学习路径](./创意工具/immersive-japanese-learning-with-anime.md) — 2023-04-20
+- [BGM猫：基于AI的智能背景音乐创作工具](./创意工具/bgm-cat-ai-background-music-generator.md) — 2023-04-19
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
