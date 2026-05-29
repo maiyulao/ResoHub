@@ -6572,6 +6572,7 @@
 - [获取 Avira Prime 3个月免费试用及内置海外上网工具的操作步骤](./羊毛/avira-prime-3-month-free-trial-vpn-guide.md) — 2023-06-15
 - [淘宝领取联通电信话费券：0元无门槛充值操作指南与适用条件](./羊毛/taobao-unicom-telecom-phone-credit-voucher-guide.md) — 2023-05-17
 - [中国移动宽带升级至1000M免费提速操作指南](./羊毛/china-mobile-broadband-1000m-free-upgrade-guide.md) — 2023-05-15
+- [工行信用卡微信支付10元立减金领取指南](./羊毛/icbc-credit-card-wechat-pay-discount.md) — 2023-04-08
 
 ### 音乐
 - [周杰伦《圣诞星》2023新曲：FLAC无损音质下载指南](./音乐/jay-chou-christmas-star-2023-flac-download.md) — 2023-12-21
