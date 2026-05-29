@@ -782,6 +782,7 @@
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
 - [中国法律法规实用检索指南：核心条款速查与分级法律索引](./Apple/china-law-search-guide.md) — 2023-11-21
+- [美区 Apple ID 注册全流程：从环境准备到激活成功的操作指南](./Apple/register-us-apple-id-guide.md) — 2023-05-19
 
 ### Category 9166
 - [如何使用 Data-Analysis-Agent 通过自然语言查询数据库：开源配置与操作指南](./Category 9166/data-analysis-agent-natural-language-database-query-guide.md) — 2026-05-12
