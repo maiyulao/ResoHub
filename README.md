@@ -3661,6 +3661,7 @@
 - [想画出高质量AI图却不知如何写提示词？试试这款MidJourney词库生成工具](./创意工具/midjourney-prompt-generator-tool.md) — 2023-04-30
 - [想在海外或手机上随时观看台湾电视节目？四季线上4gTV直播访问指南](./创意工具/sijiseason-4gtv-taiwan-live-guide.md) — 2023-04-30
 - [97文案：电商AI智能内容创作工具实测与应用指南](./创意工具/97wenan-ecommerce-ai-content-tool-guide.md) — 2023-04-29
+- [高效下载开源软件：快点软件镜像站资源索引](./创意工具/kuaidian-software-mirror-index.md) — 2023-04-29
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
