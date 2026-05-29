@@ -3657,6 +3657,7 @@
 - [如何使用AI绘画关键词生成器高效构建 Midjourney Prompt](./创意工具/midjourney-prompt-generator-guide.md) — 2023-05-01
 - [面对大量繁琐的文本数据不知如何可视化？试试用 ChartGPT 将文字直接转换为图表](./创意工具/chartgpt-text-to-chart-visualization.md) — 2023-05-01
 - [MergeMusic：支持多平台音乐聚合播放与下载的在线工具使用指南](./创意工具/mergemusic-music-aggregation-guide.md) — 2023-05-01
+- [想画出高质量AI图却不知如何写提示词？试试这款MidJourney词库生成工具](./创意工具/midjourney-prompt-generator-tool.md) — 2023-04-30
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
