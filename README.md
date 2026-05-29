@@ -789,6 +789,7 @@
 - [灵动AiChat：无需翻墙与登录的国内免费ChatGPT体验方案](./Android应用/lingdong-aichat-free-chatgpt-china.md) — 2023-05-12
 - [大师兄影视APP双平台安装指南：iOS与Android伪装版下载及配置注意点](./Android应用/dashixiong-app-install-guide-ios-android.md) — 2023-05-12
 - [叮小跳：高效自动化跳过 APP 开屏广告的实用方案](./Android应用/dingxiaotiao-app-ad-skip-automation.md) — 2023-05-08
+- [HoleFlix 安装指南：支持多平台的无广告轻量化追剧工具及配置要点](./Android应用/holeflix-installation-guide.md) — 2023-05-04
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
