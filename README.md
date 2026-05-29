@@ -6314,6 +6314,9 @@
 - [高效解锁视频学习平台VIP权限的脚本实现方案](./效率工具/video-learning-platform-vip-script-solution.md) — 2023-05-27
 - [Twemex 浏览器插件安装指南：实现 Twitter 侧边栏快速搜索与热门内容筛选](./效率工具/twemex-browser-extension-installation-guide.md) — 2023-05-25
 
+### 教程
+- [美区 App Store 礼品卡购买渠道与账户充值实操指南（2023版）](./教程/us-app-store-gift-card-guide-2023.md) — 2023-05-18
+
 ### 教育考试
 - [托福听力高效提分指南：核心学习路径与实操资源汇总](./教育考试/toefl-listening-study-guide-resources.md) — 2025-09-02
 
