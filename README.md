@@ -6383,6 +6383,7 @@
 - [KeepChatGPT：通过浏览器插件有效解决 ChatGPT 访问报错与连接中断问题](./效率工具/keepchatgpt-fix-connection-errors-browser-extension.md) — 2023-05-28
 - [高效解锁视频学习平台VIP权限的脚本实现方案](./效率工具/video-learning-platform-vip-script-solution.md) — 2023-05-27
 - [Twemex 浏览器插件安装指南：实现 Twitter 侧边栏快速搜索与热门内容筛选](./效率工具/twemex-browser-extension-installation-guide.md) — 2023-05-25
+- [WebChatGPT开源扩展安装指南：实现ChatGPT实时联网搜索与数据更新](./效率工具/webchatgpt-installation-guide-realtime-search.md) — 2023-05-07
 
 ### 教程
 - [美区 App Store 礼品卡购买渠道与账户充值实操指南（2023版）](./教程/us-app-store-gift-card-guide-2023.md) — 2023-05-18
