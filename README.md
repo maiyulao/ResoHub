@@ -3567,6 +3567,7 @@
 - [Kindle漫画下载指南：通过漫自由获取高清mobi与epub格式资源](./创意工具/kindle-manga-download-manziyou-mobi-epub.md) — 2023-05-18
 - [使用 Where to 定制 AI 旅游行程的详细操作指南](./创意工具/where-to-ai-travel-itinerary-guide.md) — 2023-05-18
 - [MyGPT 绕过订阅限制：零成本开启 ChatGPT 插件功能及具体实现方案](./创意工具/mygpt-bypass-subscription-chatgpt-plugins-guide.md) — 2023-05-18
+- [高效信息检索机器人配置指南：从数据库筛选到实际应用步骤](./创意工具/efficient-information-retrieval-bot-configuration-guide.md) — 2023-05-18
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
