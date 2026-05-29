@@ -3604,6 +3604,7 @@
 - [ROASTED：通过尖酸刻薄的对话风格实现情感化交互的AI机器人](./创意工具/roasted-emotional-ai-chatbot-sarcastic-interaction.md) — 2023-05-12
 - [单身面对 520 感到焦虑？这份脱单实操指南帮你高效脱单](./创意工具/520-dating-guide-for-singles.md) — 2023-05-12
 - [艾瑞网行业报告免费下载指南：涵盖获取途径与适用场景](./创意工具/iresearchers-report-download-guide.md) — 2023-05-12
+- [高效构建专业技术简历：开发者客栈提供全流程在线制作方案，涵盖模板选择、能力量化与实时预览](./创意工具/build-professional-developer-resume-guide.md) — 2023-05-12
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
