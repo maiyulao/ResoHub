@@ -1179,6 +1179,7 @@
 - [Chat Chat：支持多模型接入的开源 AI 交互平台（兼容 OpenAI、Azure 及 Claude）](./GitHub项目/chat-chat-open-source-ai-platform.md) — 2023-05-03
 - [想学 Python 却不知从何下手？这 50 节基础课带你从零构建编程知识体系](./GitHub项目/learn-python-beginner-50-lessons-guide.md) — 2023-04-30
 - [如何高效提取微信客户端用户信息？详解 SharpWxDump 取证工具的操作实践](./GitHub项目/extract-wechat-user-info-sharpwxdump-guide.md) — 2023-04-26
+- [基于ChatGPT的法律检索问答工具：部署环境与配置指南](./GitHub项目/chatgpt-legal-search-deployment-guide.md) — 2023-04-23
 
 ### iOS应用
 - [邻云：支持文件共享、屏幕监控与终端访问的局域网远控方案](./iOS应用/linyun-lan-remote-control-solution.md) — 2026-05-08
