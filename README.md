@@ -6184,6 +6184,7 @@
 - [电视盒子刷机指南：从固件选择到安装的完整操作步骤](./实战指南/tv-box-flashing-guide.md) — 2023-05-21
 - [2023年粉笔公共基础知识全科课程资料集锦](./实战指南/fenbi-public-basic-knowledge-courses-2023.md) — 2023-05-21
 - [Stable Diffusion 安装部署指南：环境配置、模型下载与快速上手步骤](./实战指南/stable-diffusion-installation-guide.md) — 2023-05-21
+- [日语零基础到N1考级：新东方全阶段学习路径与操作指南](./实战指南/japanese-n1-learning-path-new-oriental.md) — 2023-05-19
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
