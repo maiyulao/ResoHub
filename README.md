@@ -3746,6 +3746,7 @@
 - [多墨智能：通过AI实现文档、流程图与思维导图的自动化生成，提升知识结构化产出效率](./创意工具/domo-ai-automated-document-flowchart-mindmap-generation.md) — 2023-04-09
 - [戒S吧 (NoF) 健康平台：资源获取指南与使用环境说明](./创意工具/nof-health-platform-resource-guide.md) — 2023-04-09
 - [高品质免费音效资源库：小森平音效下载指南](./创意工具/komorebi-free-sound-effects-guide.md) — 2023-04-09
+- [计算机编程专业术语查询与学习指南：从基础概念到进阶词条的检索步骤](./创意工具/computer-programming-terminology-learning-guide.md) — 2023-04-09
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
