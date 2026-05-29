@@ -6419,6 +6419,7 @@
 - [中医中药专业文献库：下载渠道、适用场景及使用指南](./实战指南/tcm-literature-database-guide.md) — 2023-04-08
 - [获取 ChatGPT 账号与 API Key 的实操指南：从账号登录到接口调用](./实战指南/get-chatgpt-account-and-api-key-guide.md) — 2023-04-07
 - [高精度纸模型图纸资源库：从基础结构到复杂场景的系统化汇总](./实战指南/high-precision-paper-model-library.md) — 2023-04-02
+- [1980-2020年考研英语真题PDF：含答案解析及适用版本说明](./实战指南/postgraduate-english-past-papers-1980-2020.md) — 2023-04-02
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
