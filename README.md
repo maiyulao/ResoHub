@@ -3706,6 +3706,7 @@
 - [Namso Gen 随机数据生成工具：高效构建信用卡号与用户模拟数据集](./创意工具/namso-gen-random-data-generator.md) — 2023-04-18
 - [ChatGPT 开放知识库：从资源共享到能力进阶的综合指南](./创意工具/chatgpt-open-knowledge-base-guide.md) — 2023-04-18
 - [高效检索日本教师课程：某V Plus Bot 机器人功能指南与使用流程](./创意工具/japan-teacher-course-v-plus-bot-guide.md) — 2023-04-18
+- [面对AI侵权却不知如何起诉？教你用ChatGPT快速搭建自动化起诉书生成工具](./创意工具/ai-copyright-lawsuit-automation-tool-with-chatgpt.md) — 2023-04-18
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
