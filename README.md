@@ -3641,6 +3641,7 @@
 - [如何配置并使用全民解析免费影视VIP视频接口：操作全流程](./创意工具/quanmin-jiexi-free-vip-api-guide.md) — 2023-05-05
 - [构建AI行业知识库：从资源采集到体系化搭建的实操指南](./创意工具/building-ai-industry-knowledge-base-guide.md) — 2023-05-04
 - [Stable Diffusion 核心模型选型指南：从基础底模到风格化微调模型的实操建议](./创意工具/stable-diffusion-model-selection-guide.md) — 2023-05-04
+- [BetterPrompt：支持百余种语言的 Midjourney 提示词优化工具](./创意工具/betterprompt-midjourney-prompt-optimizer.md) — 2023-05-04
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
