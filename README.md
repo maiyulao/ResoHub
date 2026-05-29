@@ -3645,6 +3645,7 @@
 - [BetterPrompt：支持百余种语言的 Midjourney 提示词优化工具](./创意工具/betterprompt-midjourney-prompt-optimizer.md) — 2023-05-04
 - [T耳系列ASMR音频使用指南：分步实现深度身心放松](./创意工具/t-ear-asmr-audio-guide-deep-relaxation.md) — 2023-05-03
 - [Z-library 域名被 FBI 扣押导致无法访问？试试这个最新的可用地址 singlelogin.me](./创意工具/z-library-latest-working-address-singlelogin-me.md) — 2023-05-03
+- [如何通过共享Apple ID获取400余款付费软件：详细内购操作步骤](./创意工具/get-paid-apps-via-shared-apple-id-guide.md) — 2023-05-03
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
