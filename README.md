@@ -3616,6 +3616,7 @@
 - [ChnNetflix：无需订阅的 Netflix 影剧资源在线观看指南](./创意工具/chnnetflix-free-netflix-guide.md) — 2023-05-10
 - [获取全球免费公开电视直播频道及EPG配置的实操指南](./创意工具/free-global-iptv-epg-guide.md) — 2023-05-10
 - [论文提交前担心重复率过高？这几款免费查重工具可以帮你自测](./创意工具/free-plagiarism-checker-for-thesis.md) — 2023-05-10
+- [2023-2024年英语四六级与考研全套学习资料下载及使用指南](./创意工具/cet-and-postgraduate-english-study-materials-2023-2024.md) — 2023-05-10
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
