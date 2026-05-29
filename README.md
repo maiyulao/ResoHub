@@ -6395,6 +6395,7 @@
 - [高效解锁视频学习平台VIP权限的脚本实现方案](./效率工具/video-learning-platform-vip-script-solution.md) — 2023-05-27
 - [Twemex 浏览器插件安装指南：实现 Twitter 侧边栏快速搜索与热门内容筛选](./效率工具/twemex-browser-extension-installation-guide.md) — 2023-05-25
 - [WebChatGPT开源扩展安装指南：实现ChatGPT实时联网搜索与数据更新](./效率工具/webchatgpt-installation-guide-realtime-search.md) — 2023-05-07
+- [使用 GPT-4 快速总结网页文章：ChatGPT 摘要助手操作指南](./效率工具/gpt-4-web-page-summarizer-guide.md) — 2023-05-05
 
 ### 教程
 - [美区 App Store 礼品卡购买渠道与账户充值实操指南（2023版）](./教程/us-app-store-gift-card-guide-2023.md) — 2023-05-18
