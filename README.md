@@ -3767,6 +3767,7 @@
 - [ChatGPT 账号封禁申诉流程与解封操作指南](./创意工具/chatgpt-account-ban-appeal-guide.md) — 2023-04-04
 - [Lovega 图像地理定位指南：通过照片坐标识破网恋骗局](./创意工具/lovega-image-geolocation-guide-stop-romance-scams.md) — 2023-04-03
 - [找不到权威行业报告？试试这个免费下载的资源库](./创意工具/free-industry-reports-resource-library.md) — 2023-04-03
+- [2024年考研全科资料获取与整理指南：从科目筛选到资源归档的四个步骤](./创意工具/2024-postgraduate-exam-study-materials-guide.md) — 2023-04-03
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
