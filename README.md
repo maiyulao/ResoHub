@@ -3765,6 +3765,7 @@
 - [面对海量AI工具不知如何选择？这份涵盖1240余款AIGC资源的导航指南为你提供答案](./创意工具/best-aigc-tools-navigation-guide.md) — 2023-04-06
 - [Midjourney 全流程指南：从基础指令到高级技巧的知识库实操手册](./创意工具/midjourney-complete-guide-from-basics-to-advanced-tips.md) — 2023-04-05
 - [ChatGPT 账号封禁申诉流程与解封操作指南](./创意工具/chatgpt-account-ban-appeal-guide.md) — 2023-04-04
+- [Lovega 图像地理定位指南：通过照片坐标识破网恋骗局](./创意工具/lovega-image-geolocation-guide-stop-romance-scams.md) — 2023-04-03
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
