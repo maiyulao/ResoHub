@@ -3699,6 +3699,7 @@
 - [沉浸式日语习得指南：利用动漫资源构建高效学习路径](./创意工具/immersive-japanese-learning-with-anime.md) — 2023-04-20
 - [BGM猫：基于AI的智能背景音乐创作工具](./创意工具/bgm-cat-ai-background-music-generator.md) — 2023-04-19
 - [在 Telegram 中集成 ChatGPT：实现 AI 聊天机器人快速部署与高效交互的完整指南](./创意工具/integrate-chatgpt-telegram-bot-guide.md) — 2023-04-19
+- [如何使用 Myshell AI 机器人进行外语口语练习：基于 AI 与 Web3 的操作指南](./创意工具/myshell-ai-foreign-language-speaking-guide.md) — 2023-04-19
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
