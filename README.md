@@ -786,6 +786,7 @@
 - [如何快速在 Telegram 中精准定位目标群组、频道与机器人？试试 TelSearch 搜索工具](./Android应用/telsearch-telegram-search-tool.md) — 2023-05-22
 - [GPT 中文增强版 v1.41：实现原生中文交互与不限次调用，通过内置翻译层消除语言障碍并解除使用限制](./Android应用/gpt-chinese-enhanced-v1-41-native-interaction-unlimited-calls.md) — 2023-05-17
 - [ShellGPT：集成联网搜索与AI绘图的开源ChatGPT客户端（内置密钥）](./Android应用/shellgpt-open-source-chatgpt-client.md) — 2023-05-12
+- [灵动AiChat：无需翻墙与登录的国内免费ChatGPT体验方案](./Android应用/lingdong-aichat-free-chatgpt-china.md) — 2023-05-12
 
 ### Apple
 - [Apple 全系列产品参数数据库：详细规格查询与对比指南](./Apple/apple-product-specifications-database-guide.md) — 2024-09-22
