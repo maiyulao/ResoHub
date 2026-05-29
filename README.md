@@ -3761,6 +3761,7 @@
 - [面对厚重的书籍不知从何读起？尝试用 BookAI 结合 ChatGPT 快速生成核心总结](./创意工具/bookai-chatgpt-book-summary.md) — 2023-04-06
 - [想快速修图又厌烦广告干扰？试试这款免费的在线照片编辑器](./创意工具/free-online-photo-editor-no-ads.md) — 2023-04-06
 - [AI 驱动的社交文案生成工具：一键产出创意星期四梗图与朋友圈高互动内容](./创意工具/ai-social-copywriting-tool-creative-memes-and-posts.md) — 2023-04-06
+- [面对海量AI工具不知如何选择？这份涵盖1240余款AIGC资源的导航指南为你提供答案](./创意工具/best-aigc-tools-navigation-guide.md) — 2023-04-06
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
