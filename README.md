@@ -3563,6 +3563,7 @@
 - [AI工具资源库构建与提示词优化指南](./创意工具/ai-tool-library-and-prompt-optimization-guide.md) — 2023-05-19
 - [3200余款AI工具全集：从分类索引到高效实操指南](./创意工具/3200-ai-tools-complete-guide.md) — 2023-05-19
 - [高效配置 ChatGPT 插件：从安装到实操的完整指南](./创意工具/chatgpt-plugins-setup-guide.md) — 2023-05-19
+- [优质电子书资源导航：从学术经典到前沿技术的高质量阅读站点指南](./创意工具/best-ebook-resources-guide.md) — 2023-05-18
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
