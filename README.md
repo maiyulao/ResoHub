@@ -3769,6 +3769,7 @@
 - [找不到权威行业报告？试试这个免费下载的资源库](./创意工具/free-industry-reports-resource-library.md) — 2023-04-03
 - [2024年考研全科资料获取与整理指南：从科目筛选到资源归档的四个步骤](./创意工具/2024-postgraduate-exam-study-materials-guide.md) — 2023-04-03
 - [ChilloutAI 生成的 AI 女性角色图集：获取路径与模型适用环境指南](./创意工具/chilloutai-ai-female-character-gallery-guide.md) — 2023-04-02
+- [想在 Telegram 上快速查询特定信息？试试这个名为“花机器人”的查询工具](./创意工具/telegram-flower-bot-search-tool.md) — 2023-04-02
 
 ### 大人学习课程
 - [步某非烟1-4季全集资源下载：适用环境与安装注意事项](./大人学习课程/bu-mou-fei-yan-seasons-1-4-download-guide.md) — 2025-08-22
