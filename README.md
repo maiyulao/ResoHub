@@ -6264,6 +6264,7 @@
 - [75.9GB 漫画全集下载与离线整理步骤指南](./实战指南/manga-full-collection-download-guide.md) — 2023-05-15
 - [iOS Flutter 高级进阶实战：从环境配置到性能优化的学习路径](./实战指南/ios-flutter-advanced-guide-performance-optimization.md) — 2023-05-12
 - [高中全科手写笔记模版：通过结构化知识梳理提升复习效率，涵盖各科目核心考点与逻辑框架](./实战指南/high-school-handwritten-notes-templates.md) — 2023-05-11
+- [学术答辩PPT高效视觉方案：通过结构化排版提升逻辑说服力，涵盖多专业通用设计模板](./实战指南/academic-defense-ppt-visual-design-templates.md) — 2023-05-07
 
 ### 实用工具
 - [无需安装的在线二维码识别工具：支持摄像头实时扫描与本地图片上传解析](./实用工具/online-qr-code-scanner-and-decoder.md) — 2025-08-12
